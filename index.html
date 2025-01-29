@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ПРАВИЛА СЕРВЕРА UKRAINE RP</title>
     <style>
-  body {
+          body {
     margin: 0;
     font-family: 'Arial', sans-serif;
     background: #3e6390;
@@ -14,41 +14,43 @@
     flex-direction: column;
     align-items: center;
     min-height: 100vh;
-    padding: 0; 
-  }
-
-  .footer {
-    width: 100%;
-    background: #000000;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0; 
-    margin-top: auto;
-    position: relative; 
-    bottom: 0;
-    left: 0;
-    box-sizing: border-box; 
-  } 
-
-  .top-bar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    padding: 15px 20px;
-    background: #000000;
-    color: #fff;
-    font-weight: bold;
-    font-size: 1.2em;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1000;
-    text-align: center; 
+    padding: 0;
+    justify-content: flex-start;
 }
 
+.content {
+    flex-grow: 1;  
+}
 
+    .footer {
+        width: 100%;
+        background: #000000;
+        color: #fff;
+        text-align: center;
+        padding: 10px 0;
+        box-sizing: border-box;
+        position: fixed; 
+        bottom: 0;
+        left: 0;
+    }
+
+    .top-bar {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        padding: 15px 20px;
+        background: #000000;
+        color: #fff;
+        font-weight: bold;
+        font-size: 1.2em;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 1000;
+        text-align: center;
+    }
 
         .social-links {
             position: absolute;
@@ -73,42 +75,38 @@
         }
 
         .header {
-    margin-top: 100px;
-    font-size: 2.5em; 
-    font-weight: bold;
-    color: #ffffff;
-    text-align: center;
-    text-transform: uppercase;
-}
+            margin-top: 100px;
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #ffffff;
+            text-align: center;
+            text-transform: uppercase;
+        }
+        
+        .menu-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); 
+        gap: 20px;
+        width: 100%;
+        max-width: 1100px;
+        justify-items: center;
+    }
 
 
-
-
-  .menu-container {
-    margin-top: 40px;
-    margin-bottom: 60px; 
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); 
-    gap: 20px;
-    width: 100%;
-    max-width: 1100px;
-    justify-items: center;
-   }
-
-   .menu-item {
-    padding: 20px;
-    background: #f2c94c;
-    border-radius: 15px;
-    font-size: 1.1em;
-    font-weight: bold;
-    color: #333;
-    cursor: pointer;
-    transition: transform 0.3s, box-shadow 0.3s;
-    text-align: center;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-    width: 100%;
-    max-width: 300px;
-}
+        .menu-item {
+            padding: 20px;
+            background: #f2c94c;
+            border-radius: 15px;
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #333;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            text-align: center;
+            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            max-width: 300px;
+        }
 
         .menu-item:hover {
             transform: scale(1.05);
@@ -122,11 +120,11 @@
             left: 50%;
             transform: translate(-50%, -50%);
             background: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.3);
             z-index: 1001;
-            width: 300px;
+            width: 500px;
             text-align: center;
             max-height: 80vh;
             overflow-y: auto;
@@ -164,105 +162,170 @@
             font-size: 1.1em;
         }
 
+        @media (max-width: 768px) {
+            .header {
+                font-size: 2em;
+                margin-top: 120px;
+            }
 
-@media (max-width: 768px) {
-  
-    .header {
-        font-size: 2em; 
-        margin-top: 120px;
-    }
+            .menu-container {
+                grid-template-columns: 1fr;
+                margin-top: 20px;
+                margin-bottom: 40px;
+            }
 
-    .menu-container {
-        grid-template-columns: 1fr; 
-        margin-top: 20px;
-        margin-bottom: 40px;
-    }
+            .menu-item {
+                font-size: 1em;
+                padding: 15px;
+                max-width: 250px;
+                
+            }
 
-    .menu-item {
-        font-size: 1em; 
-        padding: 15px; 
-        max-width: 250px; 
-    }
+            .top-bar {
+                flex-direction: column;
+                font-size: 1em;
+                padding: 10px 15px;
+            }
 
-    .top-bar {
-        flex-direction: column; 
-        font-size: 1em; 
-        padding: 10px 15px; 
-    }
+            .social-links {
+                position: relative;
+                left: 0;
+                display: flex;
+                gap: 8px;
+                margin-top: 10px;
+            }
 
-    .social-links {
-        position: relative; 
-        left: 0;
-        display: flex;
-        gap: 8px;
-        margin-top: 10px; 
-    }
+            .social-links a {
+                font-size: 0.9em;
+                padding: 6px 10px;
+            }
 
-    .social-links a {
-        font-size: 0.9em; 
-        padding: 6px 10px; 
-    }
-    .modal {
-        width: 80%; 
-   }
-}
-
+            .modal {
+                width: 80%;
+            }
+        }
 
     </style>
 </head>
 <body>
     <div class="top-bar">
-        UKRAINE RP — ТВІЙ ЄДИНИЙ СЕРВЕР 
+        UKRAINE RP — ТВІЙ ЄДИНИЙ СЕРВЕР
         <div class="social-links">
             <a href="https://x.com/UkraineRP_EH" target="_blank">Twitter</a>
             <a href="https://t.me/+3ewU90r6PC5lYTdk" target="_blank">Telegram</a>
             <a href="https://www.roblox.com/games/start?placeId=7711635737&launchData=joinCode%3D0uadtv1u" target="_blank">ГРАТИ</a>
         </div>
     </div>
-    
-    <div class="header">ПРАВИЛА СЕРВЕРА</div>
-    
+
+    <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V5.0</small></div><br>
+
     <div class="menu-container">
-        <div class="menu-item" onclick="openModal('ТЕКСТ', 'ПОКАРАННЯ')">
-            <div class="item-number">Пункт 1</div>
-            НАЗВА ПУНКТУ
-        </div>
-        <div class="menu-item" onclick="openModal('ТЕКСТ', 'ПОКАРАННЯ')">
-            <div class="item-number">Пункт 2</div>
-            НАЗВА ПУНКТУ
-                </div>
-        <div class="menu-item" onclick="openModal('ТЕКСТ', 'ПОКАРАННЯ')">
-            <div class="item-number">Пункт 3</div>
-            НАЗВА ПУНКТУ
-        </div>
-        <div class="menu-item" onclick="openModal('ТЕКСТ', 'ПОКАРАННЯ')">
-            <div class="item-number">Пункт 4</div>
-            НАЗВА ПУНКТУ
+        <div class="menu-item" onclick="openModal('Заборонено ображати, дискримінувати, принижувати або зневажливо висловлюватися про інших учасників гри в будь-якій формі, включаючи текстові повідомлення, голосові чати та будь-які дії, що можуть завдати емоційної шкоди. Заборонено будь-які форми дискримінації, а також використання образливих висловлювань чи жартів, що стосуються національності, релігії, раси, гендерної ідентичності, сексуальної орієнтації або інших особистих ознак гравців.', 'Покарання - штраф 3 000€ або тимчасовий депорт на 24 години')">
+            <div class="item-number"><small><b>ПУНКТ 1</b></small></div>
+            <b><span>Повага до інших гравців</span></b>
         </div>
 
-        <div class="menu-item" onclick="openModal('ТЕКСТ', 'ПОКАРАННЯ')">
-            <div class="item-number">Пункт 5</div>
-            НАЗВА ПУНКТУ
+        <div class="menu-item" onclick="openModal('Ми працюємо над тим, щоб добавити сюди посилання на сайт з ПДР.', '')">
+            <div class="item-number"><small><b>ПУНКТ 2</b></small></div>
+            <b><span>Правила дорожнього руху (ПДР)</span></b>
         </div>
 
-        <div class="menu-item" onclick="openModal('ТЕКСТ', 'ПОКАРАННЯ')">
-            <div class="item-number">Пункт 6</div>
-            НАЗВА ПУНКТУ
+        <div class="menu-item" onclick="openModal('Використання сторонніх програм, читів або інших технічних засобів для отримання переваги над іншими гравцями, включаючи можливості польотів, безсмертя або будь-які інші незаконні модифікації ігрового процесу, суворо заборонено. Також заборонено навмисне використання багів або помилок гри для отримання переваги.', 'Покарання – безстрокова депортація')">
+            <div class="item-number"><small><b>ПУНКТ 3</b></small></div>
+            <b><span>Використання читів та багів</span></b>
+        </div>
+        <div class="menu-item" onclick="openModal('Службові автомобілі та спецтехніка повинні використовуватися лише під час виконання службових обов’язків.', 'Покарання - штраф 7 000€ або тимчасовий депорт до 3 діб')">
+            <div class="item-number"><small><b>ПУНКТ 4. СТАТТЯ 1</b></small></div>
+            <b><span>Використання службових ТЗ за призначенням</span></b>
+        </div>
+        <div class="menu-item" onclick="openModal('Усім працівникам екстрених та державних служб заборонено ігнорувати або не виконувати свої обов’язки під час служби. Кожен співробітник має забезпечувати належне виконання своїх завдань і відповідально ставитись до роботи.', 'Покарання - штраф 7 000€ або тимчасовий депорт до 3 діб')">
+            <div class="item-number"><small><b>ПУНКТ 4. СТАТТЯ 2</b></small></div>
+            <b><span>Виконання службових обов’язків</span></b>
+        </div>
+        <div class="menu-item" onclick="openModal('Використання сирен та інших сигнальних пристроїв дозволяється виключно під час виконання службових обов’язків або в надзвичайних ситуаціях. Заборонено застосовувати такі пристрої в особистих цілях, зокрема для уникнення штрафів, відповідальності чи інших санкцій', 'Покарання – штраф 6 000€')">
+            <div class="item-number"><small><b>ПУНКТ 5</b></small></div>
+            <b><span>Неправомірне використання сирен</b></span>
         </div>
 
-    </div>
-    
+        <div class="menu-item" onclick="openModal('Виконуйте вказівки всіх державних органів, включаючи поліцію, суд та адміністрацію, і співпрацюйте для підтримки порядку на сервері. Якщо виникнуть конфлікти чи непорозуміння, звертайтеся до поліції, а за потребою — до адміністрації. Не співпрацювати можна лише у випадку, якщо вказівка є недоцільною або суперечить загальноприйнятим нормам поведінки.', 'Покарання – на розсуд адміністрації чи суду.')">
+            <div class="item-number"><small><b>ПУНКТ 6</b></small></div>
+            <b><span>Співпраця з уповноваженими особами</b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('Будь-які форми нападів, погроз чи втручання в роботу адміністрації суворо заборонені. Адміністрація відповідає за належне функціонування серверу, і будь-які спроби дестабілізувати її діяльність будуть розцінюватись як серйозне порушення.', 'Покарання - тимчасовий депорт до 5 діб')">
+            <div class="item-number"><small><b>ПУНКТ 7. СТАТТЯ 1</b></small></div>
+            <b><span>Атака на адміністрацію</b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('Напади, погрози або перешкоджання виконанню службових обов’язків співробітниками поліції є абсолютно неприйнятними. Це включає будь-які фізичні дії проти поліцейських під час виконання ними своїх обов’язків.', 'Покарання - штраф від 4 до 8 тисяч євро')">
+            <div class="item-number"><small><b>ПУНКТ 7. СТАТТЯ 2</b></small></div>
+            <b><span>Атака на поліцію</b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('Будь-яке насильство, погрози або перешкоджання роботі медичних працівників і пожежної служби є суворо забороненими. Ці служби виконують критично важливі завдання, тому їхня діяльність не повинна бути під загрозою. Перешкоджання їхній роботі, особливо під час надання допомоги або ліквідації надзвичайних ситуацій, суворо каратиметься.', 'Покарання - тимчасовий депорт від 5 до 10 діб')">
+            <div class="item-number"><small><b>ПУНКТ 7. СТАТТЯ 3</b></small></div>
+            <b><span>Атака на працівників Fire department</b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('Будь-які напади на представників Служби Безпеки Сервера (СБС), Державного Бюро Розслідувань (ДБР), Міністерство внутрішніх справ серверу та інших правоохоронних органів є особливо тяжким порушенням. Агресія чи дії, що загрожують їхній діяльності або життю, будуть каратися найсуворіше. Усі форми перешкоджання виконанню службових обов’язків цих органів є неприпустимими', 'Покарання - штраф 7 000€ або тимчасовий депорт до 3 діб')">
+            <div class="item-number"><small><b>ПУНКТ 7 СТАТТЯ 4</b></small></div>
+            <b><span>Атака на співробітників правоохоронних органів (крім поліції)</b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('', '')">
+            <div class="item-number"><small><b>ПУНКТ </b></small></div>
+            <b><span></b></span>
+        </div>
+
     <div class="overlay" onclick="closeModal()"></div>
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
         <p id="ruleText"></p>
         <p class="penalty" id="penaltyText"></p>
     </div>
-    
-    <div class="footer">&copy; <b>2025 Ukraine RP. Всі права захищені.</b> <br><small>Усі матеріали, представлені на цьому сайті, є об'єктами авторського права і охороняються відповідно до законодавства. <br>Копіювання, розподіл або використання матеріалів сайту в будь-якій формі без попередньої письмової згоди власника авторських прав заборонено.</br></small></br></div>
+
+    <div class="footer">&copy; <b>2025 Ukraine RP. Всі права захищені.</b> <br><small>Усі матеріали, представлені на цьому сайті, є об'єктами авторського права і охороняються відповідно до законодавства. <br>Копіювання, розподіл або використання матеріалів сайту в будь-якій формі без попередньої письмової згоди власника авторських прав заборонено.</small></br></div>
 
     <script>
         function openModal(rule, penalty) {
+            if (!penalty) {
+                penalty = '';
+            }
             document.getElementById('ruleText').innerText = rule;
             document.getElementById('penaltyText').innerText = penalty;
             document.getElementById('ruleModal').style.display = 'block';
@@ -274,5 +337,6 @@
             document.querySelector('.overlay').style.display = 'none';
         }
     </script>
+
 </body>
 </html>
