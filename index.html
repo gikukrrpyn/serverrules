@@ -35,7 +35,7 @@
     justify-content: center;
     align-items: center;
     width: 100%;
-    padding: 10px 15px;
+    padding: 15px 20px;
     background: #000000;
     color: #fff;
     font-weight: bold;
@@ -45,7 +45,6 @@
     top: 0;
     left: 0;
     z-index: 1000;
-    flex-direction: column; 
     text-align: center; 
 }
 
@@ -166,53 +165,7 @@
 
 
 @media (max-width: 768px) {
-    .top-bar {
-        flex-direction: column; 
-        padding: 10px 15px;
-    }
-
-    .header {
-        font-size: 2em; 
-        margin-top: 120px;
-    }
-
-    .menu-container {
-        grid-template-columns: 1fr; 
-        margin-top: 20px;
-        margin-bottom: 40px;
-    }
-
-    .menu-item {
-        font-size: 1em; 
-        width: 90%; 
-        max-width: 280px;
-        padding: 15px;
-    }
-
-    .social-links {
-        position: relative; 
-        left: 0;
-        display: flex;
-        gap: 8px;
-        justify-content: center;
-        margin-top: 10px;
-    }
-
-    .social-links a {
-        font-size: 0.8em;
-        padding: 6px 10px;
-    }
-
-    .modal {
-        width: 80%; 
-    }
-}
-@media (max-width: 768px) {
-    .top-bar {
-        flex-direction: column; 
-        padding: 10px 15px;
-    }
-
+  
     .header {
         font-size: 2em; 
         margin-top: 120px;
@@ -230,14 +183,19 @@
         max-width: 250px; 
     }
 
+    .top-bar {
+        font-size: 1em; 
+        padding: 10px 15px;
+    }
+
     .social-links {
-        position: relative; 
+        position: relative;
         left: 0;
+        margin-left: 0; 
         display: flex;
         gap: 8px;
-        justify-content: center;
-        margin-top: 10px;
     }
+}
 
     .social-links a {
         font-size: 0.8em; 
@@ -251,9 +209,6 @@
 
 
 
-
-
-}
     </style>
 </head>
 <body>
