@@ -5,17 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ПРАВИЛА СЕРВЕРА UKRAINE RP</title>
     <style>
-   body {
-    margin: 0;
-    font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #D5006D, #3e6390);
-    color: #000000;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-height: 100vh;
-    padding: 0;
-}
+    body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to right, #D5006D, #3e6390);
+            color: #000000;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 0;
+        }
 
 .content {
     flex-grow: 1;  
@@ -34,28 +34,39 @@
 }
 
 
+.top-bar .menu-button {
+    position: absolute;
+    left: 16px;  
+    top: 50%;
+    transform: translateY(-50%);
+    background: #444;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1100;  
+}
 
-    .top-bar {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        padding: 15px 20px;
-        background: #000000;
-        color: #fff;
-        font-weight: bold;
-        font-size: 1.2em;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        position: fixed;
-        top: 0;
-        left: 0;
-        z-index: 1000;
-        text-align: center;
-    }
+.top-bar {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            padding: 15px 20px;
+            background: #000000;
+            color: #fff;
+            font-weight: bold;
+            font-size: 1.2em;
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+
+        }
 
         .social-links {
             position: absolute;
-            left: 20px;
+            left: 60px;
             display: flex;
             gap: 10px;
         }
@@ -93,7 +104,75 @@
         justify-items: center;
     }
 
+    .menu-button {
+    position: fixed;
+    top: 20px;  
+    left: 20px; 
+    background: #484545de;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+    z-index: 1100;  
+    display: block;  
+}
 
+
+
+        .menu-button:hover {
+            background: #666;
+        }
+
+        .side-menu {
+    position: fixed;
+    top: 50px; 
+    left: -400px;  
+    width: 250px;
+    height: 100%;  
+    background: #222;
+    padding: 20px;
+    transition: left 0.3s ease-in-out;
+    z-index: 999; 
+}
+
+.side-menu.open {
+    left: 0;  
+}
+
+.side-menu a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    background: #444;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.side-menu a:hover {
+    background: #666;
+}
+
+        .modal .link-buttons {
+            margin-top: 15px;
+        }
+
+        .modal .link-buttons a {
+            display: inline-block;
+            margin: 5px;
+            padding: 8px 12px;
+            background: #519ac7;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .modal .link-buttons a:hover {
+            background: #b73770;
+        }
         .menu-item {
             padding: 20px;
             background: #f0f0f0e1;;
@@ -231,6 +310,7 @@
 </head>
 <body>
     <div class="top-bar">
+        <button class="menu-button" onclick="toggleMenu()">☰</button>  
         UKRAINE RP — ТВІЙ ЄДИНИЙ СЕРВЕР
         <div class="social-links">
             <a href="https://x.com/UkraineRP_EH" target="_blank">Twitter</a>
@@ -238,9 +318,24 @@
             <a href="https://www.roblox.com/games/start?placeId=7711635737&launchData=joinCode%3D0uadtv1u" target="_blank">ГРАТИ</a>
         </div>
     </div>
+    
+    <div id="sideMenu" class="side-menu">
+        <p><h2 style="color: white; text-align: center;">МЕНЮ</h2></p>
+        <a href="https://telegra.ph/Rol%D1%96-serveru-Ukraine-RP-v-EH-10-21">РОЛІ</a>
+        <a href="https://giknikyev.github.io/weaponlicense/">ЛІЦЕНЗІЯ НА ЗБРОЮ</a>
+        <a href="https://giknikyev.github.io/vehicles/">ПЕРЕВІРИТИ НОМЕРИ</a>
+    </div>
+    
 
     <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V5.1</small></div><br>
 
+    <div class="modal" id="ruleModal">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <p id="ruleText"></p>
+        <p class="penalty" id="penaltyText"></p>
+        <div class="link-buttons" id="modalLinks"></div>
+    </div>
+    
     <div class="info-button-container">
         <button class="info-button" onclick="openModal('<b>1.</b> Поліція має право виписувати штрафи лише за порушення пункту 2 (ПДР). За інші пункти їм заборонено карати гравців.<p> <b>2. Які бувають покарання?</b> <br>Адміністрація та суд можуть накласти дисциплінарні заходи на гравців за їхні порушення у вигляді: тимчасової чи постійної депортації, штрафу або громадських робіт (якщо гравець порушить якесь правило, за яке передбачено покарання у вигляді штрафу, і він не матиме коштів для сплати, він буде зобов’язаний виконувати громадські роботи у вигляді зароблених XP за вибраною професією, призначеною адміністратором. Наприклад: сума штрафу × 0,05. Приклад: 3 000 євро × 0,05 = 150 XP, які гравець повинен заробити, і в кінці зміни надіслати скріншот адміністратору).</p>', '')">
             ІНФОРМАЦІЯ
@@ -253,9 +348,9 @@
             <b><span>Повага до інших гравців</span></b>
         </div>
 
-        <div class="menu-item" onclick="openModal('Ми працюємо над тим, щоб добавити сюди посилання на сайт з ПДР. Перейдіть за посиланням в нашій групі у Telegram, щоб відкрити сайт.', '')">
-            <div class="item-number"><small><b>ПУНКТ 2</b></small></div>
-            <b><span>Правила дорожнього руху (ПДР)</span></b>
+        <div class="menu-item" <a href="#" onclick="openModal('<b>Перейдіть за кнопкою нижче, щоб відкрити статті цього пункту:</b>', '', [
+        { text: 'ПЕРЕЙТИ', url: 'https://giknikyev.github.io/serverrulesp2/' },
+        ])">ПУНКТ 2 <br>ПДР</a>    
         </div>
 
         <div class="menu-item" onclick="openModal('Використання сторонніх програм, читів або інших технічних засобів для отримання переваги над іншими гравцями, включаючи можливості польотів, безсмертя або будь-які інші незаконні модифікації ігрового процесу, суворо заборонено. Також заборонено навмисне використання багів або помилок гри для отримання переваги.', 'Покарання – безстрокова депортація')">
@@ -475,7 +570,7 @@
             <b><span>Використання шипів на блокпостах та КПП</b></span>
         </div>
 
-        <div class="menu-item" onclick="openModal('Встановлення блокпостів і КПП забороняється в центральних районах міста, зокрема: територія біля банку, територія біля ювілера, центральний міст біля Ares Fuel, ринкові площі та зупинки громадського транспорту. Ці місця є важливими транспортними артерієями, і будь-яке обмеження руху в цих зонах негативно впливає на загальний трафік міста. Винятком є випадки масованих атак або надзвичайних ситуацій, коли встановлення КПП чи блокпостів може бути необхідним для забезпечення безпеки громадян. У таких ситуаціях необхідно отримати розпорядження від адміністрації. Для чіткої ідентифікації зон додається схематичне фото, яке відображає межі територій, де встановлення КПП чи блокпостів дозволено та заборонено: [Ми працюємо над тим, щоб добавити сюди фото. Наразі ви можете переглянути його в нашій групі в Telegram.]', 'Покарання - тимчасовий депорт до 2 діб')">
+        <div class="menu-item" onclick="openModal('Встановлення блокпостів і КПП забороняється в центральних районах міста, зокрема: територія біля банку, територія біля ювілера, центральний міст біля Ares Fuel, ринкові площі та зупинки громадського транспорту. Ці місця є важливими транспортними артерієями, і будь-яке обмеження руху в цих зонах негативно впливає на загальний трафік міста. Винятком є випадки масованих атак або надзвичайних ситуацій, коли встановлення КПП чи блокпостів може бути необхідним для забезпечення безпеки громадян. У таких ситуаціях необхідно отримати розпорядження від адміністрації. Для чіткої ідентифікації зон додається схематичне фото зверху, яке відображає межі територій, де встановлення КПП чи блокпостів дозволено та заборонено.', 'Покарання - тимчасовий депорт до 2 діб', 'https://i.ibb.co/zhRqLK7k/photo-2024-12-23-22-05-46.jpg')">
             <div class="item-number"><small><b>ПУНКТ 32. СТАТТЯ 2</b></small></div>
             <b><span>Встановлення КПП чи блокпостів</b></span>
         </div>
@@ -537,6 +632,7 @@
 
 
 
+
     <div class="overlay" onclick="closeModal()"></div>
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -547,22 +643,48 @@
     <div class="footer">&copy; <b>2025 Ukraine RP. Всі права захищені.</b> <br><small>Усі матеріали, представлені на цьому сайті, є об'єктами авторського права і охороняються відповідно до законодавства. <br>Копіювання, розподіл або використання матеріалів сайту в будь-якій формі без попередньої письмової згоди власника авторських прав заборонено.</small></br></div>
 
     <script>
-       function openModal(rule, penalty) {
-    if (!penalty) {
-        penalty = '';
-    }
+        function toggleMenu() {
+            document.getElementById("sideMenu").classList.toggle("open");
+        }
+
+        function openModal(rule, penalty, imageUrl = '', links = []) {
     document.getElementById('ruleText').innerHTML = rule;  
-    document.getElementById('penaltyText').innerHTML = penalty;
+    document.getElementById('penaltyText').innerHTML = penalty || '';
+    
+
+    if (imageUrl) {
+        let imgElement = document.createElement('img');
+        imgElement.src = imageUrl;
+        imgElement.alt = "Rule Image";
+        imgElement.style.width = "100%";  
+        imgElement.style.marginBottom = "15px";
+        document.getElementById('ruleText').prepend(imgElement); 
+    }
+    
+    let linksContainer = document.getElementById('modalLinks');
+    linksContainer.innerHTML = '';
+    links.forEach(link => {
+        let a = document.createElement('a');
+        a.href = link.url;
+        a.target = '_blank';
+        a.textContent = link.text;
+        linksContainer.appendChild(a);
+    });
+    
     document.getElementById('ruleModal').style.display = 'block';
-    document.querySelector('.overlay').style.display = 'block';
 }
 
-function closeModal() {
-    document.getElementById('ruleModal').style.display = 'none';
-    document.querySelector('.overlay').style.display = 'none';
+
+        function closeModal() {
+            document.getElementById('ruleModal').style.display = 'none';
+        }
+        function toggleMenu() {
+    const sideMenu = document.getElementById("sideMenu");
+    sideMenu.classList.toggle("open");  
 }
 
-       
+
+
 
     </script>
     
