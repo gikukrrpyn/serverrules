@@ -570,10 +570,10 @@
             <b><span>Використання шипів на блокпостах та КПП</b></span>
         </div>
 
-        <div class="menu-item" onclick="openModal('Встановлення блокпостів і КПП забороняється в центральних районах міста, зокрема: територія біля банку, територія біля ювілера, центральний міст біля Ares Fuel, ринкові площі та зупинки громадського транспорту. Ці місця є важливими транспортними артерієями, і будь-яке обмеження руху в цих зонах негативно впливає на загальний трафік міста. Винятком є випадки масованих атак або надзвичайних ситуацій, коли встановлення КПП чи блокпостів може бути необхідним для забезпечення безпеки громадян. У таких ситуаціях необхідно отримати розпорядження від адміністрації. Для чіткої ідентифікації зон додається схематичне фото зверху, яке відображає межі територій, де встановлення КПП чи блокпостів дозволено та заборонено.', 'Покарання - тимчасовий депорт до 2 діб', 'https://i.ibb.co/zhRqLK7k/photo-2024-12-23-22-05-46.jpg')">
-            <div class="item-number"><small><b>ПУНКТ 32. СТАТТЯ 2</b></small></div>
-            <b><span>Встановлення КПП чи блокпостів</b></span>
-        </div>
+        <div class="menu-item" <a href="#" onclick="openModal('Встановлення блокпостів і КПП забороняється в центральних районах міста, зокрема: територія біля банку, територія біля ювілера, центральний міст біля Ares Fuel, ринкові площі та зупинки громадського транспорту. Ці місця є важливими транспортними артерієями, і будь-яке обмеження руху в цих зонах негативно впливає на загальний трафік міста. Винятком є випадки масованих атак або надзвичайних ситуацій, коли встановлення КПП чи блокпостів може бути необхідним для забезпечення безпеки громадян. У таких ситуаціях необхідно отримати розпорядження від адміністрації. Для чіткої ідентифікації зон додається схематичне фото (переглянути можна за кнопкою нижче), яке відображає межі територій, де встановлення КПП чи блокпостів дозволено та заборонено.', 'Покарання - тимчасовий депорт до 2 діб', [
+            { text: 'ПЕРЕГЛЯНУТИ ФОТО', url: 'https://i.ibb.co/zhRqLK7k/photo-2024-12-23-22-05-46.jpg' },
+            ])">ПУНКТ 32. СТАТТЯ 2 <br>Встановлення КПП чи блокпостів</a>    
+            </div>
 
         <div class="menu-item" onclick="openModal('Забороняється затримувати, блокувати або обмежувати проїзд екстрених служб (поліція, швидка допомога, пожежна служба та адміністрація в тому числі) на блокпостах чи контрольно-пропускних пунктах під час виконання ними службових обов’язків. Всі блокпости повинні забезпечувати негайний проїзд для таких транспортних засобів без затримок.', 'Покарання - штраф 16 000€ або тимчасовий депорт до 5 діб.')">
             <div class="item-number"><small><b>ПУНКТ 32. СТАТТЯ 3</b></small></div>
@@ -647,46 +647,42 @@
             document.getElementById("sideMenu").classList.toggle("open");
         }
 
-        function openModal(rule, penalty, imageUrl = '', links = []) {
-    document.getElementById('ruleText').innerHTML = rule;  
-    document.getElementById('penaltyText').innerHTML = penalty || '';
-    
-
-    if (imageUrl) {
-        let imgElement = document.createElement('img');
-        imgElement.src = imageUrl;
-        imgElement.alt = "Rule Image";
-        imgElement.style.width = "100%";  
-        imgElement.style.marginBottom = "15px";
-        document.getElementById('ruleText').prepend(imgElement); 
-    }
-    
-    let linksContainer = document.getElementById('modalLinks');
-    linksContainer.innerHTML = '';
-    links.forEach(link => {
-        let a = document.createElement('a');
-        a.href = link.url;
-        a.target = '_blank';
-        a.textContent = link.text;
-        linksContainer.appendChild(a);
-    });
-    
-    document.getElementById('ruleModal').style.display = 'block';
-}
-
+        function openModal(rule, penalty, links = []) {
+            document.getElementById('ruleText').innerHTML = rule;  
+            document.getElementById('penaltyText').innerHTML = penalty || '';
+            
+            let linksContainer = document.getElementById('modalLinks');
+            linksContainer.innerHTML = '';
+            links.forEach(link => {
+                let a = document.createElement('a');
+                a.href = link.url;
+                a.target = '_blank';
+                a.textContent = link.text;
+                linksContainer.appendChild(a);
+            });
+            
+            document.getElementById('ruleModal').style.display = 'block';
+        }
 
         function closeModal() {
             document.getElementById('ruleModal').style.display = 'none';
         }
-        function toggleMenu() {
-    const sideMenu = document.getElementById("sideMenu");
-    sideMenu.classList.toggle("open");  
-}
-
-
-
-
     </script>
+
+
+
+<div id="ruleModal" style="display: none;">
+    <div>
+        <h2>Rule</h2>
+        <div id="ruleText"></div>
+        <h3>Penalty</h3>
+        <div id="penaltyText"></div>
+        <div id="modalImage"></div> <!-- Контейнер для зображення -->
+        <div id="modalLinks"></div> <!-- Контейнер для посилань -->
+        <button onclick="closeModal()">Close</button>
+    </div>
+</div>
+
     
     
 
