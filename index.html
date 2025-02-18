@@ -6,32 +6,61 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <title>ПРАВИЛА СЕРВЕРА UKRAINE RP</title>
     <style>
-    body {
-            margin: 0;
-            font-family: 'Arial', sans-serif;
-            background: linear-gradient(to right, #D5006D, #3e6390);
-            color: #000000;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            min-height: 100vh;
-            padding: 0;
-        }
+   body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    padding: 0;
+    position: relative;
+    overflow-x: hidden;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: url('фон3.png') no-repeat center center/cover;
+    z-index: -2;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%);
+    z-index: -1;
+    transition: opacity 0.5s ease;
+    opacity: 0;
+}
+
+body.scrolled::after {
+    opacity: 1;
+}
 
 .content {
-    flex-grow: 1;  
+    flex-grow: 1;
     width: 100%;
 }
 
 .footer {
-    width: 100%; 
+    width: 100%;
     background: #000000;
     color: #fff;
     text-align: center;
     padding: 10px 0;
     box-sizing: border-box;
-    position: relative; 
-    margin-top: 20px; 
+    position: relative;
+    margin-top: 20px;
 }
 
 
@@ -88,13 +117,15 @@
         }
 
         .header {
-            margin-top: 100px;
-            font-size: 2.5em;
-            font-weight: bold;
-            color: #ffffff;
-            text-align: center;
-            text-transform: uppercase;
-        }
+    margin-top: 100px;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px #000000; 
+}
+
         
         .menu-container {
         display: grid;
@@ -175,7 +206,7 @@
             background: #ff7ab6;
         }
         .menu-item {
-            padding: 20px;
+            padding: 12px;
             background: #ffffff;;
             border-radius: 15px;
             font-size: 1.1em;
@@ -232,7 +263,7 @@
 }
 
 .info-button {
-    background: #ffffff4d;
+    background: #0000003f;
     border: none;
     padding: 10px 20px;
     font-size: 1.2em;
@@ -335,7 +366,7 @@
     </div>
     
 
-    <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V5.5</small></div><br>
+    <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V5.6</small></div><br>
 
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -348,7 +379,7 @@
         <button class="info-button" onclick="openModal('<p><b> <li>1. Повноваження: <br>1.1. Поліція</b> має право штрафувати гравців за порушення таких пунктів: 2, 5, 30, стаття 5 пункту 32, статті 1, 2 пункту 42, пункти 46 та 47. <br> <b>1.2. ДБР</b> має право штрафувати за порушення пунктів 26 та 41. <br> <b>1.3. СБС</b> має право штрафувати за порушення пунктів 24, 26, 27, 28, 30 і статті 1 та 2 пункту 42.</p> <p> <br> <b><li>2. Які бувають покарання: <br> </b> Адміністрація та суд можуть накласти дисциплінарні заходи на гравців за їхні порушення у вигляді: тимчасової чи постійної депортації, штрафу або громадських робіт. <br> <b> 2.1. Громадські роботи:</b><br> Якщо гравець порушить якесь правило, за яке передбачено покарання у вигляді штрафу, і він не матиме коштів для сплати, він буде зобов’язаний виконувати громадські роботи у вигляді зароблених XP за вибраною професією, призначеною адміністратором. Наприклад: сума штрафу × 0,05. Приклад: 3 000 євро × 0,05 = 150 XP, які гравець повинен заробити, і в кінці зміни надіслати скріншот адміністратору. </p><p> <br> <li><b>3. Конституція (розділ «Права та обов’язки»):</b><br> <b>5.2.</b> Кожен зобов’язаний неухильно дотримуватися Конституції Сервера та законів (правил) Сервера, не посягати на права і свободи, честь і гідність інших людей. <br> <b>5.4.</b> Кожен зобов’язаний сплачувати податки і збори в порядку та розмірах, встановлених законом. </p>', '')">
             ІНФОРМАЦІЯ
       </button> &nbsp;
-      <button class="info-button" onclick="openModal('<b>V5.5 | 16.02.2025 | 20:35</b><br><li>Доданий пункт 48 «ЗЕЛЕНІ ЗОНИ»<br><li>Доданий пункт 49 «Вимагання та змушування до дій»<br><li>Пункт 16 розділений на 2 статті<br><li>Пункт 28 оновлений', '')">
+      <button class="info-button" onclick="openModal('<b>V5.6 | 18.02.2025 | 15:45</b><br><li>Оновлений дизайн сайту', '')">
         ОСТАННЄ ОНОВЛЕННЯ
   </button>
       </div>
@@ -754,7 +785,15 @@
     </div>
 </div>
 
-    
+    <script>
+    window.addEventListener('scroll', function() {
+        if (window.scrollY > 50) {
+            document.body.classList.add('scrolled');
+        } else {
+            document.body.classList.remove('scrolled');
+        }
+    });
+</script>
     
 
 </body>
