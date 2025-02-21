@@ -6,62 +6,66 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <title>ПРАВИЛА СЕРВЕРА UKRAINE RP</title>
     <style>
-   body {
-    margin: 0;
-    font-family: 'Arial', sans-serif;
-    color: #000000;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-height: 100vh;
-    padding: 0;
-    position: relative;
-    overflow-x: hidden;
-}
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700&display=swap');
 
-body::before {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background: url('фон3.png') no-repeat center center/cover;
-    z-index: -2;
-}
+        body {
+            margin: 0;
+            font-family: 'Montserrat', sans-serif;
+            color: #000000;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 0;
+            position: relative;
+            overflow-x: hidden;
+        }
 
-body::after {
-    content: "";
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%);
-    z-index: -1;
-    transition: opacity 0.5s ease;
-    opacity: 0;
-}
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: url('фон3.png') no-repeat center center/cover;
+            z-index: -2;
+        }
 
-body.scrolled::after {
-    opacity: 1;
-}
+        body::after {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100vh;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 100%);
+            z-index: -1;
+            transition: opacity 0.5s ease;
+            opacity: 0;
+        }
 
-.content {
-    flex-grow: 1;
-    width: 100%;
-}
+        body.scrolled::after {
+            opacity: 1;
+        }
 
-.footer {
-    width: 100%;
-    background: #000000;
-    color: #fff;
-    text-align: center;
-    padding: 10px 0;
-    box-sizing: border-box;
-    position: relative;
-    margin-top: 20px;
-}
+        .content {
+            flex-grow: 1;
+            width: 100%;
+        }
+
+        .footer {
+            width: 100%;
+            background: #000000;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            box-sizing: border-box;
+            position: relative;
+            margin-top: 20px;
+        }
+
 
 
 .top-bar .menu-button {
@@ -91,7 +95,7 @@ body.scrolled::after {
             top: 0;
             left: 0;
             z-index: 1000;
-
+            font-family: 'Roboto', sans-serif;
         }
 
         .social-links {
@@ -116,16 +120,17 @@ body.scrolled::after {
             transform: scale(1.1);
         }
 
-        .header {
-    margin-top: 100px;
-    font-size: 2.5em;
-    font-weight: bold;
-    color: #ffffff;
-    text-align: center;
-    text-transform: uppercase;
-    text-shadow: 2px 2px 4px #000000; 
-}
 
+        .header {
+            margin-top: 100px;
+            font-size: 2.5em;
+            font-weight: 800;
+            color: #ffffff;
+            text-align: center;
+            text-transform: uppercase;
+            text-shadow: 2px 2px 4px #000000;
+            font-family: 'Montserrat', sans-serif;
+        }
         
         .menu-container {
         display: grid;
@@ -205,25 +210,43 @@ body.scrolled::after {
         .modal .link-buttons a:hover {
             background: #ff7ab6;
         }
-        .menu-item {
-            padding: 12px;
-            background: #ffffff;;
-            border-radius: 15px;
-            font-size: 1.1em;
-            font-weight: bold;
-            color: #333;
-            cursor: pointer;
-            transition: transform 0.3s, box-shadow 0.3s;
-            text-align: center;
-            box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-            width: 100%;
-            max-width: 300px;
-        }
+        .menu-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    width: 100%;
+    max-width: 1100px;
+    justify-items: center;
+}
 
-        .menu-item:hover {
-            transform: scale(1.05);
-            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-        }
+.menu-item {
+    padding: 12px;
+    background: linear-gradient(to bottom, #ffffff, #fff7d1);
+    border-radius: 15px;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    transition: transform 0.3s ease-out, opacity 0.5s ease-out;
+    text-align: center;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 300px;
+    font-family: 'Roboto', sans-serif;
+    opacity: 0; 
+    transform: translateY(-100px); 
+}
+
+.menu-item.visible {
+    opacity: 1;
+    transform: translateY(0); 
+    animation: dropEffect 1s ease-out forwards; 
+}
+
+.menu-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
 
         .modal {
             display: none;
@@ -263,21 +286,22 @@ body.scrolled::after {
 }
 
 .info-button {
-    background: #0000003f;
-    border: none;
-    padding: 10px 20px;
-    font-size: 1.2em;
-    font-weight: bold;
-    color: #ffffff;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: transform 0.3s, box-shadow 0.3s;
-}
+            background: #0000003f;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #ffffff;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            font-family: 'Montserrat', sans-serif;
+        }
 
-.info-button:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
-}
+        .info-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+        }
         .overlay {
             display: none;
             position: fixed;
@@ -294,6 +318,21 @@ body.scrolled::after {
             color: #151414;
             font-size: 1.3em;
         }
+        @keyframes dropEffect {
+    0% {
+        transform: translateY(-100px); 
+    }
+    50% {
+        transform: translateY(20px); 
+    }
+    75% {
+        transform: translateY(-10px);
+    }
+    100% {
+        transform: translateY(0); 
+    }
+}
+
 
         @media (max-width: 768px) {
             .header {
@@ -308,11 +347,10 @@ body.scrolled::after {
             }
 
             .menu-item {
-                font-size: 1em;
-                padding: 15px;
-                max-width: 250px;
-                
-            }
+        font-size: 1em;
+        padding: 15px;
+        max-width: 250px;
+    }
 
             .top-bar {
                 flex-direction: column;
@@ -366,7 +404,7 @@ body.scrolled::after {
     </div>
     
 
-    <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V5.6</small></div><br>
+    <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V5.7</small></div><br>
 
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -379,16 +417,21 @@ body.scrolled::after {
         <button class="info-button" onclick="openModal('<p><b> <li>1. Повноваження: <br>1.1. Поліція</b> має право штрафувати гравців за порушення таких пунктів: 2, 5, 30, стаття 5 пункту 32, статті 1, 2 пункту 42, пункти 46 та 47. <br> <b>1.2. ДБР</b> має право штрафувати за порушення пунктів 26 та 41. <br> <b>1.3. СБС</b> має право штрафувати за порушення пунктів 24, 26, 27, 28, 30 і статті 1 та 2 пункту 42.</p> <p> <br> <b><li>2. Які бувають покарання: <br> </b> Адміністрація та суд можуть накласти дисциплінарні заходи на гравців за їхні порушення у вигляді: тимчасової чи постійної депортації, штрафу або громадських робіт. <br> <b> 2.1. Громадські роботи:</b><br> Якщо гравець порушить якесь правило, за яке передбачено покарання у вигляді штрафу, і він не матиме коштів для сплати, він буде зобов’язаний виконувати громадські роботи у вигляді зароблених XP за вибраною професією, призначеною адміністратором. Наприклад: сума штрафу × 0,05. Приклад: 3 000 євро × 0,05 = 150 XP, які гравець повинен заробити, і в кінці зміни надіслати скріншот адміністратору. </p><p> <br> <li><b>3. Конституція (розділ «Права та обов’язки»):</b><br> <b>5.2.</b> Кожен зобов’язаний неухильно дотримуватися Конституції Сервера та законів (правил) Сервера, не посягати на права і свободи, честь і гідність інших людей. <br> <b>5.4.</b> Кожен зобов’язаний сплачувати податки і збори в порядку та розмірах, встановлених законом. </p>', '')">
             ІНФОРМАЦІЯ
       </button> &nbsp;
-      <button class="info-button" onclick="openModal('<b>V5.6 | 18.02.2025 | 15:45</b><br><li>Оновлений дизайн сайту', '')">
+      <button class="info-button" onclick="openModal('<b>V5.7 | 22.02.2025 | 00:10</b><li>Оновлений дизайн сайту: шрифти, кольори, анімації;</li><br><li>Пункт 1 розділений на 2 статті;</li><br><li>Покарання за порушення статті 1 пункту 1 оновлене;</li><br><li>До пункту 1 додана стаття 2;</li><br><li>Доданий пункт 50 «Домагання та непристойні рухи»;</li><br><li>Пункт 24 оновлений;</li><br><li>Доданий пункт 51 «ПОГРОЗИ»;</li><br><li>До пункту 42 додана стаття 3 «Нелегальна зброя»;</li><br><li>Доданий пункт 51 «Автономні дії»;</li><br><li>Стаття 2 пункту 29 «Вихід з сервера під час переслідування чи затримання» видалена;</li><br><li>Змінена послідовність статей пункту 29;</li><br><li>Доданий пункт 53 «Вихід з сервера під час RP-сцени».</li><br>', '')">
         ОСТАННЄ ОНОВЛЕННЯ
   </button>
       </div>
       
     <div class="menu-container">
-        <div class="menu-item" onclick="openModal('Заборонено ображати, дискримінувати, принижувати або зневажливо висловлюватися про інших учасників гри в будь-якій формі, включаючи текстові повідомлення, голосові чати та будь-які дії, що можуть завдати емоційної шкоди. Заборонено будь-які форми дискримінації, а також використання образливих висловлювань чи жартів, що стосуються національності, релігії, раси, гендерної ідентичності, сексуальної орієнтації або інших особистих ознак гравців.', 'Покарання - штраф 3 000€ або тимчасовий депорт на 24 години')">
-            <div class="item-number"><small><b>ПУНКТ 1</b></small></div>
+        <div class="menu-item" onclick="openModal('Заборонено ображати, дискримінувати, принижувати або зневажливо висловлюватися про інших учасників гри в будь-якій формі, включаючи текстові повідомлення, голосові чати та будь-які дії, що можуть завдати емоційної шкоди. Заборонено будь-які форми дискримінації, а також використання образливих висловлювань чи жартів, що стосуються національності, релігії, раси, гендерної ідентичності, сексуальної орієнтації або інших особистих ознак гравців.', 'Покарання - штраф 5 000€ або тимчасовий депорт на 24 години')">
+            <div class="item-number"><small><b>ПУНКТ 1. СТАТТЯ 1</b></small></div>
             <b><span>Повага до інших гравців</span></b>
         </div>
+
+            <div class="menu-item" onclick="openModal('Заборонено будь-яку форму групового булінгу, коли кілька осіб беруть участь у переслідуванні або цькуванні іншого гравця. Це включає, але не обмежується, приниженням, образами, дискримінацією, знущаннями або створенням ворожої атмосфери за допомогою колективних дій.', 'Покарання для кожного - штраф 7 000€ або тимчасовий депорт на 48 годин')">
+                <div class="item-number"><small><b>ПУНКТ 1. СТАТТЯ 2</b></small></div>
+                <b><span>Повага до інших гравців</span></b>
+            </div>
 
         <div class="menu-item" <a href="#" onclick="openModal('<b>Перейдіть за кнопкою нижче, щоб відкрити статті цього пункту:</b>', '', [
         { text: 'ПЕРЕЙТИ', url: 'https://giknikyev.github.io/serverrulesp2/' },
@@ -564,7 +607,7 @@ body.scrolled::after {
             <b><span>Перешкоджання затриманню правоохоронними органами</b></span>
         </div>
 
-        <div class="menu-item" onclick="openModal('Забороняється переслідувати інших гравців як на транспортних засобах, так і іншими способами. Якщо такі одного гравця викликають у іншого відчуття небезпеки чи страху, це розцінюється як серйозне правопорушення.', 'Покарання - штраф 8 000€ або тимчасовий депорт за рішенням адміністрації чи суду')">
+        <div class="menu-item" onclick="openModal('Забороняється переслідувати інших гравців як на транспортних засобах, так і іншими способами, з метою створення ситуації для подальших дій чи маніпуляцій.', 'Покарання - штраф 6 000€')">
             <div class="item-number"><small><b>ПУНКТ 24</b></small></div>
             <b><span>Переслідування</b></span>
         </div>
@@ -599,13 +642,8 @@ body.scrolled::after {
             <b><span>Втрата ідентифікатора розшуку під час переслідування</b></span>
         </div>
 
-        <div class="menu-item" onclick="openModal('Вихід із сервера під час поліцейського переслідування, затримання або підозри з метою уникнення покарання є суворо забороненим і розглядається як зловживання для уникнення відповідальності.', 'Покарання - тимчасовий депорт на 6 діб')">
-            <div class="item-number"><small><b>ПУНКТ 29. СТАТТЯ 2</b></small></div>
-            <b><span>Вихід з сервера під час переслідування чи затримання</b></span>
-        </div>
-
         <div class="menu-item" onclick="openModal('Якщо гравець скоює правопорушення без наявності індикатора розшуку (зірочок), він все одно зобов’язаний підкоритися вимогам правоохоронців у разі затримання. Будь-які спроби уникнути затримання або відмовитися від виконання законних вимог поліції в таких випадках розглядаються як ухилення від відповідальності.', 'Покарання - штраф 8 000€ або тимчасовий депорт до 5 діб за рішенням адміністрації чи суду')">
-            <div class="item-number"><small><b>ПУНКТ 29. СТАТТЯ 3</b></small></div>
+            <div class="item-number"><small><b>ПУНКТ 29. СТАТТЯ 2</b></small></div>
             <b><span>Відсутність індикатора розшуку при умові попереднього скоєння злочину</b></span>
         </div>
 
@@ -699,6 +737,11 @@ body.scrolled::after {
             <b><span>Неправомірне використання зброї</b></span>
         </div>
 
+        <div class="menu-item" onclick="openModal('Забороняється володіння, зберігання та використання зброї без ліцензії на неї, оскільки це створює небезпеку для гравців.', 'Покарання - конфіскація зброї та штраф розміром 4 000€')">
+            <div class="item-number"><small><b>ПУНКТ 42. СТАТТЯ 3</b></small></div>
+            <b><span>Нелегальна зброя</b></span>
+        </div>
+
 <div class="menu-item" onclick="openModal('Заборонено паверґеймінг – виконання нереалістичних або примусових дій у RP, які суперечать логіці реального світу або позбавляють інших гравців можливості адекватно відреагувати. До таких дій належать вигадування надлюдських здібностей, ігнорування фізичних обмежень (наприклад, після ДТП гравець встає і тікає, наче нічого не сталося) та нав’язування результату взаємодії без згоди іншого гравця.', 'Покарання - депорт на 2 діб')">
     <div class="item-number"><small><b>ПУНКТ 43</b></small></div>
     <b><span>Заборона паверґеймінгу – нереалістичні дії в RP</b></span>
@@ -734,7 +777,26 @@ body.scrolled::after {
         <b><span>Вимагання та змушування до дій</b></span>
     </div>
 
-    
+    <div class="menu-item" onclick="openModal('Заборонено будь-які форми домагань, зокрема фізичних чи словесних, а також використання непристойних або сексуальних рухів та жестів. Такі дії порушують правила пристойної поведінки та негативно впливають на атмосферу на сервері.', 'Покарання - депорт на 3 діб.')">
+        <div class="item-number"><small><b>ПУНКТ 50</b></small></div>
+        <b><span>Домагання та непристойні рухи</b></span>
+    </div>
+
+    <div class="menu-item" onclick="openModal('Забороняється погрожувати іншим гравцям будь-якими діями, що можуть викликати страх або дискомфорт, включаючи погрози баном чи завданням шкоди.', 'Покарання - депорт на 2 доби')">
+        <div class="item-number"><small><b>ПУНКТ 51</b></small></div>
+        <b><span>ПОГРОЗИ</b></span>
+    </div>
+
+    <div class="menu-item" onclick="openModal('Забороняється виконувати значущі дії без взаємодії з іншими гравцями або без логічного розвитку подій у RP. Усі ситуації мають відбуватися через взаємодію та відповідати ігровій реальності. Самостійне вигадування подій, уникнення наслідків або створення переваги без участі інших може призвести до покарання.', 'Покарання - депорт на 4 доби')">
+        <div class="item-number"><small><b>ПУНКТ 52</b></small></div>
+        <b><span>Автономні дії</b></span>
+    </div>
+
+    <div class="menu-item" onclick="openModal('Забороняється виходити з сервера під час активної RP-сцени без вагомої причини. Вихід під час важливої ситуації, як-от затримання, переслідування або конфлікт, вважається порушенням. У разі необхідності припинити гру через технічні проблеми чи інші об’єктивні причини, гравець зобов’язаний повідомити адміністрацію.', 'Покарання - депорт на 4 доби')">
+        <div class="item-number"><small><b>ПУНКТ 53</b></small></div>
+        <b><span>Вихід з сервера під час RP-сцени</b></span>
+    </div>
+
     <div class="overlay" onclick="closeModal()"></div>
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -769,6 +831,48 @@ body.scrolled::after {
         function closeModal() {
             document.getElementById('ruleModal').style.display = 'none';
         }
+
+window.addEventListener('scroll', function() {
+    let menuItems = document.querySelectorAll('.menu-item');
+    menuItems.forEach(item => {
+        if (isElementInView(item)) {
+            item.classList.add('visible');
+        }
+    });
+});
+
+function isElementInView(el) {
+    let rect = el.getBoundingClientRect();
+    return rect.top >= 0 && rect.top <= window.innerHeight;
+}
+window.addEventListener('load', function() {
+    let menuItems = document.querySelectorAll('.menu-item');
+    
+    
+    menuItems.forEach((item, index) => {
+        setTimeout(() => {
+            item.classList.add('visible');
+        }, index * 300);  
+    });
+});
+
+window.addEventListener('scroll', function() {
+    let menuItems = document.querySelectorAll('.menu-item');
+    menuItems.forEach(item => {
+        if (isElementInView(item)) {
+            item.classList.add('visible');
+        }
+    });
+});
+
+
+function isElementInView(el) {
+    let rect = el.getBoundingClientRect();
+    return rect.top >= 0 && rect.top <= window.innerHeight;
+}
+
+
+
     </script>
 
 
