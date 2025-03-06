@@ -29,7 +29,7 @@
             left: 0;
             width: 100%;
             height: 100vh;
-            background: linear-gradient(rgba(0, 0, 0, 0.377), rgba(0, 0, 0, 0.5)), url('фон2.png') no-repeat center center/cover;
+            background: linear-gradient(rgba(0, 0, 0, 0.377), rgba(0, 0, 0, 0.5)), url('фонадм.png') no-repeat center center/cover;
             z-index: -2;
         }
 
@@ -40,7 +40,7 @@
             left: 0;
             width: 100%;
             height: 100vh;
-            background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.23) 100%);
+            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%);
             z-index: -1;
             transition: opacity 0.5s ease;
             opacity: 0;
@@ -68,7 +68,7 @@
 
 
 
-.top-bar .menu-button {
+       .top-bar .menu-button {
     position: absolute;
     left: 16px;  
     top: 50%;
@@ -82,21 +82,47 @@
 }
 
 .top-bar {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 100%;
-            padding: 15px 20px;
-            background: #000000;
-            color: #ffffff;
-            font-weight: bold;
-            font-size: 1.2em;
-            position: fixed;
-            top: 0;
-            left: 0;
-            z-index: 1000;
-            font-family: 'Roboto', sans-serif;
-        }
+   position: fixed; 
+   top: 0;
+   left: 0;
+   width: 100%;
+   z-index: 1000;
+   display: flex;
+   justify-content: center; 
+   padding: 10px 0;
+   background: transparent; 
+   transition: top 0.3s ease; 
+   
+}
+
+.top-bar.scrolled {
+    top: -100px;
+    transition: top 0.3s ease;
+}
+
+.header.scrolled {
+    margin-top: -100px; 
+    transition: margin-top 0.3s ease;
+}
+
+
+.logo {
+   width: 210px; 
+   height: auto;
+}
+
+.header {
+    margin-top: 90px;
+    padding-top: 20px;
+    font-size: 2.5em;
+    font-weight: 800;
+    color: #ffffff;
+    text-align: center;
+    transition: margin-top 0.3s ease;
+}
+body.scrolled .header {
+    margin-top: 110px; 
+}
 
         .social-links {
             position: absolute;
@@ -121,16 +147,7 @@
         }
 
 
-        .header {
-            margin-top: 100px;
-            font-size: 2.5em;
-            font-weight: 800;
-            color: #ffffff;
-            text-align: center;
-            text-transform: uppercase;
-            text-shadow: 2px 2px 4px #000000;
-            font-family: 'Montserrat', sans-serif;
-        }
+
         
         .menu-container {
         display: grid;
@@ -141,37 +158,38 @@
         justify-items: center;
     }
 
-    .menu-button {
-    position: fixed;
-    top: 20px;  
-    left: 20px; 
-    background: #484545de;
-    color: #fff;
-    padding: 8px 12px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s;
-    z-index: 1100;  
-    display: block;  
-}
-
-
-
         .menu-button:hover {
             background: #666;
         }
 
-        .side-menu {
+ 
+.side-menu {
     position: fixed;
-    top: 50px; 
-    left: -400px;  
-    width: 250px;
-    height: 100%;  
+    top: 0;
+    left: -400px;    
+    width: 170px;    
+    height: 100%;   
     background: #222;
     padding: 20px;
-    transition: left 0.3s ease-in-out;
-    z-index: 999; 
+    transition: left 0.3s ease-in-out;  
+    z-index: 999;     
 }
+
+
+.menu-button {
+    position: fixed;
+    top: 20px;       
+    left: 15px;     
+    background: #484545de;
+    color: #fff;
+    padding: 7px 9px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background 0.3s;
+    z-index: 1000;   
+    display: block;
+}
+
 
 .side-menu.open {
     left: 0;  
@@ -201,14 +219,14 @@
             display: inline-block;
             margin: 5px;
             padding: 8px 12px;
-            background: #b73770;
+            background: #e97d01;
             color: #fff;
             text-decoration: none;
             border-radius: 5px;
             transition: background 0.3s;
         }
         .modal .link-buttons a:hover {
-            background: #ff7ab6;
+            background: #ff9e3d;
         }
         .menu-container {
     display: grid;
@@ -221,7 +239,7 @@
 
 .menu-item {
     padding: 12px;
-    background: linear-gradient(to bottom, #ffffff, #fff7d1);
+    background: linear-gradient(to bottom, #fffffff0, #fbd7a5b2);
     border-radius: 15px;
     font-size: 1.1em;
     font-weight: bold;
@@ -376,35 +394,33 @@
             }
 
             .info-button {
-    padding: 2px 4px;
+    padding: 1px 3px;
 
 }
         }
 
     </style>
 </head>
-<body>
+<body>    
+    
     <div class="top-bar">
-        <button class="menu-button" onclick="toggleMenu()">☰</button>  
-        UKRAINE RP — ТВІЙ ЄДИНИЙ СЕРВЕР
-        <div class="social-links">
-            <a href="https://x.com/UkraineRP_EH" target="_blank">Twitter</a>
-            <a href="https://t.me/+3ewU90r6PC5lYTdk" target="_blank">Telegram</a>
-            <a href="https://www.roblox.com/games/start?placeId=7711635737&launchData=joinCode%3D0uadtv1u" target="_blank">ГРАТИ</a>
-        </div>
+        <img src="logoserver.png" alt="Логотип" class="logo" />
     </div>
     
     
+
+    
     <div id="sideMenu" class="side-menu">
         <p><h2 style="color: white; text-align: center;">МЕНЮ</h2></p>
+        <a href="https://www.roblox.com/games/start?placeId=7711635737&launchData=joinCode%3D0uadtv1u">ПОСИЛАННЯ НА СЕРВЕР</a>
+        <a href="https://giknikyev.github.io/constitution/">Конституція сервера</a>
         <a href="https://telegra.ph/Rol%D1%96-serveru-Ukraine-RP-v-EH-10-21">РОЛІ</a>
-        <a href="https://giknikyev.github.io/weaponlicense/">ЛІЦЕНЗІЯ НА ЗБРОЮ</a>
-        <a href="https://giknikyev.github.io/vehicles/">ПЕРЕВІРИТИ НОМЕРИ</a>
+        <a href="https://telegra.ph/L%D1%96cenzovan%D1%96-gravc%D1%96-na-server%D1%96-Ukraine-RP-v-EH-10-28">ЛІЦЕНЗІЇ</a>
         <a href="https://telegra.ph/Kodi-servera-Ukraine-RP-v-EH-11-10-4">КОДИ</a>
     </div>
     
 
-    <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V6.0</small></div><br>
+    <div class="header"><b>ПРАВИЛА СЕРВЕРА</b><br><small>V6.1</small></div><br>
 
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -412,12 +428,14 @@
         <p class="penalty" id="penaltyText"></p>
         <div class="link-buttons" id="modalLinks"></div>
     </div>
-    
+
+    <button class="menu-button" onclick="toggleMenu()">☰</button>  
+
     <div class="info-button-container">
         <button class="info-button" onclick="openModal('<p><b> <li>1. Повноваження: <br>1.1. Поліція</b> має право штрафувати гравців за порушення таких пунктів: 2, 5, 30, стаття 5 пункту 32, статті 1, 2 пункту 42, пункти 46 та 47. <br> <b>1.2. ДБР</b> має право штрафувати за порушення пунктів 26 та 41. <br> <b>1.3. СБС</b> має право штрафувати за порушення пунктів 24, 26, 27, 28, 30 і статті 1 та 2 пункту 42.</p> <p> <br> <b><li>2. Які бувають покарання: <br> </b> Адміністрація та суд можуть накласти дисциплінарні заходи на гравців за їхні порушення у вигляді: тимчасової чи постійної депортації, штрафу або громадських робіт. <br> <b> 2.1. Громадські роботи:</b><br> Якщо гравець порушить якесь правило, за яке передбачено покарання у вигляді штрафу, і він не матиме коштів для сплати, він буде зобов’язаний виконувати громадські роботи у вигляді зароблених XP за вибраною професією, призначеною адміністратором. Наприклад: сума штрафу × 0,05. Приклад: 3 000 євро × 0,05 = 150 XP, які гравець повинен заробити, і в кінці зміни надіслати скріншот адміністратору. </p><p> <br> <li><b>3. Конституція (розділ «Права та обов’язки»):</b><br> <b>5.2.</b> Кожен зобов’язаний неухильно дотримуватися Конституції Сервера та законів (правил) Сервера, не посягати на права і свободи, честь і гідність інших людей. <br> <b>5.4.</b> Кожен зобов’язаний сплачувати податки і збори в порядку та розмірах, встановлених законом. </p>', '')">
             ІНФОРМАЦІЯ
       </button> &nbsp;
-      <button class="info-button" onclick="openModal('<b>V6.0 | 01.03.2025 | 15:23</b><li>Пункт 20 «Податок на сервер» оновлений;</li><li>Пункт 31 «Автономні дії» перейменований на «Самовільні дії у RP» та оновлений;</li><li>Пункт 22 «Рейди» перейменований на «Банди та мафії», оновлений та розбитий на статті;</li><li>Доданий пункт 35 «Нон-RP поведінка»;</li>', '')">
+      <button class="info-button" onclick="openModal('<b>V6.1 | 06.03.2025 | 20:50</b><li>Оновлений дизайн сайту;</li><li>Стаття 6 пункту 14 «Арешт за перевищення швидкості» видалена;</li><li>Послідовність статей пункту 14 змінена;</li><li>Пункт 7 змінений та розбитий на статті;</li><li>Пункт 38 змінений та розбитий на статті: доданий трудовий кодекс;</li><li>Доданий пункт 52 «ТАКСІ».</li>', '')">
         ОСТАННЄ ОНОВЛЕННЯ
   </button>
       </div>
@@ -462,9 +480,19 @@
             <b><span>Співпраця з уповноваженими особами</b></span>
         </div>
 
-        <div class="menu-item" onclick="openModal('Будь-які атаки на адміністрацію, поліцію, медичних працівників, пожежну службу, співробітників правоохоронних органів, механіків, водіїв громадського транспорту, логістику, учасників судових процесів, працівників мерії, а також атаки правоохоронними органами чи уповноваженими особами на громадян, включаючи підозрюваних, є суворо забороненими. Також забороняються насильницькі дії непрацюючих громадян проти інших громадян. Всі учасники повинні дотримуватися норм законності та взаємоповаги в усіх ситуаціях.', 'Покарання - штраф від 5 000€ до 8 000€ або тимчасовий депорт від 3 до 10 діб')">
-            <div class="item-number"><small><b> 7</b></small></div>
-            <b><span>Атака</b></span>
+        <div class="menu-item" onclick="openModal('Забороняється вбивати інших гравців без конкретної причини або попереднього взаємодії з ними в контексті гри. Вбивства, що здійснюються без попереднього конфлікту або без наявності ролі, що обґрунтовує таку поведінку, вважаються RDM.', 'Покарання - тимчасовий депорт на 3 доби')">
+            <div class="item-number"><small><b> 7. Атака</b></small></div>
+            <b><span>1. RDM (Random Death Match)</b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('Забороняється завдавати шкоди іншим гравцям без причини. Будь-які агресивні дії, які не є частиною гри або не мають відповідної причини, будуть каратися.', 'Покарання - штраф від 5 000€ до 8 000€/тимчасовий депорт на 4 доби/ув’язнення за рішенням адміністрації чи суду')">
+            <div class="item-number"><small><b> 7. Атака</b></small></div>
+            <b><span>2. Атакування інших гравців</b></span>
+        </div>
+
+        <div class="menu-item" onclick="openModal('Забороняється перешкоджати виконанню службових обов’язків іншими гравцями, зокрема представниками адміністрації, медичними працівниками, рятувальниками та іншими службами.', 'Покарання - тимчасовий депорт на 3 доби')">
+            <div class="item-number"><small><b> 7. Атака</b></small></div>
+            <b><span>3. Перешкоджання діяльності</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Забороняється поширення російської/білоруської пропаганди та будь–яких матеріалів, що підтримують або просувають агресію, ворожнечу чи дезінформацію. А також забороняється поширювати будь–яку пропаганду, що підтримує ідеї або дії адольфа гітлера, зокерма використовувати символи, пов’язані з нацистським режимом, такими як свастика або інші символи, які асоціюються з нацизмом і фашизмом.', 'Покарання - безстроковий депорт')">
@@ -473,18 +501,18 @@
         </div>
 
         <div class="menu-item" onclick="openModal('Заборонено привласнювати територію, яка є ліцензована або тимчасово привласнена іншим гравцем. Тимчасово привласнена територія гравцем має бути чітко позначена конусами або стрічками. Якщо територія не позначена, вона вважається загальнодоступною. Привласнювання будинку є безкоштовною функцією, проте дозволяється мати привласненим лише один будинок.', 'Покарання - штраф 7 000€ або тимчасовий депорт до 2 діб')">
-            <div class="item-number"><small><b>9.1</b></small></div>
-            <b><span>Привласнення привласненої/ліцензованої території</b></span>
+            <div class="item-number"><small><b>9. Території</b></small></div>
+            <b><span>1. Привласнення привласненої/ліцензованої території</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Заборонено без дозволу власника заходити або в’їжджати на привласнену або ліцензовану територію іншого гравця. Це включає проникнення пішки, транспортними засобами або іншим способом.', 'Покарання - штраф 6 000€ або тимчасовий депорт до 2 діб')">
-            <div class="item-number"><small><b>9.2</b></small></div>
-            <b><span>Проникнення на привласнену/ліцензовану територію</b></span>
+            <div class="item-number"><small><b>9. Території</b></small></div>
+            <b><span>2. Проникнення на привласнену/ліцензовану територію</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Екстрені служби мають право заходити або в’їжджати на привласнену чи ліцензовану територію лише за попередньою згодою власника або у випадках надзвичайної ситуації (пожежа, загроза життю тощо).', 'Покарання - штраф 7 000€ або тимчасовий депорт до 2 діб')">
-            <div class="item-number"><small><b>9.3</b></small></div>
-            <b><span>Доступ екстрених служб</b></span>
+            <div class="item-number"><small><b>9. Території</b></small></div>
+            <b><span>3. Доступ екстрених служб</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Заборонено подавати неправдиві скарги з метою введення в оману органів або для досягнення особистої вигоди. Усі скарги повинні бути підкріплені конкретними фактами та доказами, що підтверджують наявність порушення. Подання неправдивих скарг вважатиметься серйозним порушенням та може призвести до відповідних дисциплінарних або правових наслідків.', 'Покарання - рішення уповноваженого органу')">
@@ -508,43 +536,38 @@
         </div>
 
         <div class="menu-item" onclick="openModal('Поліцейським забороняється виписувати штрафи без чіткого обґрунтування та доказів порушення правил. Кожен штраф має бути аргументованим і відповідати фактичній ситуації.', 'Покарання - штраф 6 000€')">
-            <div class="item-number"><small><b>14.1</b></small></div>
-            <b><span>Безпідставні штрафи правоохоронними органами</b></span>
+            <div class="item-number"><small><b>14. Правоохоронні органи</b></small></div>
+            <b><span>1. Безпідставні штрафи правоохоронними органами</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Правоохоронні органи мають право затримувати громадян лише за наявності обґрунтованих підстав. Після арешту, затримана особа має бути доставлена до суду для належного розгляду справи. Якщо суд недоступний у момент затримання, правоохоронець зобов’язаний повідомити суддю про інцидент і чекати до 5-10 хвилин для організації судового розгляду. У випадках, коли правопорушення передбачає лише штраф, затримання має бути обмежене, і винуватець повинен отримати відповідні санкції без застосування ув’язнення', 'Покарання - штраф 8 000€ або тимчасовий депорт до 5 діб')">
-            <div class="item-number"><small><b>14.2</b></small></div>
-            <b><span>Безпідставний арешт/ув'язнення правоохоронцями</b></span>
+            <div class="item-number"><small><b>14. Правоохоронні органи</b></small></div>
+            <b><span>2. Безпідставний арешт/ув'язнення правоохоронцями</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Поліцейські, які не досягли рівня досвіду у 10,000 XP, не мають права здійснювати адміністративне стягнення у вигляді штрафів. У разі виявлення порушень з боку інших гравців, такі поліцейські зобов’язані скласти рапорт та передати інформацію про порушника адміністрації для подальшого розгляду і прийняття відповідних заходів.', 'Покарання - штраф 8 000€ або тимчасовий депорт до 6 діб')">
-            <div class="item-number"><small><b>14.3</b></small></div>
-            <b><span>Обмеження повноважень щодо накладення штрафів</b></span>
+            <div class="item-number"><small><b>14. Правоохоронні органи</b></small></div>
+            <b><span>3. Обмеження повноважень щодо накладення штрафів</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Правоохоронним органам заборонено встановлювати шипи для зупинки автомобіля без попередньої перевірки його державного номера авто. Перед застосуванням шипів необхідно переконатися, чи транспортний засіб перебуває у розшуку, чи водій має ліцензію на зброю або чи існують підстави вважати, що водій порушує правила сервера. Якщо автомобіль не перебуває у розшуку і немає законних підстав для зупинки, використання шипів є незаконним.', 'Покарання - штраф  8 000€ або тимчасовий депорт до 3 діб. Компенсація особі, яка не перебуває в розшуку та наїхала на шипи, встановлені правоохоронним органом, здійснюється цим органом у розмірі до 7 000€')">
-            <div class="item-number"><small><b>14.4</b></small></div>
-            <b><span>Використання шипів правоохоронними органами</b></span>
+            <div class="item-number"><small><b>14. Правоохоронні органи</b></small></div>
+            <b><span>4. Використання шипів правоохоронними органами</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Правоохоронні органи мають право штрафувати за перевищення швидкості громадян виключно своїм радаром.', 'Покарання - штраф  7 000€')">
-            <div class="item-number"><small><b>14.5</b></small></div>
-            <b><span>Штрафи за перевищення швидкості</b></span>
-        </div>
-
-        <div class="menu-item" onclick="openModal('Якщо гравець отримав за перевищення швидкості ідентифікатор розшуку (зірочки) правоохоронці не можуть його заарештувати.', 'Покарання - штраф  5 000€')">
-            <div class="item-number"><small><b>14.6</b></small></div>
-            <b><span>Арешт за перевищення швидкості</b></span>
+            <div class="item-number"><small><b>14. Правоохоронні органи</b></small></div>
+            <b><span>5. Штрафи за перевищення швидкості</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Правоохоронні органи не мають права заарештовувати гравців, що володіють ліцензією на зброю. Вони можуть затримати такого гравця для перевірки чи дійсна ліцензія. Арешт допускається лише в разі використання зброї для вчинення злочинів (наприклад, пограбування, напад, хуліганство) або порушення правил сервера.', 'Покарання - штраф  8 000€ або тимчасовий депорт до 5 діб')">
-            <div class="item-number"><small><b>14.7</b></small></div>
-            <b><span>Арешт та ув’язнення гравців із ліцензією на зброю</b></span>
+            <div class="item-number"><small><b>14. Правоохоронні органи</b></small></div>
+            <b><span>6. Арешт та ув’язнення гравців із ліцензією на зброю</b></span>
         </div>
 
         <div class="menu-item" onclick="openModal('Правоохоронцям забороняється використовувати зброю чи тазер без належної на те підстави. Використання зброї має бути обґрунтованим та здійснюватися лише в разі загрози життю або безпосередньої небезпеки для громадського порядку.', 'Покарання - штраф 8 000€ або депорт за рішенням адміністрації чи суда')">
-            <div class="item-number"><small><b>14.8</b></small></div>
-            <b><span>Безпідставне використання зброї або тазера</b></span>
+            <div class="item-number"><small><b>14. Правоохоронні органи</b></small></div>
+            <b><span>7. Безпідставне використання зброї або тазера</b></span>
         </div>
 
     <div class="menu-item" onclick="openModal('Забороняється виходити з сервера під час активної RP-сцени без вагомої причини. Вихід під час важливої ситуації, як-от затримання, переслідування або конфлікт, вважається порушенням. У разі необхідності припинити гру через технічні проблеми чи інші об’єктивні причини, гравець зобов’язаний повідомити адміністрацію.', 'Покарання - депорт на 4 доби')">
@@ -718,9 +741,14 @@
         </div>
 
         <div class="menu-item" onclick="openModal('Усі бізнеси та підприємства повинні бути офіційно зареєстровані на сервері. Незареєстровані бізнеси або підприємства є забороненими. Для реєстрації перейдіть за посиланням у нашій групі в Telegram', 'Покарання - штраф 8 000€ або тимчасовий депорт на 48 годин')">
-            <div class="item-number"><small><b>38</b></small></div>
-            <b><span>Реєстрація бізнесів чи підприємств</b></span>
+            <div class="item-number"><small><b>38. Підприємницька діяльність </b></small></div>
+            <b><span>1. Реєстрація бізнесів чи підприємств</b></span>
         </div>
+
+        <div class="menu-item" <a href="#" onclick="openModal('<b> Роботодавці та працівники зобов’язані дотримуватись положень Трудового кодексу, який визначає основні норми і правила щодо трудових відносин. Перейдіть за кнопкою нижче, щоб відкрити кодекс:</b>', '', [
+            { text: 'ВІДКРИТИ', url: 'https://giknikyev.github.io/laborcode/' },
+            ])"> 38. Підприємницька діяльність <br><br>2. ТРУДОВИЙ КОДЕКС</a>    
+            </div>
 
         <div class="menu-item" onclick="openModal('Заборонено будь-яким чином перешкоджати нормальному перебігу гри, включаючи навмисне блокування інших гравців, порушення правил або створення ситуацій, що перешкоджають ігровому процесу.', 'Покарання - тимчасовий або постійний депорт')">
             <div class="item-number"><small><b>39</b></small></div>
@@ -802,8 +830,22 @@
         <b><span>ПОГРОЗИ</b></span>
     </div>
 
+    <div class="menu-item" <a href="#" onclick="openModal('Щоб легально працювати таксистом, потрібно обов’язково придбати ліцензію через наш бот. Без наявності ліцензії робота таксистом заборонена.', 'Покарання - тимчасовий депорт на 2 доби', [
+        { text: 'ПРИДБАТИ ЛІЦЕНЗІЮ', url: 'https://t.me/TaxiDriverLicense_bot' },
+        ])">52. ТАКСІ <br>1. Ліцензія</a>    
+        </div>
 
+        <div class="menu-item" <a href="#" onclick="openModal('Таксисти не мають права встановлювати власні ціни на послуги. Ціни повинні відповідати тим, що вказані в офіційному каналі в Telegram.', 'Покарання - штраф 8 000€ або тимчасовий депорт на 2 доби', [
+        { text: 'ПЕРЕГЛЯНУТИ ЦІНИ', url: 'https://t.me/TaxiUkraineRP' },
+        ])">52. ТАКСІ <br>2. Ціни</a>    
+        </div>
 
+        <div class="menu-item" onclick="openModal('Таксисти повинні дотримуватися належної поведінки при взаємодії з клієнтами. При прийомі замовлення, таксист зобов’язаний назвати свій код клієнту. Також заборонено хамити клієнтам. Таксист має доставити пасажира до кінця поїздки, виконуючи всі умови договору, і таке ж правило застосовується до пасажирів, які повинні поводитися коректно.', 'Покарання - штраф 8 000€ або тимчасовий депорт на 2 доби')">
+            <div class="item-number"><small><b>52. ТАКСІ</b></small></div>
+            <b><span>3. Поведінка</b></span>
+        </div>
+
+        
 
     <div class="overlay" onclick="closeModal()"></div>
     <div class="modal" id="ruleModal">
@@ -812,6 +854,7 @@
         <p class="penalty" id="penaltyText"></p>
     </div>
 </div>
+<br><br><br>
     <div class="footer">&copy; <b>2025 Ukraine RP. Всі права захищені.</b> <br><small>Усі матеріали, представлені на цьому сайті, є об'єктами авторського права і охороняються відповідно до законодавства. <br>Копіювання, розподіл або використання матеріалів сайту в будь-якій формі без попередньої письмової згоди власника авторських прав заборонено.</small></br></div>
 
     <script>
@@ -839,6 +882,23 @@
         function closeModal() {
             document.getElementById('ruleModal').style.display = 'none';
         }
+
+
+    window.addEventListener('scroll', function () {
+        const topBar = document.querySelector('.top-bar');
+        const header = document.querySelector('.header');
+        if (window.scrollY > 0) {
+            topBar.classList.add('scrolled');
+            header.classList.add('scrolled');
+        } else {
+            topBar.classList.remove('scrolled');
+            header.classList.remove('scrolled');
+        }
+    });
+
+
+
+
 
 window.addEventListener('scroll', function() {
     let menuItems = document.querySelectorAll('.menu-item');
