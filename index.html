@@ -353,10 +353,6 @@ body.scrolled .header {
 
 
         @media (max-width: 768px) {
-            .header {
-                font-size: 2em;
-                margin-top: 120px;
-            }
 
             .menu-container {
                 grid-template-columns: 1fr;
@@ -370,14 +366,26 @@ body.scrolled .header {
         max-width: 250px;
     }
 
-    .top-bar {
-    justify-content: center;
-    position: relative;
-}
+    .header {
+        font-size: 2em;
+        margin-top: 80px;
+    }
 
-.logo {
-    margin: 0 auto;
-}
+    .top-bar {
+        justify-content: center;
+        position: relative;
+        padding-top: 0;
+    }
+
+    .logo {
+        margin-top: -20px;
+        z-index: 900;
+    }
+
+    .side-menu.open ~ .top-bar .logo {
+        z-index: 800;
+        position: relative;
+    }
 
 .menu-button {
     position: absolute;
