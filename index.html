@@ -352,50 +352,29 @@ body.scrolled .header {
 }
 
 @media (max-width: 768px) {
-    .top-bar {
-    margin-top: 0;
-    position: relative;  /* Для того, щоб мати можливість позиціювати логотип відносно нього */
+  .top-bar {
+    margin-top: 0;  
   }
-
-  /* Логотип, коли меню відкривається */
   .side-menu.open ~ .top-bar .logo {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%); /* Центруємо логотип */
-    z-index: -1; /* Логотип буде під меню */
-  }
-
-  /* Задаємо боковому меню z-index, щоб воно було поверх */
-  .side-menu.open {
-    position: fixed; /* Фіксоване меню */
-    z-index: 2; /* Меню поверх логотипа */
-    top: 0;
-    left: 0;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8); /* Трохи затемнене */
-    transform: translateX(0); /* Меню відкривається */
-  }
-
-  .side-menu {
-    width: 180px;
-    position: fixed; /* Фіксоване на екрані */
-    top: 0;
-    left: -180px; /* Спочатку приховано за межами екрану */
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.8); /* Бокове меню має темний фон */
-    transition: transform 0.3s ease;
-  }
-
-  /* Кнопка меню */
-  .menu-button {
-    padding: 6px 8px;
-  }
-
-  /* Кнопки та інші елементи */
+  position: absolute;
+  top: 0;  
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: -1; 
+}
+.side-menu.open {
+  z-index: 1;
+}
   .info-button {
-    padding: 5px 9px;
-    font-size: 0.9em;
+    padding: 5px 9px;  
+    font-size: 0.9em;  
+  }
+  .side-menu {
+    width: 180px;  
+    z-index: 2; 
+  }
+  .menu-button {
+    padding: 6px 8px;  
   }
 
 .menu-container {
