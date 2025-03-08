@@ -355,21 +355,29 @@ body.scrolled .header {
 
 /* Логотип ближче до хедера */
 .logo {
-    margin-top: -70px; /* Зменшуємо відстань між логотипом та хедером */
-    z-index: -900;  /* Підвищуємо пріоритет, щоб логотип був поверх меню */
-}
+        margin-top: -10px; /* Зменшуємо відстань між логотипом і хедером */
+    }
 
-/* Виправлення бокового меню (при відкритті воно перекриває логотип) */
-.side-menu.open ~ .top-bar .logo {
-    z-index: 800;  /* Зменшуємо пріоритет, щоб логотип був під меню */
-    position: relative;
-}
+    /* Логотип під боковим меню */
+    .side-menu.open ~ .top-bar .logo {
+        position: relative;
+        z-index: 800;  /* Зменшуємо пріоритет логотипу */
+    }
 
-/* Зменшення кнопок info-button */
-.info-button {
-    padding: 4px 8px;  /* Зменшуємо відступи */
-    font-size: 0.8em;  /* Зменшуємо розмір шрифту */
-}
+    /* Зменшення розмірів кнопок info-button */
+    .info-button {
+        padding: 5px 9px;  /* Зменшуємо відступи */
+        font-size: 0.9em;  /* Зменшуємо розмір шрифту */
+    }
+
+    /* Виправлення бокового меню */
+    .side-menu {
+        width: 200px;  /* Можливо потрібно зменшити ширину меню */
+    }
+
+    .menu-button {
+        padding: 6px 10px; /* Зменшимо відступи на кнопці меню */
+    }
 
 .menu-container {
     grid-template-columns: 1fr;
@@ -392,11 +400,6 @@ body.scrolled .header {
     justify-content: center;
     position: relative;
     padding-top: 0;
-}
-
-.menu-button {
-    position: absolute;
-    left: 15px;
 }
 
 .social-links {
