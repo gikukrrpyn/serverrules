@@ -352,35 +352,29 @@ body.scrolled .header {
 }
 
 @media (max-width: 768px) {
-  /* Топ-бар ближче до хедера */
   .top-bar {
-    margin-top: 0;  /* Логотип буде без відступів від хедера */
+    margin-top: 0;  
   }
-
-  /* Логотип під боковим меню */
   .side-menu.open ~ .top-bar .logo {
-    position: absolute;
-    top: 0;  /* Логотип відразу над хедером */
-    left: 50%;
-    transform: translateX(-50%); /* Центруємо по горизонталі */
-    z-index: -1; /* Забезпечуємо, що логотип буде під боковим меню */
-  }
-
-  /* Зменшення кнопок info-button */
+  position: absolute;
+  top: 0;  
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: -1; 
+}
+.side-menu.open {
+  z-index: 1;
+}
   .info-button {
-    padding: 5px 9px;  /* Зменшення відступів */
-    font-size: 0.9em;  /* Зменшення розміру шрифту */
+    padding: 5px 9px;  
+    font-size: 0.9em;  
   }
-
-  /* Ширина бокового меню */
   .side-menu {
-    width: 180px;  /* Зменшена ширина меню */
-    z-index: 2; /* Встановлюємо бокове меню поверх логотипа */
+    width: 180px;  
+    z-index: 2; 
   }
-
-  /* Кнопка меню */
   .menu-button {
-    padding: 6px 8px;  /* Зменшення відступів на кнопці меню */
+    padding: 6px 8px;  
   }
 
 .menu-container {
