@@ -351,69 +351,71 @@ body.scrolled .header {
     }
 }
 
+@media (max-width: 768px) {
 
-        @media (max-width: 768px) {
+/* Логотип ближче до хедера */
+.logo {
+    margin-top: -10px; /* Зменшуємо відстань між логотипом та хедером */
+    z-index: 900;  /* Підвищуємо пріоритет, щоб логотип був поверх меню */
+}
 
-            .menu-container {
-                grid-template-columns: 1fr;
-                margin-top: 20px;
-                margin-bottom: 40px;
-            }
+/* Виправлення бокового меню (при відкритті воно перекриває логотип) */
+.side-menu.open ~ .top-bar .logo {
+    z-index: 800;  /* Зменшуємо пріоритет, щоб логотип був під меню */
+    position: relative;
+}
 
-            .menu-item {
-        font-size: 1em;
-        padding: 15px;
-        max-width: 250px;
-    }
+/* Зменшення кнопок info-button */
+.info-button {
+    padding: 5px 10px;  /* Зменшуємо відступи */
+    font-size: 1em;  /* Зменшуємо розмір шрифту */
+}
 
-    .header {
-        font-size: 2em;
-        margin-top: 80px;
-    }
+.menu-container {
+    grid-template-columns: 1fr;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
 
-    .top-bar {
-        justify-content: center;
-        position: relative;
-        padding-top: 0;
-    }
+.menu-item {
+    font-size: 1em;
+    padding: 15px;
+    max-width: 250px;
+}
 
-    .logo {
-        margin-top: -20px;
-        z-index: 900;
-    }
+.header {
+    font-size: 2em;
+    margin-top: 80px;
+}
 
-    .side-menu.open ~ .top-bar .logo {
-        z-index: 800;
-        position: relative;
-    }
+.top-bar {
+    justify-content: center;
+    position: relative;
+    padding-top: 0;
+}
 
 .menu-button {
     position: absolute;
     left: 15px;
 }
 
-            .social-links {
-                position: relative;
-                left: 0;
-                display: flex;
-                gap: 8px;
-                margin-top: 10px;
-            }
-
-            .social-links a {
-                font-size: 0.9em;
-                padding: 6px 10px;
-            }
-
-            .modal {
-                width: 80%;
-            }
-
-            .info-button {
-    padding: 1px 3px;
-
+.social-links {
+    position: relative;
+    left: 0;
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
 }
-        }
+
+.social-links a {
+    font-size: 0.9em;
+    padding: 6px 10px;
+}
+
+.modal {
+    width: 80%;
+}
+}
 
     </style>
 </head>
