@@ -353,10 +353,6 @@ body.scrolled .header {
 
 
         @media (max-width: 768px) {
-            .header {
-                font-size: 2em;
-                margin-top: 120px;
-            }
 
             .menu-container {
                 grid-template-columns: 1fr;
@@ -371,18 +367,64 @@ body.scrolled .header {
     }
 
     .top-bar {
-    justify-content: center;
-    position: relative;
-}
+        justify-content: center;
+        position: relative;
+        padding: 10px 0;
+    }
 
-.logo {
-    margin: 0 auto;
-}
+    .logo {
+        margin: 0 auto;
+        max-width: 150px; /* Зменшення розміру логотипа */
+    }
 
-.menu-button {
-    position: absolute;
-    left: 15px;
-}
+    .menu-button {
+        position: absolute;
+        left: 15px;
+        z-index: 2000;
+    }
+
+    .header {
+        font-size: 2em;
+        margin-top: 80px; /* Було 120px */
+    }
+
+.side-menu {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: rgba(34, 34, 34, 0.95);
+        padding: 20px;
+        transition: left 0.3s ease-in-out;
+        z-index: 3000; /* Вище за інші елементи */
+    }
+
+    .side-menu.open {
+        left: 0;
+    }
+
+    /* Заборона прокрутки під час відкритого меню */
+    body.menu-open {
+        overflow: hidden;
+    }
+
+ .overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 2500; /* Між контентом і меню */
+        transition: opacity 0.3s;
+    }
+
+    .side-menu.open + .overlay {
+        display: block;
+        opacity: 1;
+    }
 
             .social-links {
                 position: relative;
@@ -904,6 +946,13 @@ body.scrolled .header {
         }
     });
 
+    const sideMenu = document.querySelector('.side-menu');
+const menuButton = document.querySelector('.menu-button');
+
+menuButton.addEventListener('click', () => {
+    sideMenu.classList.toggle('open');
+    document.body.classList.toggle('menu-open');
+});
 
 
 
