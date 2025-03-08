@@ -352,29 +352,50 @@ body.scrolled .header {
 }
 
 @media (max-width: 768px) {
-  .top-bar {
-    margin-top: 0;  
+    .top-bar {
+    margin-top: 0;
+    position: relative;  /* Для того, щоб мати можливість позиціювати логотип відносно нього */
   }
+
+  /* Логотип, коли меню відкривається */
   .side-menu.open ~ .top-bar .logo {
-  position: absolute;
-  top: 0;  
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: -1; 
-}
-.side-menu.open {
-  z-index: 1;
-}
-  .info-button {
-    padding: 5px 9px;  
-    font-size: 0.9em;  
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%); /* Центруємо логотип */
+    z-index: -1; /* Логотип буде під меню */
   }
+
+  /* Задаємо боковому меню z-index, щоб воно було поверх */
+  .side-menu.open {
+    position: fixed; /* Фіксоване меню */
+    z-index: 2; /* Меню поверх логотипа */
+    top: 0;
+    left: 0;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Трохи затемнене */
+    transform: translateX(0); /* Меню відкривається */
+  }
+
   .side-menu {
-    width: 180px;  
-    z-index: 2; 
+    width: 180px;
+    position: fixed; /* Фіксоване на екрані */
+    top: 0;
+    left: -180px; /* Спочатку приховано за межами екрану */
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8); /* Бокове меню має темний фон */
+    transition: transform 0.3s ease;
   }
+
+  /* Кнопка меню */
   .menu-button {
-    padding: 6px 8px;  
+    padding: 6px 8px;
+  }
+
+  /* Кнопки та інші елементи */
+  .info-button {
+    padding: 5px 9px;
+    font-size: 0.9em;
   }
 
 .menu-container {
@@ -420,15 +441,7 @@ body.scrolled .header {
 
     </style>
 </head>
-<body>    
-    
-    <div class="top-bar">
-        <img src="logoserver.png" alt="Логотип" class="logo" />
-    </div>
-    
-    
-
-    
+<body>        
     <div id="sideMenu" class="side-menu">
         <p><h2 style="color: white; text-align: center;">МЕНЮ</h2></p>
         <a href="https://www.roblox.com/games/start?placeId=7711635737&launchData=joinCode%3D0uadtv1u">ПОСИЛАННЯ НА СЕРВЕР</a>
@@ -436,6 +449,10 @@ body.scrolled .header {
         <a href="https://telegra.ph/Rol%D1%96-serveru-Ukraine-RP-v-EH-10-21">РОЛІ</a>
         <a href="https://telegra.ph/L%D1%96cenzovan%D1%96-gravc%D1%96-na-server%D1%96-Ukraine-RP-v-EH-10-28">ЛІЦЕНЗІЇ</a>
         <a href="https://telegra.ph/Kodi-servera-Ukraine-RP-v-EH-11-10-4">КОДИ</a>
+    </div>
+    
+    <div class="top-bar">
+        <img src="logoserver.png" alt="Логотип" class="logo" />
     </div>
     
 
