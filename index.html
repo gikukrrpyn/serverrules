@@ -352,36 +352,36 @@ body.scrolled .header {
 }
 
 @media (max-width: 768px) {
+  /* Топ-бар ближче до хедера */
+  .top-bar {
+    margin-top: 0;  /* Логотип буде без відступів від хедера */
+  }
 
-/* Топ-бар ближче до хедера */
-.top-bar {
-     margin-top: 20px;  /* Зменшуємо відстань між топ-баром і хедером */
- }
-
- /* Логотип під боковим меню */
- .side-menu.open ~ .top-bar .logo {
+  /* Логотип під боковим меню */
+  .side-menu.open ~ .top-bar .logo {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    z-index: -2;
-     transform: translate(-50%, -50%); /* Центруємо */
- }
+    top: 0;  /* Логотип відразу над хедером */
+    left: 50%;
+    transform: translateX(-50%); /* Центруємо по горизонталі */
+    z-index: 1; /* Забезпечуємо, що логотип буде під боковим меню */
+  }
 
- /* Зменшення кнопок info-button */
- .info-button {
-     padding: 5px 9px;  /* Зменшення відступів */
-     font-size: 0.9em;  /* Зменшення розміру шрифту */
- }
+  /* Зменшення кнопок info-button */
+  .info-button {
+    padding: 5px 9px;  /* Зменшення відступів */
+    font-size: 0.9em;  /* Зменшення розміру шрифту */
+  }
 
- /* Ширина бокового меню */
- .side-menu {
-     width: 180px;  /* Зменшена ширина меню */
- }
+  /* Ширина бокового меню */
+  .side-menu {
+    width: 180px;  /* Зменшена ширина меню */
+    z-index: 2; /* Встановлюємо бокове меню поверх логотипа */
+  }
 
- /* Кнопка меню */
- .menu-button {
-     padding: 6px 8px;  /* Зменшення відступів на кнопці меню */
- }
+  /* Кнопка меню */
+  .menu-button {
+    padding: 6px 8px;  /* Зменшення відступів на кнопці меню */
+  }
 
 .menu-container {
     grid-template-columns: 1fr;
