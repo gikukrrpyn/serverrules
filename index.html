@@ -370,19 +370,21 @@ body.scrolled .header {
     }
 
     .side-menu {
-        width: 180px;
-        left: -200px;
-        z-index: 1000;
-        transition: left 0.3s ease-in-out;
-    }
+    width: 180px;
+    left: -200px; 
+    z-index: 1000; 
+    transition: left 0.3s ease-in-out;
+}
 
-    .side-menu.open {
-        left: 0;
-    }
+.side-menu.open {
+    left: 0;
+    z-index: 1100; 
+}
 
-    .side-menu.open ~ .menu-button {
-        z-index: 1002; 
-    }
+.side-menu.open ~ .menu-button {
+    z-index: 1102; 
+}
+
   .info-button {
     padding: 5px 9px;  
     font-size: 0.9em;  
@@ -403,6 +405,11 @@ body.scrolled .header {
 .header {
     font-size: 2em;
     margin-top: 80px;
+}
+
+.header small {
+    font-size: 0.3em; 
+    opacity: 0.8;
 }
 
 .top-bar {
