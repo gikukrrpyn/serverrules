@@ -372,18 +372,19 @@ body.scrolled .header {
     .side-menu {
     width: 180px;
     left: -200px; 
-    z-index: 1000; 
+    z-index: -1; 
     transition: left 0.3s ease-in-out;
 }
 
 .side-menu.open {
-    left: 0;
+    left: 0; 
     z-index: 1100; 
 }
 
 .side-menu.open ~ .menu-button {
     z-index: 1102; 
 }
+
 
   .info-button {
     padding: 5px 9px;  
@@ -408,7 +409,7 @@ body.scrolled .header {
 }
 
 .header small {
-    font-size: 0.3em; 
+    font-size: 0.4em; 
     opacity: 0.8;
 }
 
