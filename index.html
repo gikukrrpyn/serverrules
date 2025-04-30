@@ -309,7 +309,6 @@ body.scrolled .header {
     opacity: 0.8;
 }
 
-
 .info-button {
             background: #0000003f;
             border: none;
@@ -343,6 +342,22 @@ body.scrolled .header {
             color: #151414;
             font-size: 1.3em;
         }
+
+        #fixed-update-label {
+    position: fixed;
+    bottom: 5px;
+    left: 10px;
+    font-size: 10px;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    opacity: 0.8;
+    z-index: 10000;
+    pointer-events: none;
+    background: transparent;
+}
+
+
+
         @keyframes dropEffect {
     0% {
         transform: translateY(-100px); 
@@ -455,8 +470,8 @@ body.scrolled .header {
     
 
     <div class="header"><b>ПРАВИЛА СЕРВЕРА</b>
-              <br><small>Використовується серверами Ukraine RP & Revolution RP</small></div><br>
-             <small>Оновлено 30.04.2025 о 18:00</small>
+              <br><small>Використовується серверами Ukraine RP & Revolution RP</small><br>
+             </div>
 
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -1215,6 +1230,7 @@ function isElementInView(el) {
     });
 </script>
     
+<div id="fixed-update-label">Оновлено 30.04.2025 о 18:00</div>
 
 </body>
 </html>
