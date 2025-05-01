@@ -415,93 +415,9 @@ body.scrolled .header {
   background-size: 200% 200%;
   -webkit-background-clip: text;
   background-clip: text;
-  animation: shine 1.2s ease-out forwards, fadeToWhite 1.2s 1.2s forwards; 
+  animation: shine 1.2s ease-out forwards, fadeToWhite 1.2s 1.2s forwards; /* Додаємо анімації */
   pointer-events: none;
   white-space: nowrap;
-}
-
-.org-section {
-  margin-top: 50px;
-  padding: 20px;
-  background: linear-gradient(to bottom, #fffffff0, #fbd7a5b2);
-  border-radius: 10px;
-}
-
-.org-tabs input[type="radio"] {
-  display: none;
-}
-
-.org-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-bottom: 20px;
-}
-
-.org-btn {
-  color: white;
-  padding: 10px 20px;
-  border-radius: 8px;
-  cursor: pointer;
-  font-weight: bold;
-  transition: background 0.3s;
-  white-space: nowrap;
-}
-
-.org-btn.admin { background-color: #df0000; }
-.org-btn.court { background-color: #e9bf02; }
-.org-btn.dbr   { background-color: #dc890c; }
-.org-btn.sbs   { background-color: #0f31db; }
-.org-btn.mvs   { background-color: #b30fd7; }
-
-.org-btn:hover {
-  filter: brightness(1.1);
-}
-
-.org-content {
-  width: 100%;
-}
-
-.org-tab-content {
-  display: none;
-  background: #f7f9ff;
-  padding: 20px;
-  border-left: 5px solid transparent;
-  border-radius: 8px;
-}
-
-#admin:checked ~ .org-content .admin {
-  display: block;
-  border-left-color: #df0000;
-}
-
-#court:checked ~ .org-content .court {
-  display: block;
-  border-left-color: #e9bf02;
-}
-
-#dbr:checked ~ .org-content .dbr {
-  display: block;
-  border-left-color: #dc890c;
-}
-
-#sbs:checked ~ .org-content .sbs {
-  display: block;
-  border-left-color: #0f31db;
-}
-
-#mvs:checked ~ .org-content .mvs {
-  display: block;
-  border-left-color: #b30fd7;
-}
-
-
-#admin:checked ~ .org-content .admin,
-#court:checked ~ .org-content .court,
-#dbr:checked ~ .org-content .dbr,
-#sbs:checked ~ .org-content .sbs,
-#mvs:checked ~ .org-content .mvs {
-  display: block;
 }
 
 
@@ -598,31 +514,6 @@ body.scrolled .header {
 .modal {
     width: 80%;
 }
-.org-section {
-    margin-top: 10px;
-    padding: 5px;
-  }
-
-  .org-buttons {
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: center;
-    margin-bottom: 15px;
-  }
-
-  .org-btn {
-    padding: 5px 10px;
-    font-size: 12px;
-    border-radius: 4px;
-    flex: 0 0 auto;
-  }
-
-  .org-tab-content {
-    padding: 10px;
-    font-size: 12px;
-    border-left-width: 2px;
-    border-radius: 5px;
-  }
 }
 
     </style>
@@ -1171,7 +1062,7 @@ body.scrolled .header {
 
 <h3>Стаття 2. Встановлення КПП чи блокпостів</h3>
 <p>Встановлення блокпостів і КПП забороняється в центральних районах міста, зокрема: територія біля банку, територія біля ювілера, центральний міст біля Ares Fuel, ринкові площі та зупинки громадського транспорту. Ці місця є важливими транспортними артерієями, і будь-яке обмеження руху в цих зонах негативно впливає на загальний трафік міста. Винятком є випадки масованих атак або надзвичайних ситуацій, коли встановлення КПП чи блокпостів може бути необхідним для забезпечення безпеки громадян. У таких ситуаціях необхідно отримати розпорядження від адміністрації. <br><i>Для чіткої ідентифікації зон додається схематичне фото нижче, яке відображає межі територій, де встановлення КПП чи блокпостів дозволено та заборонено.</i></p>
-<img src='https://i.postimg.cc/sf6YqHrS/v7-3.png' alt='' style='margin-top: 10px; border-radius: 10px; max-width: 100%; height: auto;'>
+<img src='https://i.postimg.cc/J4HhzDW0/46.png' alt='' style='margin-top: 10px; border-radius: 10px; max-width: 100%; height: auto;'>
 <p><strong style='color: red;'>Покарання - тимчасовий депорт на 2 доби</strong></p>
 <hr>
 
@@ -1334,7 +1225,7 @@ body.scrolled .header {
 
 
 <div class="menu-item" onclick="openModal(`
-<h2>Адвокадська діяльність</h2>
+<h2>Авокадська діяльність</h2>
 
 <h3>Стаття 1. Адвокатська ліцензія</h3>
 <p>Адвокати є незалежними особами, і для того, щоб працювати адвокатом на сервері, потрібно придбати адвокатську ліцензію. Працювати без неї заборонено. Ліцензію можна отримати через бота за кнопкою нижче.</p>
@@ -1349,7 +1240,7 @@ body.scrolled .header {
 
 `)">
 <div class="item-number"><small><b>43</b></small></div>
-<b><span>Адвокадська діяльність</span></b>
+<b><span>Авокадська діяльність</span></b>
 </div>    
 
 
@@ -1381,9 +1272,8 @@ body.scrolled .header {
         <div class="menu-item" onclick="openModal('Забороняється відсутність реакції персонажа на реальну загрозу, наприклад, коли персонаж не виявляє страху або не підкоряється вимогам, коли на нього спрямована зброя або він перебуває в небезпечній ситуації.', 'Покарання - депорт на 5 діб')">
             <div class="item-number"><small><b>45</b></small></div>
             <b><span>FZ (FearRP)</b></span>
-        </div>     
+        </div>
 
-        
     <div class="overlay" onclick="closeModal()"></div>
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -1391,146 +1281,7 @@ body.scrolled .header {
         <p class="penalty" id="penaltyText"></p>
     </div>
 </div>
-
-
-<div class="org-section">
-    <h2>ДЕРЖАВНІ ОРГАНИ</h2>
-  
-    <div class="org-tabs">
-  
-
-      <input type="radio" name="org-tab" id="admin">
-      <input type="radio" name="org-tab" id="court">
-      <input type="radio" name="org-tab" id="dbr">
-      <input type="radio" name="org-tab" id="sbs">
-      <input type="radio" name="org-tab" id="mvs">
-  
-   
-      <div class="org-buttons">
-        <label for="admin" class="org-btn admin">АДМІНІСТРАЦІЯ</label>
-        <label for="court" class="org-btn court">СУД</label>
-        <label for="dbr" class="org-btn dbr">ДБР</label>
-        <label for="sbs" class="org-btn sbs">СБС</label>
-        <label for="mvs" class="org-btn mvs">МВС</label>
-      </div>
-  
-
-      <div class="org-content">
-        <div class="org-tab-content admin">
-          <h3>АДМІНІСТРАЦІЯ</h3>
-          <p><b>ЗАГАЛЬНІ ПОЛОЖЕННЯ</b><br>
-            Адміністрація має право карати гравців за будь-які порушення правил серверу, щоб забезпечити порядок та підтримувати RP-атмосферу. <br>Вона відповідає за дотримання правил, надання допомоги гравцям та контролювання їхніх дій. <br>Адміністратор не є гравцем з привілеями, а є службовою особою, яка діє в інтересах спільноти. Всі дії адміністрації мають бути об'єктивними, обґрунтованими та відповідати високим стандартам поведінки.</p>
-        <hr>
-        <b>ПОВНОВАЖЕННЯ</b><br>
-        Повноваження адміністрації є різними для кожного рівня та розподіляються відповідно до внутрішнього регламенту і структури адміністративного складу.
-        <hr>
-        <b>ПРАВИЛА</b>
-        <ul>
-            <li><strong>Дотримання ролі та RP-процесу</strong>
-              <ul>
-                <li><strong>1.1.</strong> Адміністратор повинен залишатися в рамках своєї ролі та не втручатися в ігровий процес без необхідності.</li>
-                <li><strong>1.2.</strong> Усі дії адміністратора мають відповідати RP-процесу та не порушувати атмосферу гри.</li>
-              </ul>
-            </li>
-            <li><strong>Знання правил</strong>
-              <ul>
-                <li><strong>2.1.</strong> Адміністратор зобов’язаний відмінно знати всі правила серверу та суворо їх дотримуватися.</li>
-                <li><strong>2.2.</strong> У разі змін або доповнень до правил адміністратор зобов’язаний ознайомитися з ними та діяти відповідно.</li>
-              </ul>
-            </li>
-            <li><strong>Обґрунтовані покарання</strong>
-              <ul>
-                <li><strong>3.1.</strong> Будь-який бан, кік або інше покарання має бути аргументованим та відповідати порушенню.</li>
-                <li><strong>3.2.</strong> При видачі бана обов’язково вказувати чітку причину у відповідній гілці.</li>
-              </ul>
-            </li>
-            <li><strong>Заборона зловживання адміністративними правами</strong>
-              <ul>
-                <li><strong>4.1.</strong> Адміністратору заборонено використовувати свої права для особистої вигоди або привілеїв.</li>
-                <li><strong>4.2.</strong> Заборонено допомагати гравцям поза межами RP-процесу.</li>
-              </ul>
-            </li>
-            <li><strong>Об’єктивність та неупередженість</strong>
-              <ul>
-                <li><strong>5.1.</strong> Адміністратор не повинен керуватися особистими симпатіями чи антипатіями при винесенні рішень.</li>
-                <li><strong>5.2.</strong> Всі гравці рівні перед правилами незалежно від статусу, досвіду або знайомств.</li>
-              </ul>
-            </li>
-            <li><strong>Адекватна комунікація</strong>
-              <ul>
-                <li><strong>6.1.</strong> Адміністратор має поводитися чемно та не вступати в конфлікти з гравцями.</li>
-                <li><strong>6.2.</strong> У разі скарг або питань адміністрація повинна розглядати їх у конструктивний спосіб.</li>
-              </ul>
-            </li>
-            <li><strong>Службова етика</strong>
-              <ul>
-                <li><strong>7.1.</strong> Внутрішні обговорення та адміністративна інформація не повинні виноситися за межі адмін-складу.</li>
-                <li><strong>7.2.</strong> Адміністратор має зберігати конфіденційність внутрішньої інформації серверу.</li>
-              </ul>
-            </li>
-            <li><strong>Використання адміністративних команд</strong>
-              <ul>
-                <li><strong>8.1.</strong> Адміністратор має право використовувати тільки ті команди, які дозволені для його рівня адміністрації.</li>
-                <li><strong>8.2.</strong> Адміністратор має право використовувати тільки ті команди, які дозволені для ролі.</li>
-                <li><strong>8.3.</strong> Використання адміністративних команд для розваг, тролінгу гравців або отримання особистих переваг заборонене.</li>
-                <li><strong>8.4.</strong> Забороняється призначати події, створювати ситуації або надавати гравцям можливості, які не передбачені ігровим процесом.</li>
-              </ul>
-            </li>
-            <li><strong>Серйозність у виконанні обов’язків</strong>
-              <ul>
-                <li><strong>9.1.</strong> Адміністратор має діяти в межах правил та законів сервера, виконуючи свої обов’язки з відповідальністю.</li>
-                <li><strong>9.2.</strong> Заборонено "балуватися" з гравцями, зловживати повноваженнями або навмисно створювати хаос у грі.</li>
-                <li><strong>9.3.</strong> Усі рішення адміністратора мають бути обґрунтованими, продуманими та відповідати встановленим правилам.</li>
-              </ul>
-            </li>
-            <li><strong>Відповідальність за свої дії</strong>
-              <ul>
-                <li><strong>10.1.</strong> Адміністратор несе відповідальність за кожне своє рішення. У разі помилки він повинен визнати її та виправити ситуацію.</li>
-                <li><strong>10.2.</strong> За порушення правил адміністратора може бути знижено у посаді або усунено з адміністративного складу.</li>
-              </ul>
-            </li>
-            <li><strong>Використання команди nametag</strong>
-              <ul>
-                <li><strong>11.1.</strong> Забороняється встановлювати імена, які не відповідають ролі гравця.</li>
-                <li><strong>11.2.</strong> Заборонено використовувати образливі, нецензурні або провокаційні імена.</li>
-              </ul>
-            </li>
-            <li><strong>Дотримання законності</strong>
-              <ul>
-                <li><strong>12.1.</strong> Адміністратори зобов’язані дотримуватися принципу законослухняності та не порушувати встановлені правила сервера.</li>
-                <li><strong>12.2.</strong> Адміністратору заборонено перебувати в нелегальних організаціях, таких як банди, картелі або інші злочинні угруповання.</li>
-                <li><strong>12.3.</strong> Участь адміністратора в незаконній діяльності, навіть у рамках RP, вважається порушенням та може призвести до дисциплінарних заходів.</li>
-              </ul>
-            </li>
-          </ul>
-              
-        
-        
-        
-        </p>
-        </div>
-        <div class="org-tab-content court">
-          <h3>СУД</h3>
-          <p>Розглядає конфлікти...</p>
-        </div>
-        <div class="org-tab-content dbr">
-          <h3>ДБР</h3>
-          <p>Проводить розслідування...</p>
-        </div>
-        <div class="org-tab-content sbs">
-          <h3>СБС</h3>
-          <p>Внутрішня безпека...</p>
-        </div>
-        <div class="org-tab-content mvs">
-          <h3>МВС</h3>
-          <p>Загальний порядок...</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
 <br><br><br>
-
     <div class="footer">&copy; <b>Розроблено та створено GiK. 2025 Ukraine RP. Всі права захищені.</b> <br><small>Усі матеріали, представлені на цьому сайті, є об'єктами авторського права і охороняються відповідно до законодавства. <br>Копіювання, розподіл або використання матеріалів сайту в будь-якій формі без попередньої письмової згоди власника авторських прав заборонено.</small></br></div>
 
     <script>
