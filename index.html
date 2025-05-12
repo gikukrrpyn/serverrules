@@ -200,6 +200,7 @@ body.scrolled .header {
     display: block;
     color: #fff;
     text-decoration: none;
+    font-size: 0.80em;
     padding: 10px;
     background: #444;
     margin-bottom: 10px;
@@ -211,6 +212,24 @@ body.scrolled .header {
 .side-menu a:hover {
     background: #666;
 }
+
+
+.side-menu .social-media a {
+    background: #333;
+    margin-bottom: 8px;
+    font-size: 0.80em;
+    display: flex;
+    align-items: left;
+    gap: 10px;
+    padding: 8px;
+}
+
+.side-menu .social-media a img.icon {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
 
         .modal .link-buttons {
             margin-top: 15px;
@@ -717,13 +736,36 @@ body.scrolled .header {
         <a href="https://giknikyev.github.io/roles/">РОЛІ</a>
         <a href="https://giknikyev.github.io/playerverification/">Перевірка гравців</a>
         <a href="https://telegra.ph/Kodi-servera-Ukraine-RP-v-EH-11-10-4">Коди</a>
+        <div class="social-media">
+          <h3 style="color: white; text-align: center;">Social Media</h3></p>
+          <a href="https://t.me/UkraineRP_EH" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" class="icon">
+            Telegram
+          </a>
+          <a href="https://www.tiktok.com/@ukrainerpeh" target="_blank">
+            <img src="https://seekvectors.com/files/download/Tik-Tok-Logo-08.png" alt="TikTok" class="icon">
+            TikTok
+          </a>
+          <a href="https://www.youtube.com/@ukrainerpeh" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" class="icon">
+            YouTube
+          </a>
+          <a href="https://www.roblox.com/communities/35692392/UKRAINE-RP-EH-Server-UR" target="_blank">
+            <img src="https://img.icons8.com/ios_filled/512/228BE6/roblox.png" alt="Roblox" class="icon">
+            Roblox Community
+          </a>
+          <a href="https://x.com/ukrainerpeh" target="_blank">
+            <img src="https://brandlogos.net/wp-content/uploads/2023/07/x__twitter-logo_brandlogos.net_fxbde-300x300.png" alt="Twitter" class="icon">
+            X (Twitter)
+          </a>
+        </div>
+        
     </div>
     
     <div class="top-bar">
         <img src="logoserver.png" alt="Логотип" class="logo" />
     </div>
     
-
     <div class="header">
         <b data-text="ПРАВИЛА СЕРВЕРА">ПРАВИЛА СЕРВЕРА</b>
             
@@ -1147,12 +1189,23 @@ body.scrolled .header {
             <div class="item-number"><small><b>18</b></small></div>
             <b><span>RK (RevengeKill)</b></span>
         </div>
+        <div class="menu-item" onclick="openModal(`
+        <h2>Зовнішній вигляд</h2>
+        <ul>
+          <li>Заборонено використовувати скіни, що містять образливі зображення або елементи пропаганди будь-якого виду.</li>
+          <li>Заборонено вписувати у власне ім’я образливі слова або елементи пропаганди.</li>
+          <li>Заборонено використовувати надмірно великі скіни, які перекривають інших гравців або заважають нормальному ігровому процесу.</li>
+          <li>Заборонено використовувати скіни, що імітують форму або одяг працівників спецслужб чи державних органів (спецназ, ДБР, СБС, поліція тощо).</li>
+          <li>Заборонено носити футболки або інший одяг з написами, емблемами чи символікою спецслужб або державних органів.</li>
+          <li>Українська символіка дозволена, якщо її використання не має образливого чи агресивного контексту.</li>
+        </ul>
+<p><strong style='color: red;'>Покарання - тимчасовий або постійний депорт за рішенням уповноваженого органу</strong></p>
 
-        <div class="menu-item" onclick="openModal('На сервері забороняється використовувати скіни, що містять образливі зображення або пропаганду, а також вписувати у власне ім’я образливі слова або пропаганду будь-якого виду. Використання скінів, що імітують форму або одяг працівників спеціальних служб чи державних органів, таких як спецназ, ДБР, СБУ/СБС, поліція тощо, а також футболок або іншого одягу з написами, емблемами чи символікою цих органів, також заборонене. Українська символіка не вважається пропагандою і дозволена на сервері, за умови, що її використання не має образливого чи агресивного контексту', 'Покарання - тимчасовий або постійний бан за рішенням адміністрації чи суду')">
-            <div class="item-number"><small><b>19</b></small></div>
-            <b><span>Зовнішній вигляд</b></span>
-        </div>
-
+        `)">
+        <div class="item-number"><small><b>19</b></small></div>
+        <b><span>Зовнішній вигляд</span></b>
+      </div>
+ 
         <div class="menu-item" onclick="openModal('Усі <b>побутові гравці</b> зобов’язані сплачувати податок на username <b>p1eyys</b> у розмірі 6 900€ в першу та останню суботу повноцінного тижня місяця. Адміністрація, суд та інші державні органи також зобов’язані сплачувати податок, але в розмірі 50% від зазначеної суми (3 450€). Кошти з податків спрямовуються на виплату зарплат адміністрації, мерії, державним органам та на організацію різноманітних заходів і фінансування проєктів розвитку серверу. <b>Промислові гравці</b> (власники бізнесів) також зобов’язані сплачувати податок на username <b>p1eyys</b> у розмірі 8 000€ двічі на місяць — 1-го та 15-го числа. Зібрані кошти спрямовуються на фінансування громадських заходів, виплату зарплат адміністрації та державним органам', 'Покарання - заборона участі в івентах, заборона працевлаштування в держ-органах та тимчасовий депорт на 14 діб або штраф розміром 16 000€')">
             <div class="item-number"><small><b>20</b></small></div>
             <b><span>Податок на сервер</b></span>
@@ -1343,8 +1396,6 @@ body.scrolled .header {
             <b><span>Залишення сміття чи непотрібних предметів</b></span>
         </div>
 
-
-
         <div class="menu-item" onclick="openModal(`
         <h2>Підприємництво та трудове право</h2>
         
@@ -1444,7 +1495,7 @@ body.scrolled .header {
 
 <div class="menu-item" onclick="openModal('Заборонено використовувати будь-яку інформацію, отриману поза грою (OOC), для впливу на внутрішньоігровий процес (IC). Це включає отримання ігрової переваги через сторонні платформи, такі як Discord, Telegram або стріми, а також читання OOC-чату для передбачення подій або зміни їхнього ходу в грі.', 'Покарання - депорт на 2 діб')">
     <div class="item-number"><small><b>42</b></small></div>
-    <b><span>Заборона мета-гри – використання OOC (Out of Character)</b></span>
+    <b><span>Заборона мета-гри – використання OOC (Out of Character) в IC</b></span>
 </div>
 
 
@@ -2111,7 +2162,7 @@ function isElementInView(el) {
     });
 </script>
     
-<div id="fixed-update-label">Оновлено 07.05.2025 о 03:30</div>
+<div id="fixed-update-label">Оновлено 12.05.2025</div>
 
 </body>
 </html>
