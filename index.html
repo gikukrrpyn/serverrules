@@ -2368,20 +2368,21 @@ const filtered = searchData.filter(({title = '', content = '', index}) => {
       return;
     }
 
-    filtered.forEach(({menuItem, title, index}) => {
-      const div = document.createElement('div');
-      div.textContent = `${index}. ${title}`;
-      div.title = `Перейти до пункту: ${title}`;
+filtered.forEach(({menuItem, title, index}) => {
+  const div = document.createElement('div');
+  div.textContent = `${index}. ${title}`;
+  div.title = `Перейти до пункту: ${title}`;
 
-      div.addEventListener('click', () => {
+  div.addEventListener('click', () => {
+    menuItem.click();
 
-        menuItem.click();
+    setTimeout(() => {
+      menuItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 100);
+  });
 
-       
-      });
-
-      resultsContainer.appendChild(div);
-    });
+  resultsContainer.appendChild(div);
+});
   });
 })();
  const input = document.getElementById("search-input");
