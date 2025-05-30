@@ -742,9 +742,72 @@ a:hover {
     padding: 15px;
     max-width: 90%; 
   }
+   #search-container {
+    padding: 0 10px;
+  }
+
+  #search-input {
+    font-size: 1em;
+    padding: 8px 12px;
+  }
+
+  #search-results {
+    font-size: 0.95em;
+  }
 
 }
 
+#search-container {
+  max-width: 1100px;
+  margin: 20px auto;
+  text-align: center;
+  padding: 0 15px;
+}
+
+#search-input {
+  width: 100%;
+  max-width: 600px;
+  padding: 10px 15px;
+  font-size: 1.1em;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#search-input:focus {
+  border-color: #007bff;
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+#search-results {
+  display: none;
+  margin-top: 10px;
+  text-align: left;
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+.highlighted {
+    background-color: yellow;
+    transition: background-color 0.5s ease;
+  }
+
+  #search-results div {
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px solid #ddd;
+    font-weight: 600;
+  }
+  #search-results div:hover {
+    background-color: #dedbdb;
+  }
    </style>
 </head>
 <body>        
@@ -824,6 +887,11 @@ a:hover {
     RP ПРОЦЕС
 </button></div>
      
+<div id="search-container">
+  <input type="search" id="search-input" placeholder="Знайти пункт...">
+  <div id="search-results"></div>
+</div>
+
     <div class="menu-container">
   <div class="menu-item" onclick="openModal(`
         <h2>Повага, антибулінг та особистий простір</h2>
@@ -1251,6 +1319,7 @@ a:hover {
           <li>Заборонено використовувати скіни, що імітують форму або одяг працівників спецслужб чи державних органів (спецназ, ДБР, СБС, поліція тощо).</li>
           <li>Заборонено носити футболки або інший одяг з написами, емблемами чи символікою спецслужб або державних органів.</li>
           <li>Українська символіка дозволена, якщо її використання не має образливого чи агресивного контексту.</li>
+          <li>Якщо гравець використовує скін тварини, він зобов’язаний відігравати роль тварини. Використання такого скіна без відповідного RP вважається нон-RP.</li>
         </ul>
 <p><strong style='color: red;'>Покарання - тимчасовий або постійний депорт за рішенням уповноваженого органу</strong></p>
 
@@ -1624,9 +1693,27 @@ a:hover {
         <div class="menu-item" onclick="openModal('Забороняється відсутність реакції персонажа на реальну загрозу, наприклад, коли персонаж не виявляє страху або не підкоряється вимогам, коли на нього спрямована зброя або він перебуває в небезпечній ситуації.', 'Покарання - депорт на 5 діб')">
             <div class="item-number"><small><b>44</b></small></div>
             <b><span>FZ (FearRP)</b></span>
-        </div>     
-
+        </div>    
         
+  <div class="menu-item" onclick="openModal(`
+ <h2>Голосові чати</h2>
+      <ul>
+          <li>Заборонено порушення положень, зазначених у пункті 1 (образи, пропаганда, токсична поведінка тощо).</li>
+          <strong style='color: red; font-size: 0.90em;'>  Покарання - <i>зазначене в пункті 1</i></strong><br><br>
+          <li>Заборонено вмикати сторонні або заборонені звуки, включно з голосними шумами, ефектами, музикою без згоди учасників чату.</li>
+          <strong style='color: red; font-size: 0.90em;'>  Покарання - штраф 8 000€ або тимчасовий депорт до 3 діб</strong><br><br>
+          <li>Категорично заборонено вмикати музику або звуки з російською пропагандою, а також російську музику в цілому, незалежно від жанру.</li>
+          <strong style='color: red; font-size: 0.90em;'>  Покарання - пропаганда: депорт назавжди; музика в цілому: депорт на 2 доби</strong><br><br>
+          <li>Заборонено використовувати голосові чати для поширення забороненого контенту (дискримінація, нецензурна лексика, погрози, порнографія тощо).</li>
+          <strong style='color: red; font-size: 0.90em;'>  Покарання - тимчасовий або постійний депорт на розсуд адміністрації в залежності від серйозності порушення</strong><br><br>
+          <li>Заборонено перебивати інших гравців, зловживати гучністю мікрофона або створювати перешкоди для комунікації.</li>
+          <strong style='color: red; font-size: 0.90em;'>  Покарання - тимчасовий депорт до 5 діб в залежності від серйозності порушення</strong>
+           </ul>
+        `)">
+        <div class="item-number"><small><b>45</b></small></div>
+        <b><span>Голосові чати</span></b>
+      </div>
+
     <div class="overlay" onclick="closeModal()"></div>
     <div class="modal" id="ruleModal">
         <span class="close" onclick="closeModal()">&times;</span>
@@ -1634,7 +1721,6 @@ a:hover {
         <p class="penalty" id="penaltyText"></p>
     </div>
 </div>
-
 
 <div class="org-section">
     <h2>ДЕРЖАВНІ ОРГАНИ</h2>
@@ -2138,6 +2224,174 @@ a:hover {
     <div class="footer">&copy; <b>Розроблено та створено GiK. 2025 Ukraine RP. Всі права захищені.</b> <br><small>Усі матеріали, представлені на цьому сайті, є об'єктами авторського права і охороняються відповідно до законодавства. <br>Копіювання, розподіл або використання матеріалів сайту в будь-якій формі без попередньої письмової згоди власника авторських прав заборонено.</small></br></div>
 
     <script>
+      (() => {
+  const searchInput = document.getElementById('search-input');
+  const resultsContainer = document.getElementById('search-results');
+  const menuItems = Array.from(document.querySelectorAll('.menu-item'));
+
+  function stripHTML(html) {
+    let div = document.createElement("div");
+    div.innerHTML = html;
+    return div.textContent || div.innerText || "";
+  }
+
+
+const searchData = menuItems.map((item, index) => {
+  const titleSpan = item.querySelector('b > span');
+  const title = titleSpan ? titleSpan.textContent.trim() : '';
+
+  const onclickAttr = item.getAttribute('onclick') || '';
+  let fullContent = '';
+
+  try {
+
+    const match = onclickAttr.match(/openModal\(([\s\S]*?)\)$/);
+    if (match) {
+      const args = match[1];
+      const argRegex = /(["'`])((?:\\\1|[\s\S])*?)\1/g;
+      let argMatch;
+      while ((argMatch = argRegex.exec(args)) !== null) {
+        let raw = argMatch[2];
+
+        raw = raw.replace(/\\n|\\t|\\r/g, ' ');
+        fullContent += ' ' + stripHTML(raw);
+      }
+    }
+  } catch (e) {
+    console.warn('Помилка при розборі openModal', e);
+  }
+
+  return {
+    menuItem: item,
+    index: index + 1,
+    title,
+    content: fullContent.trim()
+  };
+});
+
+
+  function highlightWord(element, word) {
+    if (!word) return;
+    const regex = new RegExp(`(${word})`, 'gi');
+    const originalText = element.innerHTML;
+
+    element.innerHTML = element.innerHTML.replace(regex, '<span class="highlighted">$1</span>');
+
+    setTimeout(() => {
+      element.innerHTML = originalText;
+    }, 2000);
+  }
+
+  function smoothScrollTo(element, offset = 0) {
+    const top = element.getBoundingClientRect().top + window.pageYOffset + offset;
+    window.scrollTo({
+      top,
+      behavior: 'smooth'
+    });
+  }
+
+  if (typeof window.openModal === 'function') {
+    const originalOpenModal = window.openModal;
+    window.openModal = function(...args) {
+      originalOpenModal(...args);
+   
+      setTimeout(() => {
+        const modal = document.querySelector('.modal');
+        if (!modal) return;
+
+        const searchTerm = searchInput.value.trim();
+        if (!searchTerm) return;
+
+
+        function highlightInElement(el, word) {
+          const regex = new RegExp(`(${word})`, 'i');
+          const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null);
+          while(walker.nextNode()) {
+            const node = walker.currentNode;
+            if (node.nodeValue && regex.test(node.nodeValue)) {
+              const span = document.createElement('span');
+              span.className = 'highlighted';
+              const parts = node.nodeValue.split(regex);
+              const frag = document.createDocumentFragment();
+              for (let i=0; i < parts.length; i++) {
+                if (parts[i].toLowerCase() === word.toLowerCase()) {
+                  const highlightSpan = document.createElement('span');
+                  highlightSpan.className = 'highlighted';
+                  highlightSpan.textContent = parts[i];
+                  frag.appendChild(highlightSpan);
+                } else {
+                  frag.appendChild(document.createTextNode(parts[i]));
+                }
+              }
+              node.parentNode.replaceChild(frag, node);
+              return; 
+            }
+          }
+        }
+        highlightInElement(modal, searchTerm);
+
+      
+        const highlighted = modal.querySelector('.highlighted');
+        if (highlighted) {
+          highlighted.scrollIntoView({ behavior: 'smooth', block: 'center' });
+       
+          setTimeout(() => {
+            const spans = modal.querySelectorAll('.highlighted');
+            spans.forEach(s => {
+              const parent = s.parentNode;
+              parent.replaceChild(document.createTextNode(s.textContent), s);
+              parent.normalize();
+            });
+          }, 2000);
+        }
+      }, 100);
+    }
+  }
+
+  searchInput.addEventListener('input', () => {
+    const query = searchInput.value.trim().toLowerCase();
+    resultsContainer.innerHTML = '';
+
+    if (!query) return;
+
+    const filtered = searchData.filter(({title, content}) => {
+      return title.toLowerCase().includes(query) || content.toLowerCase().includes(query);
+    });
+
+    if (filtered.length === 0) {
+      resultsContainer.innerHTML = '<div>Нічого не знайдено.</div>';
+      return;
+    }
+
+    filtered.forEach(({menuItem, title, index}) => {
+      const div = document.createElement('div');
+      div.textContent = `${index}. ${title}`;
+      div.title = `Перейти до пункту: ${title}`;
+
+      div.addEventListener('click', () => {
+
+        menuItem.click();
+
+       
+      });
+
+      resultsContainer.appendChild(div);
+    });
+  });
+})();
+ const input = document.getElementById("search-input");
+  const results = document.getElementById("search-results");
+
+  input.addEventListener("input", () => {
+    const value = input.value.trim();
+
+    if (value.length > 0) {
+      results.style.display = "block";
+ 
+    } else {
+      results.style.display = "none";
+    }
+  });
         function toggleMenu() {
             document.getElementById("sideMenu").classList.toggle("open");
         }
@@ -2239,7 +2493,7 @@ function isElementInView(el) {
     });
 </script>
     
-<div id="fixed-update-label">Оновлено 23.05.2025</div>
+<div id="fixed-update-label">Оновлено 30.05.2025</div>
 
 </body>
 </html>
