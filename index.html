@@ -2354,9 +2354,14 @@ const searchData = menuItems.map((item, index) => {
 
     if (!query) return;
 
-    const filtered = searchData.filter(({title, content}) => {
-      return title.toLowerCase().includes(query) || content.toLowerCase().includes(query);
-    });
+const filtered = searchData.filter(({title = '', content = '', index}) => {
+  return (
+    title.toLowerCase().includes(query) ||
+    content.toLowerCase().includes(query) ||
+    index.toString().includes(query)
+  );
+});
+
 
     if (filtered.length === 0) {
       resultsContainer.innerHTML = '<div>Нічого не знайдено.</div>';
