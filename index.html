@@ -835,9 +835,9 @@ a:hover {
     <div id="sideMenu" class="side-menu">
             <h2 style="color: white; text-align: center;">МЕНЮ</h2>
              <div class="social-media">
-         <a href="https://www.roblox.com/games/start?placeId=7711635737&launchData=joinCode=0uadtv1u" target="_blank">
+         <a href="https://www.roblox.com/games/start?placeId=7711635737&launchData=joinCode%3D0uadtv1u" target="_blank">
            <img src="https://i.ibb.co/qL2BgqpZ/2025-05-15-T205045-125.png" alt="ПОСИЛАННЯ НА СЕРВЕР" class="icon">
-                ПОСИЛАННЯ НА СЕРВЕР
+                ЗАЙТИ НА СЕРВЕР
                 </a>
 
           <a href="https://giknikyev.github.io/roles/" target="_blank">
@@ -2426,6 +2426,9 @@ filtered.forEach(({menuItem, title, index}) => {
   });
         function toggleMenu() {
             document.getElementById("sideMenu").classList.toggle("open");
+              menu.style.display = 'none';
+  menu.offsetHeight;
+  menu.style.display = '';
         }
 
         function openModal(rule, penalty, links = []) {
