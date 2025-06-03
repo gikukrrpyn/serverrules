@@ -328,7 +328,7 @@ window.addEventListener('load', () => {
   ref.on('value', (snapshot) => {
     const count = snapshot.val() || 0;
     console.log('Поточне значення з Firebase:', count);
-    counterDiv.style.color = 'red'; // для тесту
+    counterDiv.style.color = 'red'; 
     counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
   });
 }
@@ -336,5 +336,3 @@ window.addEventListener('load', () => {
 window.addEventListener('DOMContentLoaded', () => {
   updateGlobalViewDisplay();
 });
-
-  updateGlobalViewDisplay();
