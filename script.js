@@ -293,34 +293,40 @@ window.addEventListener('load', () => {
   incrementGlobalViewCounter();
 });
 
-function getTodayKey() {
-  const date = new Date().toISOString().split('T')[0]; 
-  return `views/${date}`;
-}
+  function getTodayKey() {
+    const date = new Date().toISOString().split('T')[0];
+    return `views/${date}`;
+  }
 
-function incrementGlobalViewCounter() {
-  console.log('incrementGlobalViewCounter called');
-  const ref = firebase.database().ref(getTodayKey());
+  function incrementGlobalViewCounter() {
+    const ref = firebase.database().ref(getTodayKey());
+    console.log('Інкрементуємо лічильник за ключем:', getTodayKey());
 
-  ref.transaction(current => {
-    console.log('Current value in transaction:', current);
-    return (current || 0) + 1;
-  });
-}
+    ref.transaction(current => {
+      console.log('Поточне значення:', current);
+      return (current || 0) + 1;
+    }, (error, committed, snapshot) => {
+      if (error) {
+        console.error('Transaction failed:', error);
+      } else if (!committed) {
+        console.log('Transaction не зафіксовано');
+      } else {
+        console.log('Transaction зафіксовано, нове значення:', snapshot.val());
+      }
+    });
+  }
 
+  function updateGlobalViewDisplay() {
+    const ref = firebase.database().ref(getTodayKey());
+    const counterDiv = document.getElementById('viewCounter');
 
-function updateGlobalViewDisplay() {
-  const ref = firebase.database().ref(getTodayKey());
-  const counterDiv = document.getElementById('viewCounter');
+    ref.on('value', (snapshot) => {
+      const count = snapshot.val() || 0;
+      console.log('Поточне значення з Firebase:', count);
+      if (counterDiv) {
+        counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
+      }
+    });
+  }
 
-  ref.on('value', (snapshot) => {
-    const count = snapshot.val() || 0;
-    console.log('Current count from Firebase:', count);
-    if (counterDiv) {
-      counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
-    }
-  });
-}
-
-
-updateGlobalViewDisplay();
+  updateGlobalViewDisplay();
