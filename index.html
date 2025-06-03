@@ -6,6 +6,24 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <title>ПРАВИЛА СЕРВЕРА UKRAINE RP</title>
    <link rel="stylesheet" href="styles.css">
+   <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-database-compat.js"></script>
+<script>
+  const firebaseConfig = {
+  apiKey: "AIzaSyAy7OL4vRX_jOCjsY4t7kswy5KLI7_xTDc",
+  authDomain: "globalviewcounter.firebaseapp.com",
+  databaseURL: "https://globalviewcounter-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "globalviewcounter",
+  storageBucket: "globalviewcounter.firebasestorage.app",
+  messagingSenderId: "298007727934",
+  appId: "1:298007727934:web:610bab7e3ed1a757c5666f",
+  measurementId: "G-ZRNEWXQDZT"
+};
+
+  firebase.initializeApp(firebaseConfig);
+  const database = firebase.database();
+</script>
+
 </head>
 <body>        
     <div id="sideMenu" class="side-menu">
@@ -1435,8 +1453,20 @@
         <button onclick="closeModal()">Close</button>
     </div>
 </div>
-    
+
 <div id="fixed-update-label">Оновлено 03.06.2025</div>
+<div id="viewCounter" style="
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(0,0,0,0.7);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  z-index: 1000;">
+  Переглянуто за сьогодні: ...
+</div>
 
 </body>
 </html>
