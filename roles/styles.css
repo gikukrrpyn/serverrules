@@ -1,0 +1,151 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+        
+        html, body {
+            font-family: 'Montserrat', sans-serif;
+            background: linear-gradient(rgba(0, 0, 0, 0.063), rgba(0, 0, 0, 0.151)), url('новий-фон-сайту-31-05.png') no-repeat center center/cover;
+            color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            min-height: 100%;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        
+ .container {
+    width: 90%;
+    max-width: 600px;
+    margin: 40px auto 20px auto;
+    background: rgba(30, 30, 30, 0.85);
+    border-radius: 12px;
+    box-shadow: 0 3px 15px rgba(0,0,0,0.8);
+    padding: 20px 25px;
+    flex-grow: 1;
+ }
+        
+        h1, h2 {
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: 1.5rem;
+        }
+        
+        .category {
+            margin-top: 15px;
+            padding: 8px;
+            border-radius: 8px;
+            font-size: 16px;
+            text-shadow: 1px 1px 6px rgba(255, 255, 255, 0.3);
+        }
+        
+        .role {
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.123);
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+            font-size: 15px;
+        }
+        
+        .role.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        
+        .role strong {
+            display: block;
+            font-size: 16px;
+            margin-bottom: 4px;
+        }
+        
+        .role a {
+            text-decoration: none;
+            color: #ffcc00;
+            font-weight: bold;
+        }
+        
+        .Адміністрація { background-color: #4682b4; }
+        .Суд { background-color: #fdb100; }
+        .МВС { background-color: #8a2be2; }
+        .СБС { background-color: #0069b9; }
+        .ДБР { background-color: #b6680a; }
+        .Медіа { background-color: #208520; }
+        .Інше { background-color: #808080; }
+        
+        .Суд a {
+            color: #ffcc00;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.142);
+        }
+        
+        .role:hover {
+            transform: scale(1.03);
+            transition: transform 0.3s;
+        }
+        
+        .social-buttons {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            display: flex;
+            gap: 8px;
+        }
+        .social-buttons a {
+            padding: 8px 12px;
+            background-color: #444;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 4px;
+            font-size: 13px;
+            transition: background-color 0.3s;
+        }
+        .social-buttons a:hover {
+            background-color: #666;
+        }
+        
+        footer {
+            margin-top: 15px;
+            padding: 8px;
+            background: #222;
+            color: white;
+            font-size: 13px;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                width: 95%;
+                padding: 8px;
+                margin-top: 20px;
+            }
+        
+            h1, h2 {
+                font-size: 1.1rem;
+            }
+        
+            .category {
+                font-size: 13px;
+            }
+        
+            .role {
+                font-size: 13px;
+                padding: 8px;
+            }
+        
+            .social-buttons {
+                margin-top: 10px;
+                justify-content: center;
+                gap: 5px;
+            }
+        
+            .social-buttons a {
+                padding: 5px 8px;
+                font-size: 11px;
+            }
+        
+            footer {
+                padding: 8px;
+                font-size: 11px;
+            }
+        }
