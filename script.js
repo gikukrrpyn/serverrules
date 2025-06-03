@@ -289,10 +289,6 @@ function addShareLinkButton(id) {
     container.appendChild(button);
 }
 
-window.addEventListener('load', () => {
-  incrementGlobalViewCounter();
-});
-
 function getTodayKey() {
   const date = new Date().toISOString().split('T')[0];
   return `views/${date}`;
@@ -325,7 +321,7 @@ function updateGlobalViewDisplay() {
   if (!counterDiv) {
     console.warn('Елемент #viewCounter не знайдено');
     return;
-  }
+  } 
 
   ref.on('value', (snapshot) => {
     const count = snapshot.val() || 0;
