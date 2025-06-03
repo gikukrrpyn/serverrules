@@ -293,7 +293,7 @@ window.addEventListener('load', () => {
   incrementGlobalViewCounter();
 });
 
- function getTodayKey() {
+function getTodayKey() {
   const date = new Date().toISOString().split('T')[0];
   return `views/${date}`;
 }
@@ -312,7 +312,7 @@ function incrementGlobalViewCounter() {
       console.log('Transaction не зафіксовано');
     } else {
       console.log('Transaction зафіксовано, нове значення:', snapshot.val());
- 
+
       localStorage.setItem('lastViewTime', Date.now());
     }
   });
@@ -337,9 +337,9 @@ function updateGlobalViewDisplay() {
 function tryIncrementWithLimit() {
   const now = Date.now();
   const lastViewTime = localStorage.getItem('lastViewTime');
-  const limit = 5 * 60 * 1000; 
+  const limit = 5 * 60 * 1000; // 5 хвилин у мс
 
-  if (!lastViewTime || (now - lastViewTime) > limit) {
+  if (!lastViewTime || (now - parseInt(lastViewTime, 10)) > limit) {
     incrementGlobalViewCounter();
   } else {
     console.log('Перегляд вже зарахований, чекати 5 хвилин');
