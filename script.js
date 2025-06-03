@@ -306,3 +306,36 @@ window.addEventListener('DOMContentLoaded', () => {
         }, 100);
     }
 });
+function getTodayKey() {
+  const date = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+  return `views/${date}`;
+}
+
+function incrementGlobalViewCounter() {
+  const ref = firebase.database().ref(getTodayKey());
+
+  ref.transaction(current => {
+    return (current || 0) + 1;
+  });
+}
+
+function updateGlobalViewDisplay() {
+  const ref = firebase.database().ref(getTodayKey());
+  const counterDiv = document.getElementById('viewCounter');
+
+  ref.on('value', (snapshot) => {
+    const count = snapshot.val() || 0;
+    if (counterDiv) {
+      counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
+    }
+  });
+}
+
+
+updateGlobalViewDisplay();
+
+const originalOpenModalFromId = window.openModalFromId;
+window.openModalFromId = function (...args) {
+  incrementGlobalViewCounter();
+  originalOpenModalFromId.apply(this, args);
+};
