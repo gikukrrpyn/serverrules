@@ -289,35 +289,25 @@ function addShareLinkButton(id) {
     container.appendChild(button);
 }
 
-window.addEventListener('DOMContentLoaded', () => {
-    if (performance.navigation.type === performance.navigation.TYPE_RELOAD) {
-        history.replaceState(null, null, window.location.pathname);
-        return;
-    }
-
-    const hash = window.location.hash.replace('#', '');
-    if (!hash) return;
-
-    const targetItem = document.querySelector(`.menu-item[data-id="${hash}"]`);
-    if (targetItem) {
-        targetItem.click(); 
-        setTimeout(() => {
-            targetItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }, 100);
-    }
+window.addEventListener('load', () => {
+  incrementGlobalViewCounter();
 });
+
 function getTodayKey() {
-  const date = new Date().toISOString().split('T')[0]; // YYYY-MM-DD
+  const date = new Date().toISOString().split('T')[0]; 
   return `views/${date}`;
 }
 
 function incrementGlobalViewCounter() {
+  console.log('incrementGlobalViewCounter called');
   const ref = firebase.database().ref(getTodayKey());
 
   ref.transaction(current => {
+    console.log('Current value in transaction:', current);
     return (current || 0) + 1;
   });
 }
+
 
 function updateGlobalViewDisplay() {
   const ref = firebase.database().ref(getTodayKey());
@@ -325,6 +315,7 @@ function updateGlobalViewDisplay() {
 
   ref.on('value', (snapshot) => {
     const count = snapshot.val() || 0;
+    console.log('Current count from Firebase:', count);
     if (counterDiv) {
       counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
     }
@@ -333,9 +324,3 @@ function updateGlobalViewDisplay() {
 
 
 updateGlobalViewDisplay();
-
-const originalOpenModalFromId = window.openModalFromId;
-window.openModalFromId = function (...args) {
-  incrementGlobalViewCounter();
-  originalOpenModalFromId.apply(this, args);
-};
