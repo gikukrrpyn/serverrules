@@ -326,14 +326,14 @@ function updateGlobalViewDisplay() {
   ref.on('value', (snapshot) => {
     const count = snapshot.val() || 0;
     console.log('Поточне значення з Firebase:', count);
-    counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
+counterDiv.innerHTML = `Переглянуто за сьогодні: <strong>${count}</strong>`;
   });
 }
 
 function tryIncrementWithLimit() {
   const now = Date.now();
   const lastViewTime = localStorage.getItem('lastViewTime');
-  const limit = 5 * 60 * 1000; // 5 хвилин у мс
+  const limit = 5 * 60 * 1000; 
 
   if (!lastViewTime || (now - parseInt(lastViewTime, 10)) > limit) {
     incrementGlobalViewCounter();
