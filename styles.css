@@ -765,6 +765,12 @@ a:hover {
   #search-results {
     font-size: 0.95em;
   }
+    #viewCounter {
+  padding: 1px 3px;
+  font-size: 7px;
+  bottom: 1px;
+  right: 1px;
+}
 
 }
 
@@ -829,3 +835,17 @@ a:hover {
   #search-results div:hover {
     background-color: #dedbdb;
   }
+#viewCounter {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(255, 255, 255, 0.607);
+  color: rgb(0, 0, 0);
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 10px;
+  z-index: 1000;
+  max-width: 160px;
+  white-space: normal;
+  word-wrap: break-word;
+}
