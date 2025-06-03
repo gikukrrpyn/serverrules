@@ -317,16 +317,24 @@ window.addEventListener('load', () => {
   }
 
   function updateGlobalViewDisplay() {
-    const ref = firebase.database().ref(getTodayKey());
-    const counterDiv = document.getElementById('viewCounter');
+  const ref = firebase.database().ref(getTodayKey());
+  const counterDiv = document.getElementById('viewCounter');
 
-    ref.on('value', (snapshot) => {
-      const count = snapshot.val() || 0;
-      console.log('Поточне значення з Firebase:', count);
-      if (counterDiv) {
-        counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
-      }
-    });
+  if (!counterDiv) {
+    console.warn('Елемент #viewCounter не знайдено');
+    return;
   }
+
+  ref.on('value', (snapshot) => {
+    const count = snapshot.val() || 0;
+    console.log('Поточне значення з Firebase:', count);
+    counterDiv.style.color = 'red'; // для тесту
+    counterDiv.textContent = `Переглянуто за сьогодні: ${count}`;
+  });
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+  updateGlobalViewDisplay();
+});
 
   updateGlobalViewDisplay();
