@@ -1,4 +1,4 @@
-      (() => {
+(() => {
   const searchInput = document.getElementById('search-input');
   const resultsContainer = document.getElementById('search-results');
   const menuItems = Array.from(document.querySelectorAll('.menu-item'));
@@ -8,6 +8,7 @@
     div.innerHTML = html;
     return div.textContent || div.innerText || "";
   }
+
 
 const searchData = menuItems.map((item, index) => {
   const titleSpan = item.querySelector('b > span');
@@ -191,7 +192,6 @@ filtered.forEach(({menuItem, title, index}) => {
 
     modal.style.display = 'block';
 }
-
 function openModalFromId(idOrHtml, ruleOrPenalty, penalty) {
     if (ruleOrPenalty === undefined && penalty === undefined) {
         const rule = idOrHtml;  
@@ -202,13 +202,10 @@ function openModalFromId(idOrHtml, ruleOrPenalty, penalty) {
         addShareLinkButton(idOrHtml); 
     }
 }
-
 function closeModal() {
     history.pushState("", document.title, window.location.pathname + window.location.search);
     document.getElementById('ruleModal').style.display = 'none';
 }
-
-
 
     window.addEventListener('scroll', function () {
         const topBar = document.querySelector('.top-bar');
@@ -288,6 +285,25 @@ function addShareLinkButton(id) {
 
     container.appendChild(button);
 }
+
+window.addEventListener('DOMContentLoaded', () => {
+    if (performance.navigation.type === performance.navigation.TYPE_RELOAD) {
+        history.replaceState(null, null, window.location.pathname);
+        return;
+    }
+
+    const hash = window.location.hash.replace('#', '');
+    if (!hash) return;
+
+    const targetItem = document.querySelector(`.menu-item[data-id="${hash}"]`);
+    if (targetItem) {
+        targetItem.click(); 
+        setTimeout(() => {
+            targetItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 100);
+    }
+});
+
 
 function getTodayKey() {
   const date = new Date().toISOString().split('T')[0];
