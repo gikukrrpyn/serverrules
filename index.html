@@ -623,6 +623,13 @@ a:hover {
   display: block;
 }
 
+#modalShareLink button {
+    background-color: #f0f0f0;
+    border: 1px solid #aaa;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 0.9em;
+}
 
 
         @keyframes dropEffect {
@@ -1136,10 +1143,10 @@ a:hover {
         <b><span>Службові обов’язки</span></b>
       </div>
 
-        <div class="menu-item" onclick="openModal('Проведення рейдів, спрямованих на створення хаосу, порушення РП-процесу чи з метою нашкодити іншим гравцям без обґрунтованої РП-причини — суворо заборонено.', 'Покарання — тимчасовий або постійний депорт на розсуд адміністрації<br> Якщо акаунт новий — безстроковий депорт')">
-            <div class="item-number"><small><b> 5</b></small></div>
-            <b><span>Рейди</b></span>
-        </div>
+<div class="menu-item" data-id="rule-5" onclick="openModalFromId('rule-5', 'Проведення рейдів...', 'Покарання — ...')">
+  ...
+</div>
+
 
         <div class="menu-item" onclick="openModal('Всі учасники сервера зобов’язані підкорятися наказам та вказівкам усіх уповноважених служб, що діють у межах ігрового процесу. Це включає, але не обмежується, правоохоронними органами, судовими органами, адміністрацією, екстреними службами (медики, пожежні, рятувальники), спеціальними підрозділами та іншими структурами, що виконують службові обов’язки. Співпраця для підтримки порядку на сервері є обов’язковою. Відмова від співпраці можлива лише у випадку, якщо вказівка є недоцільною або суперечить загальноприйнятим нормам поведінки.', 'Покарання – депорт на 2 доби')">
             <div class="item-number"><small><b> 6</b></small></div>
@@ -2429,22 +2436,23 @@ filtered.forEach(({menuItem, title, index}) => {
             document.getElementById("sideMenu").classList.toggle("open");
         }
 
-        function openModal(rule, penalty, links = []) {
-            document.getElementById('ruleText').innerHTML = rule;  
-            document.getElementById('penaltyText').innerHTML = penalty || '';
-            
-            let linksContainer = document.getElementById('modalLinks');
-            linksContainer.innerHTML = '';
-            links.forEach(link => {
-                let a = document.createElement('a');
-                a.href = link.url;
-                a.target = '_blank';
-                a.textContent = link.text;
-                linksContainer.appendChild(a);
-            });
-            
-            document.getElementById('ruleModal').style.display = 'block';
-        }
+     function openModal(rule, penalty, id) {
+    document.getElementById('ruleText').innerHTML = rule;  
+    document.getElementById('penaltyText').innerHTML = penalty || '';
+
+    const modal = document.getElementById('ruleModal');
+    modal.setAttribute('data-id', id); // save ID in modal
+
+    modal.style.display = 'block';
+
+    // Додай кнопку копіювання посилання
+    addShareLinkButton(id);
+}
+
+function openModalFromId(id, rule, penalty) {
+    history.replaceState(null, null, `#${id}`);
+    openModal(rule, penalty, id);
+}
 
         function closeModal() {
             document.getElementById('ruleModal').style.display = 'none';
@@ -2501,6 +2509,47 @@ function isElementInView(el) {
     let rect = el.getBoundingClientRect();
     return rect.top >= 0 && rect.top <= window.innerHeight;
 }
+
+function addShareLinkButton(id) {
+    let container = document.getElementById('modalShareLink');
+    if (!container) {
+        container = document.createElement('div');
+        container.id = 'modalShareLink';
+        container.style.position = 'absolute';
+        container.style.top = '10px';
+        container.style.left = '10px';
+
+        const modal = document.getElementById('ruleModal');
+        modal.prepend(container);
+    }
+
+    container.innerHTML = '';
+    const button = document.createElement('button');
+    button.textContent = '🔗 Скопіювати посилання';
+    button.style.cursor = 'pointer';
+    button.onclick = () => {
+        const link = `${window.location.origin}${window.location.pathname}#${id}`;
+        navigator.clipboard.writeText(link).then(() => {
+            button.textContent = '✅ Скопійовано!';
+            setTimeout(() => (button.textContent = '🔗 Скопіювати посилання'), 2000);
+        });
+    };
+
+    container.appendChild(button);
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+    const hash = window.location.hash.replace('#', '');
+    if (!hash) return;
+
+    const targetItem = document.querySelector(`.menu-item[data-id="${hash}"]`);
+    if (targetItem) {
+        targetItem.click(); // відкриє модалку
+        setTimeout(() => {
+            targetItem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 100);
+    }
+});
 
     </script>
 
