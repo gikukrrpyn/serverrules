@@ -197,7 +197,7 @@
               "sevcccr": { "status": "T0132", "telegram": "5185394839" },
               "Levopravo2024": { "status": "T0133", "telegram": "5134083594" },
               "CHERNIHIV1": { "status": "T0134", "telegram": "1871915258" },
-              "holodos222": { "status": "T0135", "telegram": "5947961816" },   
+              "holodos222": { "status": "T0135", "telegram": "5947961816" }, 
 
               },
 
