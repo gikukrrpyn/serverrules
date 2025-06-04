@@ -284,21 +284,45 @@ function addShareLinkButton(id) {
         container.style.position = 'absolute';
         container.style.top = '10px';
         container.style.left = '10px';
+        container.style.zIndex = '9999';
 
         const modal = document.getElementById('ruleModal');
         modal.prepend(container);
     }
 
     container.innerHTML = '';
+
     const button = document.createElement('button');
     button.textContent = '🔗';
     button.style.cursor = 'pointer';
-    button.onclick = () => {
+    button.style.fontSize = '20px';
+    button.style.background = 'none';
+    button.style.border = 'none';
+
+    button.onclick = async () => {
         const link = `${window.location.origin}${window.location.pathname}#${id}`;
-        navigator.clipboard.writeText(link).then(() => {
+
+        try {
+            await navigator.clipboard.writeText(link);
+
             button.textContent = '✔️';
-            setTimeout(() => (button.textContent = '🔗'), 1000);
-        });
+            setTimeout(() => {
+                button.textContent = '🔗';
+            }, 2000);
+        } catch (err) {
+
+            const fallbackInput = document.createElement('input');
+            fallbackInput.value = link;
+            document.body.appendChild(fallbackInput);
+            fallbackInput.select();
+            document.execCommand('copy');
+            document.body.removeChild(fallbackInput);
+
+            button.textContent = '✔️';
+            setTimeout(() => {
+                button.textContent = '🔗';
+            }, 2000);
+        }
     };
 
     container.appendChild(button);
