@@ -384,7 +384,7 @@ function updateGlobalViewDisplay() {
   ref.on('value', (snapshot) => {
     const count = snapshot.val() || 0;
     console.log('Поточне значення з Firebase:', count);
-counterDiv.innerHTML = `Переглянуто за сьогодні: <strong>${count}</strong>`;
+counterDiv.innerHTML = `Переглянуто сьогодні: <strong>${count}</strong>`;
   });
 }
 
