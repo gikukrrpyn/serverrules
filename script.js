@@ -367,15 +367,10 @@ function incrementGlobalViewCounter() {
     } else {
       console.log('Transaction зафіксовано, нове значення:', snapshot.val());
 
-      const now = Date.now();
-      const today = new Date().toISOString().split('T')[0];
-      localStorage.setItem('lastViewTime', now);
-      localStorage.setItem('lastViewDate', today);
+      localStorage.setItem('lastViewTime', Date.now());
     }
   });
 }
-
-
 
 function updateGlobalViewDisplay() {
   const ref = firebase.database().ref(getTodayKey());
@@ -395,14 +390,10 @@ counterDiv.innerHTML = `Переглянуто сьогодні: <strong>${count
 
 function tryIncrementWithLimit() {
   const now = Date.now();
-  const today = new Date().toISOString().split('T')[0];
   const lastViewTime = localStorage.getItem('lastViewTime');
-  const lastViewDate = localStorage.getItem('lastViewDate');
-  const limit = 5 * 60 * 1000;
+  const limit = 5 * 60 * 1000; 
 
-  const isNewDay = lastViewDate !== today;
-
-  if (isNewDay || !lastViewTime || (now - parseInt(lastViewTime, 10)) > limit) {
+  if (!lastViewTime || (now - parseInt(lastViewTime, 10)) > limit) {
     incrementGlobalViewCounter();
   } else {
     console.log('Перегляд вже зарахований, чекати 5 хвилин');
