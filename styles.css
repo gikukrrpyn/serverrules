@@ -849,3 +849,9 @@ a:hover {
   white-space: normal;
   word-wrap: break-word;
 }
+div[data-id="rule-2"] ul {
+  list-style-position: inside;
+  padding-left: 0;
+  margin-left: 0;
+  text-align: left;
+}
