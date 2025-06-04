@@ -34,7 +34,6 @@
                 "dima276518": { role: "Співробітник ДБР", telegram: "8107753437", category: "ДБР" },
                 "starikashka228337": { role: "Співробітник ДБР", telegram: "5358641921", category: "ДБР" },
                 "palamarka2288": { role: "Співробітник ДБР", telegram: "1902876079", category: "ДБР" },
-                "Rechs10": { role: "Співробітник ДБР", telegram: "6387100458", category: "ДБР" },
                 "Yezh1lya": { role: "Співробітник ДБР", telegram: "5109532913", category: "ДБР" },
                 "Ntinetter": { role: "Співробітник ДБР", telegram: "1319760971", category: "ДБР" },
                 "Pushka2030": { role: "Співробітник ДБР", telegram: "5549609551", category: "ДБР" },
