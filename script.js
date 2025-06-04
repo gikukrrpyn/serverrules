@@ -366,9 +366,15 @@ function incrementGlobalViewCounter() {
       console.log('Transaction не зафіксовано');
     } else {
       console.log('Transaction зафіксовано, нове значення:', snapshot.val());
+
+      const now = Date.now();
+      const today = new Date().toISOString().split('T')[0];
+      localStorage.setItem('lastViewTime', now);
+      localStorage.setItem('lastViewDate', today);
     }
   });
 }
+
 
 
 function updateGlobalViewDisplay() {
@@ -392,14 +398,12 @@ function tryIncrementWithLimit() {
   const today = new Date().toISOString().split('T')[0];
   const lastViewTime = localStorage.getItem('lastViewTime');
   const lastViewDate = localStorage.getItem('lastViewDate');
-  const limit = 5 * 60 * 1000; 
+  const limit = 5 * 60 * 1000;
 
   const isNewDay = lastViewDate !== today;
 
   if (isNewDay || !lastViewTime || (now - parseInt(lastViewTime, 10)) > limit) {
     incrementGlobalViewCounter();
-    localStorage.setItem('lastViewTime', now);
-    localStorage.setItem('lastViewDate', today);
   } else {
     console.log('Перегляд вже зарахований, чекати 5 хвилин');
   }
