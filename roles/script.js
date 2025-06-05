@@ -25,7 +25,6 @@
   "Tyjorty123987": { role: "Співробітник СБС", telegram: "1410588546", category: "СБС" },
   "Black_Batman02": { role: "Співробітник СБС", telegram: "1093245097", category: "СБС" },
   "maksumkasymk789": { role: "Співробітник СБС", telegram: "1405483524", category: "СБС" },
-  "IZAAK1797": { role: "Співробітник СБС", telegram: "1700093221", category: "СБС" },
 
                 "Vaylet009": { role: "Директор ДБР", telegram: "t.me/Vaylet009", category: "ДБР" },
                 "global20207": { role: "Заступник Директора ДБР", telegram: "1431122546", category: "ДБР" },
