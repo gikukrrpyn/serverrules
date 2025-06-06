@@ -197,6 +197,10 @@
               "heloy_chikago": { "status": "T0136", "telegram": "6908819401" },
               "Cib_328": { "status": "T0137", "telegram": "6483302909" },
               "mat250956": { "status": "T0138", "telegram": "6304172321" },
+              "GermanFomen": { "status": "T0139", "telegram": "5664277115" },
+              "pycT_KUst": { "status": "T0140", "telegram": "5998010840" },
+              "": { "status": "T0141", "telegram": "" },
+                    
 
               },
 
