@@ -13,11 +13,15 @@
 <nav>
   <div class="container">
     <div class="nav-left">
-      <a href="/" class="flex items-center gap-3 whitespace-nowrap">
+      <a href="https://ukrainerpeh.xyz/marriage/" class="flex items-center gap-3 whitespace-nowrap">
         <div class="logo"></div>
        <span class="text-xl font-bold">ДАРШ</span>
       </a>
     </div>
+
+   <button id="menu-toggle" class="menu-toggle" aria-label="Відкрити меню">
+      &#9776;
+    </button>
 
     <ul class="nav-center">
       <li><a href="#about" class="nav-link">Про нас</a></li>
@@ -32,7 +36,21 @@
     </div>
   </div>
 </nav>
+ <div id="side-menu" class="side-menu">
+    <button id="menu-close" class="menu-close" aria-label="Закрити меню">&times;</button>
+    <ul>
+      <li><a href="#about" class="nav-link">Про нас</a></li>
+      <li><a href="#requirements" class="nav-link">Умови</a></li>
+      <li><a href="#prices" class="nav-link">Ціни</a></li>
+      <li><a href="#extra" class="nav-link">Функції</a></li>
+      <li><a href="#list" class="nav-link">Одружені</a></li>
+      <li><a href="#apply" class="apply-button">ПОДАТИ ЗАЯВУ</a></li>
+    </ul>
+  </div>
 
+
+  <div id="overlay" class="overlay"></div>
+</nav>
 <header>
   <h2>Державне агентство з реєстрації шлюбу</h2>
   <p>Законні й урочисті церемонії для справжніх почуттів</p>
@@ -40,10 +58,8 @@
 
 <main class="container">
   <section id="about">
-    <h2>Про агенцію
-      <br><small>༺═─────────────═༻</small>
-    </h2>
-    <p>Ми — офіційна структура, яка проводить реєстрацію шлюбів, церемонії та веде державний реєстр одружених пар на сервері. <b>З нами ваше кохання — офіційне ❤️</b></p>
+    <h2>Про агенцію</h2>
+    <p>Ми — офіційна структура, яка проводить реєстрацію шлюбів, церемонії та веде державний реєстр одружених пар на сервері. <br><b>З нами ваше кохання — офіційне ❤️</b></p>
   </section>
 
   <section id="requirements">
@@ -96,6 +112,7 @@
 
     <section id="apply">
       <h2>ЗАЯВА НА ШЛЮБ</h2>
+      <p>......</p>
       <button>ПОДАТИ</button>
     </section>
 
@@ -112,7 +129,7 @@
 <div id="married-count">
   Вже одружились: <span id="married-total">0</span> задоволених пар.
 </div>
-
+<br> <br>
       <div id="married-list"></div>
     </section>
 
