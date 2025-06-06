@@ -17,7 +17,6 @@
 "dima276518": { status: "Дійсна", expiry: "06.06.2025", telegram: "8107753437" },
 "starikashka228337": { status: "Дійсна", expiry: "06.06.2025", telegram: "5358641921" },
 "palamarka2288": { status: "Дійсна", expiry: "06.06.2025", telegram: "1902876079" },
-"Pushka2030": { status: "Дійсна", expiry: "20.06.2025 to 06.07.2025", telegram: "5549609551" },
 "Yezh1lya": { status: "Дійсна", expiry: "06.06.2025", telegram: "5109532913" },
 "Ntinetter": { status: "Дійсна", expiry: "06.06.2025", telegram: "1319760971" },
 
