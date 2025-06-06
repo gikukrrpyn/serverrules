@@ -194,6 +194,9 @@
               "Levopravo2024": { "status": "T0133", "telegram": "5134083594" },
               "CHERNIHIV1": { "status": "T0134", "telegram": "1871915258" },
               "holodos222": { "status": "T0135", "telegram": "5947961816" },
+              "heloy_chikago": { "status": "T0136", "telegram": "6908819401" },
+              "Cib_328": { "status": "T0137", "telegram": "6483302909" },
+              "mat250956": { "status": "T0138", "telegram": "6304172321" },
 
               },
 
