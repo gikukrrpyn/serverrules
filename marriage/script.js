@@ -87,9 +87,20 @@ overlay.addEventListener('click', () => {
 });
 
 sideMenu.querySelectorAll('a').forEach(link => {
-  link.addEventListener('click', () => {
-    sideMenu.classList.remove('open');
-    overlay.classList.remove('active');
+  link.addEventListener('click', (e) => {
+    e.preventDefault(); 
+
+    const targetId = link.getAttribute('href').substring(1);
+    const targetElem = document.getElementById(targetId);
+
+    if (targetElem) {
+      sideMenu.classList.remove('open');
+      overlay.classList.remove('active');
+
+      setTimeout(() => {
+        targetElem.scrollIntoView({ behavior: 'smooth' });
+      }, 150);
+    }
   });
 });
 
