@@ -37,6 +37,10 @@ async function sendTelegramMessage(chatId, text) {
   }
 }
 
+app.get('/', (req, res) => {
+  res.send('Сервер працює! Вітаю!');
+});
+
 app.post('/submit', async (req, res) => {
   const { name, email, message } = req.body;
 
