@@ -40,6 +40,9 @@
                // "": { role: "Міністр МВС", telegram: "t.me/", category: "МВС" },
                // "": { role: "Заступник Міністра МВС", telegram: "t.me/", category: "МВС" },
 
+               "XxHA7AxXᅠᅠ": { role: "Організатор", telegram: "t.me/Na7atelega", category: "ДАРШ" },
+               "Bandera909ᅠᅠ": { role: "Організатор", telegram: "t.me/Great_Terku", category: "ДАРШ" }, 
+
                 "kartoffel_2288": { role: "Психолог", telegram: "t.me/UkraineRPPsychotherapyBot?start=start", category: "Інше" },
                 "Karinqs_UA": { role: "Психолог", telegram: "t.me/UkraineRPPsychotherapyBot?start=start", category: "Інше" },
                 "XxHA7AxXᅠ": { role: "Контентмейкер", telegram: "t.me/Na7atelega", category: "Інше" },
