@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
           setTimeout(() => {
             targetElem.scrollIntoView({ behavior: 'smooth' });
-          }, 150);
+          }, 350);
         }
       });
     });
