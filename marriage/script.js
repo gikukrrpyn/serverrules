@@ -9,4 +9,98 @@
       
     ];
 
-const _0x53e725=_0x5547;function _0x5547(_0x3feace,_0x53e2cf){const _0x5ae52b=_0x5ae5();return _0x5547=function(_0x5547a0,_0x5a869e){_0x5547a0=_0x5547a0-0x1ea;let _0x30cf5e=_0x5ae52b[_0x5547a0];return _0x30cf5e;},_0x5547(_0x3feace,_0x53e2cf);}(function(_0x4a0493,_0x4821e4){const _0x1a7005=_0x5547,_0x3e7e68=_0x4a0493();while(!![]){try{const _0x1d36d9=-parseInt(_0x1a7005(0x21d))/0x1*(-parseInt(_0x1a7005(0x1fa))/0x2)+parseInt(_0x1a7005(0x205))/0x3*(-parseInt(_0x1a7005(0x219))/0x4)+-parseInt(_0x1a7005(0x20e))/0x5*(parseInt(_0x1a7005(0x21a))/0x6)+parseInt(_0x1a7005(0x1f0))/0x7*(parseInt(_0x1a7005(0x1f5))/0x8)+-parseInt(_0x1a7005(0x201))/0x9+-parseInt(_0x1a7005(0x1f2))/0xa+parseInt(_0x1a7005(0x202))/0xb;if(_0x1d36d9===_0x4821e4)break;else _0x3e7e68['push'](_0x3e7e68['shift']());}catch(_0x4462de){_0x3e7e68['push'](_0x3e7e68['shift']());}}}(_0x5ae5,0xb5db2));const container=document['getElementById'](_0x53e725(0x215)),searchInput=document[_0x53e725(0x209)](_0x53e725(0x200));function renderPairs(_0x381647,_0x425249=![]){const _0x3b3663=_0x53e725;container[_0x3b3663(0x20d)]='';if(_0x381647[_0x3b3663(0x211)]===0x0){_0x425249&&(container[_0x3b3663(0x20d)]=_0x3b3663(0x1fd));return;}_0x381647['forEach'](_0x116e0d=>{const _0x1f726e=_0x3b3663,_0x2a32e1=document[_0x1f726e(0x20b)](_0x1f726e(0x1ef));_0x2a32e1[_0x1f726e(0x216)]='married-card',_0x2a32e1[_0x1f726e(0x20d)]=_0x1f726e(0x21b)+_0x116e0d[_0x1f726e(0x220)]+_0x1f726e(0x1f4)+_0x116e0d[_0x1f726e(0x217)]+_0x1f726e(0x1ea)+_0x116e0d[_0x1f726e(0x217)]+_0x1f726e(0x218)+_0x116e0d[_0x1f726e(0x206)]+'\x22\x20alt=\x22'+_0x116e0d[_0x1f726e(0x20c)]+_0x1f726e(0x1ea)+_0x116e0d[_0x1f726e(0x20c)]+_0x1f726e(0x214)+_0x116e0d[_0x1f726e(0x21f)]+_0x1f726e(0x1fb),container[_0x1f726e(0x20a)](_0x2a32e1);});}function _0x5ae5(){const _0x301c6f=['textContent','5488270wfFPPk','side-menu','\x22\x20alt=\x22','8hsHZAM','.toggle-row','active','DOMContentLoaded','add','2JfPTGr','</p>\x0a\x20\x20\x20\x20','toLowerCase','<p\x20class=\x27text-center\x20text-white\x20font-bold\x20col-span-full\x20bg-black\x20px-4\x20py-1\x20rounded\x27>Нічого\x20не\x20знайдено</p>','menu-close','overlay','searchInput','3675969kDQALK','13481754Qtvhig','includes','open','3678378NyPBBe','photo2','.married-card','menu-toggle','getElementById','appendChild','createElement','username2','innerHTML','892070rvlntA','classList','forEach','length','click','value','</span>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<p\x20class=\x22date\x22>Дата\x20одруження:\x20','married-list','className','username1','</span>\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22heart\x22>❤️</div>\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22pair\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','4AoSqdF','12pAQbky','\x0a\x20\x20\x20\x20\x20\x20<div\x20class=\x22pair\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','remove','1033111gNFpxS','toggle','date','photo1','\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<span>','filter','addEventListener','querySelectorAll','trim','div','7184653NdRSHX'];_0x5ae5=function(){return _0x301c6f;};return _0x5ae5();}renderPairs(marriedList),searchInput[_0x53e725(0x1ec)]('input',()=>{const _0x410e4e=_0x53e725,_0x376f06=searchInput[_0x410e4e(0x213)][_0x410e4e(0x1ee)]()[_0x410e4e(0x1fc)]();if(!_0x376f06){renderPairs(marriedList);return;}const _0x4eed41=marriedList[_0x410e4e(0x1eb)](_0x3eadcf=>_0x3eadcf[_0x410e4e(0x217)]['toLowerCase']()[_0x410e4e(0x203)](_0x376f06)||_0x3eadcf[_0x410e4e(0x20c)][_0x410e4e(0x1fc)]()[_0x410e4e(0x203)](_0x376f06));renderPairs(_0x4eed41,!![]);}),document['addEventListener'](_0x53e725(0x1f8),()=>{const _0x2c5679=_0x53e725,_0x5b92c0=document[_0x2c5679(0x1ed)](_0x2c5679(0x207))[_0x2c5679(0x211)];document[_0x2c5679(0x209)]('married-total')[_0x2c5679(0x1f1)]=_0x5b92c0;});const menuToggle=document[_0x53e725(0x209)](_0x53e725(0x208)),menuClose=document[_0x53e725(0x209)](_0x53e725(0x1fe)),sideMenu=document[_0x53e725(0x209)](_0x53e725(0x1f3)),overlay=document[_0x53e725(0x209)](_0x53e725(0x1ff));menuToggle[_0x53e725(0x1ec)](_0x53e725(0x212),()=>{const _0x2f1c30=_0x53e725;sideMenu[_0x2f1c30(0x20f)][_0x2f1c30(0x1f9)](_0x2f1c30(0x204)),overlay[_0x2f1c30(0x20f)][_0x2f1c30(0x1f9)](_0x2f1c30(0x1f7));}),menuClose[_0x53e725(0x1ec)]('click',()=>{const _0x3fed47=_0x53e725;sideMenu[_0x3fed47(0x20f)]['remove'](_0x3fed47(0x204)),overlay['classList'][_0x3fed47(0x21c)]('active');}),overlay[_0x53e725(0x1ec)]('click',()=>{const _0x8cbdeb=_0x53e725;sideMenu[_0x8cbdeb(0x20f)][_0x8cbdeb(0x21c)](_0x8cbdeb(0x204)),overlay[_0x8cbdeb(0x20f)][_0x8cbdeb(0x21c)](_0x8cbdeb(0x1f7));}),sideMenu[_0x53e725(0x1ed)]('a')['forEach'](_0x29caa2=>{const _0x56d216=_0x53e725;_0x29caa2[_0x56d216(0x1ec)]('click',()=>{const _0x55e06d=_0x56d216;sideMenu['classList']['remove'](_0x55e06d(0x204)),overlay[_0x55e06d(0x20f)][_0x55e06d(0x21c)](_0x55e06d(0x1f7));});}),document[_0x53e725(0x1ec)]('DOMContentLoaded',()=>{const _0x4ec4e3=_0x53e725;document['querySelectorAll'](_0x4ec4e3(0x1f6))[_0x4ec4e3(0x210)](_0x3f911e=>{const _0x186e0c=_0x4ec4e3;_0x3f911e[_0x186e0c(0x1ec)](_0x186e0c(0x212),()=>{const _0x3cd091=_0x186e0c;document['querySelectorAll']('.toggle-row')[_0x3cd091(0x210)](_0x340c52=>{const _0x3356d5=_0x3cd091;if(_0x340c52!==_0x3f911e)_0x340c52[_0x3356d5(0x20f)][_0x3356d5(0x21c)](_0x3356d5(0x204));}),_0x3f911e[_0x3cd091(0x20f)][_0x3cd091(0x21e)]('open');});});});
+const container = document.getElementById("married-list");
+const searchInput = document.getElementById("searchInput");
+
+
+function renderPairs(pairs, isSearch = false) {
+  container.innerHTML = "";
+
+  if (pairs.length === 0) {
+    if (isSearch) {
+      container.innerHTML = "<p class='text-center text-white font-bold col-span-full bg-black px-4 py-1 rounded'>Нічого не знайдено</p>";
+    }
+    return;
+  }
+
+  pairs.forEach(pair => {
+    const card = document.createElement("div");
+    card.className = "married-card";
+    card.innerHTML = `
+      <div class="pair">
+        <img src="${pair.photo1}" alt="${pair.username1}" />
+        <span>${pair.username1}</span>
+      </div>
+      <div class="heart">❤️</div>
+      <div class="pair">
+        <img src="${pair.photo2}" alt="${pair.username2}" />
+        <span>${pair.username2}</span>
+      </div>
+      <p class="date">Дата одруження: ${pair.date}</p>
+    `;
+    container.appendChild(card);
+  });
+}
+
+
+renderPairs(marriedList);
+
+
+searchInput.addEventListener("input", () => {
+  const query = searchInput.value.trim().toLowerCase();
+
+  if (!query) {
+    renderPairs(marriedList);
+    return;
+  }
+
+  const filtered = marriedList.filter(pair =>
+    pair.username1.toLowerCase().includes(query) || pair.username2.toLowerCase().includes(query)
+  );
+
+  renderPairs(filtered, true); 
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  const totalMarried = document.querySelectorAll(".married-card").length;
+  document.getElementById("married-total").textContent = totalMarried;
+});
+
+const menuToggle = document.getElementById('menu-toggle');
+const menuClose = document.getElementById('menu-close');
+const sideMenu = document.getElementById('side-menu');
+const overlay = document.getElementById('overlay');
+
+menuToggle.addEventListener('click', () => {
+  sideMenu.classList.add('open');
+  overlay.classList.add('active');
+});
+
+menuClose.addEventListener('click', () => {
+  sideMenu.classList.remove('open');
+  overlay.classList.remove('active');
+});
+
+overlay.addEventListener('click', () => {
+  sideMenu.classList.remove('open');
+  overlay.classList.remove('active');
+});
+
+sideMenu.querySelectorAll('a').forEach(link => {
+  link.addEventListener('click', () => {
+    sideMenu.classList.remove('open');
+    overlay.classList.remove('active');
+  });
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  document.querySelectorAll(".toggle-row").forEach(row => {
+    row.addEventListener("click", () => {
+      document.querySelectorAll(".toggle-row").forEach(r => {
+        if (r !== row) r.classList.remove("open");
+      });
+
+      row.classList.toggle("open");
+    });
+  });
+});
