@@ -93,9 +93,9 @@ document.addEventListener("DOMContentLoaded", () => {
           sideMenu.classList.remove('open');
           overlay.classList.remove('active');
 
-          setTimeout(() => {
-            targetElem.scrollIntoView({ behavior: 'smooth' });
-          }, 350);
+setTimeout(() => {
+  targetElem.scrollIntoView({ behavior: 'smooth' });
+}, 500);
         }
       });
     });
@@ -116,4 +116,15 @@ window.addEventListener("load", () => {
   if (window.location.hash) {
     history.replaceState(null, "", window.location.pathname + window.location.search);
   }
+});
+
+marriedList.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+const headerOffset = 70;
+const elementPosition = targetElem.getBoundingClientRect().top;
+const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+window.scrollTo({
+  top: offsetPosition,
+  behavior: 'smooth'
 });
