@@ -33,6 +33,7 @@
 "maksumkasymk789": { status: "Дійсна", expiry: "08.07.2025", telegram: "1405483524" },
 "ONLYvPOTOKE": { status: "Дійсна", expiry: "08.07.2025", telegram: "5408573953" },
 "Pit_uk": { status: "Дійсна", expiry: "08.07.2025", telegram: "7811050819" },
+"Ksjhfte": { status: "Дійсна", expiry: "08.07.2025", telegram: "7729164856" },
 
         },
 
