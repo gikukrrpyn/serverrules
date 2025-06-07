@@ -93,9 +93,9 @@ document.addEventListener("DOMContentLoaded", () => {
           sideMenu.classList.remove('open');
           overlay.classList.remove('active');
 
-setTimeout(() => {
-  targetElem.scrollIntoView({ behavior: 'smooth' });
-}, 500);
+          setTimeout(() => {
+            targetElem.scrollIntoView({ behavior: 'smooth' });
+          }, 350);
         }
       });
     });
@@ -120,11 +120,9 @@ window.addEventListener("load", () => {
 
 marriedList.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-const headerOffset = 70;
-const elementPosition = targetElem.getBoundingClientRect().top;
-const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
-
-window.scrollTo({
-  top: offsetPosition,
-  behavior: 'smooth'
+document.querySelectorAll('.side-menu a').forEach(link => {
+  link.addEventListener('click', () => {
+    document.getElementById('side-menu').classList.remove('open');
+    document.getElementById('overlay').classList.remove('active');
+  });
 });
