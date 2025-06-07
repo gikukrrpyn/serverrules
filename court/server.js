@@ -8,26 +8,28 @@ const cors = require('cors');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Токен бота і chat_id адмінів в Telegram
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
-const TELEGRAM_CHAT_IDS = process.env.TELEGRAM_CHAT_IDS.split(',');
+const TELEGRAM_CHAT_IDS = process.env.TELEGRAM_CHAT_IDS ? process.env.TELEGRAM_CHAT_IDS.split(',') : [];
 
 app.use(cors({
-  origin: 'https://court-9m2r.onrender.com', 
+  origin: 'https://court-9m2r.onrender.com',
   methods: ['GET', 'POST', 'OPTIONS'],
   allowedHeaders: ['Content-Type']
 }));
 app.use(bodyParser.json());
 
-// Шлях до файлу з заявами
+app.options('/submit', cors());
+
 const SUBMISSIONS_FILE = './submissions.json';
 
-// Функція для генерації унікального номеру справи
+if (!fs.existsSync(SUBMISSIONS_FILE)) {
+  fs.writeFileSync(SUBMISSIONS_FILE, '[]', 'utf8');
+}
+
 function generateCaseNumber() {
   return 'CASE-' + Math.floor(100000 + Math.random() * 900000);
 }
 
-// Відправка повідомлення в Telegram
 async function sendTelegramMessage(chatId, text) {
   const url = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
   try {
@@ -46,6 +48,8 @@ app.get('/', (req, res) => {
 });
 
 app.post('/submit', async (req, res) => {
+  console.log('Отримано заявку:', req.body);
+
   const { name, email, message } = req.body;
 
   if (!name || !email || !message) {
@@ -54,10 +58,8 @@ app.post('/submit', async (req, res) => {
 
   let submissions = [];
   try {
-    if (fs.existsSync(SUBMISSIONS_FILE)) {
-      const data = fs.readFileSync(SUBMISSIONS_FILE, 'utf8');
-      submissions = JSON.parse(data);
-    }
+    const data = fs.readFileSync(SUBMISSIONS_FILE, 'utf8');
+    submissions = JSON.parse(data);
   } catch (err) {
     console.error('Помилка читання файлу:', err);
   }
@@ -86,7 +88,6 @@ app.post('/submit', async (req, res) => {
                        `Email: ${email}\n` +
                        `Текст:\n${message}`;
 
-  // Надіслати повідомлення кожному адміну
   for (const chatId of TELEGRAM_CHAT_IDS) {
     await sendTelegramMessage(chatId, telegramText);
   }
