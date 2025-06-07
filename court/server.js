@@ -8,8 +8,8 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Токен бота і chat_id адмінів в Telegram
-const TELEGRAM_BOT_TOKEN = '7590317507:AAERDeVjAvfNfxAmnFiK-8iFsc5TyPoPnAE';
-const TELEGRAM_CHAT_IDS = ['7286830883', '1731530720'];
+const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
+const TELEGRAM_CHAT_IDS = process.env.TELEGRAM_CHAT_IDS.split(',');
 
 app.use(cors());
 app.use(bodyParser.json());
