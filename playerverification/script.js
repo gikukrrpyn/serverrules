@@ -228,7 +228,7 @@
               "agency_roblox4": { status: "NA06", telegram: "7373162173", role: "NOW NEWS"},
               "mat250956": { status: "NR07", telegram: "6304172321", role: "NOW NEWS"},
               "Cmetanka_21756": { status: "NC08", telegram: "5379197089", role: "NOW NEWS"},
-              "username roblox": { status: "номер прес-карти", telegram: "айді акаунту тг", role: "назва ЗМІ"},
+              "Roblox_din2013": { status: "NB09", telegram: "6616330776", role: "NOW NEWS"},
               "username roblox": { status: "номер прес-карти", telegram: "айді акаунту тг", role: "назва ЗМІ"},
               "username roblox": { status: "номер прес-карти", telegram: "айді акаунту тг", role: "назва ЗМІ"},
               "username roblox": { status: "номер прес-карти", telegram: "айді акаунту тг", role: "назва ЗМІ"},
