@@ -11,8 +11,10 @@
                 "XxHA7AxX": { role: "Головний Суддя", telegram: "t.me/Na7atelega", category: "Суд" },
                 "nik2a5": { role: "Суддя", telegram: "t.me/cyberl1n3", category: "Суд" },
                 "olegh34": { role: "Суддя", telegram: "t.me/olegh34", category: "Суд" },
+                "palamarka2288": { role: "Суддя", telegram: "t.me/Foxxi_Love", category: "Суд" },
                 "arina_mike141": { role: "Охоронець", telegram: "7505928620", category: "Суд" },
                 "Svervanchik ": { role: "Охоронець", telegram: "5634473488", category: "Суд" },
+
 
   "nazar1cyber2sportman": { role: "Голова СБС", telegram: "t.me/NazSkil", category: "СБС" },
   "Zoomsos123": { role: "Заступник Голови СБС", telegram: "t.me/Xmm_help", category: "СБС" },
@@ -33,7 +35,6 @@
                 "H8TpizzaG8D": { role: "Співробітник ДБР", telegram: "1044776829", category: "ДБР" },
                 "dima276518": { role: "Співробітник ДБР", telegram: "8107753437", category: "ДБР" },
                 "starikashka228337": { role: "Співробітник ДБР", telegram: "5358641921", category: "ДБР" },
-                "palamarka2288": { role: "Співробітник ДБР", telegram: "1902876079", category: "ДБР" },
                 "Yezh1lya": { role: "Співробітник ДБР", telegram: "5109532913", category: "ДБР" },
                 "Ntinetter": { role: "Співробітник ДБР", telegram: "1319760971", category: "ДБР" },
 
