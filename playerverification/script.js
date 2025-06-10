@@ -6,6 +6,12 @@
     "SFGGGYyypp": { status: "несплату податку на сервер.", expiry: "00.00.0000", telegram: "5414509704" },
     "dima2014hxoxbifov": { status: "Дійсна", expiry: "24.06.2025", telegram: "6318992501" },
     "dolinskuy": { status: "Дійсна", expiry: "02.06.2025 to 19.06.2025", telegram: "1812225406" },
+    "Colden_720": { status: "Дійсна", expiry: "26.05.2025 to 26.06.2025", telegram: "1397522151" },
+    "jfhhddjh": { status: "Дійсна", expiry: "26.05.2025 to 26.06.2025", telegram: "6997233193" },
+    "Robert_polsan228": { status: "Дійсна", expiry: "07.06.2025 to 07.07.2025", telegram: "1921850684" },
+    "pavel36558": { status: "Дійсна", expiry: "08.06.2025 to 08.07.2025", telegram: "7485750248" },
+    "Rick_morti": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "1981129915" },
+    "no0b1048": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "6003732998" },               
                 // Суд
     "Arina_mike141": { status: "Дійсна", expiry: "08.07.2025", telegram: "7505928620" },
     "Svervanchik": { status: "Дійсна", expiry: "08.07.2025", telegram: "5634473488" },
