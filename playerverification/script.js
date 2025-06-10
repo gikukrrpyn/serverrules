@@ -242,7 +242,7 @@
             // Зареєстровані ЗМІ
          press: {
               "lSqwizzyl": { status: "NOW NEWS", "telegram": "t.me/shppsqwizzy"},
-              "username roblox": { "status": "назва ЗМІ", "telegram": "t.me/username"}, // якщо немає username, вказувати id (без t.me/)
+              "TANKIST77735": { "status": "ТСГ", "telegram": "t.me/Retrrwerq"}, // якщо немає username, вказувати id (без t.me/)
               "username roblox": { "status": "назва ЗМІ", "telegram": "t.me/username"},
             },
 
