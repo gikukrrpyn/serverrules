@@ -3,7 +3,7 @@
                 "gikusya": { role: "Засновник сервера", telegram: "t.me/ukreh_admin", category: "Адміністрація" },
                 "Klipri": { role: "Головний Адміністратор", telegram: "t.me/Klipri", category: "Адміністрація" },
                 "nsx1987": { role: "Адміністратор-Патрульний", telegram: "t.me/WHHll", category: "Адміністрація" },
-                "Bandera909": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/Great_Terku", category: "Адміністрація" },
+                "Bandera909": { role: "Адміністратор-Патрульний", telegram: "t.me/Great_Terku", category: "Адміністрація" },
                 "gestisqns": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/gestisq", category: "Адміністрація" },
                 "MefFVG7": { role: "Адміністратор-Патрульний", telegram: "t.me/cherruu12", category: "Адміністрація" },
                 "bodja150510": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/marsqwrty0", category: "Адміністрація" },
