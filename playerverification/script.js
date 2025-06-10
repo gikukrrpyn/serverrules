@@ -346,7 +346,10 @@ else if (licenseType === 'presslicense') {
                       <br>Telegram: <strong>${userData.telegram}</strong>
             `;
         }
-    } }
+    } else {
+        modalContent.innerHTML = `<p class="error">Журналістська ліцензія у ${username} відсутня.</p>`;
+    }
+}
             
 else if (licenseType === 'press') {
     if (userData) {
