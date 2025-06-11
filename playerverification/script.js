@@ -30,7 +30,6 @@
 "Sti4kyy": { status: "Дійсна", expiry: "08.06.2025", telegram: "5481499679" },
 "eeeeyegeggegehux": { status: "Дійсна", expiry: "08.06.2025", telegram: "5599228299" },
 "Pit_uk": { status: "Дійсна", expiry: "08.06.2025", telegram: "7811050819" },
-"Andrew_01174": { status: "Дійсна", expiry: "08.06.2025", telegram: "5262299554" },
 "Saylexxx59": { status: "Дійсна", expiry: "08.06.2025", telegram: "1141415935" },
 "Black_Batman02": { status: "Дійсна", expiry: "08.06.2025", telegram: "1093245097" },
 "maksumkasymk789": { status: "Дійсна", expiry: "08.06.2025", telegram: "1405483524" },
