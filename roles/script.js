@@ -21,7 +21,6 @@
   "Pit_uk": { role: "Співробітник СБС", telegram: "7811050819", category: "СБС" },
   "Sti4kyy": { role: "Співробітник СБС", telegram: "5481499679", category: "СБС" },
   "eeeeyegeggegehux": { role: "Співробітник СБС", telegram: "5599228299", category: "СБС" },
-  "Andrew_01174": { role: "Співробітник СБС", telegram: "5262299554", category: "СБС" },
   "ONLYvPOTOKE": { role: "Співробітник СБС", telegram: "5408573953", category: "СБС" },
   "Saylexxx59": { role: "Співробітник СБС", telegram: "1141415935", category: "СБС" },
   "Black_Batman02": { role: "Співробітник СБС", telegram: "1093245097", category: "СБС" },
