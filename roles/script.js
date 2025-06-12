@@ -34,6 +34,7 @@
                 "starikashka228337": { role: "Співробітник ДБР", telegram: "5358641921", category: "ДБР" },
                 "Yezh1lya": { role: "Співробітник ДБР", telegram: "5109532913", category: "ДБР" },
                 "Ntinetter": { role: "Співробітник ДБР", telegram: "1319760971", category: "ДБР" },
+                "Levopravo2024": { role: "Співробітник ДБР", telegram: "5134083594", category: "ДБР" },
 
                // "": { role: "Міністр МВС", telegram: "t.me/", category: "МВС" },
                // "": { role: "Заступник Міністра МВС", telegram: "t.me/", category: "МВС" },
