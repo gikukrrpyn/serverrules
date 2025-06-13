@@ -533,3 +533,12 @@ document.getElementById('username').addEventListener('input', function () {
         closeModal();
     }
 });
+
+window.addEventListener('resize', () => {
+    const footer = document.querySelector('footer');
+    if (window.innerHeight < window.outerHeight - 100) {
+        footer.style.display = 'none';
+    } else {
+        footer.style.display = 'block';
+    }
+});
