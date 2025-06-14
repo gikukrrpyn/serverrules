@@ -214,7 +214,8 @@
               "heehrhrhl9": { "status": "T0147", "telegram": "6510561713" },
               "Chisburger02": { "status": "T0148", "telegram": "6501600339" },
               "maloidolboeb": { "status": "T0149", "telegram": "7050496281" },
-              "roma9080705": { "status": "T0150", "telegram": "8163191765" },      
+              "roma9080705": { "status": "T0150", "telegram": "8163191765" },
+              "Vano54725472": { "status": "T0151", "telegram": "5701417082" },       
 
               },
 
