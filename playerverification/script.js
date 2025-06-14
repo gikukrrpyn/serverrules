@@ -12,7 +12,8 @@
     "pavel36558": { status: "Дійсна", expiry: "08.06.2025 to 08.07.2025", telegram: "7485750248" },
     "Rick_morti": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "1981129915" },
     "no0b1048": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "6003732998" },
-    "Pushka2030": { status: "Дійсна", expiry: "14.06.2025 to 14.07.2025", telegram: "5549609551" },                
+    "Pushka2030": { status: "Дійсна", expiry: "14.06.2025 to 14.07.2025", telegram: "5549609551" },
+    "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },                
                 // Суд
     "Arina_mike141": { status: "Дійсна", expiry: "08.07.2025", telegram: "7505928620" },
     "Svervanchik": { status: "Дійсна", expiry: "08.07.2025", telegram: "5634473488" },
