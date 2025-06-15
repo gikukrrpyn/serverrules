@@ -7,11 +7,11 @@
                 "gestisqns": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/gestisq", category: "Адміністрація" },
                 "MefFVG7": { role: "Адміністратор-Патрульний", telegram: "t.me/cherruu12", category: "Адміністрація" },
                 "bodja150510": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/marsqwrty0", category: "Адміністрація" },
+                "bratsmola": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/rin_mew", category: "Адміністрація" },
 
                 "XxHA7AxX": { role: "Головний Суддя", telegram: "t.me/Na7atelega", category: "Суд" },
                 "nik2a5": { role: "Суддя", telegram: "t.me/cyberl1n3", category: "Суд" },
                 "olegh34": { role: "Суддя", telegram: "t.me/olegh34", category: "Суд" },
-                "palamarka2288": { role: "Суддя", telegram: "t.me/Foxxi_Love", category: "Суд" },
                 "arina_mike141": { role: "Охоронець", telegram: "7505928620", category: "Суд" },
                 "Svervanchik ": { role: "Охоронець", telegram: "5634473488", category: "Суд" },
 
@@ -41,6 +41,7 @@
 
                "XxHA7AxXᅠᅠ": { role: "Організатор", telegram: "t.me/Na7atelega", category: "ДАРШ" },
                "Bandera909ᅠᅠ": { role: "Організатор", telegram: "t.me/Great_Terku", category: "ДАРШ" }, 
+               "gandondond4": { role: "Організатор", telegram: "t.me/Sweque", category: "ДАРШ" }, 
 
                 "kartoffel_2288": { role: "Психолог", telegram: "t.me/UkraineRPPsychotherapyBot?start=start", category: "Інше" },
                 "Karinqs_UA": { role: "Психолог", telegram: "t.me/UkraineRPPsychotherapyBot?start=start", category: "Інше" },
