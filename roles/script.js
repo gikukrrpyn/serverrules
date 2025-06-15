@@ -7,7 +7,7 @@
                 "gestisqns": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/gestisq", category: "Адміністрація" },
                 "MefFVG7": { role: "Адміністратор-Патрульний", telegram: "t.me/cherruu12", category: "Адміністрація" },
                 "bodja150510": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/marsqwrty0", category: "Адміністрація" },
-                "bratsmola": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/rin_mew", category: "Адміністрація" },
+                "bratsmola": { role: "Адміністратор-Комунікатор-Івентник", telegram: "t.me/rin_mew", category: "Адміністрація" },
 
                 "XxHA7AxX": { role: "Головний Суддя", telegram: "t.me/Na7atelega", category: "Суд" },
                 "nik2a5": { role: "Суддя", telegram: "t.me/cyberl1n3", category: "Суд" },
