@@ -17,14 +17,11 @@
 
   "nazar1cyber2sportman": { role: "Голова СБС", telegram: "t.me/NazSkil", category: "СБС" },
   "Zoomsos123": { role: "Заступник Голови СБС", telegram: "t.me/Xmm_help", category: "СБС" },
-  "Pit_uk": { role: "Співробітник СБС", telegram: "7811050819", category: "СБС" },
   "Sti4kyy": { role: "Співробітник СБС", telegram: "5481499679", category: "СБС" },
-  "eeeeyegeggegehux": { role: "Співробітник СБС", telegram: "5599228299", category: "СБС" },
   "ONLYvPOTOKE": { role: "Співробітник СБС", telegram: "5408573953", category: "СБС" },
   "Saylexxx59": { role: "Співробітник СБС", telegram: "1141415935", category: "СБС" },
-  "Black_Batman02": { role: "Співробітник СБС", telegram: "1093245097", category: "СБС" },
-  "maksumkasymk789": { role: "Співробітник СБС", telegram: "1405483524", category: "СБС" },
   "Ksjhfte": { role: "Співробітник СБС", telegram: "7729164856", category: "СБС" },
+  "Tyjorty123987": { role: "Співробітник СБС", telegram: "1410588546", category: "СБС" },
 
                 "Vaylet009": { role: "Директор ДБР", telegram: "t.me/Vaylet009", category: "ДБР" },
                 "global20207": { role: "Заступник Директора ДБР", telegram: "1431122546", category: "ДБР" },
@@ -34,6 +31,8 @@
                 "Yezh1lya": { role: "Співробітник ДБР", telegram: "5109532913", category: "ДБР" },
                 "Ntinetter": { role: "Співробітник ДБР", telegram: "1319760971", category: "ДБР" },
                 "Levopravo2024": { role: "Співробітник ДБР", telegram: "5134083594", category: "ДБР" },
+                "maksumkasymk789": { role: "Співробітник ДБР", telegram: "1405483524", category: "ДБР" },
+                "Black_Batman02": { role: "Співробітник ДБР", telegram: "1093245097", category: "ДБР" },
 
                // "": { role: "Міністр МВС", telegram: "t.me/", category: "МВС" },
                // "": { role: "Заступник Міністра МВС", telegram: "t.me/", category: "МВС" },
