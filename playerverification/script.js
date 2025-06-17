@@ -1,7 +1,7 @@
         const licenses = {
             weapon: {
                 // Куплені
-    "nikita100808": { status: "Дійсна", expiry: "19.06.2025", telegram: "6348110356" },
+    "nikita100808": { status: "Дійсна", expiry: "16.07.2025", telegram: "6348110356" },
     "Caston08963": { status: "Дійсна", expiry: "23.06.2025", telegram: "7557434574" },
     "SFGGGYyypp": { status: "несплату податку на сервер.", expiry: "00.00.0000", telegram: "5414509704" },
     "dima2014hxoxbifov": { status: "Дійсна", expiry: "24.06.2025", telegram: "6318992501" },
