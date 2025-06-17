@@ -215,7 +215,13 @@
               "Chisburger02": { "status": "T0148", "telegram": "6501600339" },
               "maloidolboeb": { "status": "T0149", "telegram": "7050496281" },
               "roma9080705": { "status": "T0150", "telegram": "8163191765" },
-              "Vano54725472": { "status": "T0151", "telegram": "5701417082" },       
+              "Vano54725472": { "status": "T0151", "telegram": "5701417082" },
+              "N3K1T2": { "status": "T0152", "telegram": "7114869273" },
+              "Lobzik": { "status": "T0153", "telegram": "5930980205" },
+              "yxy13yxy13": { "status": "T0154", "telegram": "6866663689" },
+              "makarpro11": { "status": "T0155", "telegram": "7344363583" },
+              "Andriys77": { "status": "T0156", "telegram": "7343356100" },
+              "Nazar_yrt": { "status": "T0157", "telegram": "7971358775" },       
 
               },
 
