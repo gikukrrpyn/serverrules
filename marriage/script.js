@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", () => {
   const marriedList = [
-  // {
-      // username1: "Тут може бути твій username",
-      //username2: "Тут може бути username твоєї другої половинки",
-     // date: "xxxx-xx-xx", // рік-день-місяць
-     //photo1: "https://i.postimg.cc/L4k2j12p/UKRAINE-RP-90.png",
-    //  photo2: "https://i.postimg.cc/RZhmrpfS/UKRAINE-RP-91.png"
-    // } 
+   {
+       username1: "Тут може бути твій username",
+       username2: "Тут може бути username твоєї другої половинки",
+       date: "xxxx-xx-xx", // рік-день-місяць
+       photo1: "https://i.postimg.cc/L4k2j12p/UKRAINE-RP-90.png",
+       photo2: "https://i.postimg.cc/RZhmrpfS/UKRAINE-RP-91.png"
+   } 
   ];
  marriedList.sort((a, b) => new Date(b.date) - new Date(a.date));
 
