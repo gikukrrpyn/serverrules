@@ -1,12 +1,14 @@
  document.addEventListener("DOMContentLoaded", () => {
             const players = {
                 "gikusya": { role: "Засновник сервера", telegram: "t.me/ukreh_admin", category: "Адміністрація" },
+                "p1eyys": { role: "Заступниця засновника сервера", telegram: "t.me/crybaby0033", category: "Адміністрація" },
                 "Klipri": { role: "Головний Адміністратор", telegram: "t.me/Klipri", category: "Адміністрація" },
                 "Bandera909": { role: "Адміністратор-Патрульний", telegram: "t.me/Great_Terku", category: "Адміністрація" },
                 "gestisqns": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/gestisq", category: "Адміністрація" },
                 "MefFVG7": { role: "Адміністратор-Патрульний", telegram: "t.me/cherruu12", category: "Адміністрація" },
                 "bodja150510": { role: "Адміністратор-Повітряний Контроль", telegram: "t.me/marsqwrty0", category: "Адміністрація" },
                 "bratsmola": { role: "Адміністратор-Комунікатор-Івентник", telegram: "t.me/rin_mew", category: "Адміністрація" },
+              //  "H8TpizzaG8D": { role: "Адміністратор-", telegram: "t.me/P1zzaGod", category: "Адміністрація" },
 
                 "XxHA7AxX": { role: "Головний Суддя", telegram: "t.me/Na7atelega", category: "Суд" },
                 "nik2a5": { role: "Суддя", telegram: "t.me/cyberl1n3", category: "Суд" },
@@ -26,7 +28,6 @@
                 "Vaylet009": { role: "Директор ДБР", telegram: "t.me/Vaylet009", category: "ДБР" },
                 "global20207": { role: "Заступник Директора ДБР", telegram: "1431122546", category: "ДБР" },
                 "artemMelnichenko2013": { role: "Співробітник ДБР", telegram: "5242336088", category: "ДБР" },
-                "H8TpizzaG8D": { role: "Співробітник ДБР", telegram: "1044776829", category: "ДБР" },
                 "starikashka228337": { role: "Співробітник ДБР", telegram: "5358641921", category: "ДБР" },
                 "Yezh1lya": { role: "Співробітник ДБР", telegram: "5109532913", category: "ДБР" },
                 "Ntinetter": { role: "Співробітник ДБР", telegram: "1319760971", category: "ДБР" },
