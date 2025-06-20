@@ -13,6 +13,8 @@
                 "XxHA7AxX": { role: "Головний Суддя", telegram: "t.me/Na7atelega", category: "Суд" },
                 "nik2a5": { role: "Суддя", telegram: "t.me/cyberl1n3", category: "Суд" },
                 "olegh34": { role: "Суддя", telegram: "t.me/olegh34", category: "Суд" },
+                "K_PoPlove9473": { role: "Суддя", telegram: "t.me/aeriwam", category: "Суд" },
+                "ONLYvPOTOKE": { role: "Суддя", telegram: "t.me/only_militaryxxx", category: "Суд" },
                 "arina_mike141": { role: "Охоронець", telegram: "7505928620", category: "Суд" },
                 "Svervanchik ": { role: "Охоронець", telegram: "5634473488", category: "Суд" },
 
