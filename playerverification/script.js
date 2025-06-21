@@ -220,7 +220,15 @@
               "yxy13yxy13": { "status": "T0154", "telegram": "6866663689" },
               "makarpro11": { "status": "T0155", "telegram": "7344363583" },
               "Andriys77": { "status": "T0156", "telegram": "7343356100" },
-              "Nazar_yrt": { "status": "T0157", "telegram": "7971358775" },       
+              "Nazar_yrt": { "status": "T0157", "telegram": "7971358775" },
+              "EnglishorSpanish_1w7": { "status": "T0158", "telegram": "5963490462" },
+              "TutanMark": { "status": "T0159", "telegram": "2063279900" },
+              "TPS_YaaRa": { "status": "T0160", "telegram": "5108999009" },
+              "progeug": { "status": "T0161", "telegram": "7039390790" },
+              "fgfuger_456": { "status": "T0162", "telegram": "1880414426" },
+              "Megames": { "status": "T0163", "telegram": "6766041555" },
+              "59lhhh": { "status": "T0164", "telegram": "5532474249" },
+              "PanenkoMakar": { "status": "T0165", "telegram": "5135885612" },      
 
               },
 
