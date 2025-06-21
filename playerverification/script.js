@@ -256,8 +256,8 @@
               "mat250956": { status: "NR07", telegram: "6304172321", role: "NOW NEWS"},
               "Cmetanka_21756": { status: "NC08", telegram: "5379197089", role: "NOW NEWS"},
               "Roblox_din2013": { status: "NB09", telegram: "6616330776", role: "NOW NEWS"},
-              "username roblox": { status: "номер прес-карти", telegram: "айді акаунту тг", role: "назва ЗМІ"},
-              "username roblox": { status: "номер прес-карти", telegram: "айді акаунту тг", role: "назва ЗМІ"},
+              "meqssz": { status: "NA10", telegram: "5262299554", role: "NOW NEWS"},
+              "nikita1359z11": { status: "UM11", telegram: "6031850989", role: "Укр.ЗМІ"},
               "username roblox": { status: "номер прес-карти", telegram: "айді акаунту тг", role: "назва ЗМІ"},
             },
             
@@ -265,7 +265,7 @@
          press: {
               "lSqwizzyl": { status: "NOW NEWS", "telegram": "t.me/shppsqwizzy"},
               "TANKIST77735": { "status": "ТСГ", "telegram": "t.me/Retrrwerq"}, // якщо немає username, вказувати id (без t.me/)
-              "username roblox": { "status": "назва ЗМІ", "telegram": "t.me/username"},
+              "nikita1359z11": { "status": "Укр.ЗМІ", "telegram": "t.me/NikitosP10"},
             },
 
            // Легалізовані мафії, банди
