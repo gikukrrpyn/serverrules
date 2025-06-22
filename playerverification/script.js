@@ -22,13 +22,14 @@
 "Vaylet009": { status: "Дійсна", expiry: "08.07.2025", telegram: "t.me/Vaylet009" },
 "global20207": { status: "Дійсна", expiry: "08.07.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.07.2025", telegram: "5242336088" },
-"H8TpizzaG8D": { status: "Дійсна", expiry: "08.07.2025", telegram: "1044776829" },
 "starikashka228337": { status: "Дійсна", expiry: "08.07.2025", telegram: "5358641921" },
 "Yezh1lya": { status: "Дійсна", expiry: "08.07.2025", telegram: "5109532913" },
 "Ntinetter": { status: "Дійсна", expiry: "08.07.2025", telegram: "1319760971" },
 "Levopravo2024": { status: "Дійсна", expiry: "08.07.2025", telegram: "5134083594" },
 "maksumkasymk789": { status: "Дійсна", expiry: "08.07.2025", telegram: "1405483524" },
 "Black_Batman02": { status: "Дійсна", expiry: "08.07.2025", telegram: "1093245097" },
+"dima276518": { status: "Дійсна", expiry: "08.07.2025", telegram: "8107753437" },
+"kvak612": { status: "Дійсна", expiry: "08.07.2025", telegram: "5589767694" },
 
                // СБС
 "nazar1cyber2sportman": { status: "Дійсна", expiry: "08.07.2025", telegram: "t.me/NazSkil" },
