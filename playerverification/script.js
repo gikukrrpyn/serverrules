@@ -35,10 +35,6 @@
 "nazar1cyber2sportman": { status: "Дійсна", expiry: "08.07.2025", telegram: "t.me/NazSkil" },
 "Zoomsos123": { status: "Дійсна", expiry: "08.07.2025", telegram: "t.me/Xmm_help" },
 "Sti4kyy": { status: "Дійсна", expiry: "08.07.2025", telegram: "5481499679" },
-"ONLYvPOTOKE": { status: "Дійсна", expiry: "08.07.2025", telegram: "5408573953" },
-"Saylexxx59": { status: "Дійсна", expiry: "08.07.2025", telegram: "1141415935" },
-"Ksjhfte": { status: "Дійсна", expiry: "08.07.2025", telegram: "7729164856" },
-"Tyjorty123987": { status: "Дійсна", expiry: "08.07.2025", telegram: "1410588546" },
 
         },
 
