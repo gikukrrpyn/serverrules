@@ -59,6 +59,37 @@
   "username roblox": { status: "ідентифікаційний код", role: "назва", telegram: "айді акаунту тг" },
 
 },
+
+  police: {
+  "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
+  "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
+  "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
+  "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
+
+},
+
+  sbs: {
+  "nazar1cyber2sportman": { role: "Голова", status: "438619", telegram: "6194910294" },
+  "Zoomsos123": { role: "Заступник Голови", status: "350533", telegram: "5339606531" },
+  "Sti4kyy": { role: "Майор", status: "769548", telegram: "5481499679" },
+  "username": { role: "звання", status: "айді", telegram: "telegram" },
+
+},
+
+  dbr: {
+  "Vaylet009": { role: "Директор (Генерал—Полковник)", status: "112516", telegram: "5169521179" },
+  "global20207": { role: "Заступник Директора (Генерал—Лейтинант)", status: "194143", telegram: "1431122546" },
+  "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
+  "Yezh1lya": { role: "Капітан", status: "396510", telegram: "5109532913" },
+  "starikashka228337": { role: "Лейтенант", status: "544535", telegram: "5358641921" },
+  "dima276518": { role: "Молодший—Лейтинант", status: "703481", telegram: "48107753437" },
+  "Ntinetter": { role: "Молодший—Лейтинант", status: "267131", telegram: "1319760971" },
+  "maksumkasymk789": { role: "Старший—Сержант", status: "392140", telegram: "1405483524" },
+  "Black_Batman02": { role: "Сержант", status: "379109", telegram: "1093245097" },
+  "kvak612": { role: "Сержант", status: "512558", telegram: "5589767694" },
+  "levopravo2024": { role: "Сержант", status: "749513", telegram: "5134083594" },
+
+},
               // Таксистська ліцензія
             taxi: {
               "RODON297": { "status": "T0001", "telegram": "5196592487" },
@@ -276,284 +307,4 @@
 
         };
 
-        function checkLicense() {
-            const licenseType = document.getElementById('licenseType').value;
-            const username = document.getElementById('username').value.trim();
-            const modal = document.getElementById('modal');
-            const modalContent = document.getElementById('modal-content');
-
-            // Перевірка на вибір категорії та введення username
-            if (!licenseType && !username) {
-                modalContent.innerHTML = `<p class="error">Виберіть категорію для перевірки та введіть username.</p>`;
-                showModal();
-                return;
-            }
-
-            // Якщо не вибрана категорія
-            if (!licenseType) {
-                modalContent.innerHTML = `<p class="error">Виберіть категорію для перевірки.</p>`;
-                showModal();
-                return;
-            }
-
-            // Якщо не введено username
-            if (!username) {
-                modalContent.innerHTML = `<p class="error">Введіть username власника.</p>`;
-                showModal();
-                return;
-            }
-
-            const userData = licenses[licenseType][username];
-
-            if (licenseType === 'role') {
-                if (userData) {
-                    modalContent.innerHTML = `
-                        <h2>Інформація про роль</h2>
-                        <p>Username: <strong>${username}</strong>
-                        <br>Роль: <strong>${userData.role}</strong>
-                        <br>Telegram: <strong>${userData.telegram}</strong></p>
-                    `;
-                } else {
-                    modalContent.innerHTML = `
-                        <h2>Інформація про роль</h2>
-                        <p>Username: <strong>${username}</strong>
-                        <br>Роль: <strong>Звичайний гравець</strong></p>
-                    `;
-                }
-                
-            } 
-            
-            
-       else if (licenseType === 'business') {
-    if (userData) {
-        if (userData.cans && userData.cans.startsWith('CANS')) {
-            const reason = userData.cans.slice(4).trim(); 
-            modalContent.innerHTML = `
-                <h2>Реєстрацію Бізнесу Скасовано</h2>
-                <p>Реєстрацію вашого бізнесу <i>${userData.status}</i> скасовано <strong>${reason}</strong></p>
-                <p>Username власника: <strong>${username}</strong><br>
-                Telegram власника: <strong>${userData.telegram}</strong></p>
-            `;
-        } else {
-            modalContent.innerHTML = `
-                <h2>Інформація про Бізнес</h2>
-                <p>Назва: <strong>${userData.role}</strong><br>
-                Ідентифікаційний код: <strong>${userData.status}</strong><br>
-                Username власника: <strong>${username}</strong><br>
-                Telegram власника: <strong>${userData.telegram}</strong></p>
-            `;
-        }
-    } else {
-        modalContent.innerHTML = `<p class="error">У ${username} немає зареєстрованих бізнесів.</p>`;
-    }
-}
-
-else if (licenseType === 'presslicense') {
-    if (userData) {
-        if (userData.cans && userData.cans.startsWith('CANS')) {
-            const reason = userData.cans.slice(4).trim(); 
-            modalContent.innerHTML = `
-                <h2>Журналістську Ліцензію Скасовано</h2>
-                <p>Прес-карту <i>№${userData.status} (редакція «${userData.role}»)</i> скасовано <strong>${reason}</strong></p>
-                <p>Username: <strong>${username}</strong><br>
-                Telegram: <strong>${userData.telegram}</strong></p>
-            `;
-        } else {
-            modalContent.innerHTML = `
-                  <h2>Інформація про журналістську ліцензію</h2>
-                      <p>Номер: <strong>№${userData.status}</strong>
-                      <br>Username: <strong>${username}</strong>
-                      <br>Редакція: <strong>${userData.role}</strong>
-                      <br>Telegram: <strong>${userData.telegram}</strong>
-            `;
-        }
-    } else {
-        modalContent.innerHTML = `<p class="error">Журналістська ліцензія у ${username} відсутня.</p>`;
-    }
-}
-            
-else if (licenseType === 'press') {
-    if (userData) {
-        if (userData.cans && userData.cans.startsWith('CANS')) {
-            const reason = userData.cans.slice(4).trim(); 
-            modalContent.innerHTML = `
-                <h2>Реєстрацію ЗМІ Скасовано</h2>
-                <p>Реєстрацію ЗМІ „<i>${userData.status}</i>” скасовано <strong>${reason}</strong></p>
-                <p>Username власника: <strong>${username}</strong><br>
-                Telegram власника: <strong>${userData.telegram}</strong></p>
-            `;
-        } else {
-            modalContent.innerHTML = `
-                <h2>Інформація про ЗМІ</h2>
-                Назва: <strong>${userData.status}</strong>
-                <br>Username власника: <strong>${username}</strong>
-                <br>Telegram власника: <strong>${userData.telegram}</strong>
-            `;
-        }
-    } else {
-        modalContent.innerHTML = `<p class="error">${username} не є власником жодного зареєстрованого ЗМІ.</p>`;
-    }
-}
-          else if (licenseType === 'mafia') {
-    if (userData) {
-        if (userData.cans && userData.cans.startsWith('CANS')) {
-            const reason = userData.cans.slice(4).trim(); 
-            modalContent.innerHTML = `
-                <h2>Легалізацію Мафії/банди Скасовано</h2>
-                <p>Легалізацію мафії/банди „<i>${userData.status}</i>” скасовано <strong>${reason}</strong></p>
-                <p>Username власника: <strong>${username}</strong><br>
-                Telegram власника: <strong>${userData.telegram}</strong></p>
-            `;
-        } else {
-            modalContent.innerHTML = `
-                <h2>Інформація про легалізовану мафію/банду</h2>
-                Назва: <strong>${userData.status}</strong>
-                <br>Username власника: <strong>${username}</strong>
-                <br>Telegram власника: <strong>${userData.telegram}</strong>
-            `;
-        }
-    } else {
-        modalContent.innerHTML = `<p class="error">${username} не є власником жодної легалізованої мафії чи банди.</p>`;
-    }
-}
-
-
-         else if (licenseType === 'taxi') {
-    if (userData) {
-        if (userData.cans && userData.cans.startsWith('CANS')) {
-            const reason = userData.cans.slice(4).trim(); 
-            modalContent.innerHTML = `
-                <h2>Таксистську Ліцензію Скасовано</h2>
-                Ліцензію <i>${userData.status}</i> скасовано <strong>${reason}</strong>
-                <br><br>Username: <strong>${username}</strong>
-                <br>Telegram: <strong>${userData.telegram}</strong>
-            `;
-        } else {
-            modalContent.innerHTML = `
-                <h2>Інформація про таксистську ліцензію</h2>
-                Номер: <strong>${userData.status}</strong>
-                <br>Username: <strong>${username}</strong>
-                <br>Telegram: <strong>${userData.telegram}</strong>
-            `;
-        }
-    } else {
-        modalContent.innerHTML = `<p class="error">Таксистська ліцензія у ${username} відсутня.</p>`;
-    }
-}
-
-else if (licenseType === 'advocat') {
-    if (userData) {
-        if (userData.cans && userData.cans.startsWith('CANS')) {
-            const reason = userData.cans.slice(4).trim(); 
-            modalContent.innerHTML = `
-                <h2>Адвокатську Ліцензію Скасовано</h2>
-                Адвокатську ліцензію <i>${userData.status}</i> скасовано <strong>${reason}</strong>
-                <br>Username: <strong>${username}</strong>
-                <br>Telegram: <strong>${userData.telegram}</strong>
-            `;
-        } else {
-            modalContent.innerHTML = `
-                <h2>Інформація про адвокатську ліцензію</h2>
-                <p>Номер: <strong>${userData.status}</strong></p>
-                <p>Username: <strong>${username}</strong><br>
-                Telegram: <strong>${userData.telegram}</strong></p>
-            `;
-        }
-    } else {
-        modalContent.innerHTML = `<p class="error">Адвокатська ліцензія у ${username} відсутня.</p>`;
-    }
-}
-
-            else if (licenseType === 'weapon') {
-    if (userData) {
-        if (userData.expiry === "00.00.0000") {
-            modalContent.innerHTML = 
-                `<h3>Інформація про ліцензію на зброю для ${username}</h3>
-                <p>
-                    Статус: <strong>скасовано через ${userData.status}</strong><br>
-                    <small>Ліцензія не підлягає відновленню. Якщо ви вважаєте інакше, будь ласка, подайте апеляцію до суду.</small><br><br>
-                    Telegram: <strong>${userData.telegram}</strong>
-                </p>`;
-        } else {
-            const today = new Date();
-            let startDate, endDate;
-            let hasRange = userData.expiry.includes('to');
-            let statusMessage = '';
-            let extraText = '';
-
-            if (hasRange) {
-                // Формат: від і до
-                const [startRaw, endRaw] = userData.expiry.split('to').map(str => str.trim());
-
-                const [startDay, startMonth, startYear] = startRaw.split('.');
-                const [endDay, endMonth, endYear] = endRaw.split('.');
-
-                startDate = new Date(`${startYear}-${startMonth}-${startDay}T00:00:00`);
-                endDate = new Date(`${endYear}-${endMonth}-${endDay}T23:59:59`);
-
-                if (today < startDate) {
-                    statusMessage = `Неактивна. <br>Буде активна з ${startRaw} до ${endRaw}</strong>`;
-                } else if (today > endDate) {
-                    statusMessage = "Не дійсна. <br>Для поновлення зв'яжіться з адміністратором.";
-                } else {
-                    statusMessage = `Дійсна`;
-                    extraText = ` з ${startRaw} до ${endRaw}`;
-                }
-            } else {
-                // Лише дата завершення
-                const [day, month, year] = userData.expiry.split('.');
-                startDate = new Date('2000-01-01T00:00:00');
-                endDate = new Date(`${year}-${month}-${day}T23:59:59`);
-
-                if (today > endDate) {
-                    statusMessage = "Не дійсна. <br>Для поновлення зв'яжіться з адміністратором.";
-                } else {
-                    statusMessage = "Дійсна";
-                    extraText = `<br>Дійсна до: <strong>${userData.expiry}</strong>`;
-                }
-            }
-
-            modalContent.innerHTML = 
-                `<h2>Інформація про ліцензію на зброю</h2>
-                <p>
-                    Username: <strong>${username}</strong><br>
-                    Статус: <strong>${statusMessage}</strong>${hasRange ? extraText : ''}${!hasRange ? extraText : ''}<br>
-                    Telegram: <strong>${userData.telegram}</strong>
-                </p>`;
-        }
-    } else {
-        modalContent.innerHTML = 
-            `<p class="error">Ліцензія для ${username} не знайдена.</p>`;
-    }
-}
-
-
-
-
-            showModal();
-        }
-
-        function showModal() {
-    const modal = document.getElementById('modal');
-    modal.classList.add('show');
-}
-
-function closeModal() {
-    const modal = document.getElementById('modal');
-    modal.classList.remove('show');
-}
-
-document.getElementById('username').addEventListener('input', function () {
-    if (this.value.trim() === "") {
-        closeModal();
-    }
-});
-
-window.addEventListener('resize', () => {
-    const footer = document.querySelector('footer');
-    if (window.innerHeight < window.outerHeight - 100) {
-        footer.style.display = 'none';
-    } else {
-        footer.style.display = 'block';
-    }
-});
+const _0x441f68=_0x97a0;(function(_0x2f78fc,_0x4a8256){const _0x37ba2e=_0x97a0,_0x6ff080=_0x2f78fc();while(!![]){try{const _0x2465ac=parseInt(_0x37ba2e(0x94))/0x1+parseInt(_0x37ba2e(0x87))/0x2*(parseInt(_0x37ba2e(0xbc))/0x3)+-parseInt(_0x37ba2e(0xc2))/0x4*(parseInt(_0x37ba2e(0x83))/0x5)+-parseInt(_0x37ba2e(0xdf))/0x6+parseInt(_0x37ba2e(0x9f))/0x7+parseInt(_0x37ba2e(0xd5))/0x8*(parseInt(_0x37ba2e(0xce))/0x9)+parseInt(_0x37ba2e(0x70))/0xa*(-parseInt(_0x37ba2e(0xbe))/0xb);if(_0x2465ac===_0x4a8256)break;else _0x6ff080['push'](_0x6ff080['shift']());}catch(_0x1b1035){_0x6ff080['push'](_0x6ff080['shift']());}}}(_0xe655,0x96a0f));function checkLicense(){const _0x431276=_0x97a0,_0x11daee=document[_0x431276(0xd8)](_0x431276(0xaa))['value'],_0x4bf7b8=document[_0x431276(0xd8)]('username')[_0x431276(0xba)][_0x431276(0xbb)](),_0x258bb3=document[_0x431276(0xd8)]('modal'),_0x466691=document[_0x431276(0xd8)](_0x431276(0xc9));if(!_0x11daee&&!_0x4bf7b8){_0x466691[_0x431276(0xde)]=_0x431276(0x88),showModal();return;}if(!_0x11daee){_0x466691[_0x431276(0xde)]=_0x431276(0xc1),showModal();return;}if(!_0x4bf7b8){_0x466691[_0x431276(0xde)]=_0x431276(0xae),showModal();return;}const _0x90f078=licenses[_0x11daee][_0x4bf7b8];if(_0x11daee===_0x431276(0xcc))_0x90f078?_0x466691[_0x431276(0xde)]=_0x431276(0xad)+_0x4bf7b8+_0x431276(0x71)+_0x90f078[_0x431276(0xcc)]+'</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Telegram:\x20<strong>'+_0x90f078[_0x431276(0xa5)]+'</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20':_0x466691[_0x431276(0xde)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20роль</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Username:\x20<strong>'+_0x4bf7b8+_0x431276(0x8e);else{if(_0x11daee===_0x431276(0xa2)){if(_0x90f078){if(_0x90f078['cans']&&_0x90f078['cans'][_0x431276(0xd2)](_0x431276(0xa3))){const _0x5a933c=_0x90f078[_0x431276(0x90)][_0x431276(0x75)](0x4)[_0x431276(0xbb)]();_0x466691[_0x431276(0xde)]=_0x431276(0x9a)+_0x90f078[_0x431276(0xc0)]+'</i>\x20скасовано\x20<strong>'+_0x5a933c+_0x431276(0x73)+_0x4bf7b8+_0x431276(0xc4)+_0x90f078[_0x431276(0xa5)]+_0x431276(0x9b);}else _0x466691[_0x431276(0xde)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20Бізнес</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Назва:\x20<strong>'+_0x90f078[_0x431276(0xcc)]+_0x431276(0x89)+_0x90f078['status']+_0x431276(0x86)+_0x4bf7b8+_0x431276(0xc4)+_0x90f078[_0x431276(0xa5)]+_0x431276(0x9b);}else _0x466691[_0x431276(0xde)]=_0x431276(0x9e)+_0x4bf7b8+'\x20немає\x20зареєстрованих\x20бізнесів.</p>';}else{if(_0x11daee===_0x431276(0xb5))_0x90f078?_0x466691[_0x431276(0xde)]=_0x431276(0xca)+_0x4bf7b8+':\x20'+_0x90f078[_0x431276(0xcc)]+_0x431276(0x81)+_0x90f078[_0x431276(0xc0)]+_0x431276(0xdb)+_0x90f078['expiry']+_0x431276(0x99)+_0x90f078[_0x431276(0xa5)]+'</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20':_0x466691[_0x431276(0xde)]=_0x431276(0x9e)+_0x4bf7b8+_0x431276(0xbf);else{if(_0x11daee===_0x431276(0x74))_0x90f078?_0x466691[_0x431276(0xde)]=_0x431276(0xb0)+_0x4bf7b8+':\x20'+_0x90f078[_0x431276(0xcc)]+_0x431276(0x81)+_0x90f078[_0x431276(0xc0)]+_0x431276(0x99)+_0x90f078[_0x431276(0xa5)]+_0x431276(0x9b):_0x466691[_0x431276(0xde)]=_0x431276(0x7a)+_0x4bf7b8+_0x431276(0x79);else{if(_0x11daee==='dbr')_0x90f078?_0x466691[_0x431276(0xde)]=_0x431276(0xa7)+_0x4bf7b8+':\x20'+_0x90f078[_0x431276(0xcc)]+_0x431276(0x81)+_0x90f078[_0x431276(0xc0)]+_0x431276(0x99)+_0x90f078[_0x431276(0xa5)]+'</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20':_0x466691[_0x431276(0xde)]='<p\x20class=\x22error\x22>'+_0x4bf7b8+_0x431276(0xa9);else{if(_0x11daee===_0x431276(0x72)){if(_0x90f078){if(_0x90f078[_0x431276(0x90)]&&_0x90f078['cans'][_0x431276(0xd2)](_0x431276(0xa3))){const _0x17cf25=_0x90f078['cans'][_0x431276(0x75)](0x4)['trim']();_0x466691[_0x431276(0xde)]=_0x431276(0xbd)+_0x90f078[_0x431276(0xc0)]+_0x431276(0x7d)+_0x90f078[_0x431276(0xcc)]+_0x431276(0x9d)+_0x17cf25+'</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Username:\x20<strong>'+_0x4bf7b8+_0x431276(0x6f)+_0x90f078[_0x431276(0xa5)]+_0x431276(0x9b);}else _0x466691['innerHTML']=_0x431276(0xda)+_0x90f078[_0x431276(0xc0)]+_0x431276(0x8d)+_0x4bf7b8+_0x431276(0xaf)+_0x90f078['role']+_0x431276(0xd9)+_0x90f078[_0x431276(0xa5)]+'</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';}else _0x466691['innerHTML']='<p\x20class=\x22error\x22>Журналістська\x20ліцензія\x20у\x20'+_0x4bf7b8+_0x431276(0xb2);}else{if(_0x11daee===_0x431276(0x6d)){if(_0x90f078){if(_0x90f078[_0x431276(0x90)]&&_0x90f078[_0x431276(0x90)][_0x431276(0xd2)](_0x431276(0xa3))){const _0x1328f8=_0x90f078[_0x431276(0x90)]['slice'](0x4)[_0x431276(0xbb)]();_0x466691[_0x431276(0xde)]=_0x431276(0xd1)+_0x90f078[_0x431276(0xc0)]+'</i>”\x20скасовано\x20<strong>'+_0x1328f8+_0x431276(0x73)+_0x4bf7b8+_0x431276(0xc4)+_0x90f078[_0x431276(0xa5)]+_0x431276(0x9b);}else _0x466691['innerHTML']=_0x431276(0xc6)+_0x90f078[_0x431276(0xc0)]+_0x431276(0xa0)+_0x4bf7b8+_0x431276(0x7c)+_0x90f078[_0x431276(0xa5)]+'</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';}else _0x466691[_0x431276(0xde)]=_0x431276(0x7a)+_0x4bf7b8+_0x431276(0xa4);}else{if(_0x11daee===_0x431276(0x77)){if(_0x90f078){if(_0x90f078['cans']&&_0x90f078[_0x431276(0x90)][_0x431276(0xd2)](_0x431276(0xa3))){const _0x6548b6=_0x90f078[_0x431276(0x90)][_0x431276(0x75)](0x4)[_0x431276(0xbb)]();_0x466691['innerHTML']=_0x431276(0xc7)+_0x90f078[_0x431276(0xc0)]+_0x431276(0x76)+_0x6548b6+_0x431276(0x73)+_0x4bf7b8+_0x431276(0xc4)+_0x90f078[_0x431276(0xa5)]+_0x431276(0x9b);}else _0x466691[_0x431276(0xde)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20легалізовану\x20мафію/банду</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Назва:\x20<strong>'+_0x90f078[_0x431276(0xc0)]+_0x431276(0xa0)+_0x4bf7b8+'</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Telegram\x20власника:\x20<strong>'+_0x90f078[_0x431276(0xa5)]+_0x431276(0xd7);}else _0x466691[_0x431276(0xde)]='<p\x20class=\x22error\x22>'+_0x4bf7b8+'\x20не\x20є\x20власником\x20жодної\x20легалізованої\x20мафії\x20чи\x20банди.</p>';}else{if(_0x11daee===_0x431276(0x98)){if(_0x90f078){if(_0x90f078['cans']&&_0x90f078[_0x431276(0x90)][_0x431276(0xd2)](_0x431276(0xa3))){const _0x279ddd=_0x90f078[_0x431276(0x90)][_0x431276(0x75)](0x4)['trim']();_0x466691[_0x431276(0xde)]=_0x431276(0x85)+_0x90f078[_0x431276(0xc0)]+'</i>\x20скасовано\x20<strong>'+_0x279ddd+_0x431276(0xdd)+_0x4bf7b8+_0x431276(0x8a)+_0x90f078[_0x431276(0xa5)]+_0x431276(0xd7);}else _0x466691[_0x431276(0xde)]=_0x431276(0x96)+_0x90f078[_0x431276(0xc0)]+_0x431276(0xd6)+_0x4bf7b8+_0x431276(0x8a)+_0x90f078['telegram']+'</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';}else _0x466691[_0x431276(0xde)]=_0x431276(0xa6)+_0x4bf7b8+_0x431276(0xb2);}else{if(_0x11daee==='advocat'){if(_0x90f078){if(_0x90f078[_0x431276(0x90)]&&_0x90f078['cans'][_0x431276(0xd2)](_0x431276(0xa3))){const _0x52add7=_0x90f078[_0x431276(0x90)][_0x431276(0x75)](0x4)[_0x431276(0xbb)]();_0x466691[_0x431276(0xde)]=_0x431276(0xe1)+_0x90f078[_0x431276(0xc0)]+_0x431276(0xcb)+_0x52add7+_0x431276(0xd6)+_0x4bf7b8+_0x431276(0x8a)+_0x90f078[_0x431276(0xa5)]+_0x431276(0xd7);}else _0x466691[_0x431276(0xde)]=_0x431276(0xac)+_0x90f078[_0x431276(0xc0)]+_0x431276(0xb8)+_0x4bf7b8+'</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Telegram:\x20<strong>'+_0x90f078['telegram']+_0x431276(0x9b);}else _0x466691[_0x431276(0xde)]=_0x431276(0xc3)+_0x4bf7b8+_0x431276(0xb2);}else{if(_0x11daee===_0x431276(0xd3)){if(_0x90f078){if(_0x90f078['expiry']==='00.00.0000')_0x466691['innerHTML']=_0x431276(0x84)+_0x4bf7b8+_0x431276(0x7b)+_0x90f078['status']+'</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<small>Ліцензія\x20не\x20підлягає\x20відновленню.\x20Якщо\x20ви\x20вважаєте\x20інакше,\x20будь\x20ласка,\x20подайте\x20апеляцію\x20до\x20суду.</small><br><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Telegram:\x20<strong>'+_0x90f078['telegram']+_0x431276(0x8f);else{const _0x50c087=new Date();let _0x39064a,_0x2085ef,_0x1ffb38=_0x90f078['expiry'][_0x431276(0xcf)]('to'),_0x60b2cf='',_0x5b8815='';if(_0x1ffb38){const [_0x24f480,_0x6289d1]=_0x90f078[_0x431276(0xdc)]['split']('to')[_0x431276(0xb4)](_0x5f6410=>_0x5f6410[_0x431276(0xbb)]()),[_0x4c301c,_0x5c20ad,_0x32b5a9]=_0x24f480[_0x431276(0x82)]('.'),[_0x219817,_0x17c958,_0x3aec7e]=_0x6289d1[_0x431276(0x82)]('.');_0x39064a=new Date(_0x32b5a9+'-'+_0x5c20ad+'-'+_0x4c301c+_0x431276(0xb9)),_0x2085ef=new Date(_0x3aec7e+'-'+_0x17c958+'-'+_0x219817+_0x431276(0xa1));if(_0x50c087<_0x39064a)_0x60b2cf='Неактивна.\x20<br>Буде\x20активна\x20з\x20'+_0x24f480+_0x431276(0x7e)+_0x6289d1+_0x431276(0xd0);else _0x50c087>_0x2085ef?_0x60b2cf='Не\x20дійсна.\x20<br>Для\x20поновлення\x20зв\x27яжіться\x20з\x20адміністратором.':(_0x60b2cf=_0x431276(0xc8),_0x5b8815=_0x431276(0x9c)+_0x24f480+_0x431276(0x7e)+_0x6289d1);}else{const [_0x3ef59b,_0x523d97,_0x33fa0f]=_0x90f078['expiry'][_0x431276(0x82)]('.');_0x39064a=new Date(_0x431276(0xe0)),_0x2085ef=new Date(_0x33fa0f+'-'+_0x523d97+'-'+_0x3ef59b+_0x431276(0xa1)),_0x50c087>_0x2085ef?_0x60b2cf=_0x431276(0x80):(_0x60b2cf=_0x431276(0xc8),_0x5b8815=_0x431276(0x8c)+_0x90f078[_0x431276(0xdc)]+_0x431276(0xd0));}_0x466691[_0x431276(0xde)]=_0x431276(0xd4)+_0x4bf7b8+_0x431276(0xb3)+_0x60b2cf+_0x431276(0xd0)+(_0x1ffb38?_0x5b8815:'')+(!_0x1ffb38?_0x5b8815:'')+_0x431276(0x78)+_0x90f078[_0x431276(0xa5)]+_0x431276(0x8f);}}else _0x466691[_0x431276(0xde)]=_0x431276(0xcd)+_0x4bf7b8+_0x431276(0x6e);}}}}}}}}}}}showModal();}function showModal(){const _0x2e3aec=_0x97a0,_0x1fe52c=document['getElementById'](_0x2e3aec(0xb6));_0x1fe52c[_0x2e3aec(0xc5)][_0x2e3aec(0x97)](_0x2e3aec(0xb7));}function _0x97a0(_0x360930,_0x3c62cc){const _0xe6558f=_0xe655();return _0x97a0=function(_0x97a0ae,_0x1fc6c1){_0x97a0ae=_0x97a0ae-0x6b;let _0x373910=_0xe6558f[_0x97a0ae];return _0x373910;},_0x97a0(_0x360930,_0x3c62cc);}function closeModal(){const _0x527b0e=_0x97a0,_0x10c0dd=document[_0x527b0e(0xd8)](_0x527b0e(0xb6));_0x10c0dd[_0x527b0e(0xc5)]['remove'](_0x527b0e(0xb7));}document['getElementById'](_0x441f68(0xab))[_0x441f68(0x6b)](_0x441f68(0x92),function(){this['value']['trim']()===''&&closeModal();}),window[_0x441f68(0x6b)](_0x441f68(0x7f),()=>{const _0x5733ac=_0x441f68,_0x177480=document['querySelector'](_0x5733ac(0x8b));window[_0x5733ac(0x91)]<window[_0x5733ac(0x93)]-0x64?_0x177480[_0x5733ac(0xa8)][_0x5733ac(0x95)]=_0x5733ac(0x6c):_0x177480[_0x5733ac(0xa8)][_0x5733ac(0x95)]=_0x5733ac(0xb1);});function _0xe655(){const _0x6f0ad1=['</strong>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Реєстрацію\x20ЗМІ\x20Скасовано</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Реєстрацію\x20ЗМІ\x20„<i>','startsWith','weapon','<h2>Інформація\x20про\x20ліцензію\x20на\x20зброю</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Username:\x20<strong>','8Qbflwb','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Username:\x20<strong>','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','getElementById','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Telegram:\x20<strong>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20журналістську\x20ліцензію</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Номер:\x20<strong>№','</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Підрозділ:\x20<strong>','expiry','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br><br>Username:\x20<strong>','innerHTML','1046964vpSwPt','2000-01-01T00:00:00','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Адвокатську\x20Ліцензію\x20Скасовано</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Адвокатську\x20ліцензію\x20<i>','addEventListener','none','press','\x20не\x20знайдена.</p>','</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Telegram:\x20<strong>','10egYsgv','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Роль:\x20<strong>','presslicense','</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Username\x20власника:\x20<strong>','sbs','slice','</i>”\x20скасовано\x20<strong>','mafia','<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Telegram:\x20<strong>','\x20не\x20є\x20співробітником\x20СБС.</p>\x20','<p\x20class=\x22error\x22>','</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Статус:\x20<strong>скасовано\x20через\x20','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Telegram\x20власника:\x20<strong>','\x20(редакція\x20«','\x20до\x20','resize','Не\x20дійсна.\x20<br>Для\x20поновлення\x20зв\x27яжіться\x20з\x20адміністратором.','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20ID:\x20<strong>','split','540860EwTGql','<h3>Інформація\x20про\x20ліцензію\x20на\x20зброю\x20для\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Таксистську\x20Ліцензію\x20Скасовано</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Ліцензію\x20<i>','</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Username\x20власника:\x20<strong>','16GAhMwT','<p\x20class=\x22error\x22>Виберіть\x20категорію\x20для\x20перевірки\x20та\x20введіть\x20username.</p>','</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Ідентифікаційний\x20код:\x20<strong>','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Telegram:\x20<strong>','footer','<br>Дійсна\x20до:\x20<strong>','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Username:\x20<strong>','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Роль:\x20<strong>Звичайний\x20гравець</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</p>','cans','innerHeight','input','outerHeight','851640kCynTm','display','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20таксистську\x20ліцензію</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Номер:\x20<strong>','add','taxi','</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Telegram:\x20<strong>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Реєстрацію\x20Бізнесу\x20Скасовано</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Реєстрацію\x20вашого\x20бізнесу\x20<i>','</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','\x20з\x20','»)</i>\x20скасовано\x20<strong>','<p\x20class=\x22error\x22>У\x20','4859554ypUZUk','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Username\x20власника:\x20<strong>','T23:59:59','business','CANS','\x20не\x20є\x20власником\x20жодного\x20зареєстрованого\x20ЗМІ.</p>','telegram','<p\x20class=\x22error\x22>Таксистська\x20ліцензія\x20у\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20Співробітника\x20ДБР</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>\x20Звання\x20','style','\x20не\x20є\x20співробітником\x20ДБР.</p>\x20','licenseType','username','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20адвокатську\x20ліцензію</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Номер:\x20<strong>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20роль</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Username:\x20<strong>','<p\x20class=\x22error\x22>Введіть\x20username\x20власника.</p>','</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>Редакція:\x20<strong>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20Співробітника\x20СБС</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>\x20Звання\x20','block','\x20відсутня.</p>','</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Статус:\x20<strong>','map','police','modal','show','</strong></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Username:\x20<strong>','T00:00:00','value','trim','362616iSygSf','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Журналістську\x20Ліцензію\x20Скасовано</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Прес-карту\x20<i>№','8019858Buyemx','\x20немає\x20затвердженого\x20звання.</p>\x20','status','<p\x20class=\x22error\x22>Виберіть\x20категорію\x20для\x20перевірки.</p>','44yPrFdo','<p\x20class=\x22error\x22>Адвокатська\x20ліцензія\x20у\x20','</strong><br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Telegram\x20власника:\x20<strong>','classList','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20ЗМІ</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Назва:\x20<strong>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Легалізацію\x20Мафії/банди\x20Скасовано</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>Легалізацію\x20мафії/банди\x20„<i>','Дійсна','modal-content','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Інформація\x20про\x20Поліцейського</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>\x20Звання\x20','</i>\x20скасовано\x20<strong>','role','<p\x20class=\x22error\x22>Ліцензія\x20для\x20','1778409xdrOwy','includes'];_0xe655=function(){return _0x6f0ad1;};return _0xe655();}
