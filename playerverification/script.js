@@ -61,7 +61,7 @@
 },
 
   police: {
-  "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
+  "MAXIM4IK123098": { role: "Начальник", status: "146605", expiry: "відсутній", telegram: "t.me/kotcco" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
