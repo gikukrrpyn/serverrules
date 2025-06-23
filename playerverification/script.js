@@ -19,7 +19,6 @@
     "Arina_mike141": { status: "Дійсна", expiry: "08.07.2025", telegram: "7505928620" },
     "Svervanchik": { status: "Дійсна", expiry: "08.07.2025", telegram: "5634473488" },
                // ДБР
-"Vaylet009": { status: "Дійсна", expiry: "08.07.2025", telegram: "t.me/Vaylet009" },
 "global20207": { status: "Дійсна", expiry: "08.07.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.07.2025", telegram: "5242336088" },
 "starikashka228337": { status: "Дійсна", expiry: "08.07.2025", telegram: "5358641921" },
@@ -77,7 +76,6 @@
 },
 
   dbr: {
-  "Vaylet009": { role: "Директор (Генерал—Полковник)", status: "112516", telegram: "5169521179" },
   "global20207": { role: "Заступник Директора (Генерал—Лейтинант)", status: "194143", telegram: "1431122546" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
   "Yezh1lya": { role: "Капітан", status: "396510", telegram: "5109532913" },
