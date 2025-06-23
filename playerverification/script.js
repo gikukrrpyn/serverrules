@@ -26,7 +26,7 @@
 "Yezh1lya": { status: "Дійсна", expiry: "08.07.2025", telegram: "5109532913" },
 "Ntinetter": { status: "Дійсна", expiry: "08.07.2025", telegram: "1319760971" },
 "Levopravo2024": { status: "Дійсна", expiry: "08.07.2025", telegram: "5134083594" },
-"maksumkasymk789": { status: "Дійсна", expiry: "08.07.2025", telegram: "1405483524" },
+"maksumkasymk789": { status: "Дійсна", expiry: "07.07.2025 to 08.08.2025", telegram: "1405483524" },
 "Black_Batman02": { status: "Дійсна", expiry: "08.07.2025", telegram: "1093245097" },
 "dima276518": { status: "Дійсна", expiry: "08.07.2025", telegram: "8107753437" },
 "kvak612": { status: "Дійсна", expiry: "08.07.2025", telegram: "5589767694" },
