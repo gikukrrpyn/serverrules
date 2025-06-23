@@ -296,8 +296,7 @@
 
            // Легалізовані мафії, банди
         mafia: {
-                "MAXIM4IK123098": { cans: "CANS через несплату податку на сервер.", status: "Чорний Легіон", telegram: "6053516349" },
-                "username roblox": { status: "назва", telegram: "айді акаунту тг" },
+                "va1ron4": { status: "Чеченська мафія", telegram: "954036347" },
                 "username roblox": { status: "назва", telegram: "айді акаунту тг" },
                 "username roblox": { status: "назва", telegram: "айді акаунту тг" },
                 "username roblox": { status: "назва", telegram: "айді акаунту тг" }
