@@ -9,7 +9,7 @@
     "Colden_720": { status: "Дійсна", expiry: "21.06.2025 to 21.07.2025", telegram: "1397522151" },
     "jfhhddjh": { status: "Дійсна", expiry: "26.05.2025 to 26.06.2025", telegram: "6997233193" },
     "Robert_polsan228": { status: "Дійсна", expiry: "07.06.2025 to 07.07.2025", telegram: "1921850684" },
-    "Dodu340dd": { status: "Дійсна", expiry: "21.07.2025", telegram: "5632698118" },
+    "Dodu340dd": { status: "використання ліцензії у злочинних цілях; призначено довічну заборону на отримання ліцензії.", expiry: "00.00.0000", telegram: "5632698118" },
     "pavel36558": { status: "Дійсна", expiry: "08.06.2025 to 08.07.2025", telegram: "7485750248" },
     "Rick_morti": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "1981129915" },
     "no0b1048": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "6003732998" },
