@@ -32,9 +32,9 @@
 "Dimabarbos": { status: "Дійсна", expiry: "08.07.2025", telegram: "6591557304" },
 
                // СБС
-"nazar1cyber2sportman": { status: "Дійсна", expiry: "08.07.2025", telegram: "t.me/NazSkil" },
-"Zoomsos123": { status: "Дійсна", expiry: "08.07.2025", telegram: "t.me/Xmm_help" },
-"Sti4kyy": { status: "Дійсна", expiry: "08.07.2025", telegram: "5481499679" },
+"nazar1cyber2sportman": { status: "Дійсна", expiry: "28.07.2025", telegram: "t.me/NazSkil" },
+"Zoomsos123": { status: "Дійсна", expiry: "31.07.2025 to 08.08.2025", telegram: "t.me/Xmm_help" },
+"Sti4kyy": { status: "Дійсна", expiry: "31.07.2025 to 08.08.2025", telegram: "5481499679" },
 
         },
 
