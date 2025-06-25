@@ -60,8 +60,8 @@
 ],
 
   police: {
-  "MAXIM4IK123098": { role: "Полковник Поліції; Начальник Поліції", status: "146605", expiry: "відсутній", telegram: "t.me/kotcco" },
-  "gikusya": { role: "Генерал Поліції", status: "315728", expiry: "відсутній", telegram: "t.me/ukreh_admin" },
+  "MAXIM4IK123098": { role: "Ветеран Поліції; Начальник Поліції", status: "146605", expiry: "відсутній", telegram: "t.me/kotcco" },
+  "gikusya": { role: "Комісар Поліції", status: "315728", expiry: "відсутній", telegram: "t.me/ukreh_admin" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
 
