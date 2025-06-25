@@ -107,7 +107,7 @@
   "dima276518": { role: "Молодший—Лейтинант", status: "703481", telegram: "48107753437" },
   "Ntinetter": { role: "Молодший—Лейтинант", status: "267131", telegram: "1319760971" },
   "maksumkasymk789": { role: "Старший—Сержант", status: "392140", telegram: "1405483524" },
-  "Black_Batman02": { role: "Сержант", status: "379109", telegram: "1093245097" },
+  "Black_Batman02": { role: "Старший—Сержант", status: "379109", telegram: "1093245097" },
   "kvak612": { role: "Сержант", status: "512558", telegram: "5589767694" },
   "levopravo2024": { role: "Сержант", status: "749513", telegram: "5134083594" },
   "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
