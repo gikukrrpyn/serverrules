@@ -77,7 +77,7 @@
   "kvak612": { role: "dbr" },
   "Dimabarbos": { role: "dbr" },
   "Robert_polsan228": { role: "Ветеран", status: "769192", expiry: "відсутній", telegram: "1921850684" },
-  "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
+  "sbdgegsxbd": { role: "Капітан", status: "181664", expiry: "відсутній", telegram: "6647686015" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
