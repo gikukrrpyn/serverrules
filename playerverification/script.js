@@ -76,7 +76,7 @@
   "od1nok02": { role: "25 160", status: "847708", expiry: "", telegram: "7089943642" },
   "sigm4t1k": { role: "24 697", status: "551815", expiry: "", telegram: "8156926863" },
   "eeeeyegeggegehux": { role: "20 678", status: "275559", expiry: "", telegram: "5599228299" },
-  "nikita100808": { role: "9 243", status: "724634", expiry: "", telegram: "6348110356" },
+  "nikita100808": { role: "10 325", status: "724634", expiry: "", telegram: "6348110356" },
   "amloveialwwknen": { role: "2 730", status: "277118", expiry: "", telegram: "1181001885" },
   "mamkinxaker229": { role: "46 264", status: "329543", expiry: "", telegram: "5433768754" },
   "Rechs10": { role: "65 200", status: "404638", expiry: "", telegram: "6387100458" },
