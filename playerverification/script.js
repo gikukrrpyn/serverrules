@@ -76,7 +76,7 @@
   "dima276518": { role: "dbr" },
   "kvak612": { role: "dbr" },
   "Dimabarbos": { role: "dbr" },
-  "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
+  "Robert_polsan228": { role: "Ветеран", status: "769192", expiry: "відсутній", telegram: "1921850684" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "підозділ", telegram: "telegram" },
