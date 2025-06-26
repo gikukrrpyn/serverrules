@@ -79,7 +79,7 @@
   "Robert_polsan228": { role: "Ветеран", status: "769192", expiry: "відсутній", telegram: "1921850684" },
   "sbdgegsxbd": { role: "Капітан", status: "181664", expiry: "відсутній", telegram: "6647686015" },
   "w0ndexq": { role: "Комісар", status: "788668", expiry: "відсутній", telegram: "6684510288" },
-  "username": { role: "звання", status: "айді", expiry: "відсутній", telegram: "telegram" },
+  "RTR78787": { role: "Комісар", status: "353515", expiry: "відсутній", telegram: "5155778279" },
   "username": { role: "звання", status: "айді", expiry: "відсутній", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "відсутній", telegram: "telegram" },
   "username": { role: "звання", status: "айді", expiry: "відсутній", telegram: "telegram" },
