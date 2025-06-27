@@ -90,7 +90,7 @@
   "9999_Anime": { role: "27 473", status: "338546", expiry: "", telegram: "5463405945" },
   "Svervanchik": { role: "28 099", status: "157563", expiry: "", telegram: "5634473488" },
   "olegh34": { role: "74 998", status: "133500", expiry: "", telegram: "5007175515" },
-  "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
+  "Pit_uk": { role: "35 276", status: "764781", expiry: "", telegram: "7811050819" },
   "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
   "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
   "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
