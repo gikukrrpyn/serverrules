@@ -4,7 +4,7 @@
     "nikita100808": { status: "Дійсна", expiry: "16.07.2025", telegram: "6348110356" },
     "Caston08963": { status: "Дійсна", expiry: "23.06.2025", telegram: "7557434574" },
     "SFGGGYyypp": { status: "несплату податку на сервер.", expiry: "00.00.0000", telegram: "5414509704" },
-    "dima2014hxoxbifov": { status: "Дійсна", expiry: "24.06.2025", telegram: "6318992501" },
+    "dima2014hxoxbifov": { status: "Дійсна", expiry: "24.07.2025", telegram: "6318992501" },
     "dolinskuy": { status: "Дійсна", expiry: "02.06.2025 to 19.06.2025", telegram: "1812225406" },
     "Colden_720": { status: "Дійсна", expiry: "21.06.2025 to 21.07.2025", telegram: "1397522151" },
     "jfhhddjh": { status: "Дійсна", expiry: "26.05.2025 to 26.06.2025", telegram: "6997233193" },
