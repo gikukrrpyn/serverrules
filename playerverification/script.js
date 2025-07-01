@@ -16,8 +16,8 @@
     "Pushka2030": { status: "Дійсна", expiry: "14.06.2025 to 14.07.2025", telegram: "5549609551" },
     "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },                
                 // Суд
-    "Arina_mike141": { status: "Дійсна", expiry: "08.07.2025", telegram: "7505928620" },
-    "Svervanchik": { status: "Дійсна", expiry: "08.07.2025", telegram: "5634473488" },
+    "Arina_mike141": { status: "Дійсна", expiry: "08.08.2025", telegram: "7505928620" },
+    "Svervanchik": { status: "Дійсна", expiry: "08.08.2025", telegram: "5634473488" },
                // ДБР
 "global20207": { status: "Дійсна", expiry: "08.07.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.07.2025", telegram: "5242336088" },
@@ -31,9 +31,9 @@
 "Dimabarbos": { status: "Дійсна", expiry: "08.07.2025", telegram: "6591557304" },
 
                // СБС
-"nazar1cyber2sportman": { status: "Дійсна", expiry: "28.07.2025", telegram: "t.me/NazSkil" },
-"Zoomsos123": { status: "Дійсна", expiry: "31.07.2025 to 08.08.2025", telegram: "t.me/Xmm_help" },
-"Sti4kyy": { status: "Дійсна", expiry: "31.07.2025 to 08.08.2025", telegram: "5481499679" },
+"nazar1cyber2sportman": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/NazSkil" },
+"Zoomsos123": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/Xmm_help" },
+"Sti4kyy": { status: "Дійсна", expiry: "08.08.2025", telegram: "5481499679" },
 
         },
 
