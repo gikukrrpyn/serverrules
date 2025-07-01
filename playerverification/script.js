@@ -64,7 +64,7 @@
   "gikusya": { role: "Комісар", status: "315728", expiry: "", telegram: "t.me/ukreh_admin" },
 
 // 1
-"1313Gonf": { "role": "22 228", "status": "433127", "expiry": "", "telegram": "1275263288" },
+"1313Gonf": { "role": "23 011", "status": "433127", "expiry": "", "telegram": "1275263288" },
 
 // 3
 "3cy_77781046": { "role": "36 130", "status": "418637", "expiry": "", "telegram": "6370149052" },
