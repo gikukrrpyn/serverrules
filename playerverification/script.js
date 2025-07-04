@@ -115,6 +115,7 @@
 "mamkinxaker229": { "role": "46 264", "status": "329543", "expiry": "", "telegram": "5433768754" },
 
 // N
+"NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
 "nikita100808": { "role": "13 025", "status": "724634", "expiry": "", "telegram": "6348110356" },
 "no0b1048": { role: "1 841", status: "369600", expiry: "", telegram: "6003732998" },
 
@@ -136,6 +137,7 @@
 "Robert_polsan228": { "role": "26 942", "status": "769192", "expiry": "", "telegram": "1921850684" },
 "Rokk834": { "role": "66 579", "status": "747751", "expiry": "", "telegram": "7517215417" },
 "RTR78787": { "role": "32 922", "status": "353515", "expiry": "", "telegram": "5155778279" },
+"Rom_ka7629": { role: "46 531", status: "452645", expiry: "", telegram: "6459180417" },
 
 // S
 "sbdgegsxbd": { "role": "24 162", "status": "181664", "expiry": "", "telegram": "6647686015" },
