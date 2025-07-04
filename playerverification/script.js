@@ -141,7 +141,7 @@
 
 // S
 "sbdgegsxbd": { "role": "24 162", "status": "181664", "expiry": "", "telegram": "6647686015" },
-"sigm4t1k": { "role": "26 706", "status": "551815", "expiry": "", "telegram": "8156926863" },
+"sigm4t1k": { "role": "30 024", "status": "551815", "expiry": "", "telegram": "8156926863" },
 "Svervanchik": { "role": "28 099", "status": "157563", "expiry": "", "telegram": "5634473488" },
 
 // T
