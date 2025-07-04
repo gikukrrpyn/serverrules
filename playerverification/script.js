@@ -29,6 +29,7 @@
 "Black_Batman02": { status: "Дійсна", expiry: "08.07.2025", telegram: "1093245097" },
 "dima276518": { status: "Дійсна", expiry: "08.07.2025", telegram: "8107753437" },
 "Dimabarbos": { status: "Дійсна", expiry: "08.07.2025", telegram: "6591557304" },
+"Arsenic3996": { status: "Дійсна", expiry: "08.07.2025", telegram: "7643022641" },
 
                // СБС
 "nazar1cyber2sportman": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/NazSkil" },
@@ -183,6 +184,7 @@
   "kvak612": { role: "Сержант", status: "512558", telegram: "5589767694" },
   "levopravo2024": { role: "Сержант", status: "749513", telegram: "5134083594" },
   "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
+  "Arsenic3996": { role: "Рядовий", status: "605764", telegram: "7643022641" },
 },
               // Таксистська ліцензія
             taxi: {
