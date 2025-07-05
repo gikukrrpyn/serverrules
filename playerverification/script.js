@@ -160,6 +160,8 @@
 // Y
 
 // Z
+"Zoomsos123": { "role": "65 129", "status": "350533", "expiry": "", "telegram": "5339606531" },
+
 
   "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
   "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
