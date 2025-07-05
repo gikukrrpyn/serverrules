@@ -106,6 +106,7 @@
 // J
 
 // K
+"Kedvirm": { "role": "46 524", "status": "402781", "expiry": "", "telegram": "7811987070" },
 
 // L
 "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
