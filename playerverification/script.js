@@ -146,6 +146,7 @@
 "Svervanchik": { "role": "28 099", "status": "157563", "expiry": "", "telegram": "5634473488" },
 
 // T
+"Twister_devil8393": { "role": "3 779", "status": "535178", "expiry": "", "telegram": "1783909923" },
 
 // U
 
