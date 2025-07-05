@@ -356,7 +356,10 @@
               "Megames": { "status": "T0163", "telegram": "6766041555" },
               "59lhhh": { "status": "T0164", "telegram": "5532474249" },
               "PanenkoMakar": { "status": "T0165", "telegram": "5135885612" },      
-
+              "vitali77rr": { "status": "T0166", "telegram": "6378314737" },
+              "EGORANDMIA": { "status": "T0167", "telegram": "6723951123" },
+              "Lemon4ik_40fps": { "status": "T0168", "telegram": "7726074450" }, 
+               
               },
 
               // Адвокадська ліцензія
