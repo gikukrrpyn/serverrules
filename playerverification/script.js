@@ -81,6 +81,7 @@
 
 // C
 "Colden_720": { "role": "13 909", "status": "374515", "expiry": "", "telegram": "5158076915" },
+"Caston08963": { role: "3 391", status: "477755", expiry: "", telegram: "7557434574" },
 
 // D
 "Dodu340dd": { "role": "26 851", "status": "438563", "expiry": "", "telegram": "5632698118" },
@@ -97,6 +98,7 @@
 
 // G
 "gardengoldmen1": { "role": "2 062", "status": "460642", "expiry": "", "telegram": "6429863738" },
+"gonorer45": { "role": "10 043", "status": "120161", "expiry": "", "telegram": "1613994040" },
 
 // H
 "holodos222": { role: "7 544", status: "440594", expiry: "", telegram: "5947961816" },
