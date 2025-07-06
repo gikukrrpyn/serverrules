@@ -409,7 +409,7 @@
            // Легалізовані мафії, банди
         mafia: {
                 "va1ron4": { status: "Чеченська мафія", telegram: "954036347" },
-                "username roblox": { status: "назва", telegram: "айді акаунту тг" },
+                "Rom_roma7": { status: "Хади Такташ", telegram: "5749857571" },
                 "username roblox": { status: "назва", telegram: "айді акаунту тг" },
                 "username roblox": { status: "назва", telegram: "айді акаунту тг" }
             },
