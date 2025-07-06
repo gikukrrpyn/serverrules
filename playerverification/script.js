@@ -35,6 +35,7 @@
 "nazar1cyber2sportman": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/NazSkil" },
 "Zoomsos123": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/Xmm_help" },
 "Sti4kyy": { status: "Дійсна", expiry: "08.08.2025", telegram: "5481499679" },
+"BBIG222": { status: "Дійсна", expiry: "08.08.2025", telegram: "5073128196" },
 
         },
 
@@ -179,7 +180,7 @@
   "nazar1cyber2sportman": { role: "Голова", status: "438619", telegram: "6194910294" },
   "Zoomsos123": { role: "Заступник Голови", status: "350533", telegram: "5339606531" },
   "Sti4kyy": { role: "Майор", status: "769548", telegram: "5481499679" },
-  "username": { role: "звання", status: "айді", telegram: "telegram" },
+  "BBIG222": { role: "Рядовий", status: "797507", telegram: "5073128196" },
 
 },
 
