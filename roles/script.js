@@ -1,1 +1,336 @@
-const _0x327dcc=_0x3543;function _0x3543(_0x329519,_0x385516){const _0x167c6f=_0x167c();return _0x3543=function(_0x3543bf,_0x54cbfc){_0x3543bf=_0x3543bf-0x1c8;let _0x293da2=_0x167c6f[_0x3543bf];return _0x293da2;},_0x3543(_0x329519,_0x385516);}(function(_0x4472ee,_0x2fb74c){const _0x40ba48=_0x3543,_0xc7823d=_0x4472ee();while(!![]){try{const _0x29b155=parseInt(_0x40ba48(0x1f0))/0x1+parseInt(_0x40ba48(0x1ec))/0x2+-parseInt(_0x40ba48(0x1d7))/0x3+-parseInt(_0x40ba48(0x22f))/0x4+parseInt(_0x40ba48(0x21c))/0x5*(-parseInt(_0x40ba48(0x21f))/0x6)+-parseInt(_0x40ba48(0x212))/0x7+parseInt(_0x40ba48(0x218))/0x8*(parseInt(_0x40ba48(0x201))/0x9);if(_0x29b155===_0x2fb74c)break;else _0xc7823d['push'](_0xc7823d['shift']());}catch(_0x4ccc33){_0xc7823d['push'](_0xc7823d['shift']());}}}(_0x167c,0xb7e98));const players={'gikusya':[{'role':_0x327dcc(0x229),'telegram':_0x327dcc(0x242),'category':_0x327dcc(0x233),'avatar':_0x327dcc(0x1d5)}],'p1eyys':[{'role':_0x327dcc(0x1e8),'telegram':_0x327dcc(0x1f6),'category':_0x327dcc(0x233),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ADADC5DDD7166D4303D48A60400D97B4-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'Klipri':[{'role':_0x327dcc(0x20f),'telegram':_0x327dcc(0x220),'category':_0x327dcc(0x233),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9DDDCBA77F06410A34EFB0FCA671D135-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'gestisqns':[{'role':'Адміністратор-Інспектор\x20Підтримки','telegram':_0x327dcc(0x222),'category':_0x327dcc(0x233),'avatar':_0x327dcc(0x24e)}],'H8TpizzaG8D':[{'role':_0x327dcc(0x240),'telegram':_0x327dcc(0x24c),'category':_0x327dcc(0x233),'avatar':_0x327dcc(0x22b)}],'Bandera909':[{'role':_0x327dcc(0x1cb),'telegram':_0x327dcc(0x230),'category':_0x327dcc(0x233),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F42F0593E4666C0263AB23BF8D330C91-Png/150/150/AvatarHeadshot/Webp/noFilter'},{'role':_0x327dcc(0x1ce),'telegram':_0x327dcc(0x230),'category':'ДАРШ','avatar':_0x327dcc(0x245)}],'bodja150510':[{'role':_0x327dcc(0x235),'telegram':_0x327dcc(0x1ca),'category':_0x327dcc(0x233),'avatar':_0x327dcc(0x1f4)}],'MefFVG7':[{'role':_0x327dcc(0x248),'telegram':_0x327dcc(0x1d6),'category':'Адміністрація','avatar':_0x327dcc(0x20d)}],'Saylexxx59':[{'role':'Адміністратор-Патрульний','telegram':_0x327dcc(0x1f8),'category':_0x327dcc(0x233),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7DD9E0634ED42F36542450216B3AA117-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'K_PoPlove9473':[{'role':'Адміністратор-Патрульний','telegram':_0x327dcc(0x1db),'category':_0x327dcc(0x233),'avatar':_0x327dcc(0x244)}],'XxHA7AxX':[{'role':_0x327dcc(0x1e9),'telegram':_0x327dcc(0x20a),'category':_0x327dcc(0x1f2),'avatar':_0x327dcc(0x213)},{'role':'Контентмейкер','telegram':_0x327dcc(0x20a),'category':_0x327dcc(0x1e0),'avatar':_0x327dcc(0x213)},{'role':'Організатор\x20ДАРШ','telegram':_0x327dcc(0x20a),'category':'ДАРШ','avatar':_0x327dcc(0x213)}],'olegh34':[{'role':_0x327dcc(0x24f),'telegram':_0x327dcc(0x20c),'category':_0x327dcc(0x1f2),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F30216AFBE173D0F87E3F937C51CAB64-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'nik2a5':[{'role':'Суддя','telegram':_0x327dcc(0x1fd),'category':_0x327dcc(0x1f2),'avatar':_0x327dcc(0x1d2)}],'nsx1987':[{'role':_0x327dcc(0x24f),'telegram':_0x327dcc(0x24d),'category':_0x327dcc(0x1f2),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-999A3B55F742C9F3750938661BAD81B9-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'ONLYvPOTOKE':[{'role':'Суддя','telegram':_0x327dcc(0x1e7),'category':_0x327dcc(0x1f2),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B767EC5312951F73612EF1C53D4BEC9-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'rb_girl1535':[{'role':_0x327dcc(0x24f),'telegram':_0x327dcc(0x1f1),'category':_0x327dcc(0x1f2),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B403751B1842F93ADE9E494AD5C2DEE9-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'arina_mike141':[{'role':_0x327dcc(0x1cd),'telegram':'7505928620','category':_0x327dcc(0x1f2),'avatar':_0x327dcc(0x1f5)}],'Svervanchik':[{'role':_0x327dcc(0x1cd),'telegram':'5634473488','category':_0x327dcc(0x1f2),'avatar':_0x327dcc(0x1d4)}],'nazar1cyber2sportman':[{'role':_0x327dcc(0x1d1),'telegram':_0x327dcc(0x1cc),'category':_0x327dcc(0x1ee),'avatar':_0x327dcc(0x241)}],'Zoomsos123':[{'role':'Заступник\x20Голови\x20СБС','telegram':_0x327dcc(0x1d3),'category':'СБС','avatar':_0x327dcc(0x1e2)}],'Sti4kyy':[{'role':_0x327dcc(0x21d),'telegram':_0x327dcc(0x226),'category':_0x327dcc(0x1ee),'avatar':_0x327dcc(0x1f7)}],'global20207':[{'role':_0x327dcc(0x237),'telegram':_0x327dcc(0x236),'category':'ДБР','avatar':_0x327dcc(0x1ea)}],'artemMelnichenko2013':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x21e),'category':_0x327dcc(0x1dc),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C0C0541A9CA426461D9F9734328806-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'starikashka228337':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x207),'category':_0x327dcc(0x1dc),'avatar':'https://tr.rbxcdn.com/30DAY-AvatarHeadshot-75304F4FDE48DF7811017948208C1ED7-Png/150/150/AvatarHeadshot/Webp/noFilter'}],'Yezh1lya':[{'role':'Співробітник\x20ДБР','telegram':'5109532913','category':'ДБР','avatar':_0x327dcc(0x21b)}],'Ntinetter':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x24a),'category':_0x327dcc(0x1dc),'avatar':_0x327dcc(0x1e1)}],'Levopravo2024':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x219),'category':_0x327dcc(0x1dc),'avatar':_0x327dcc(0x249)}],'maksumkasymk789':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x1de),'category':_0x327dcc(0x1dc),'avatar':_0x327dcc(0x23f)}],'Black_Batman02':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x216),'category':'ДБР','avatar':_0x327dcc(0x23d)}],'dima276518':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x246),'category':'ДБР','avatar':_0x327dcc(0x1d0)}],'Arsenic3996':[{'role':_0x327dcc(0x1dd),'telegram':_0x327dcc(0x1df),'category':_0x327dcc(0x1dc),'avatar':_0x327dcc(0x1e6)}],'MAXIM4IK123098':[{'role':_0x327dcc(0x21a),'telegram':_0x327dcc(0x1d8),'category':_0x327dcc(0x23e),'avatar':_0x327dcc(0x239)}],'lSqwizzyl':[{'role':'Організатор\x20ДАРШ','telegram':_0x327dcc(0x234),'category':_0x327dcc(0x243),'avatar':_0x327dcc(0x208)}]},categories=[_0x327dcc(0x233),_0x327dcc(0x1f2),_0x327dcc(0x1dc),_0x327dcc(0x1ee),_0x327dcc(0x243),'Інше',_0x327dcc(0x23e)],categoriesWrapper=document[_0x327dcc(0x217)](_0x327dcc(0x1fc)),rolesContainer=document[_0x327dcc(0x217)](_0x327dcc(0x1ff)),activeIndicator=document[_0x327dcc(0x217)](_0x327dcc(0x232)),searchInput=document[_0x327dcc(0x217)](_0x327dcc(0x20e)),searchResult=document[_0x327dcc(0x217)](_0x327dcc(0x22a));let activeCategory=null,activeBtn=null;function createCategoryButtons(){const _0x43c911=_0x327dcc;categories[_0x43c911(0x1fb)](_0x521029=>{const _0x5e854f=_0x43c911,_0x5ab623=document[_0x5e854f(0x1e5)]('div');_0x5ab623[_0x5e854f(0x205)]=_0x5e854f(0x203)+_0x521029,_0x5ab623['textContent']=_0x521029,_0x5ab623['addEventListener'](_0x5e854f(0x1ed),()=>setActiveCategory(_0x521029,_0x5ab623)),categoriesWrapper[_0x5e854f(0x1ef)](_0x5ab623);});}function showRoles(_0x1e6c0e){const _0x34d670=_0x327dcc;rolesContainer[_0x34d670(0x1e4)]='';const _0x50f1f2=document[_0x34d670(0x20b)]('.roles')||document[_0x34d670(0x1e5)]('div');_0x50f1f2[_0x34d670(0x205)]='roles',_0x50f1f2[_0x34d670(0x1e4)]='';let _0xc4eb14=![];for(const [_0x1ad538,_0x2cb5d2]of Object['entries'](players)){_0x2cb5d2[_0x34d670(0x1fb)](_0xb43d58=>{const _0x26c3d4=_0x34d670;if(_0xb43d58[_0x26c3d4(0x247)]===_0x1e6c0e){_0xc4eb14=!![];const _0x2e701a=_0xb43d58[_0x26c3d4(0x206)][_0x26c3d4(0x231)](_0x26c3d4(0x1fe))?_0x26c3d4(0x215)+_0xb43d58[_0x26c3d4(0x206)]:_0x26c3d4(0x1eb)+_0xb43d58[_0x26c3d4(0x206)],_0x4de82a=document[_0x26c3d4(0x1e5)](_0x26c3d4(0x204));_0x4de82a[_0x26c3d4(0x205)]=_0x26c3d4(0x1e3),_0x4de82a[_0x26c3d4(0x1e4)]='\x0a\x20\x20<div\x20class=\x22role-inner\x22>\x0a\x20\x20\x20\x20<img\x20class=\x22avatar\x22\x20src=\x22'+(_0xb43d58['avatar']||'https://via.placeholder.com/150')+_0x26c3d4(0x224)+_0x1ad538+_0x26c3d4(0x23a)+_0xb43d58[_0x26c3d4(0x1e3)]+_0x26c3d4(0x1f3)+_0x1ad538+'</b><br>\x0a\x20\x20\x20\x20\x20\x20Telegram:\x20<a\x20href=\x22'+_0x2e701a+_0x26c3d4(0x211)+_0xb43d58[_0x26c3d4(0x206)]+_0x26c3d4(0x202),_0x50f1f2[_0x26c3d4(0x1ef)](_0x4de82a);}});}!_0xc4eb14&&(_0x50f1f2[_0x34d670(0x1e4)]='<p>У\x20цій\x20категорії\x20немає\x20ролей.</p>'),rolesContainer[_0x34d670(0x1ef)](_0x50f1f2);}function updateActiveIndicator(_0x5cb34f){const _0x19531e=_0x327dcc;if(!_0x5cb34f){activeIndicator[_0x19531e(0x23b)][_0x19531e(0x24b)]='0';return;}const _0x30b647=categoriesWrapper['getBoundingClientRect'](),_0x50818f=_0x5cb34f['getBoundingClientRect'](),_0x509c23=_0x50818f['left']-_0x30b647['left'],_0x4ba6b9=_0x50818f['width'];activeIndicator[_0x19531e(0x23b)]['left']=_0x509c23+'px',activeIndicator[_0x19531e(0x23b)][_0x19531e(0x24b)]=_0x4ba6b9+'px';}function setActiveCategory(_0x31dac6,_0x21dc55){const _0x4296d0=_0x327dcc;if(activeCategory===_0x31dac6){activeCategory=null,activeBtn=null,activeIndicator['style'][_0x4296d0(0x24b)]='0',activeIndicator[_0x4296d0(0x23b)][_0x4296d0(0x23c)]='0',rolesContainer[_0x4296d0(0x1e4)]='',document['querySelectorAll'](_0x4296d0(0x238))[_0x4296d0(0x1fb)](_0x125f61=>_0x125f61[_0x4296d0(0x200)][_0x4296d0(0x1c8)](_0x4296d0(0x22e)));return;}if(activeBtn){const _0x3e3669=categoriesWrapper[_0x4296d0(0x227)](),_0xe99568=activeBtn[_0x4296d0(0x227)](),_0x5dee55=_0x21dc55[_0x4296d0(0x227)]();activeIndicator[_0x4296d0(0x23b)][_0x4296d0(0x210)]=_0x4296d0(0x1c9),activeIndicator['style'][_0x4296d0(0x1fa)]=_0xe99568['left']-_0x3e3669[_0x4296d0(0x1fa)]+'px',activeIndicator[_0x4296d0(0x23b)][_0x4296d0(0x24b)]=_0xe99568['width']+'px',activeIndicator['style'][_0x4296d0(0x23c)]='1',activeIndicator[_0x4296d0(0x1f9)],activeIndicator['style'][_0x4296d0(0x210)]=_0x4296d0(0x228),activeIndicator[_0x4296d0(0x23b)][_0x4296d0(0x1fa)]=_0x5dee55[_0x4296d0(0x1fa)]-_0x3e3669[_0x4296d0(0x1fa)]+'px',activeIndicator[_0x4296d0(0x23b)]['width']=_0x5dee55[_0x4296d0(0x24b)]+'px';}else updateActiveIndicator(_0x21dc55);activeCategory=_0x31dac6,activeBtn=_0x21dc55,document[_0x4296d0(0x225)](_0x4296d0(0x238))['forEach'](_0x27ba78=>_0x27ba78[_0x4296d0(0x200)][_0x4296d0(0x1c8)](_0x4296d0(0x22e))),_0x21dc55['classList']['add'](_0x4296d0(0x22e)),showRoles(_0x31dac6);}function _0x167c(){const _0xc33545=['transition','\x22\x20target=\x22_blank\x22>','1929305khgaNV','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter','textContent','https://','1093245097','getElementById','423112kaGEHW','5134083594','Начальник\x20Поліції','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F8FA9EBF703EFE930DCCF5694A9E09E4-Png/150/150/AvatarHeadshot/Webp/noFilter','345xrIYGP','Співробітник\x20СБС','5242336088','76926xjNXla','t.me/Klipri','trim','t.me/gestisq','resize','\x22\x20alt=\x22','querySelectorAll','5481499679','getBoundingClientRect','left\x200.4s\x20ease,\x20width\x200.4s\x20ease','Засновник\x20сервера','searchResult','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B227920F5498672AE3222FD48A0C9C8F-Png/150/150/AvatarHeadshot/Webp/noFilter','\x20немає\x20офіційної\x20ролі.','Ролі\x20','active','3502020LbKzlN','t.me/Great_Terku','startsWith','activeIndicator','Адміністрація','t.me/shppsqwizzy','Адміністратор-Повітряний\x20Контроль','1431122546','Директор\x20ДБР','.category','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6EF47B3E419FE114DD2DA5D536C59AAF-Png/150/150/AvatarHeadshot/Webp/noFilter','\x22\x20/>\x0a\x20\x20\x20\x20<div\x20class=\x22role-info\x22>\x0a\x20\x20\x20\x20\x20\x20<strong>','style','opacity','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3E69CDBA71FD34548711A1193AD8314-Png/150/150/AvatarHeadshot/Webp/noFilter','Поліція','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F4108F3210668CB45D057C61D5273F5D-Png/150/150/AvatarHeadshot/Webp/noFilter','Адміністратор-Інспектор\x20Службового\x20Контролю','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D9BF4F87D662AA7746E15671839A0B85-Png/150/150/AvatarHeadshot/Webp/noFilter','t.me/ukreh_admin','ДАРШ','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8FBAEB1A93300648EDA19258DE094478-Png/150/150/AvatarHeadshot/Webp/noFilter','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F42F0593E4666C0263AB23BF8D330C91-Png/150/150/AvatarHeadshot/Webp/noFilter','8107753437','category','Адміністратор-Патрульний','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF707DE98F626693C428B9F46B61A59B-Png/150/150/AvatarHeadshot/Webp/noFilter','1319760971','width','t.me/P1zzaGod','t.me/WHHll','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter','Суддя','remove','none','t.me/marsqwrty0','Адміністратор-Патрульний-Івентник','t.me/NazSkil','Охоронець','Організатор\x20ДАРШ','join','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-991BD009B9A77F0031E4FE33D98ACC60-Png/150/150/AvatarHeadshot/Webp/noFilter','Голова\x20СБС','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9A4AF0E08E354C7A2E7C61F019A2725B-Png/150/150/AvatarHeadshot/Webp/noFilter','t.me/Xmm_help','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB08C288C39560E6F471055F9F416AB6-Png/150/150/AvatarHeadshot/Webp/noFilter','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2A30D90F517F189F6D602CFDB2EF48BE-Png/150/150/AvatarHeadshot/Webp/noFilter','t.me/cherruu12','4354482JoCTcx','t.me/kotcco','map','addEventListener','t.me/aeriwam','ДБР','Співробітник\x20ДБР','1405483524','7643022641','Інше','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A76F21A73F4350224F647F888393315D-Png/150/150/AvatarHeadshot/Webp/noFilter','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A103CAEB25EB779C27A5569E2B7F1AFA-Png/150/150/AvatarHeadshot/Webp/noFilter','role','innerHTML','createElement','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A18E1170A9E7A03566F65ECEFE360C89-Png/150/150/AvatarHeadshot/Webp/noFilter','t.me/only_militaryxxx','Заступниця\x20засновника\x20сервера','Головний\x20Суддя','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E2B5E0089FF660ADE2EABC13B524DD14-Png/150/150/AvatarHeadshot/Webp/noFilter','tg://openmessage?user_id=','876366szmFOh','click','СБС','appendChild','1052156QdIzpo','t.me/D1RT4M','Суд','</strong><br>\x0a\x20\x20\x20\x20\x20\x20Username:\x20<b>','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1D9941FA42707D0A3B7398DFCE169F46-Png/150/150/AvatarHeadshot/Webp/noFilter','t.me/crybaby0033','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F98AFBA6B531E17496CE1A79ABE5476-Png/150/150/AvatarHeadshot/Webp/noFilter','1141415935','offsetHeight','left','forEach','categoriesWrapper','t.me/cyberl1n3','t.me/','rolesContainer','classList','468YciAOq','</a>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20</div>\x0a','category\x20','div','className','telegram','5358641921','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-229CBE97C5873A244AB5E1D6ACC18B75-Png/150/150/AvatarHeadshot/Webp/noFilter','input','t.me/Na7atelega','querySelector','t.me/olegh34','https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2444F34AC07B609602C29EFBF6429F8-Png/150/150/AvatarHeadshot/Webp/noFilter','searchInput','Старший\x20Адміністратор'];_0x167c=function(){return _0xc33545;};return _0x167c();}createCategoryButtons(),activeIndicator[_0x327dcc(0x23b)][_0x327dcc(0x24b)]='0',window[_0x327dcc(0x1da)](_0x327dcc(0x223),()=>{activeCategory&&activeBtn&&updateActiveIndicator(activeBtn);}),searchInput[_0x327dcc(0x1da)](_0x327dcc(0x209),()=>{const _0x2f6625=_0x327dcc,_0x1c5ba1=searchInput['value'][_0x2f6625(0x221)]();if(_0x1c5ba1===''){searchResult[_0x2f6625(0x214)]='';return;}if(players[_0x1c5ba1]){const _0x2b3487=players[_0x1c5ba1][_0x2f6625(0x1d9)](_0x4459c5=>_0x4459c5[_0x2f6625(0x1e3)])[_0x2f6625(0x1cf)](',\x20');searchResult[_0x2f6625(0x214)]=_0x2f6625(0x22d)+_0x1c5ba1+':\x20'+_0x2b3487;}else searchResult['textContent']='У\x20'+_0x1c5ba1+_0x2f6625(0x22c);});
+   const players = {
+
+  "gikusya": [
+    {
+      role: "Засновник сервера",
+      telegram: "t.me/ukreh_admin",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2A30D90F517F189F6D602CFDB2EF48BE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "p1eyys": [
+    {
+      role: "Заступниця засновника сервера",
+      telegram: "t.me/crybaby_mew",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ADADC5DDD7166D4303D48A60400D97B4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Klipri": [
+    {
+      role: "Старший Адміністратор",
+      telegram: "t.me/Klipri",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9DDDCBA77F06410A34EFB0FCA671D135-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "gestisqns": [
+    {
+      role: "Адміністратор-Інспектор Підтримки",
+      telegram: "t.me/gestisq",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "H8TpizzaG8D": [
+    {
+      role: "Адміністратор-Інспектор Службового Контролю",
+      telegram: "t.me/P1zzaGod",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B227920F5498672AE3222FD48A0C9C8F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+  
+    "Bandera909": [
+    {
+      role: "Адміністратор-Патрульний-Івентник",
+      telegram: "t.me/Great_Terku",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F42F0593E4666C0263AB23BF8D330C91-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+    {
+      role: "Організатор ДАРШ",
+      telegram: "t.me/Great_Terku",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F42F0593E4666C0263AB23BF8D330C91-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "bodja150510": [
+    {
+      role: "Адміністратор-Повітряний Контроль",
+      telegram: "t.me/marsqwrty0",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "MefFVG7": [
+    {
+      role: "Адміністратор-Патрульний",
+      telegram: "t.me/cherruu12",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2444F34AC07B609602C29EFBF6429F8-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "Saylexxx59": [
+    {
+      role: "Адміністратор-Патрульний",
+      telegram: "1141415935",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7DD9E0634ED42F36542450216B3AA117-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "K_PoPlove9473": [
+    {
+      role: "Адміністратор-Патрульний",
+      telegram: "t.me/aeriwam",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8FBAEB1A93300648EDA19258DE094478-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "XxHA7AxX": [
+   {
+      role: "Головний Суддя",
+      telegram: "t.me/Na7atelega",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+
+        {
+      role: "Контентмейкер",
+      telegram: "t.me/Na7atelega",
+      category: "Інше",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+
+    {
+      role: "Організатор ДАРШ",
+      telegram: "t.me/Na7atelega",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+     "olegh34": [
+    {
+      role: "Суддя",
+      telegram: "t.me/olegh34",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F30216AFBE173D0F87E3F937C51CAB64-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "nik2a5": [
+    {
+      role: "Суддя",
+      telegram: "t.me/cyberl1n3",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9A4AF0E08E354C7A2E7C61F019A2725B-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "nsx1987": [
+    {
+      role: "Суддя",
+      telegram: "t.me/WHHll",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-999A3B55F742C9F3750938661BAD81B9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "ONLYvPOTOKE": [
+    {
+      role: "Суддя",
+      telegram: "t.me/only_militaryxxx",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B767EC5312951F73612EF1C53D4BEC9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "rb_girl1535": [
+    {
+      role: "Суддя",
+      telegram: "t.me/D1RT4M",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B403751B1842F93ADE9E494AD5C2DEE9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "arina_mike141": [
+    {
+      role: "Охоронець",
+      telegram: "7505928620",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1D9941FA42707D0A3B7398DFCE169F46-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Svervanchik": [
+    {
+      role: "Охоронець",
+      telegram: "5634473488",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB08C288C39560E6F471055F9F416AB6-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "nazar1cyber2sportman": [
+    {
+      role: "Голова СБС",
+      telegram: "t.me/NazSkil",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D9BF4F87D662AA7746E15671839A0B85-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Zoomsos123": [
+    {
+      role: "Заступник Голови СБС",
+      telegram: "t.me/Xmm_help",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A103CAEB25EB779C27A5569E2B7F1AFA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Sti4kyy": [
+    {
+      role: "Співробітник СБС",
+      telegram: "5481499679",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F98AFBA6B531E17496CE1A79ABE5476-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "BBIG222": [
+    {
+      role: "Співробітник СБС",
+      telegram: "5073128196",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3E527257986F4037EF2D45A6636A0CE3-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "global20207": [
+    {
+      role: "Директор ДБР",
+      telegram: "1431122546",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E2B5E0089FF660ADE2EABC13B524DD14-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "artemMelnichenko2013": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "5242336088",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C0C0541A9CA426461D9F9734328806-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "starikashka228337": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "5358641921",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-75304F4FDE48DF7811017948208C1ED7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Yezh1lya": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "5109532913",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F8FA9EBF703EFE930DCCF5694A9E09E4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Ntinetter": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "1319760971",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A76F21A73F4350224F647F888393315D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Levopravo2024": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "5134083594",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF707DE98F626693C428B9F46B61A59B-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "maksumkasymk789": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "1405483524",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F4108F3210668CB45D057C61D5273F5D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Black_Batman02": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "1093245097",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3E69CDBA71FD34548711A1193AD8314-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "dima276518": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "8107753437",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-991BD009B9A77F0031E4FE33D98ACC60-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+      "Arsenic3996": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "7643022641",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A18E1170A9E7A03566F65ECEFE360C89-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "MAXIM4IK123098": [
+    {
+      role: "Начальник Поліції",
+      telegram: "t.me/kotcco",
+      category: "Поліція",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6EF47B3E419FE114DD2DA5D536C59AAF-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "lSqwizzyl": [
+    {
+      role: "Організатор ДАРШ",
+      telegram: "t.me/shppsqwizzy",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-229CBE97C5873A244AB5E1D6ACC18B75-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+};
+
+
+
+
+
+
+const _0x3395f3=_0x4e5d;(function(_0x1ddffd,_0x1ca3d0){const _0x443c29=_0x4e5d,_0x5acac1=_0x1ddffd();while(!![]){try{const _0x424b6a=-parseInt(_0x443c29(0xb5))/0x1*(-parseInt(_0x443c29(0xac))/0x2)+-parseInt(_0x443c29(0xd3))/0x3*(parseInt(_0x443c29(0xd7))/0x4)+parseInt(_0x443c29(0xde))/0x5*(-parseInt(_0x443c29(0xc7))/0x6)+-parseInt(_0x443c29(0xdf))/0x7+parseInt(_0x443c29(0xa9))/0x8+parseInt(_0x443c29(0xaa))/0x9*(-parseInt(_0x443c29(0xdd))/0xa)+parseInt(_0x443c29(0xec))/0xb;if(_0x424b6a===_0x1ca3d0)break;else _0x5acac1['push'](_0x5acac1['shift']());}catch(_0x4687e2){_0x5acac1['push'](_0x5acac1['shift']());}}}(_0x546e,0xeffa5));function _0x546e(){const _0x2cad29=['https://via.placeholder.com/150','remove','rolesContainer','querySelector','</a>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20</div>\x0a','</strong><br>\x0a\x20\x20\x20\x20\x20\x20Username:\x20<b>','div','Ролі\x20','width','.category','33dDOSvz','textContent','searchResult','transition','473660AuDbrE','ДАРШ','category\x20','avatar','trim','role','5449370mNHhfz','1351865sQCfNc','12094474FPxLpM','startsWith','activeIndicator','</b><br>\x0a\x20\x20\x20\x20\x20\x20Telegram:\x20<a\x20href=\x22','Інше','innerHTML','forEach','categoriesWrapper','Адміністрація','offsetHeight','join','category','\x22\x20alt=\x22','57681305QbYEHJ','1636384gRwcGB','18KnumXq','click','2UPuHvQ','add','className','value','none','getElementById','\x20немає\x20офіційної\x20ролі.','querySelectorAll','appendChild','1006732wgFzOd','<p>У\x20цій\x20категорії\x20немає\x20ролей.</p>','getBoundingClientRect','Поліція','opacity','classList','left\x200.4s\x20ease,\x20width\x200.4s\x20ease','left','createElement','Суд','.roles','ДБР','entries','style','resize','active','addEventListener','telegram','30jtSGCI','roles'];_0x546e=function(){return _0x2cad29;};return _0x546e();}function _0x4e5d(_0x53531c,_0x18dba1){const _0x546eaf=_0x546e();return _0x4e5d=function(_0x4e5d3e,_0x301461){_0x4e5d3e=_0x4e5d3e-0xa9;let _0x1b6ac4=_0x546eaf[_0x4e5d3e];return _0x1b6ac4;},_0x4e5d(_0x53531c,_0x18dba1);}const categories=[_0x3395f3(0xe7),_0x3395f3(0xbe),_0x3395f3(0xc0),'СБС',_0x3395f3(0xd8),_0x3395f3(0xe3),_0x3395f3(0xb8)],categoriesWrapper=document[_0x3395f3(0xb1)](_0x3395f3(0xe6)),rolesContainer=document[_0x3395f3(0xb1)](_0x3395f3(0xcb)),activeIndicator=document[_0x3395f3(0xb1)](_0x3395f3(0xe1)),searchInput=document[_0x3395f3(0xb1)]('searchInput'),searchResult=document[_0x3395f3(0xb1)](_0x3395f3(0xd5));let activeCategory=null,activeBtn=null;function createCategoryButtons(){const _0x2023af=_0x3395f3;categories[_0x2023af(0xe5)](_0x5eded2=>{const _0x5a9ce8=_0x2023af,_0x2e70ac=document[_0x5a9ce8(0xbd)](_0x5a9ce8(0xcf));_0x2e70ac['className']=_0x5a9ce8(0xd9)+_0x5eded2,_0x2e70ac[_0x5a9ce8(0xd4)]=_0x5eded2,_0x2e70ac['addEventListener'](_0x5a9ce8(0xab),()=>setActiveCategory(_0x5eded2,_0x2e70ac)),categoriesWrapper[_0x5a9ce8(0xb4)](_0x2e70ac);});}function showRoles(_0x2e6872){const _0x34ebfe=_0x3395f3;rolesContainer['innerHTML']='';const _0x52837d=document[_0x34ebfe(0xcc)](_0x34ebfe(0xbf))||document['createElement'](_0x34ebfe(0xcf));_0x52837d[_0x34ebfe(0xae)]=_0x34ebfe(0xc8),_0x52837d[_0x34ebfe(0xe4)]='';let _0x24ea52=![];for(const [_0x48dc08,_0xa49c31]of Object[_0x34ebfe(0xc1)](players)){_0xa49c31[_0x34ebfe(0xe5)](_0xd46044=>{const _0x2f802a=_0x34ebfe;if(_0xd46044[_0x2f802a(0xea)]===_0x2e6872){_0x24ea52=!![];const _0x173bc0=_0xd46044[_0x2f802a(0xc6)][_0x2f802a(0xe0)]('t.me/')?'https://'+_0xd46044['telegram']:'tg://openmessage?user_id='+_0xd46044['telegram'],_0x2eced6=document[_0x2f802a(0xbd)]('div');_0x2eced6[_0x2f802a(0xae)]=_0x2f802a(0xdc),_0x2eced6[_0x2f802a(0xe4)]='\x0a\x20\x20<div\x20class=\x22role-inner\x22>\x0a\x20\x20\x20\x20<img\x20class=\x22avatar\x22\x20src=\x22'+(_0xd46044[_0x2f802a(0xda)]||_0x2f802a(0xc9))+_0x2f802a(0xeb)+_0x48dc08+'\x22\x20/>\x0a\x20\x20\x20\x20<div\x20class=\x22role-info\x22>\x0a\x20\x20\x20\x20\x20\x20<strong>'+_0xd46044['role']+_0x2f802a(0xce)+_0x48dc08+_0x2f802a(0xe2)+_0x173bc0+'\x22\x20target=\x22_blank\x22>'+_0xd46044[_0x2f802a(0xc6)]+_0x2f802a(0xcd),_0x52837d['appendChild'](_0x2eced6);}});}!_0x24ea52&&(_0x52837d[_0x34ebfe(0xe4)]=_0x34ebfe(0xb6)),rolesContainer[_0x34ebfe(0xb4)](_0x52837d);}function updateActiveIndicator(_0x20e887){const _0x1167e7=_0x3395f3;if(!_0x20e887){activeIndicator['style'][_0x1167e7(0xd1)]='0';return;}const _0x48b69d=categoriesWrapper[_0x1167e7(0xb7)](),_0x492b9c=_0x20e887[_0x1167e7(0xb7)](),_0x5a8d4f=_0x492b9c[_0x1167e7(0xbc)]-_0x48b69d[_0x1167e7(0xbc)],_0x2dac67=_0x492b9c['width'];activeIndicator[_0x1167e7(0xc2)][_0x1167e7(0xbc)]=_0x5a8d4f+'px',activeIndicator['style'][_0x1167e7(0xd1)]=_0x2dac67+'px';}function setActiveCategory(_0x4973a6,_0x20d080){const _0x4a013a=_0x3395f3;if(activeCategory===_0x4973a6){activeCategory=null,activeBtn=null,activeIndicator[_0x4a013a(0xc2)][_0x4a013a(0xd1)]='0',activeIndicator['style']['opacity']='0',rolesContainer[_0x4a013a(0xe4)]='',document[_0x4a013a(0xb3)](_0x4a013a(0xd2))[_0x4a013a(0xe5)](_0xabe6db=>_0xabe6db[_0x4a013a(0xba)][_0x4a013a(0xca)](_0x4a013a(0xc4)));return;}if(activeBtn){const _0x2941f3=categoriesWrapper[_0x4a013a(0xb7)](),_0x1dd16d=activeBtn['getBoundingClientRect'](),_0x2f932c=_0x20d080[_0x4a013a(0xb7)]();activeIndicator[_0x4a013a(0xc2)][_0x4a013a(0xd6)]=_0x4a013a(0xb0),activeIndicator['style'][_0x4a013a(0xbc)]=_0x1dd16d[_0x4a013a(0xbc)]-_0x2941f3[_0x4a013a(0xbc)]+'px',activeIndicator['style'][_0x4a013a(0xd1)]=_0x1dd16d['width']+'px',activeIndicator[_0x4a013a(0xc2)][_0x4a013a(0xb9)]='1',activeIndicator[_0x4a013a(0xe8)],activeIndicator['style']['transition']=_0x4a013a(0xbb),activeIndicator[_0x4a013a(0xc2)][_0x4a013a(0xbc)]=_0x2f932c[_0x4a013a(0xbc)]-_0x2941f3[_0x4a013a(0xbc)]+'px',activeIndicator[_0x4a013a(0xc2)][_0x4a013a(0xd1)]=_0x2f932c[_0x4a013a(0xd1)]+'px';}else updateActiveIndicator(_0x20d080);activeCategory=_0x4973a6,activeBtn=_0x20d080,document['querySelectorAll'](_0x4a013a(0xd2))[_0x4a013a(0xe5)](_0x282910=>_0x282910[_0x4a013a(0xba)]['remove'](_0x4a013a(0xc4))),_0x20d080[_0x4a013a(0xba)][_0x4a013a(0xad)](_0x4a013a(0xc4)),showRoles(_0x4973a6);}createCategoryButtons(),activeIndicator['style']['width']='0',window[_0x3395f3(0xc5)](_0x3395f3(0xc3),()=>{activeCategory&&activeBtn&&updateActiveIndicator(activeBtn);}),searchInput[_0x3395f3(0xc5)]('input',()=>{const _0x38c142=_0x3395f3,_0x1aeca1=searchInput[_0x38c142(0xaf)][_0x38c142(0xdb)]();if(_0x1aeca1===''){searchResult[_0x38c142(0xd4)]='';return;}if(players[_0x1aeca1]){const _0x435e42=players[_0x1aeca1]['map'](_0x1a5c3f=>_0x1a5c3f[_0x38c142(0xdc)])[_0x38c142(0xe9)](',\x20');searchResult[_0x38c142(0xd4)]=_0x38c142(0xd0)+_0x1aeca1+':\x20'+_0x435e42;}else searchResult[_0x38c142(0xd4)]='У\x20'+_0x1aeca1+_0x38c142(0xb2);});
