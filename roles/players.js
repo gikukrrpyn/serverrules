@@ -308,15 +308,6 @@ export const players = {
     },
   ],
 
-    "MAXIM4IK123098": [
-    {
-      role: "Начальник Поліції",
-      telegram: "t.me/kotcco",
-      category: "Поліція",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6EF47B3E419FE114DD2DA5D536C59AAF-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "lSqwizzyl": [
     {
       role: "Організатор ДАРШ",
