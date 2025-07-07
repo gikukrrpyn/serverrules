@@ -182,21 +182,21 @@ export const players = {
     },
   ],
 
-  "nazar1cyber2sportman": [
-    {
-      role: "Голова СБС",
-      telegram: "t.me/NazSkil",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D9BF4F87D662AA7746E15671839A0B85-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Zoomsos123": [
     {
-      role: "Заступник Голови СБС",
+      role: "Голова СБС",
       telegram: "t.me/Xmm_help",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A103CAEB25EB779C27A5569E2B7F1AFA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "nazar1cyber2sportman": [
+    {
+      role: "Заступник Голови СБС",
+      telegram: "t.me/NazSkil",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D9BF4F87D662AA7746E15671839A0B85-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
