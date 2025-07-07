@@ -99,7 +99,6 @@ export const licenses = {
 "FunnyArtem_2012": { "role": "11 479", "status": "728522", "expiry": "", "telegram": "5228238256" },
 
 // G
-"gardengoldmen1": { "role": "2 062", "status": "460642", "expiry": "", "telegram": "6429863738" },
 "gonorer45": { "role": "10 043", "status": "120161", "expiry": "", "telegram": "1613994040" },
 
 // H
