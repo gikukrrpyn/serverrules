@@ -176,8 +176,8 @@ export const licenses = {
 },
 
   sbs: {
-  "nazar1cyber2sportman": { role: "Голова", status: "438619", telegram: "6194910294" },
-  "Zoomsos123": { role: "Заступник Голови", status: "350533", telegram: "5339606531" },
+  "nazar1cyber2sportman": { role: "Заступник Голови", status: "438619", telegram: "6194910294" },
+  "Zoomsos123": { role: "Голова", status: "350533", telegram: "5339606531" },
   "Sti4kyy": { role: "Майор", status: "769548", telegram: "5481499679" },
   "BBIG222": { role: "Рядовий", status: "797507", telegram: "5073128196" },
 
