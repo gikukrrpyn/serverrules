@@ -62,7 +62,6 @@ export const licenses = {
 
 
   police: {
-  "MAXIM4IK123098": { role: "Ветеран; Начальник Поліції", status: "146605", expiry: "", telegram: "t.me/kotcco" },
   "gikusya": { role: "Комісар", status: "315728", expiry: "", telegram: "t.me/ukreh_admin" },
 
 // 1
@@ -76,6 +75,7 @@ export const licenses = {
 
 // A
 "Andrew_01174": { "role": "59 881", "status": "764526", "expiry": "", "telegram": "5262299554" },
+"arbus34s": { "role": "3 274", "status": "418501", "expiry": "", "telegram": "5017227588" },
 
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
@@ -111,6 +111,7 @@ export const licenses = {
 
 // K
 "Kedvirm": { "role": "46 524", "status": "402781", "expiry": "", "telegram": "7811987070" },
+"Kolopohv": { "role": "29 438", "status": "481628", "expiry": "", "telegram": "6286540452" },
 
 // L
 "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
@@ -118,6 +119,8 @@ export const licenses = {
 
 // M
 "mamkinxaker229": { "role": "46 264", "status": "329543", "expiry": "", "telegram": "5433768754" },
+"MAXIM4IK123098": { role: "Ветеран", status: "146605", expiry: "", telegram: "6053516349" },
+"max123457934": { role: "29 887", status: "784732", expiry: "", telegram: "7329674344" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
