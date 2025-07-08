@@ -164,6 +164,15 @@ export const players = {
     },
   ],
 
+    "Andrew_01174": [
+    {
+      role: "Суддя",
+      telegram: "t.me/ami_woolw",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EFD3E4C83F567668CA720201CDB23C2D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "arina_mike141": [
     {
       role: "Охоронець",
