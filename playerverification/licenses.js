@@ -130,11 +130,11 @@ export const licenses = {
 // O
 "od1nok02": { "role": "25 160", "status": "847708", "expiry": "", "telegram": "7089943642" },
 "olegh34": { "role": "74 998", "status": "133500", "expiry": "", "telegram": "5007175515" },
-"Otto_octopu": { "role": "13 801", "status": "403611", "expiry": "", "telegram": "6110818100" },
+"Otto_octopu": { "role": "17 058", "status": "403611", "expiry": "", "telegram": "6110818100" },
 
 // P
 "palamarka2288": { "role": "21 223", "status": "434780", "expiry": "", "telegram": "7806572251" },
-"pavel36558": { "role": "5 033", "status": "186748", "expiry": "", "telegram": "7485750248" },
+"pavel36558": { "role": "6 807", "status": "186748", "expiry": "", "telegram": "7485750248" },
 "Pit_uk": { "role": "35 276", "status": "764781", "expiry": "", "telegram": "7811050819" },
 "Pushka2030": { "role": "17 173", "status": "319554", "expiry": "", "telegram": "5549609551" },
 
