@@ -326,6 +326,15 @@ export const players = {
     },
   ],
 
+      "set45dt": [
+    {
+      role: "Співробітник ДБР",
+      telegram: "6371380345",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-744B55D760021273920FCC86D87EB1E4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
     "lSqwizzyl": [
     {
       role: "Начальник Поліції",
