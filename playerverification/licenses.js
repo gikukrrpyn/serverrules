@@ -30,6 +30,7 @@ export const licenses = {
 "dima276518": { status: "Дійсна", expiry: "08.08.2025", telegram: "8107753437" },
 "Dimabarbos": { status: "Дійсна", expiry: "08.08.2025", telegram: "6591557304" },
 "Arsenic3996": { status: "Дійсна", expiry: "08.08.2025", telegram: "7643022641" },
+"set45dt": { status: "Дійсна", expiry: "08.08.2025", telegram: "6371380345" },
 
                // СБС
 "nazar1cyber2sportman": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/NazSkil" },
@@ -201,6 +202,7 @@ export const licenses = {
   "levopravo2024": { role: "Сержант", status: "749513", telegram: "5134083594" },
   "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
   "Arsenic3996": { role: "Рядовий", status: "605764", telegram: "7643022641" },
+  "Set45dt": { role: "Рядовий", status: "490637", telegram: "6371380345" },
 },
               // Таксистська ліцензія
             taxi: {
