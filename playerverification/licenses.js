@@ -36,6 +36,7 @@ export const licenses = {
 "Zoomsos123": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/Xmm_help" },
 "Sti4kyy": { status: "Дійсна", expiry: "08.08.2025", telegram: "5481499679" },
 "BBIG222": { status: "Дійсна", expiry: "08.08.2025", telegram: "5073128196" },
+"Rokk834": { status: "Дійсна", expiry: "08.08.2025", telegram: "7517215417" },
 
         },
 
@@ -183,6 +184,7 @@ export const licenses = {
   "Zoomsos123": { role: "Голова", status: "350533", telegram: "5339606531" },
   "Sti4kyy": { role: "Майор", status: "769548", telegram: "5481499679" },
   "BBIG222": { role: "Рядовий", status: "797507", telegram: "5073128196" },
+  "Rokk834": { role: "Рядовий", status: "747751", telegram: "7517215417" },
 
 },
 
