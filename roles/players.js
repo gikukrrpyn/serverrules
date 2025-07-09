@@ -227,6 +227,15 @@ export const players = {
     },
   ],
 
+    "Rokk834": [
+    {
+      role: "Співробітник СБС",
+      telegram: "7517215417",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F01B3264621BF3B2F4F1B195E7CEB62F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "global20207": [
     {
       role: "Директор ДБР",
