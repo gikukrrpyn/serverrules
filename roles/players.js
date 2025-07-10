@@ -87,15 +87,6 @@ export const players = {
     },
   ],
 
-    "K_PoPlove9473": [
-    {
-      role: "Адміністратор-Патрульний",
-      telegram: "t.me/aeriwam",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8FBAEB1A93300648EDA19258DE094478-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "XxHA7AxX": [
    {
       role: "Головний Суддя",
