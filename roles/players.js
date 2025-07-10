@@ -137,15 +137,6 @@ export const players = {
     },
   ],
 
-  "ONLYvPOTOKE": [
-    {
-      role: "Суддя",
-      telegram: "t.me/only_militaryxxx",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B767EC5312951F73612EF1C53D4BEC9-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "rb_girl1535": [
     {
       role: "Суддя",
