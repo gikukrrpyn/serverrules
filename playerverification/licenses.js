@@ -102,6 +102,7 @@ export const licenses = {
 
 // G
 "gonorer45": { "role": "10 043", "status": "120161", "expiry": "", "telegram": "1613994040" },
+"GordiyYarmolenko": { "role": "5 479", "status": "471644", "expiry": "", "telegram": "6446581492" },
 
 // H
 "holodos222": { role: "7 544", status: "440594", expiry: "", telegram: "5947961816" },
@@ -114,6 +115,7 @@ export const licenses = {
 // K
 "Kedvirm": { "role": "46 524", "status": "402781", "expiry": "", "telegram": "7811987070" },
 "Kolopohv": { "role": "29 438", "status": "481628", "expiry": "", "telegram": "6286540452" },
+"Kirilkleo123422": { "role": "5 339", "status": "833737", "expiry": "", "telegram": "7378236816" },
 
 // L
 "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
