@@ -182,15 +182,6 @@ export const players = {
     },
   ],
 
-  "nazar1cyber2sportman": [
-    {
-      role: "Заступник Голови СБС",
-      telegram: "t.me/NazSkil",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D9BF4F87D662AA7746E15671839A0B85-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Sti4kyy": [
     {
       role: "Співробітник СБС",
