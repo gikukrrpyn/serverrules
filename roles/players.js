@@ -209,6 +209,15 @@ export const players = {
     },
   ],
 
+    "sigm4t1k": [
+    {
+      role: "Співробітник СБС",
+      telegram: "8156926863",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3B39D777CC27590371AA4485A9F18031-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "global20207": [
     {
       role: "Директор ДБР",
