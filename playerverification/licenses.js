@@ -391,7 +391,7 @@ export const licenses = {
                 "palamarka2288": { status: "A4545", telegram: "1902876079" },
                 "jfhhddjh": { status: "A4848", telegram: "6997233193" },
                 "Junius_2008": { status: "A4646", telegram: "5166763273" },
-                "username roblox": { status: "код ліцензії", telegram: "айді акаунту тг" },
+                "Derick47846": { status: "A6565", telegram: "7892698228" },
                 
             },
 
