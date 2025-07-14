@@ -27,15 +27,6 @@ export const players = {
     },
   ],
 
-  "gestisqns": [
-    {
-      role: "Адміністратор-Інспектор Підтримки",
-      telegram: "t.me/gestisq",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "H8TpizzaG8D": [
     {
       role: "Адміністратор-Інспектор Службового Контролю",
@@ -60,15 +51,6 @@ export const players = {
     },
   ],
 
-  "bodja150510": [
-    {
-      role: "Адміністратор-Повітряний Контроль",
-      telegram: "t.me/marsqwrty0",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "MefFVG7": [
     {
       role: "Адміністратор-Патрульний",
@@ -81,9 +63,36 @@ export const players = {
     "Saylexxx59": [
     {
       role: "Адміністратор-Патрульний",
-      telegram: "1141415935",
+      telegram: "t.me/thugthugg2",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7DD9E0634ED42F36542450216B3AA117-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "K_PoPlove9473": [
+    {
+      role: "Адміністратор-Патрульний",
+      telegram: "t.me/aeriwam",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-798F29ECF2D4986B9E3EE929607CFA9F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "gestisqns": [
+    {
+      role: "Спецадміністратор Telegram",
+      telegram: "t.me/gestisq",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "bodja150510": [
+    {
+      role: "Спецадміністратор Telegram",
+      telegram: "t.me/marsqwrty0",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
