@@ -378,7 +378,15 @@ export const licenses = {
               "vitali77rr": { "status": "T0166", "telegram": "6378314737" },
               "EGORANDMIA": { "status": "T0167", "telegram": "6723951123" },
               "Lemon4ik_40fps": { "status": "T0168", "telegram": "7726074450" }, 
-               
+              "TimchikUA": { "status": "T0169", "telegram": "1993003898" },
+              "plamy_hunter77": { "status": "T0170", "telegram": "5102637779" },
+              "itz_Roblox965": { "status": "T0171", "telegram": "1984156733" },
+              "KrotikGosh": { "status": "T0172", "telegram": "5063502428" },
+              "Kedvirm": { "status": "T0173", "telegram": "7811987070" },
+              "Desna200": { "status": "T0174", "telegram": "1398473564" },
+              "Artelda8": { "status": "T0175", "telegram": "627285694" },
+              "GordiyYarmolenko": { "status": "T0176", "telegram": "6346581492" },
+              "Bruh228danil": { "status": "T0177", "telegram": "5046577974" },          
               },
 
               // Адвокадська ліцензія
