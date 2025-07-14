@@ -386,7 +386,8 @@ export const licenses = {
               "Desna200": { "status": "T0174", "telegram": "1398473564" },
               "Artelda8": { "status": "T0175", "telegram": "627285694" },
               "GordiyYarmolenko": { "status": "T0176", "telegram": "6346581492" },
-              "Bruh228danil": { "status": "T0177", "telegram": "5046577974" },          
+              "Bruh228danil": { "status": "T0177", "telegram": "5046577974" },
+              "SNADOW13": { "status": "T0178", "telegram": "7291734724" },          
               },
 
               // Адвокадська ліцензія
