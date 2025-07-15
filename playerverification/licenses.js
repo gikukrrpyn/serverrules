@@ -89,7 +89,6 @@ export const licenses = {
 "boryvo228": { role: "13 366", status: "584139", expiry: "", telegram: "1398473564" },
 
 // C
-"Colden_720": { "role": "13 909", "status": "374515", "expiry": "", "telegram": "5158076915" },
 "Caston08963": { role: "3 391", status: "477755", expiry: "", telegram: "7557434574" },
 "cheater777_Yt": { role: "16 557", status: "150569", expiry: "", telegram: "5696745193" },
 
@@ -105,7 +104,6 @@ export const licenses = {
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
 
 // F
-"FunnyArtem_2012": { "role": "11 479", "status": "728522", "expiry": "", "telegram": "5228238256" },
 
 // G
 "gonorer45": { "role": "10 043", "status": "120161", "expiry": "", "telegram": "1613994040" },
@@ -161,7 +159,6 @@ export const licenses = {
 "Rechs10": { "role": "65 200", "status": "404638", "expiry": "", "telegram": "6387100458" },
 "Robert_polsan228": { "role": "26 942", "status": "769192", "expiry": "", "telegram": "1921850684" },
 "Rokk834": { "role": "66 579", "status": "747751", "expiry": "", "telegram": "7517215417" },
-"RTR78787": { "role": "32 922", "status": "353515", "expiry": "", "telegram": "5155778279" },
 "Rom_ka7629": { role: "46 531", status: "452645", expiry: "", telegram: "6459180417" },
 "RODON297": { role: "3 813", status: "726519", expiry: "", telegram: "5196592487" },
 "roma9080705": { role: "9 996", status: "520816", expiry: "", telegram: "8163191765" },
@@ -169,7 +166,6 @@ export const licenses = {
 // S
 "sbdgegsxbd": { "role": "24 162", "status": "181664", "expiry": "", "telegram": "6647686015" },
 "sigm4t1k": { "role": "30 024", "status": "551815", "expiry": "", "telegram": "8156926863" },
-"Svervanchik": { "role": "28 099", "status": "157563", "expiry": "", "telegram": "5634473488" },
 
 // T
 "Twister_devil8393": { "role": "3 779", "status": "535178", "expiry": "", "telegram": "1783909923" },
