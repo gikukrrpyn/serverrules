@@ -169,7 +169,7 @@ export const licenses = {
 
 // T
 "Twister_devil8393": { "role": "3 779", "status": "535178", "expiry": "", "telegram": "1783909923" },
-"Tezil0": { "role": "15 304", "status": "538615", "expiry": "", "telegram": "6156909455" },
+"Tezil0": { "role": "19 668", "status": "538615", "expiry": "", "telegram": "6156909455" },
 
 // U
 
