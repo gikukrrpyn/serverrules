@@ -116,6 +116,7 @@ export const licenses = {
 "Kedvirm": { "role": "46 524", "status": "402781", "expiry": "", "telegram": "7811987070" },
 "Kolopohv": { "role": "29 438", "status": "481628", "expiry": "", "telegram": "6286540452" },
 "Kirilkleo123422": { "role": "5 339", "status": "833737", "expiry": "", "telegram": "7378236816" },
+"kiril_30083008": { role: "252", status: "883602", expiry: "", telegram: "6026275163" },
 
 // L
 "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
@@ -125,11 +126,13 @@ export const licenses = {
 "mamkinxaker229": { "role": "46 264", "status": "329543", "expiry": "", "telegram": "5433768754" },
 "MAXIM4IK123098": { role: "Ветеран", status: "146605", expiry: "", telegram: "6053516349" },
 "max123457934": { role: "29 887", status: "784732", expiry: "", telegram: "7329674344" },
+"Matviy_123321": { role: "21 270", status: "562774", expiry: "", telegram: "7749923360" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
 "nikita100808": { "role": "13 025", "status": "724634", "expiry": "", "telegram": "6348110356" },
 "no0b1048": { role: "1 841", status: "369600", expiry: "", telegram: "6003732998" },
+"NonameGold1": { role: "1 506", status: "550533", expiry: "", telegram: "5333294290" },
 
 // O
 "od1nok02": { "role": "25 160", "status": "847708", "expiry": "", "telegram": "7089943642" },
