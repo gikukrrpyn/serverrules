@@ -69,6 +69,9 @@ export const licenses = {
 // 1
 "1313Gonf": { "role": "23 011", "status": "433127", "expiry": "", "telegram": "1275263288" },
 
+// 2
+"250GADZILA": { "role": "26 025", "status": "260521", "expiry": "", "telegram": "5218670125" },
+
 // 3
 "3cy_77781046": { "role": "36 130", "status": "418637", "expiry": "", "telegram": "6370149052" },
 
@@ -81,6 +84,7 @@ export const licenses = {
 
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
+"boryvo228": { role: "13 366", status: "584139", expiry: "", telegram: "1398473564" },
 
 // C
 "Colden_720": { "role": "13 909", "status": "374515", "expiry": "", "telegram": "5158076915" },
@@ -127,12 +131,14 @@ export const licenses = {
 "MAXIM4IK123098": { role: "Ветеран", status: "146605", expiry: "", telegram: "6053516349" },
 "max123457934": { role: "29 887", status: "784732", expiry: "", telegram: "7329674344" },
 "Matviy_123321": { role: "21 270", status: "562774", expiry: "", telegram: "7749923360" },
+"Maks15top_1": { role: "6 264", status: "483610", expiry: "", telegram: "6107412355" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
 "nikita100808": { "role": "13 025", "status": "724634", "expiry": "", "telegram": "6348110356" },
 "no0b1048": { role: "1 841", status: "369600", expiry: "", telegram: "6003732998" },
 "NonameGold1": { role: "1 506", status: "550533", expiry: "", telegram: "5333294290" },
+"NexTopPlay": { role: "900", status: "615639", expiry: "", telegram: "6398641024" },
 
 // O
 "od1nok02": { "role": "25 160", "status": "847708", "expiry": "", "telegram": "7089943642" },
