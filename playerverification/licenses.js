@@ -82,6 +82,7 @@ export const licenses = {
 "Andrew_01174": { "role": "59 881", "status": "764526", "expiry": "", "telegram": "5262299554" },
 "arbus34s": { "role": "3 274", "status": "418501", "expiry": "", "telegram": "5017227588" },
 "Adein_48": { "role": "50 358", "status": "133654", "expiry": "", "telegram": "6549388943" },
+"ATEM_SYRC": { "role": "30 819", "status": "436191", "expiry": "", "telegram": "1915195071" },
 
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
@@ -95,6 +96,7 @@ export const licenses = {
 // D
 "Dodu340dd": { "role": "26 851", "status": "438563", "expiry": "", "telegram": "5632698118" },
 "Derick47846": { "role": "5 723", "status": "771789", "expiry": "", "telegram": "7892698228" },
+"DOGvDOMIKE": { "role": "11 476", "status": "291643", "expiry": "", "telegram": "6433921215" },
 
 // d
 "dima2014hxoxbifov": { "role": "19 032", "status": "763631", "expiry": "", "telegram": "6318992501" },
