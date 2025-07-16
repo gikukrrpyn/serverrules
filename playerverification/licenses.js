@@ -423,7 +423,7 @@ export const licenses = {
               "mat250956": { status: "NR07", telegram: "6304172321", role: "NOW NEWS"},
               "Cmetanka_21756": { status: "NC08", telegram: "5379197089", role: "NOW NEWS"},
               "Roblox_din2013": { status: "NB09", telegram: "6616330776", role: "NOW NEWS"},
-              "meqssz": { status: "NA10", telegram: "5262299554", role: "NOW NEWS"},
+              "andrew_01174": { status: "NA10", telegram: "5262299554", role: "NOW NEWS"},
               "nikita1359z11": { status: "UM11", telegram: "6031850989", role: "Укр.ЗМІ"},
               "starikashka228337": { status: "ND12", telegram: "5358641921", role: "NOW NEWS"},
               "Pit_uk": { status: "NP13", telegram: "7811050819", role: "NOW NEWS"},
