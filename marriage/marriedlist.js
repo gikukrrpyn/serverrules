@@ -23,12 +23,38 @@ export const marriedList = [
         photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9232DE9306618B5D071B2DC605CAB647-Png/150/150/AvatarHeadshot/Webp/noFilter",
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6586EA63EC61E557F59731CEA1639F83-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
+
+{
+        username1: "Tyjorty123987",
+        username2: "YuhorKorotkevych",
+        date: "2025-27-06", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6966F00DF120D61F516FABD244A26B13-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1F22890509B05C04B0E5B5FEAFF2F9EA-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
+
          {
         username1: "bandera909",
         username2: "starikashka228337",
         date: "2025-28-06", 
         photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F42F0593E4666C0263AB23BF8D330C91-Png/150/150/AvatarHeadshot/Webp/noFilter",
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-75304F4FDE48DF7811017948208C1ED7-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
+
+
+{
+        username1: "Saylexxx59",
+        username2: "caxarok_agro06",
+        date: "2025-06-07", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2AB6C563EE8F2BBA30FF7046C4F664D7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3A499A6158672903CFC4A11B7779A379-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
+
+{
+        username1: "Ntinetter",
+        username2: "goblTV",
+        date: "2025-16-07", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A76F21A73F4350224F647F888393315D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EE5046B8E8E784A2D338996A4A6C3842-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
  {
