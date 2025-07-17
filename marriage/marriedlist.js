@@ -31,5 +31,13 @@ export const marriedList = [
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-75304F4FDE48DF7811017948208C1ED7-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
+ {
+        username1: "gikusya",
+        username2: "gestisqns",
+        date: "2025-17-07", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-06B554579EA0AC6E47E8F06EE0AC0783-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D210881E97855D1DAB001796CDA419E2-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
+
 
   ];
