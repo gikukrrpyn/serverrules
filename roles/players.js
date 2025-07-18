@@ -60,15 +60,6 @@ export const players = {
     },
   ],
 
-    "Saylexxx59": [
-    {
-      role: "Адміністратор-Патрульний",
-      telegram: "t.me/thugthugg2",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7DD9E0634ED42F36542450216B3AA117-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "K_PoPlove9473": [
     {
       role: "Адміністратор-Патрульний",
@@ -89,7 +80,7 @@ export const players = {
 
   "bodja150510": [
     {
-      role: "Спецадміністратор Telegram",
+      role: "Адміністратор-Повітряний Контроль",
       telegram: "t.me/marsqwrty0",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -227,6 +218,24 @@ export const players = {
     },
   ],
 
+    "Derick47846": [
+    {
+      role: "Співробітник СБС",
+      telegram: "7892698228",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2C708814ED375DE72BCB1D4B293ED793-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "desna200": [
+    {
+      role: "Співробітник СБС",
+      telegram: "1398473564",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FFAAF5CE5561888F16F1B0CBC7167BD7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "global20207": [
     {
       role: "Директор ДБР",
@@ -269,15 +278,6 @@ export const players = {
       telegram: "1319760971",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A76F21A73F4350224F647F888393315D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Levopravo2024": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "5134083594",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF707DE98F626693C428B9F46B61A59B-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
