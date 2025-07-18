@@ -35,6 +35,24 @@ export const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B227920F5498672AE3222FD48A0C9C8F-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "gestisqns": [
+    {
+      role: "Інспектор Підтримки",
+      telegram: "t.me/gestisq",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "bodja150510": [
+    {
+      role: "Адміністратор-Повітряний Контроль",
+      telegram: "t.me/marsqwrty0",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
   
     "Bandera909": [
     {
@@ -66,24 +84,6 @@ export const players = {
       telegram: "t.me/aeriwam",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-798F29ECF2D4986B9E3EE929607CFA9F-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "gestisqns": [
-    {
-      role: "Спецадміністратор Telegram",
-      telegram: "t.me/gestisq",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "bodja150510": [
-    {
-      role: "Адміністратор-Повітряний Контроль",
-      telegram: "t.me/marsqwrty0",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
