@@ -128,15 +128,6 @@ export const players = {
     },
   ],
 
-  "nsx1987": [
-    {
-      role: "Суддя",
-      telegram: "t.me/WHHll",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-999A3B55F742C9F3750938661BAD81B9-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "rb_girl1535": [
     {
       role: "Суддя",
