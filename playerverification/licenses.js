@@ -1,7 +1,6 @@
 export const licenses = {
             weapon: {
                 // Куплені
-    "nikita100808": { status: "умисне пошкодження шин чужих транспортних засобів (проколи та розстрілювання) без поважної причини. Ліцензія може бути відновлена 19.07.2025.", expiry: "00.00.0000", telegram: "6348110356" },
     "Caston08963": { status: "Дійсна", expiry: "23.06.2025", telegram: "7557434574" },
     "SFGGGYyypp": { status: "несплату податку на сервер.", expiry: "00.00.0000", telegram: "5414509704" },
     "dima2014hxoxbifov": { status: "Дійсна", expiry: "24.07.2025", telegram: "6318992501" },
@@ -24,7 +23,6 @@ export const licenses = {
 "starikashka228337": { status: "Дійсна", expiry: "08.08.2025", telegram: "5358641921" },
 "Yezh1lya": { status: "Дійсна", expiry: "08.08.2025", telegram: "5109532913" },
 "Ntinetter": { status: "Дійсна", expiry: "08.08.2025", telegram: "1319760971" },
-"Levopravo2024": { status: "Дійсна", expiry: "08.08.2025", telegram: "5134083594" },
 "maksumkasymk789": { status: "Дійсна", expiry: "08.08.2025", telegram: "1405483524" },
 "Black_Batman02": { status: "Дійсна", expiry: "08.08.2025", telegram: "1093245097" },
 "dima276518": { status: "Дійсна", expiry: "08.08.2025", telegram: "8107753437" },
@@ -38,7 +36,8 @@ export const licenses = {
 "BBIG222": { status: "Дійсна", expiry: "08.08.2025", telegram: "5073128196" },
 "Rokk834": { status: "Дійсна", expiry: "08.08.2025", telegram: "7517215417" },
 "sigm4t1k": { status: "Дійсна", expiry: "08.08.2025", telegram: "8156926863" },
-
+"Derick47846": { status: "Дійсна", expiry: "08.08.2025", telegram: "7892698228" },
+"desna200": { status: "Дійсна", expiry: "08.08.2025", telegram: "1398473564" },
         },
 
         // Зареєстровані бізнеси
@@ -200,6 +199,8 @@ export const licenses = {
   "BBIG222": { role: "Рядовий", status: "797507", telegram: "5073128196" },
   "Rokk834": { role: "Рядовий", status: "747751", telegram: "7517215417" },
   "sigm4t1k": { role: "Рядовий", status: "551815", telegram: "8156926863" },
+  "Derick47846": { role: "Рядовий", status: "771789", telegram: "7892698228" },
+  "desna200": { role: "Рядовий", status: "135139", telegram: "1398473564" },
 },
 
   dbr: {
