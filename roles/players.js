@@ -47,7 +47,7 @@ export const players = {
 
   "bodja150510": [
     {
-      role: "Адміністратор-Повітряний Контроль",
+      role: "Адміністратор-Патрульний",
       telegram: "t.me/marsqwrty0",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
