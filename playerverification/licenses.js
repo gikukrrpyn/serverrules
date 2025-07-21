@@ -85,7 +85,6 @@ export const licenses = {
 
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
-"boryvo228": { role: "13 366", status: "584139", expiry: "", telegram: "1398473564" },
 
 // C
 "Caston08963": { role: "3 391", status: "477755", expiry: "", telegram: "7557434574" },
