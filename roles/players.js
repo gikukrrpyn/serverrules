@@ -69,15 +69,6 @@ export const players = {
     },
   ],
 
-    "MefFVG7": [
-    {
-      role: "Адміністратор-Патрульний",
-      telegram: "t.me/cherruu12",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2444F34AC07B609602C29EFBF6429F8-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "XxHA7AxX": [
    {
       role: "Головний Суддя",
