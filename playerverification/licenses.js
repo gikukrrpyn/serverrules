@@ -168,6 +168,7 @@ export const licenses = {
 // S
 "sbdgegsxbd": { "role": "24 162", "status": "181664", "expiry": "", "telegram": "6647686015" },
 "sigm4t1k": { "role": "30 024", "status": "551815", "expiry": "", "telegram": "8156926863" },
+"SeIene77": { "role": "2 255", "status": "875787", "expiry": "", "telegram": "7878807151" },
 
 // T
 "Twister_devil8393": { "role": "3 779", "status": "535178", "expiry": "", "telegram": "1783909923" },
