@@ -33,6 +33,7 @@ export const licenses = {
 "Zoomsos123": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/Xmm_help" },
 "Derick47846": { status: "Дійсна", expiry: "08.08.2025", telegram: "7892698228" },
 "desna200": { status: "Дійсна", expiry: "08.08.2025", telegram: "1398473564" },
+"Sti4kyy": { status: "Дійсна", expiry: "08.08.2025", telegram: "5481499679" },
         },
 
         // Зареєстровані бізнеси
@@ -197,6 +198,7 @@ export const licenses = {
   "Zoomsos123": { role: "Голова", status: "350533", telegram: "t.me/Xmm_help" },
   "Derick47846": { role: "Заступник Голови", status: "771789", telegram: "7892698228" },
   "desna200": { role: "Рядовий", status: "135139", telegram: "1398473564" },
+  "Sti4kyy": { role: "Генерал-лейтенант", status: "769548", telegram: "5481499679" },
 },
 
   dbr: {
