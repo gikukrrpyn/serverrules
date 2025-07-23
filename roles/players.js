@@ -69,6 +69,15 @@ export const players = {
     },
   ],
 
+"mamkinxaker229": [
+    {
+      role: "Стажер-Адміністратор",
+      telegram: "t.me/nxldoxwielv",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-094AD437D640C6BEDBAA510597F9A48E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "XxHA7AxX": [
    {
       role: "Головний Суддя",
