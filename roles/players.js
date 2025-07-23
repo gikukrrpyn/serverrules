@@ -164,6 +164,15 @@ export const players = {
     },
   ],
 
+"Sti4kyy": [
+    {
+      role: "Співробітник СБС",
+      telegram: "5481499679",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2FF9542005FEEC51B8B3AC0127DC00FA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "global20207": [
     {
       role: "Директор ДБР",
