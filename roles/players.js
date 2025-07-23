@@ -54,6 +54,29 @@ export const players = {
     },
   ],
   
+  "XxHA7AxX": [
+   {
+      role: "Головний Суддя",
+      telegram: "t.me/Na7atelega",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+
+        {
+      role: "Контентмейкер",
+      telegram: "t.me/Na7atelega",
+      category: "Інше",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+
+    {
+      role: "Директор ДАРШ",
+      telegram: "t.me/Na7atelega",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
     "Bandera909": [
     {
       role: "Адміністратор-Патрульний-Івентник",
@@ -78,28 +101,6 @@ export const players = {
     },
   ],
 
-  "XxHA7AxX": [
-   {
-      role: "Головний Суддя",
-      telegram: "t.me/Na7atelega",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-
-        {
-      role: "Контентмейкер",
-      telegram: "t.me/Na7atelega",
-      category: "Інше",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-
-    {
-      role: "Організатор ДАРШ",
-      telegram: "t.me/Na7atelega",
-      category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
      "olegh34": [
     {
