@@ -128,15 +128,6 @@ export const players = {
     },
   ],
 
-  "arina_mike141": [
-    {
-      role: "Охоронець",
-      telegram: "7505928620",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1D9941FA42707D0A3B7398DFCE169F46-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Svervanchik": [
     {
       role: "Охоронець",
@@ -155,45 +146,9 @@ export const players = {
     },
   ],
 
-  "Sti4kyy": [
-    {
-      role: "Співробітник СБС",
-      telegram: "5481499679",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F98AFBA6B531E17496CE1A79ABE5476-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-    "BBIG222": [
-    {
-      role: "Співробітник СБС",
-      telegram: "5073128196",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3E527257986F4037EF2D45A6636A0CE3-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-    "Rokk834": [
-    {
-      role: "Співробітник СБС",
-      telegram: "7517215417",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F01B3264621BF3B2F4F1B195E7CEB62F-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-    "sigm4t1k": [
-    {
-      role: "Співробітник СБС",
-      telegram: "8156926863",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3B39D777CC27590371AA4485A9F18031-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "Derick47846": [
     {
-      role: "Співробітник СБС",
+      role: "Заступник Голови СБС",
       telegram: "7892698228",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2C708814ED375DE72BCB1D4B293ED793-Png/150/150/AvatarHeadshot/Webp/noFilter",
