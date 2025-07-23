@@ -15,7 +15,6 @@ export const licenses = {
     "Pushka2030": { status: "Дійсна", expiry: "14.06.2025 to 14.07.2025", telegram: "5549609551" },
     "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },                
                 // Суд
-    "Arina_mike141": { status: "Дійсна", expiry: "08.08.2025", telegram: "7505928620" },
     "Svervanchik": { status: "Дійсна", expiry: "08.08.2025", telegram: "5634473488" },
                // ДБР
 "global20207": { status: "Дійсна", expiry: "08.08.2025", telegram: "1431122546" },
@@ -32,10 +31,6 @@ export const licenses = {
 
                // СБС
 "Zoomsos123": { status: "Дійсна", expiry: "08.08.2025", telegram: "t.me/Xmm_help" },
-"Sti4kyy": { status: "Дійсна", expiry: "08.08.2025", telegram: "5481499679" },
-"BBIG222": { status: "Дійсна", expiry: "08.08.2025", telegram: "5073128196" },
-"Rokk834": { status: "Дійсна", expiry: "08.08.2025", telegram: "7517215417" },
-"sigm4t1k": { status: "Дійсна", expiry: "08.08.2025", telegram: "8156926863" },
 "Derick47846": { status: "Дійсна", expiry: "08.08.2025", telegram: "7892698228" },
 "desna200": { status: "Дійсна", expiry: "08.08.2025", telegram: "1398473564" },
         },
@@ -199,12 +194,8 @@ export const licenses = {
 },
 
   sbs: {
-  "Zoomsos123": { role: "Голова", status: "350533", telegram: "5339606531" },
-  "Sti4kyy": { role: "Майор", status: "769548", telegram: "5481499679" },
-  "BBIG222": { role: "Рядовий", status: "797507", telegram: "5073128196" },
-  "Rokk834": { role: "Рядовий", status: "747751", telegram: "7517215417" },
-  "sigm4t1k": { role: "Рядовий", status: "551815", telegram: "8156926863" },
-  "Derick47846": { role: "Рядовий", status: "771789", telegram: "7892698228" },
+  "Zoomsos123": { role: "Голова", status: "350533", telegram: "t.me/Xmm_help" },
+  "Derick47846": { role: "Заступник Голови", status: "771789", telegram: "7892698228" },
   "desna200": { role: "Рядовий", status: "135139", telegram: "1398473564" },
 },
 
