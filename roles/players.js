@@ -147,40 +147,12 @@ export const players = {
     },
   ],
 
-
-    "Derick47846": [
-    {
-      role: "Заступник Голови СБС",
-      telegram: "7892698228",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2C708814ED375DE72BCB1D4B293ED793-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-    "desna200": [
-    {
-      role: "Співробітник СБС",
-      telegram: "1398473564",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FFAAF5CE5561888F16F1B0CBC7167BD7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-"Sti4kyy": [
-    {
-      role: "Співробітник СБС",
-      telegram: "5481499679",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2FF9542005FEEC51B8B3AC0127DC00FA-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "global20207": [
+  "Global20207d": [
     {
       role: "Директор ДБР",
-      telegram: "1431122546",
+      telegram: "t.me/li9nes",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E2B5E0089FF660ADE2EABC13B524DD14-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7137AB496D0993EBB31B0153D43F4343-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
