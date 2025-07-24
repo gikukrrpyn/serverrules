@@ -147,14 +147,6 @@ export const players = {
     },
   ],
 
-  "Zoomsos123": [
-    {
-      role: "Голова СБС",
-      telegram: "t.me/Xmm_help",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A103CAEB25EB779C27A5569E2B7F1AFA-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
     "Derick47846": [
     {
