@@ -17,7 +17,7 @@ export const licenses = {
                 // Суд
     "Svervanchik": { status: "Дійсна", expiry: "08.08.2025", telegram: "5634473488" },
                // ДБР
-"global20207": { status: "Дійсна", expiry: "08.08.2025", telegram: "1431122546" },
+"Global20207d": { status: "Дійсна", expiry: "08.08.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.08.2025", telegram: "5242336088" },
 "starikashka228337": { status: "Дійсна", expiry: "08.08.2025", telegram: "5358641921" },
 "Yezh1lya": { status: "Дійсна", expiry: "08.08.2025", telegram: "5109532913" },
@@ -196,7 +196,7 @@ export const licenses = {
 },
 
   dbr: {
-  "global20207": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
+  "Global20207d": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
   "Yezh1lya": { role: "Капітан", status: "396510", telegram: "5109532913" },
   "starikashka228337": { role: "Лейтенант", status: "544535", telegram: "5358641921" },
