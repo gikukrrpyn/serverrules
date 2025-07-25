@@ -75,9 +75,11 @@ export const licenses = {
 "arbus34s": { "role": "3 274", "status": "418501", "expiry": "", "telegram": "5017227588" },
 "Adein_48": { "role": "50 358", "status": "133654", "expiry": "", "telegram": "6549388943" },
 "ATEM_SYRC": { "role": "30 819", "status": "436191", "expiry": "", "telegram": "1915195071" },
+"ARS99EN": { "role": "4 518", "status": "426565", "expiry": "", "telegram": "5653772368" },
 
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
+"banan_228gg1": { "role": "56 775", "status": "607724", "expiry": "", "telegram": "7249340917" },
 
 // C
 "Caston08963": { role: "3 391", status: "477755", expiry: "", telegram: "7557434574" },
@@ -127,6 +129,7 @@ export const licenses = {
 "max123457934": { role: "29 887", status: "784732", expiry: "", telegram: "7329674344" },
 "Matviy_123321": { role: "21 300", status: "562774", expiry: "", telegram: "7749923360" },
 "Maks15top_1": { role: "6 264", status: "483610", expiry: "", telegram: "6107412355" },
+"Misha222sok": { role: "20 242", status: "480615", expiry: "", telegram: "6159153631" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
@@ -157,6 +160,7 @@ export const licenses = {
 "Rom_ka7629": { role: "46 531", status: "452645", expiry: "", telegram: "6459180417" },
 "RODON297": { role: "3 813", status: "726519", expiry: "", telegram: "5196592487" },
 "roma9080705": { role: "9 996", status: "520816", expiry: "", telegram: "8163191765" },
+"redjeek0": { role: "624", status: "566520", expiry: "", telegram: "5202905191" },
 
 // S
 "sbdgegsxbd": { "role": "24 162", "status": "181664", "expiry": "", "telegram": "6647686015" },
@@ -171,6 +175,7 @@ export const licenses = {
 
 // V
 "vitali77rr": { "role": "7 814", "status": "267637", "expiry": "", "telegram": "6378314737" },
+"Vitalikpqpa": { "role": "35 354", "status": "416770", "expiry": "", "telegram": "7706399895" },
 
 // W
 "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
