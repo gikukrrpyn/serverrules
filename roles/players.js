@@ -101,6 +101,15 @@ export const players = {
     },
   ],
 
+"Adein_48": [
+    {
+      role: "Стажер-Адміністратор",
+      telegram: "",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
      "olegh34": [
     {
