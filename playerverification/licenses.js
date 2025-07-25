@@ -176,6 +176,7 @@ export const licenses = {
 // V
 "vitali77rr": { "role": "7 814", "status": "267637", "expiry": "", "telegram": "6378314737" },
 "Vitalikpqpa": { "role": "35 354", "status": "416770", "expiry": "", "telegram": "7706399895" },
+"Vlasmihail_1": { "role": "8 332", "status": "302603", "expiry": "", "telegram": "6037841033" },
 
 // W
 "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
