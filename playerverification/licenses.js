@@ -89,10 +89,9 @@ export const licenses = {
 "Dodu340dd": { "role": "26 851", "status": "438563", "expiry": "", "telegram": "5632698118" },
 "Derick47846": { "role": "5 723", "status": "771789", "expiry": "", "telegram": "7892698228" },
 "DOGvDOMIKE": { "role": "11 476", "status": "291643", "expiry": "", "telegram": "6433921215" },
-
-// d
 "dima2014hxoxbifov": { "role": "19 032", "status": "763631", "expiry": "", "telegram": "6318992501" },
 "dolinskuy": { "role": "49 083", "status": "136181", "expiry": "", "telegram": "1812225406" },
+"Dodosopolo": { "role": "19 809", "status": "457673", "expiry": "", "telegram": "6733090877" },
 
 // E
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
@@ -105,6 +104,7 @@ export const licenses = {
 
 // H
 "holodos222": { role: "7 544", status: "440594", expiry: "", telegram: "5947961816" },
+"haski1510": { role: "1 507", status: "275171", expiry: "", telegram: "1715926184" },
 
 // I
 "Isus_338": { "role": "3 174", "status": "869502", "expiry": "", "telegram": "5020585585" },
@@ -138,6 +138,7 @@ export const licenses = {
 "NonameGold1": { role: "1 506", status: "550533", expiry: "", telegram: "5333294290" },
 "NexTopPlay": { role: "900", status: "615639", expiry: "", telegram: "6398641024" },
 "nik2a5": { role: "14 042", status: "102747", expiry: "", telegram: "747511079" },
+"not_ron59125": { role: "3 552", status: "724650", expiry: "", telegram: "6504350127" },
 
 // O
 "od1nok02": { "role": "25 160", "status": "847708", "expiry": "", "telegram": "7089943642" },
