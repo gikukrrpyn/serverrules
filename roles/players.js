@@ -156,6 +156,7 @@ export const players = {
     },
   ],
 
+
   "Global20207d": [
     {
       role: "Директор ДБР",
@@ -165,86 +166,6 @@ export const players = {
     },
   ],
 
-  "artemMelnichenko2013": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "5242336088",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C0C0541A9CA426461D9F9734328806-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "starikashka228337": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "5358641921",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-75304F4FDE48DF7811017948208C1ED7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Yezh1lya": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "5109532913",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F8FA9EBF703EFE930DCCF5694A9E09E4-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Ntinetter": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "1319760971",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A76F21A73F4350224F647F888393315D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "maksumkasymk789": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "1405483524",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F4108F3210668CB45D057C61D5273F5D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Black_Batman02": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "1093245097",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3E69CDBA71FD34548711A1193AD8314-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-    "dima276518": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "8107753437",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-991BD009B9A77F0031E4FE33D98ACC60-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-      "Arsenic3996": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "7643022641",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A18E1170A9E7A03566F65ECEFE360C89-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-      "set45dt": [
-    {
-      role: "Співробітник ДБР",
-      telegram: "6371380345",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-744B55D760021273920FCC86D87EB1E4-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
     "lSqwizzyl": [
     {
