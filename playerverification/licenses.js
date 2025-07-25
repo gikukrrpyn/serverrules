@@ -59,7 +59,7 @@ export const licenses = {
   "gikusya": { role: "Комісар", status: "315728", expiry: "", telegram: "t.me/ukreh_admin" },
 
 // 1
-"1313Gonf": { "role": "23 011", "status": "433127", "expiry": "", "telegram": "1275263288" },
+"1313Gonf": { "role": "26 772", "status": "433127", "expiry": "", "telegram": "1275263288" },
 
 // 2
 "250GADZILA": { "role": "26 025", "status": "260521", "expiry": "", "telegram": "5218670125" },
@@ -87,7 +87,7 @@ export const licenses = {
 "cheater777_Yt": { role: "16 557", status: "150569", expiry: "", telegram: "5696745193" },
 
 // D
-"Dodu340dd": { "role": "26 851", "status": "438563", "expiry": "", "telegram": "5632698118" },
+"Dodu340dd": { "role": "30 139", "status": "438563", "expiry": "", "telegram": "5632698118" },
 "Derick47846": { "role": "5 723", "status": "771789", "expiry": "", "telegram": "7892698228" },
 "DOGvDOMIKE": { "role": "11 476", "status": "291643", "expiry": "", "telegram": "6433921215" },
 "dima2014hxoxbifov": { "role": "19 032", "status": "763631", "expiry": "", "telegram": "6318992501" },
@@ -108,11 +108,11 @@ export const licenses = {
 "haski1510": { role: "1 507", status: "275171", expiry: "", telegram: "1715926184" },
 
 // I
-"Isus_338": { "role": "3 174", "status": "869502", "expiry": "", "telegram": "5020585585" },
+"Isus_338": { "role": "6 054", "status": "869502", "expiry": "", "telegram": "5020585585" },
 "IhateMonday431": { "role": "141 080", "status": "247124", "expiry": "", "telegram": "1244314206" },
 
 // J
-"jrlm_987": { "role": "12 353", "status": "384680", "expiry": "", "telegram": "6800141946" },
+"jrlm_987": { "role": "13 003", "status": "384680", "expiry": "", "telegram": "6800141946" },
 
 // K
 "Kedvirm": { "role": "46 524", "status": "402781", "expiry": "", "telegram": "7811987070" },
@@ -174,7 +174,7 @@ export const licenses = {
 
 // T
 "Twister_devil8393": { "role": "3 779", "status": "535178", "expiry": "", "telegram": "1783909923" },
-"Tezil0": { "role": "19 668", "status": "538615", "expiry": "", "telegram": "6156909455" },
+"Tezil0": { "role": "23 457", "status": "538615", "expiry": "", "telegram": "6156909455" },
 "tus47e": { "role": "1 283", "status": "160774", "expiry": "", "telegram": "7741728209" },
 
 // U
