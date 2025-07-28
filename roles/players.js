@@ -120,15 +120,6 @@ export const players = {
     },
   ],
 
-  "nik2a5": [
-    {
-      role: "Суддя",
-      telegram: "t.me/cyberl1n3",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9A4AF0E08E354C7A2E7C61F019A2725B-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "rb_girl1535": [
     {
       role: "Суддя",
@@ -173,6 +164,16 @@ export const players = {
       telegram: "t.me/sqwizzytrade",
       category: "Поліція",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-229CBE97C5873A244AB5E1D6ACC18B75-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
+ "nik2a5": [
+    {
+      role: "Мер",
+      telegram: "t.me/cyberl1n3",
+      category: "Мерія",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9A4AF0E08E354C7A2E7C61F019A2725B-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
