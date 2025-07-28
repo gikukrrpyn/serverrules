@@ -16,6 +16,7 @@ export const licenses = {
     "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },                
                 // Суд
     "Svervanchik": { status: "Дійсна", expiry: "08.08.2025", telegram: "5634473488" },
+    "Levopravo2024": { status: "Дійсна", expiry: "08.08.2025", telegram: "5134083594" },
                // ДБР
 "Global20207d": { status: "Дійсна", expiry: "08.08.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.08.2025", telegram: "5242336088" },
