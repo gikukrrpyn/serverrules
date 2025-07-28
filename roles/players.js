@@ -166,17 +166,6 @@ export const players = {
     },
   ],
 
-
-    "lSqwizzyl": [
-    {
-      role: "Начальник Поліції",
-      telegram: "t.me/sqwizzytrade",
-      category: "Поліція",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-229CBE97C5873A244AB5E1D6ACC18B75-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
  "nik2a5": [
     {
       role: "Мер",
