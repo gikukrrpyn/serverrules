@@ -65,7 +65,7 @@ export const licenses = {
 
 // 2
 "250GADZILA": { "role": "26 025", "status": "260521", "expiry": "", "telegram": "5218670125" },
-"2366453he": { "role": "9 233", "status": "450657", "expiry": "", "telegram": "6579828005" },
+"2366453he": { "role": "10 063", "status": "450657", "expiry": "", "telegram": "6579828005" },
 
 // 3
 "3cy_77781046": { "role": "41 692", "status": "418637", "expiry": "", "telegram": "6370149052" },
