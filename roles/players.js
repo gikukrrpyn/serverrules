@@ -186,4 +186,15 @@ export const players = {
     },
   ],
 
+
+ "Rostyk_gej71": [
+    {
+      role: "Водій лимузину",
+      telegram: "t.me/Kotro71",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-11B619988EB2E8536860B1784041BC09-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
 };
