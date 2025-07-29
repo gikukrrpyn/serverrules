@@ -35,15 +35,6 @@ export const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-
-  "bodja150510": [
-    {
-      role: "Адміністратор-Патрульний",
-      telegram: "t.me/marsqwrty0",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B7820001E089CD618858A14D776F4DDA-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
   
   "XxHA7AxX": [
    {
