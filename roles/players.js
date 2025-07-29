@@ -101,6 +101,15 @@ export const players = {
     },
   ],
 
+"Junius_2008": [
+    {
+      role: "Стажер-Адміністратор",
+      telegram: "t.me/ara_wxug",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4B4FD96C574B7AF670B1EA48D33FBD55-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
      "olegh34": [
     {
