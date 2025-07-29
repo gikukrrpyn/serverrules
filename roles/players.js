@@ -27,15 +27,6 @@ export const players = {
     },
   ],
 
-    "H8TpizzaG8D": [
-    {
-      role: "Адміністратор-Інспектор Службового Контролю",
-      telegram: "t.me/P1zzaGod",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B227920F5498672AE3222FD48A0C9C8F-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "gestisqns": [
     {
       role: "Інспектор Підтримки",
