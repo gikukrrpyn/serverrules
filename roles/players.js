@@ -157,6 +157,16 @@ export const players = {
     },
   ],
 
+"Absolute09_SO": [
+    {
+      role: "Заступник Директора ДБР",
+      telegram: "t.me/Absolute09_SO",
+      category: "ДБР",
+      avatar: "",
+    },
+  ],
+
+
  "nik2a5": [
     {
       role: "Мер",
