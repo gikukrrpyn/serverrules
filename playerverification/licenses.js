@@ -450,7 +450,7 @@ export const licenses = {
 
            // Легалізовані мафії, банди
         mafia: {
-                "va1ron4": { status: "Чеченська мафія", telegram: "954036347", role: "Мафія" },
+                "va1ron4": { cans: "CANS через несанкціоновані дії з боку учасників мафії, проведення нелегального мітингу з використанням заборонених предметів.", status: "Чеченська мафія", telegram: "954036347", role: "Мафія" },
                 "Rom_roma7": { status: "Хади Такташ", telegram: "t.me/Void_EH", role: "Клан" }, // id tg: 5749857571
                 "username roblox": { status: "назва", telegram: "айді акаунту тг", role: "тип" },
                 "username roblox": { status: "назва", telegram: "айді акаунту тг", role: "тип" }
