@@ -49,10 +49,12 @@ export const licenses = {
   { username: "levopravo2024", cans: "CANS за власним бажанням.", status: "7491753543", role: "Sweet Luck", telegram: "5134083594" },
   { username: "redjeek0", cans: "CANS за власним бажанням.", status: "5661325408", role: "Щит Охорони", telegram: "5202905191" },
   { username: "dima2014hxoxbifov", status: "7630083874", role: "Вереск", telegram: "6318992501" },
-  { username: "username roblox", status: "ідентифікаційний код", role: "назва", telegram: "айді акаунту тг" },
-  { username: "username roblox", status: "ідентифікаційний код", role: "назва", telegram: "айді акаунту тг" },
-  { username: "username roblox", status: "ідентифікаційний код", role: "назва", telegram: "айді акаунту тг" },
-  { username: "username roblox", status: "ідентифікаційний код", role: "назва", telegram: "айді акаунту тг" }
+  { username: "Banderaa909", status: "3537582829", role: "EuroFarm", telegram: "6909809142" },
+  { username: "gg_roms1", status: "5241244140", role: "Шеріф", telegram: "7402143374" },
+  { username: "Englishorspanish_1w7", status: "7325250870", role: "Нова Пошта", telegram: "5963490462" },
+  { username: "mat250956", status: "2542612025", role: "ХАЛЯВА ТУТ", telegram: "6304172321" },
+  { username: "GGpaprikashGG", status: "1098026781", role: "Кредит UKRAINE RP", telegram: "5120042358" },
+  { username: "IZAAK1797", status: "7648929805", role: "Ресторан", telegram: "1700093221" },            
 ],
 
 
