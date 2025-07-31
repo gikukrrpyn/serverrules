@@ -162,7 +162,7 @@ export const players = {
       role: "Заступник Директора ДБР",
       telegram: "t.me/Absolute09_SO",
       category: "ДБР",
-      avatar: "",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
