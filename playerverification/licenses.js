@@ -97,6 +97,7 @@ export const licenses = {
 "dolinskuy": { "role": "49 083", "status": "136181", "expiry": "", "telegram": "1812225406" },
 "Dodosopolo": { "role": "19 809", "status": "457673", "expiry": "", "telegram": "6733090877" },
 "Den45bgg": { "role": "46 101", "status": "251172", "expiry": "", "telegram": "1720975513" },
+"Derick47846": { "role": "5 723", "status": "771789", "expiry": "", "telegram": "7892698228" },
 
 // E
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
