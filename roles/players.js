@@ -35,6 +35,15 @@ export const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+"Adein_48": [
+    {
+      role: "Адміністратор-Інспектор Службового Контролю",
+      telegram: "t.me/Rush04",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
   
   "XxHA7AxX": [
    {
@@ -80,15 +89,6 @@ export const players = {
       telegram: "t.me/nxldoxwielv",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-094AD437D640C6BEDBAA510597F9A48E-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-"Adein_48": [
-    {
-      role: "Адміністратор-Патрульний",
-      telegram: "t.me/Rush04",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
