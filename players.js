@@ -92,6 +92,15 @@ const players = {
     },
   ],
 
+"PoWly0": [
+    {
+      role: "Стажер-Адміністратор",
+      telegram: "t.me/M1N_HWAM1I",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-48CDB715407B15C3773B0DFCB6E86902-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
      "olegh34": [
     {
