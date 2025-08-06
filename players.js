@@ -27,14 +27,6 @@ const players = {
     },
   ],
 
-  "gestisqns": [
-    {
-      role: "Інспектор Підтримки",
-      telegram: "t.me/gestisq",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
 "Adein_48": [
     {
@@ -89,6 +81,15 @@ const players = {
       telegram: "t.me/ara_wxug",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4B4FD96C574B7AF670B1EA48D33FBD55-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+ "gestisqns": [
+    {
+      role: "Спецадміністратор Telegram",
+      telegram: "t.me/gestisq",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
