@@ -84,18 +84,9 @@ const players = {
     },
   ],
 
- "gestisqns": [
-    {
-      role: "Спецадміністратор Telegram",
-      telegram: "t.me/gestisq",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-35D3D9286D920B1E56B9526914069B91-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
 "PoWly0": [
     {
-      role: "Стажер-Адміністратор",
+      role: "Адміністратор-Патрульний",
       telegram: "t.me/M1N_HWAM1I",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-48CDB715407B15C3773B0DFCB6E86902-Png/150/150/AvatarHeadshot/Webp/noFilter",
