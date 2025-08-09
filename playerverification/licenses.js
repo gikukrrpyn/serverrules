@@ -438,7 +438,7 @@ export const licenses = {
                 "jfhhddjh": { status: "A4848", telegram: "6997233193" },
                 "Junius_2008": { status: "A4646", telegram: "5166763273" },
                 "Derick47846": { status: "A6565", telegram: "7892698228" },
-                
+                "Mellov_imeg4": { status: "A6767", telegram: "7613534424" },
             },
 
             // Прес-карти
