@@ -15,19 +15,19 @@ export const licenses = {
     "Pushka2030": { status: "Дійсна", expiry: "14.06.2025 to 14.07.2025", telegram: "5549609551" },
     "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },                
                 // Суд
-    "Svervanchik": { status: "Дійсна", expiry: "08.08.2025", telegram: "5634473488" },
-    "Levopravo2024": { status: "Дійсна", expiry: "08.08.2025", telegram: "5134083594" },
+    "Svervanchik": { status: "Дійсна", expiry: "08.09.2025", telegram: "5634473488" },
+    "Levopravo2024": { status: "Дійсна", expiry: "08.09.2025", telegram: "5134083594" },
                // ДБР
-"Global20207d": { status: "Дійсна", expiry: "08.08.2025", telegram: "1431122546" },
-"artemMelnichenko2013": { status: "Дійсна", expiry: "08.08.2025", telegram: "5242336088" },
-"starikashka228337": { status: "Дійсна", expiry: "08.08.2025", telegram: "5358641921" },
-"Absolute09_SO": { status: "Дійсна", expiry: "08.08.2025", telegram: "5109532913" },
-"maksumkasymk789": { status: "Дійсна", expiry: "08.08.2025", telegram: "1405483524" },
-"dima276518": { status: "Дійсна", expiry: "08.08.2025", telegram: "8107753437" },
-"Dimabarbos": { status: "Дійсна", expiry: "08.08.2025", telegram: "6591557304" },
-"Arsenic3996": { status: "Дійсна", expiry: "08.08.2025", telegram: "7643022641" },
-"set45dt": { status: "Дійсна", expiry: "08.08.2025", telegram: "6371380345" },
-"eldor830": { status: "Дійсна", expiry: "08.08.2025", telegram: "6267044472" },
+"Global20207d": { status: "Дійсна", expiry: "08.09.2025", telegram: "1431122546" },
+"artemMelnichenko2013": { status: "Дійсна", expiry: "08.09.2025", telegram: "5242336088" },
+"starikashka228337": { status: "Дійсна", expiry: "08.09.2025", telegram: "5358641921" },
+"Absolute09_SO": { status: "Дійсна", expiry: "08.09.2025", telegram: "5109532913" },
+"maksumkasymk789": { status: "Дійсна", expiry: "08.09.2025", telegram: "1405483524" },
+"dima276518": { status: "Дійсна", expiry: "08.09.2025", telegram: "8107753437" },
+"Dimabarbos": { status: "Дійсна", expiry: "08.09.2025", telegram: "6591557304" },
+"Arsenic3996": { status: "Дійсна", expiry: "08.09.2025", telegram: "7643022641" },
+"set45dt": { status: "Дійсна", expiry: "08.09.2025", telegram: "6371380345" },
+"eldor830": { status: "Дійсна", expiry: "08.09.2025", telegram: "6267044472" },
 
                // СБС
                         
