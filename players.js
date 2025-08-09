@@ -65,7 +65,7 @@ const players = {
       role: "Адміністратор-Патрульний-Івентник",
       telegram: "t.me/Great_Terku",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F42F0593E4666C0263AB23BF8D330C91-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
     {
       role: "Організатор ДАРШ",
