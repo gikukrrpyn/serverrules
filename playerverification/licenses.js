@@ -82,6 +82,7 @@ export const licenses = {
 "ATEM_SYRC": { "role": "30 819", "status": "436191", "expiry": "", "telegram": "1915195071" },
 "ARS99EN": { "role": "4 518", "status": "426565", "expiry": "", "telegram": "5653772368" },
 "ababis_338": { "role": "1 348", "status": "789594", "expiry": "", "telegram": "5944005262" },
+"andryha_2228": { "role": "106", "status": "891617", "expiry": "", "telegram": "6170542212" },
 
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
@@ -99,6 +100,7 @@ export const licenses = {
 "Dodosopolo": { "role": "19 809", "status": "457673", "expiry": "", "telegram": "6733090877" },
 "Den45bgg": { "role": "46 101", "status": "251172", "expiry": "", "telegram": "1720975513" },
 "Derick47846": { "role": "5 723", "status": "771789", "expiry": "", "telegram": "7892698228" },
+"Dorcftf": { "role": "120 853", "status": "402618", "expiry": "", "telegram": "6187783163" },
 
 // E
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
@@ -128,6 +130,7 @@ export const licenses = {
 "kiril_30083008": { role: "6 063", status: "883602", expiry: "", telegram: "6026275163" },
 "Kirya_Gambit": { role: "18 906", status: "759561", expiry: "", telegram: "5611774157" },
 "Klipri": { role: "23 707", status: "185548", expiry: "", telegram: "548708048" },
+"kvak612": { role: "26 169", status: "512558", expiry: "", telegram: "5589767694" },
 
 // L
 "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
@@ -142,6 +145,8 @@ export const licenses = {
 "Maks15top_1": { role: "6 264", status: "483610", expiry: "", telegram: "6107412355" },
 "Misha222sok": { role: "20 242", status: "480615", expiry: "", telegram: "6159153631" },
 "Mbfppe": { role: "1 849", status: "402203", expiry: "", telegram: "2032234018" },
+"Max520015": { role: "14 506", status: "754598", expiry: "", telegram: "5983478576" },
+"Marcat210228": { role: "1 494", status: "486500", expiry: "", telegram: "5009537118" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
