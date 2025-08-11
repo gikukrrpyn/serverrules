@@ -185,6 +185,7 @@ export const licenses = {
 "SeIene77": { "role": "2 255", "status": "875787", "expiry": "", "telegram": "7878807151" },
 "sergij18": { "role": "6 754", "status": "577113", "expiry": "", "telegram": "1138522447" },
 "Supergrafiti": { "role": "7 570", "status": "305971", "expiry": "", "telegram": "971133855" },
+"sigm4t1k": { "role": "43 207", "status": "551815", "expiry": "", "telegram": "8156926863" },
 
 // T
 "Twister_devil8393": { "role": "3 779", "status": "535178", "expiry": "", "telegram": "1783909923" },
