@@ -103,15 +103,6 @@ const players = {
     },
   ],
 
-    "rb_girl1535": [
-    {
-      role: "Суддя",
-      telegram: "t.me/D1RT4M",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B403751B1842F93ADE9E494AD5C2DEE9-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
     "Andrew_01174": [
     {
       role: "Суддя",
