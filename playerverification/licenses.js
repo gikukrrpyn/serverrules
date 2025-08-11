@@ -101,6 +101,7 @@ export const licenses = {
 "Den45bgg": { "role": "46 101", "status": "251172", "expiry": "", "telegram": "1720975513" },
 "Derick47846": { "role": "5 723", "status": "771789", "expiry": "", "telegram": "7892698228" },
 "Dorcftf": { "role": "120 853", "status": "402618", "expiry": "", "telegram": "6187783163" },
+"dima1gdgfyfggu": { "role": "3 172", "status": "267633", "expiry": "", "telegram": "6337847056" },
 
 // E
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
@@ -131,6 +132,7 @@ export const licenses = {
 "Kirya_Gambit": { role: "18 906", status: "759561", expiry: "", telegram: "5611774157" },
 "Klipri": { role: "23 707", status: "185548", expiry: "", telegram: "548708048" },
 "kvak612": { role: "26 169", status: "512558", expiry: "", telegram: "5589767694" },
+"kaka2012akaka666": { role: "15 116", status: "405877", expiry: "", telegram: "877670974" },
 
 // L
 "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
