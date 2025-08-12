@@ -90,7 +90,7 @@ export const licenses = {
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
 "banan_228gg1": { "role": "56 775", "status": "607724", "expiry": "", "telegram": "7249340917" },
-"BEBROCHKA_2287667": { "role": "24 142", "status": "577605", "expiry": "", "telegram": "6058122903" },
+"BEBROCHKA_2287667": { "role": "26 221", "status": "577605", "expiry": "", "telegram": "6058122903" },
 
 // C
 "Caston08963": { role: "3 391", status: "477755", expiry: "", telegram: "7557434574" },
