@@ -34,6 +34,7 @@ const players = {
       telegram: "t.me/Rush04",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      status: "У відпуску до 21.08",
     },
   ],
   
@@ -81,6 +82,7 @@ const players = {
       telegram: "t.me/ara_wxug",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4B4FD96C574B7AF670B1EA48D33FBD55-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      status: "У відпуску до 31.08",
     },
   ],
 
