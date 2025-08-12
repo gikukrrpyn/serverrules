@@ -113,6 +113,7 @@ export const licenses = {
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
 
 // F
+"Fil_shena20": { "role": "23 762", "status": "480615", "expiry": "", "telegram": "6159153631" },
 
 // G
 "gonorer45": { "role": "10 043", "status": "120161", "expiry": "", "telegram": "1613994040" },
@@ -161,6 +162,8 @@ export const licenses = {
 "Makes_847": { role: "78 786", status: "474568", expiry: "", telegram: "56815858393" },
 "Mishawais2000": { role: "890", status: "455539", expiry: "", telegram: "5395188779" },
 "Maksik1344": { role: "2 612", status: "112585", expiry: "", telegram: "5850433024" },
+"Mr_Zver3000": { role: "35 817", status: "609662", expiry: "", telegram: "6626655148" },
+"Mattwj_rblx": { role: "2 188", status: "462514", expiry: "", telegram: "5141140329" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
@@ -204,6 +207,7 @@ export const licenses = {
 "Twister_devil8393": { "role": "3 779", "status": "535178", "expiry": "", "telegram": "1783909923" },
 "Tezil0": { "role": "23 457", "status": "538615", "expiry": "", "telegram": "6156909455" },
 "tus47e": { "role": "1 283", "status": "160774", "expiry": "", "telegram": "7741728209" },
+"Taim_omp": { "role": "6 080", "status": "560548", "expiry": "", "telegram": "5485975054" },
 
 // U
 
@@ -226,6 +230,7 @@ export const licenses = {
 
 // Z
 "Zoomsos123": { "role": "65 129", "status": "350533", "expiry": "", "telegram": "5339606531" },
+"zsu_980532": { "role": "14 252", "status": "415563", "expiry": "", "telegram": "5632468122" },
 
 
   "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
