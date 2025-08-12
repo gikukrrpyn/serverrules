@@ -83,6 +83,8 @@ export const licenses = {
 "ARS99EN": { "role": "4 518", "status": "426565", "expiry": "", "telegram": "5653772368" },
 "ababis_338": { "role": "1 348", "status": "789594", "expiry": "", "telegram": "5944005262" },
 "andryha_2228": { "role": "106", "status": "891617", "expiry": "", "telegram": "6170542212" },
+"artemkotyas": { "role": "1 151", "status": "397154", "expiry": "", "telegram": "1548412050" },
+"Andrii13582": { "role": "23 871", "status": "518192", "expiry": "", "telegram": "1920197902" },
 
 // B
 "Bandera909": { "role": "43 495", "status": "353690", "expiry": "", "telegram": "6909809142" },
@@ -102,6 +104,7 @@ export const licenses = {
 "Derick47846": { "role": "5 723", "status": "771789", "expiry": "", "telegram": "7892698228" },
 "Dorcftf": { "role": "120 853", "status": "402618", "expiry": "", "telegram": "6187783163" },
 "dima1gdgfyfggu": { "role": "3 172", "status": "267633", "expiry": "", "telegram": "6337847056" },
+"deesv5": { "role": "4 647", "status": "531732", "expiry": "", "telegram": "7320756543" },
 
 // E
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
@@ -111,6 +114,7 @@ export const licenses = {
 // G
 "gonorer45": { "role": "10 043", "status": "120161", "expiry": "", "telegram": "1613994040" },
 "GordiyYarmolenko": { "role": "10 060", "status": "471644", "expiry": "", "telegram": "6446581492" },
+"Gladkyi200": { "role": "4 989", "status": "503743", "expiry": "", "telegram": "743643578" },
 
 // H
 "holodos222": { role: "7 544", status: "440594", expiry: "", telegram: "5947961816" },
@@ -151,6 +155,7 @@ export const licenses = {
 "Mbfppe": { role: "1 849", status: "402203", expiry: "", telegram: "2032234018" },
 "Max520015": { role: "14 506", status: "754598", expiry: "", telegram: "5983478576" },
 "Marcat210228": { role: "1 494", status: "486500", expiry: "", telegram: "5009537118" },
+"Makes_847": { role: "78 786", status: "474568", expiry: "", telegram: "56815858393" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
