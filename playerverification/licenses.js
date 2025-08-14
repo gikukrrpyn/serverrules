@@ -185,7 +185,7 @@ export const licenses = {
 "pavel36558": { "role": "6 807", "status": "186748", "expiry": "", "telegram": "7485750248" },
 "Pushka2030": { "role": "17 173", "status": "319554", "expiry": "", "telegram": "5549609551" },
 "Point16765": { "role": "35 516", "status": "794550", "expiry": "", "telegram": "5509421083" },
-"pipuka8689": { "role": "2 304", "status": "485517", "expiry": "", "telegram": "5173321832" },
+"pipuka8689": { "role": "3 063", "status": "485517", "expiry": "", "telegram": "5173321832" },
 
 // Q
 
