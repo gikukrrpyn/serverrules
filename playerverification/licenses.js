@@ -1,7 +1,7 @@
 export const licenses = {
             weapon: {
                 // Куплені
-    "Caston08963": { status: "Дійсна", expiry: "23.06.2025", telegram: "7557434574" },
+    "Caston08963": { status: "Дійсна", expiry: "14.09.2025", telegram: "7557434574" },
     "SFGGGYyypp": { status: "несплату податку на сервер.", expiry: "00.00.0000", telegram: "5414509704" },
     "dima2014hxoxbifov": { status: "Дійсна", expiry: "24.07.2025", telegram: "6318992501" },
     "dolinskuy": { status: "Дійсна", expiry: "02.06.2025 to 19.06.2025", telegram: "1812225406" },
@@ -9,11 +9,12 @@ export const licenses = {
     "jfhhddjh": { status: "Дійсна", expiry: "26.05.2025 to 26.06.2025", telegram: "6997233193" },
     "Robert_polsan228": { status: "Дійсна", expiry: "07.06.2025 to 07.07.2025", telegram: "1921850684" },
     "Dodu340dd": { status: "використання ліцензії у злочинних цілях; призначено довічну заборону на отримання ліцензії.", expiry: "00.00.0000", telegram: "5632698118" },
-    "pavel36558": { status: "Дійсна", expiry: "08.06.2025 to 08.07.2025", telegram: "7485750248" },
+    "pavel36558": { status: "Дійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "7485750248" },
     "Rick_morti": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "1981129915" },
     "no0b1048": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "6003732998" },
     "Pushka2030": { status: "Дійсна", expiry: "14.06.2025 to 14.07.2025", telegram: "5549609551" },
-    "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },                
+    "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },
+    "IMBEBRIK8": { status: "Дійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "5042918774" },                    
                 // Суд
     "Svervanchik": { status: "Дійсна", expiry: "08.09.2025", telegram: "5634473488" },
     "Levopravo2024": { status: "Дійсна", expiry: "08.09.2025", telegram: "5134083594" },
