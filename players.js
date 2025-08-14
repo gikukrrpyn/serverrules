@@ -193,9 +193,9 @@ const players = {
  "kingfogfok": [
     {
       role: "Директор НАБС",
-      telegram: "t.me/kingfogfok",
+      telegram: "t.me/lllCasino",
       category: "НАБС",
-      avatar: "",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EFB78A58ABFAD3E5264563E793C3564E-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
