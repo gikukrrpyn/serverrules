@@ -190,5 +190,13 @@ const players = {
     },
   ],
 
+ "kingfogfok": [
+    {
+      role: "Директор НАБС",
+      telegram: "t.me/kingfogfok",
+      category: "НАБС",
+      avatar: "",
+    },
+  ],
 
 };
