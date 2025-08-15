@@ -73,13 +73,6 @@ export const marriedList = [
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3FE815F7C75637F7D5D8DD07B3369E0-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
- {
-        username1: "rb_girl1535",
-        username2: "Andrew_01174",
-        date: "2025-05-08", 
-        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8CE914BAC6321C0C6F08FF3C78291755-Png/150/150/AvatarHeadshot/Webp/noFilter",
-        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7580252A18DE46811B2CF090973408AB-Png/150/150/AvatarHeadshot/Webp/noFilter"
-   },
 
  {
         username1: "Vaylet009",
