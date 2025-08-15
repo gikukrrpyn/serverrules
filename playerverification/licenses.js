@@ -194,7 +194,6 @@ export const licenses = {
 "Rechs10": { "role": "65 200", "status": "404638", "expiry": "", "telegram": "6387100458" },
 "Robert_polsan228": { "role": "26 942", "status": "769192", "expiry": "", "telegram": "1921850684" },
 "Rokk834": { "role": "66 579", "status": "747751", "expiry": "", "telegram": "7517215417" },
-"Rom_ka7629": { role: "46 531", status: "452645", expiry: "", telegram: "6459180417" },
 "RODON297": { role: "3 813", status: "726519", expiry: "", telegram: "5196592487" },
 "roma9080705": { role: "9 996", status: "520816", expiry: "", telegram: "8163191765" },
 
