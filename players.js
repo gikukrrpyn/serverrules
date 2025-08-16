@@ -172,23 +172,6 @@ const players = {
     },
   ],
 
- "bodja150510": [
-    {
-      role: "Начальник НПС",
-      telegram: "t.me/marsqwrty0",
-      category: "Поліція",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B6D5C6FDCF6CE99E71C65D53868E5C77-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
- "sigm4t1k": [
-    {
-      role: "Заступник Начальника НПС",
-      telegram: "t.me/comp3tition",
-      category: "Поліція",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2A9E422A27DA399BB349013D8AC6BDD4-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
  "kingfogfok": [
     {
