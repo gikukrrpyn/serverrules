@@ -60,7 +60,6 @@ export const licenses = {
 
   police: {
   "gikusya": { role: "Комісар", status: "315728", expiry: "", telegram: "t.me/ukreh_admin" },
-  "bodja150510": { role: "Начальник", status: "650133", expiry: "", telegram: "t.me/marsqwrty0" },
 
 // 1
 "1313Gonf": { "role": "26 772", "status": "433127", "expiry": "", "telegram": "1275263288" },
