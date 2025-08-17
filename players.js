@@ -44,6 +44,7 @@ const players = {
       telegram: "t.me/Na7atelega",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      status: "У відпуску з 20 по 25 серпня",
     },
 
         {
@@ -111,7 +112,6 @@ const players = {
       telegram: "t.me/ami_woolw",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EFD3E4C83F567668CA720201CDB23C2D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "Відстронено до 20.08",
     },
   ],
 
