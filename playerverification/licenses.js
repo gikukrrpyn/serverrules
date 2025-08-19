@@ -457,7 +457,19 @@ export const licenses = {
               "deesv5": { "status": "T0192", "telegram": "7320756543" }, 
               "KrimNashZelyaKrasava": { "status": "T0193", "telegram": "7164542354" }, 
               "vlasmihail_1": { "status": "T0194", "telegram": "6037841033" },  
-              "": { "status": "T0195", "telegram": "" },          
+              "Saderest22343": { "status": "T0195", "telegram": "1637513640" },
+              "Dimon_4572": { "status": "T0196", "telegram": "5231651877" },
+              "Gray1abay": { "status": "T0197", "telegram": "7110160637" },
+              "Ksjhfte": { "status": "T0198", "telegram": "7729164856" },
+              "Aplotovich": { "status": "T0199", "telegram": "5255321327" },
+              "ipuskov": { "status": "T200", "telegram": "5083588745" },
+              "Kefj200116": { "status": "T201", "telegram": "1055455339" }, 
+              "R2veyyy": { "status": "T202", "telegram": "6536626584" }, 
+              "Isus_338": { "status": "T203", "telegram": "5020585585" },
+              "YIJSEN": { "status": "T204", "telegram": "6915846953" },          
+              "Charles_Aspinnal": { "status": "T205", "telegram": "8064878810" },
+              "Kiril_30083008": { "status": "T206", "telegram": "6026275163" },          
+                        
               },
 
               // Адвокадська ліцензія
