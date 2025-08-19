@@ -14,7 +14,8 @@ export const licenses = {
     "no0b1048": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "6003732998" },
     "Pushka2030": { status: "Дійсна", expiry: "14.06.2025 to 14.07.2025", telegram: "5549609551" },
     "sania325678": { status: "Дійсна", expiry: "10.06.2025 to 10.07.2025", telegram: "7568258969" },
-    "IMBEBRIK8": { status: "Дійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "5042918774" },                    
+    "IMBEBRIK8": { status: "Дійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "5042918774" },
+    "nikita100808": { status: "Дійсна", expiry: "19.08.2025 to 19.09.2025", telegram: "6348110356" },                    
                 // Суд
     "Svervanchik": { status: "Дійсна", expiry: "08.09.2025", telegram: "5634473488" },
     "Levopravo2024": { status: "Дійсна", expiry: "08.09.2025", telegram: "5134083594" },
