@@ -20,7 +20,7 @@ export const licenses = {
     "Svervanchik": { status: "Дійсна", expiry: "08.09.2025", telegram: "5634473488" },
     "Levopravo2024": { status: "Дійсна", expiry: "08.09.2025", telegram: "5134083594" },
                // ДБР
-"Global20207d": { status: "Дійсна", expiry: "08.09.2025", telegram: "1431122546" },
+"global20207a": { status: "Дійсна", expiry: "08.09.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.09.2025", telegram: "5242336088" },
 "starikashka228337": { status: "Дійсна", expiry: "08.09.2025", telegram: "5358641921" },
 "Absolute09_SO": { status: "Дійсна", expiry: "08.09.2025", telegram: "5109532913" },
@@ -248,12 +248,12 @@ export const licenses = {
 },
 
   dbr: {
-  "Global20207d": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
+  "global20207a": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
   "Absolute09_SO": { role: "Заступник Директора ДБР (Генерал-Лейтинант)", status: "396510", telegram: "5109532913" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
-  "starikashka228337": { role: "Старший-Лейтенант", status: "544535", telegram: "5358641921" },
-  "dima276518": { role: "Лейтинант", status: "703481", telegram: "48107753437" },
-  "maksumkasymk789": { role: "Старший—Сержант", status: "392140", telegram: "1405483524" },
+  "starikashka228337": { role: "Старший Лейтенант", status: "544535", telegram: "5358641921" },
+  "dima276518": { role: "Старший Лейтинант", status: "703481", telegram: "48107753437" },
+  "maksumkasymk789": { role: "Старший Сержант", status: "392140", telegram: "1405483524" },
   "kvak612": { role: "Сержант", status: "512558", telegram: "5589767694" },
   "levopravo2024": { role: "Сержант", status: "749513", telegram: "5134083594" },
   "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
