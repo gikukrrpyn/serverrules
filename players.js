@@ -34,7 +34,6 @@ const players = {
       telegram: "t.me/Rush04",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "У відпуску до 21.08",
     },
   ],
   
@@ -134,12 +133,12 @@ const players = {
   ],
 
 
-  "Global20207d": [
+  "global20207a": [
     {
       role: "Директор ДБР",
       telegram: "t.me/li9nes",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7137AB496D0993EBB31B0153D43F4343-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0B6A7D64140F6DF0AF249D8A7EEF5114-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
