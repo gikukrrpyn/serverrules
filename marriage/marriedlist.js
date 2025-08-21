@@ -42,14 +42,6 @@ export const marriedList = [
 
 
 {
-        username1: "Saylexxx59",
-        username2: "caxarok_agro06",
-        date: "2025-06-07", 
-        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2AB6C563EE8F2BBA30FF7046C4F664D7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3A499A6158672903CFC4A11B7779A379-Png/150/150/AvatarHeadshot/Webp/noFilter"
-   },
-
-{
         username1: "Ntinetter",
         username2: "goblTV",
         date: "2025-16-07", 
