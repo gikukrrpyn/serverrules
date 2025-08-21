@@ -95,6 +95,15 @@ const players = {
     },
   ],
 
+"Ntinetter": [
+    {
+      role: "Стажер-Адміністратор",
+      telegram: "t.me/makyas10",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F1EF271A48F0ED1FD4C2732CF5F1F55E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
      "olegh34": [
     {
