@@ -111,6 +111,7 @@ const players = {
       telegram: "t.me/ami_woolw",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EFD3E4C83F567668CA720201CDB23C2D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      status: "Відстронено до 25.08",
     },
   ],
 
