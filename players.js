@@ -145,12 +145,12 @@ const players = {
   ],
 
 
-  "global20207a": [
+  "Float_UR": [
     {
       role: "Директор ДБР",
       telegram: "t.me/li9nes",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0B6A7D64140F6DF0AF249D8A7EEF5114-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "",
     },
   ],
 
