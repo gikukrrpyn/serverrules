@@ -43,7 +43,7 @@ const players = {
       telegram: "t.me/Na7atelega",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "У відпуску з 20 по 25 серпня",
+      status: "У відпуску до 25 серпня",
     },
 
         {
@@ -51,6 +51,7 @@ const players = {
       telegram: "t.me/Na7atelega",
       category: "Інше",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      status: "У відпуску до 25 серпня",
     },
 
     {
@@ -58,6 +59,7 @@ const players = {
       telegram: "t.me/Na7atelega",
       category: "ДАРШ",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      status: "У відпуску до 25 серпня",
     },
   ],
 
@@ -97,7 +99,7 @@ const players = {
 
 "Ntinetter": [
     {
-      role: "Стажер-Адміністратор",
+      role: "Адміністратор-Патрульний",
       telegram: "t.me/makyas10",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F1EF271A48F0ED1FD4C2732CF5F1F55E-Png/150/150/AvatarHeadshot/Webp/noFilter",
