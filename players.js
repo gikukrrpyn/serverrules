@@ -116,13 +116,12 @@ const players = {
     },
   ],
 
-    "Andrew_01174": [
+    "Andrew_UR01": [
     {
       role: "Суддя",
       telegram: "t.me/ami_woolw",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EFD3E4C83F567668CA720201CDB23C2D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "Відстронено до 25.08",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
