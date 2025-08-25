@@ -43,7 +43,6 @@ const players = {
       telegram: "t.me/Na7atelega",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "У відпуску до 25 серпня",
     },
 
         {
@@ -51,7 +50,6 @@ const players = {
       telegram: "t.me/Na7atelega",
       category: "Інше",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "У відпуску до 25 серпня",
     },
 
     {
@@ -59,7 +57,6 @@ const players = {
       telegram: "t.me/Na7atelega",
       category: "ДАРШ",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "У відпуску до 25 серпня",
     },
   ],
 
