@@ -234,6 +234,7 @@ window.licenses = {
 },
 
   nabs: {
+  "kingfogfok": { role: "Директор НАБС", status: "500842", telegram: "t.me/lllCasino" },
   "username": { role: "звання", status: "ID", telegram: "telegram" },
 },
 
