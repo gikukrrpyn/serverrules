@@ -233,6 +233,10 @@ window.licenses = {
 
 },
 
+  nabs: {
+  "username": { role: "звання", status: "ID", telegram: "telegram" },
+},
+
   sbs: {
   "username": { role: "звання", status: "ID", telegram: "telegram" },
 },
