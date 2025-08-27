@@ -103,6 +103,7 @@ window.licenses = {
 
 // E
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
+"eldor830": { "role": "42 245", "status": "506626", "expiry": "", "telegram": "6267044472" },
 
 // F
 "Fil_shena20": { "role": "23 762", "status": "480615", "expiry": "", "telegram": "6159153631" },
@@ -187,6 +188,7 @@ window.licenses = {
 "RODON297": { role: "3 813", status: "726519", expiry: "", telegram: "5196592487" },
 "roma9080705": { role: "9 996", status: "520816", expiry: "", telegram: "8163191765" },
 "R2veyyy": { role: "8 995", status: "517653", expiry: "", telegram: "6536626584" },
+"Romantik4212": { role: "10 130", status: "370533", expiry: "", telegram: "5337736784" },
 
 // S
 "sbdgegsxbd": { "role": "24 162", "status": "181664", "expiry": "", "telegram": "6647686015" },
