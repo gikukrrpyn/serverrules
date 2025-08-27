@@ -2,7 +2,7 @@ const players = {
 
   "gikusya": [
     {
-      role: "Засновник сервера",
+      role: "R6 Засновник сервера",
       telegram: "t.me/ukreh_admin",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2A30D90F517F189F6D602CFDB2EF48BE-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -11,7 +11,7 @@ const players = {
 
   "p1eyys": [
     {
-      role: "Заступниця засновника сервера",
+      role: "R5 Заступниця засновника сервера",
       telegram: "t.me/crybaby_mew",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ADADC5DDD7166D4303D48A60400D97B4-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -20,24 +20,14 @@ const players = {
 
   "Klipri": [
     {
-      role: "Старший Адміністратор",
+      role: "R4 Головний Адміністратор",
       telegram: "t.me/Klipri",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9DDDCBA77F06410A34EFB0FCA671D135-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
-
-"Adein_48": [
-    {
-      role: "Адміністратор-Інспектор Службового Контролю",
-      telegram: "t.me/Rush04",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-  
-  "XxHA7AxX": [
+"XxHA7AxX": [
    {
       role: "Головний Суддя",
       telegram: "t.me/Na7atelega",
@@ -60,9 +50,9 @@ const players = {
     },
   ],
 
-    "Bandera909": [
+"Bandera909": [
     {
-      role: "Адміністратор-Патрульний-Івентник",
+      role: "R3 Старший Адміністратор + Адміністратор-Івентник",
       telegram: "t.me/Great_Terku",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -75,9 +65,27 @@ const players = {
     },
   ],
 
+"Adein_48": [
+    {
+      role: "R2b Інспектор Службового Контролю (ІСК)",
+      telegram: "t.me/Rush04",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+  
+"PoWly0": [
+    {
+      role: "R1b Адміністратор-Повітряний Контроль",
+      telegram: "t.me/M1N_HWAM1I",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-48CDB715407B15C3773B0DFCB6E86902-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 "Junius_2008": [
     {
-      role: "Адміністратор-Патрульний",
+      role: "R1a Адміністратор-Патрульний",
       telegram: "t.me/ara_wxug",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4B4FD96C574B7AF670B1EA48D33FBD55-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -85,18 +93,9 @@ const players = {
     },
   ],
 
-"PoWly0": [
-    {
-      role: "Адміністратор-Патрульний",
-      telegram: "t.me/M1N_HWAM1I",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-48CDB715407B15C3773B0DFCB6E86902-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
 "Ntinetter": [
     {
-      role: "Адміністратор-Патрульний",
+      role: "R1a Адміністратор-Патрульний",
       telegram: "t.me/makyas10",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F1EF271A48F0ED1FD4C2732CF5F1F55E-Png/150/150/AvatarHeadshot/Webp/noFilter",
