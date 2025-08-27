@@ -73,6 +73,15 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+"H8TpizzaG8D": [
+    {
+      role: "R1c Адміністратор-Комунікатор + Інспектор Підтримки",
+      telegram: "t.me/P1zzaGod",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BBF6A08B276D1D8E94206E9EB06933F9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
   
 "PoWly0": [
     {
@@ -99,15 +108,6 @@ const players = {
       telegram: "t.me/makyas10",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F1EF271A48F0ED1FD4C2732CF5F1F55E-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-"H8TpizzaG8D": [
-    {
-      role: "R1c Адміністратор-Комунікатор + Інспектор Підтримки",
-      telegram: "t.me/P1zzaGod",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BBF6A08B276D1D8E94206E9EB06933F9-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
