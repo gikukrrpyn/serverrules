@@ -102,6 +102,15 @@ const players = {
     },
   ],
 
+"H8TpizzaG8D": [
+    {
+      role: "R1c Адміністратор-Комунікатор + Інспектор Підтримки",
+      telegram: "t.me/P1zzaGod",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BBF6A08B276D1D8E94206E9EB06933F9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
      "olegh34": [
     {
