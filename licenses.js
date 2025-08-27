@@ -186,6 +186,7 @@ window.licenses = {
 "Rokk834": { "role": "66 579", "status": "747751", "expiry": "", "telegram": "7517215417" },
 "RODON297": { role: "3 813", status: "726519", expiry: "", telegram: "5196592487" },
 "roma9080705": { role: "9 996", status: "520816", expiry: "", telegram: "8163191765" },
+"R2veyyy": { role: "8 995", status: "517653", expiry: "", telegram: "6536626584" },
 
 // S
 "sbdgegsxbd": { "role": "24 162", "status": "181664", "expiry": "", "telegram": "6647686015" },
@@ -210,6 +211,7 @@ window.licenses = {
 "Vlasmihail_1": { "role": "8 332", "status": "302603", "expiry": "", "telegram": "6037841033" },
 "Valeragggggggggg": { "role": "124 075", "status": "951673", "expiry": "", "telegram": "6733090877" },
 "Vaylet009": { "role": "42 052", "status": "112516", "expiry": "", "telegram": "5169521179" },
+"Vivason_sns": { "role": "9 258", "status": "272157", "expiry": "", "telegram": "1570926136" },
 
 // W
 "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
