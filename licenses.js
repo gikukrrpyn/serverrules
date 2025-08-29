@@ -8,7 +8,6 @@ window.licenses = {
     "nikita100808": { status: "Дійсна", expiry: "19.08.2025 to 19.09.2025", telegram: "6348110356" },                    
                 // Суд
     "Svervanchik": { status: "Дійсна", expiry: "08.09.2025", telegram: "5634473488" },
-    "Levopravo2024": { status: "Дійсна", expiry: "08.09.2025", telegram: "5134083594" },
                // ДБР
 "Float_UR": { status: "Дійсна", expiry: "08.09.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.09.2025", telegram: "5242336088" },
@@ -254,7 +253,10 @@ window.licenses = {
 
   nabs: {
   "kingfogfok": { role: "Директор НАБС", status: "500842", telegram: "t.me/lllCasino" },
-  "username": { role: "звання", status: "ID", telegram: "telegram" },
+  "Derick47846": { role: "Стажер НАБС", status: "771500", telegram: "7892698228" },
+  "pavel36558": { role: "Стажер НАБС", status: "186748", telegram: "7485750248" },
+  "levopravo2024": { role: "Курсант НАБС", status: "749513", telegram: "5134083594" },
+  "golivatiybobr": { role: "Стажер НАБС", status: "409519", telegram: "5197112119" },
 },
 
   sbs: {
