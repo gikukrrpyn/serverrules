@@ -19,6 +19,7 @@ window.licenses = {
 "Arsenic3996": { status: "Дійсна", expiry: "08.09.2025", telegram: "7643022641" },
 "set45dt": { status: "Дійсна", expiry: "08.09.2025", telegram: "6371380345" },
 "eldor830": { status: "Дійсна", expiry: "08.09.2025", telegram: "6267044472" },
+"nikita100808": { status: "Дійсна", expiry: "08.09.2025", telegram: "6348110356" },
 
                // СБС
                         
@@ -274,6 +275,7 @@ window.licenses = {
   "Arsenic3996": { role: "Рядовий", status: "605764", telegram: "7643022641" },
   "Set45dt": { role: "Капрал", status: "490637", telegram: "6371380345" },
   "eldor830": { role: "Сержант", status: "506626", telegram: "6267044472" },
+  "nikita100808": { role: "Рядовий", status: "724634", telegram: "6348110356" },
 },
               // Таксистська ліцензія
             taxi: {
