@@ -139,15 +139,6 @@ const players = {
     },
   ],
 
-  "Levopravo2024": [
-    {
-      role: "Охоронець",
-      telegram: "5134083594",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-27A5350B9A4DA2FC97581234DFC84FFF-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
 
   "Float_UR": [
     {
