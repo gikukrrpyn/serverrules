@@ -12,7 +12,6 @@ window.licenses = {
 "Float_UR": { status: "Дійсна", expiry: "08.09.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.09.2025", telegram: "5242336088" },
 "starikashka228337": { status: "Дійсна", expiry: "08.09.2025", telegram: "5358641921" },
-"Absolute09_SO": { status: "Дійсна", expiry: "08.09.2025", telegram: "5109532913" },
 "maksumkasymk789": { status: "Дійсна", expiry: "08.09.2025", telegram: "1405483524" },
 "dima276518": { status: "Дійсна", expiry: "08.09.2025", telegram: "8107753437" },
 "Dimabarbos": { status: "Дійсна", expiry: "08.09.2025", telegram: "6591557304" },
@@ -266,7 +265,6 @@ window.licenses = {
 
   dbr: {
   "Float_UR": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
-  "Absolute09_SO": { role: "Заступник Директора ДБР (Генерал-Лейтинант)", status: "396510", telegram: "5109532913" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
   "starikashka228337": { role: "Старший Лейтенант", status: "544535", telegram: "5358641921" },
   "dima276518": { role: "Старший Лейтинант", status: "703481", telegram: "8107753437" },
