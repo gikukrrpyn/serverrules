@@ -92,16 +92,6 @@ const players = {
     },
   ],
 
-"Junius_2008": [
-    {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/ara_wxug",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4B4FD96C574B7AF670B1EA48D33FBD55-Png/150/150/AvatarHeadshot/Webp/noFilter",
-      status: "У відпуску до 31.08",
-    },
-  ],
-
 "Ntinetter": [
     {
       role: "R1a Адміністратор-Патрульний",
