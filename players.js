@@ -141,20 +141,10 @@ const players = {
 
 "Absolute09_SO": [
     {
-      role: "Заступник Директора ДБР",
-      telegram: "t.me/Absolute_WT",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
- "nik2a5": [
-    {
       role: "Мер",
-      telegram: "t.me/cyberl1n3",
+      telegram: "t.me/Absolute_WT",
       category: "Мерія",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9A4AF0E08E354C7A2E7C61F019A2725B-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
