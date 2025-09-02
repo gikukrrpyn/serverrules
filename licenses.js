@@ -27,7 +27,7 @@ window.licenses = {
 
         // Зареєстровані бізнеси
  business: [
-  { username: "Robert_polsan228", status: "7696678842", role: "Грант Плюс", telegram: "1921850684" },
+  { username: "XxsSashaxxjj", status: "7696678842", role: "Грант Плюс", telegram: "1921850684" },
   { username: "XxHA7AxX", status: "2918785998", role: "UkrBank", telegram: "1731530720" },
   { username: "MaxPowerPlay2", cans: "CANS через несплату податку на сервер.", status: "7143205526", role: "немає (тип діяльності охорона)", telegram: "6736952314" },
   { username: "Otto_octopu", cans: "CANS через несплату податку на сервер.", status: "4030724774", role: "Зевс", telegram: "6110818100" },
@@ -45,7 +45,8 @@ window.licenses = {
   { username: "Englishorspanish_1w7", status: "7325250870", role: "Нова Пошта", telegram: "5963490462" },
   { username: "mat250956", status: "2542612025", role: "ХАЛЯВА ТУТ", telegram: "6304172321" },
   { username: "GGpaprikashGG", status: "1098026781", role: "Кредит UKRAINE RP", telegram: "5120042358" },
-  { username: "IZAAK1797", status: "7648929805", role: "Ресторан", telegram: "1700093221" },            
+  { username: "IZAAK1797", status: "7648929805", role: "Ресторан", telegram: "1700093221" }, 
+            
 ],
 
 
