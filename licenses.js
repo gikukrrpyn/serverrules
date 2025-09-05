@@ -132,6 +132,7 @@ window.licenses = {
 
 // J
 "jrlm_987": { "role": "13 003", "status": "384680", "expiry": "", "telegram": "6800141946" },
+"jdjdudhshshdb": { "role": "95 005", "status": "257630", "expiry": "", "telegram": "6306896242" },
 
 // K
 "Kedvirm": { "role": "46 524", "status": "402781", "expiry": "", "telegram": "7811987070" },
