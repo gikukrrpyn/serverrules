@@ -93,7 +93,7 @@ window.licenses = {
 "Cript1305": { role: "89 781", status: "378132", expiry: "", telegram: "1329172606" },
 
 // D
-"Dodu340dd": { "role": "30 139", "status": "438563", "expiry": "", "telegram": "5632698118" },
+"Dodu340dd": { "role": "31 383", "status": "438563", "expiry": "", "telegram": "5632698118" },
 "DOGvDOMIKE": { "role": "11 476", "status": "291643", "expiry": "", "telegram": "6433921215" },
 "dolinskuy": { "role": "49 083", "status": "136181", "expiry": "", "telegram": "1812225406" },
 "Dodosopolo": { "role": "19 809", "status": "457673", "expiry": "", "telegram": "6733090877" },
@@ -105,6 +105,8 @@ window.licenses = {
 "Dddrrrtttyykjhj": { "role": "3 122", "status": "451590", "expiry": "", "telegram": "5903095976" },
 "definitely_9643": { "role": "16 006", "status": "468595", "expiry": "", "telegram": "5957350635" },
 "danik_pro221": { "role": "34 885", "status": "201701", "expiry": "", "telegram": "7012057243" },
+"djdkdsbxi": { "role": "6 442", "status": "862803", "expiry": "", "telegram": "8031988249" },
+"DED_UNCAUDolo": { "role": "1 453", "status": "339514", "expiry": "", "telegram": "5147766858" },
 
 // E
 "eeeeyegeggegehux": { "role": "22 252", "status": "275559", "expiry": "", "telegram": "5599228299" },
