@@ -182,6 +182,7 @@ window.licenses = {
 "Mattwj_rblx": { role: "2 188", status: "462514", expiry: "", telegram: "5141140329" },
 "Markito5518": { role: "13 601", status: "511640", expiry: "", telegram: "6408141542" },
 "Maksimkos52": { role: "10 092", status: "848713", expiry: "", telegram: "7133764937" },
+"MakisMakis1": { role: "4 442", status: "552576", expiry: "", telegram: "5760282370" },
 
 // N
 "NAZAR_UKRAINE2022": { role: "25 053", status: "715515", expiry: "", telegram: "515160116052" },
@@ -200,7 +201,7 @@ window.licenses = {
 "osadcija1": { "role": "820", "status": "258189", "expiry": "", "telegram": "1894630609" },
 
 // P
-"palamarka2288": { "role": "21 223", "status": "434780", "expiry": "", "telegram": "7806572251" },
+"palamarka2288": { "role": "26 866", "status": "434780", "expiry": "", "telegram": "7806572251" },
 "pavel36558": { "role": "6 807", "status": "186748", "expiry": "", "telegram": "7485750248" },
 "Pushka2030": { "role": "17 173", "status": "319554", "expiry": "", "telegram": "5549609551" },
 "Point16765": { "role": "35 516", "status": "794550", "expiry": "", "telegram": "5509421083" },
