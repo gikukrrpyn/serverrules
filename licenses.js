@@ -291,7 +291,6 @@ window.licenses = {
   "Derick47846": { role: "Стажер НАБС", status: "771500", telegram: "7892698228" },
   "pavel36558": { role: "Стажер НАБС", status: "186748", telegram: "7485750248" },
   "levopravo2024": { role: "Курсант НАБС", status: "749513", telegram: "5134083594" },
-  "golivatiybobr": { role: "Стажер НАБС", status: "409519", telegram: "5197112119" },
 },
 
   sbs: {
