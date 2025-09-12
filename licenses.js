@@ -8,21 +8,21 @@ window.licenses = {
     "nikita100808": { status: "Дійсна", expiry: "19.08.2025 to 19.09.2025", telegram: "6348110356" },
     "gg_roms1": { status: "Дійсна", expiry: "02.09.2025 to 02.10.2025", telegram: "7402143374" },                    
                 // Суд
-    "Svervanchik": { status: "Дійсна", expiry: "08.09.2025", telegram: "5634473488" },
+    "Svervanchik": { status: "Дійсна", expiry: "08.10.2025", telegram: "5634473488" },
                // ДБР
-"Float_UR": { status: "Дійсна", expiry: "08.09.2025", telegram: "1431122546" },
-"artemMelnichenko2013": { status: "Дійсна", expiry: "08.09.2025", telegram: "5242336088" },
-"starikashka228337": { status: "Дійсна", expiry: "08.09.2025", telegram: "5358641921" },
-"maksumkasymk789": { status: "Дійсна", expiry: "08.09.2025", telegram: "1405483524" },
-"dima276518": { status: "Дійсна", expiry: "08.09.2025", telegram: "8107753437" },
-"Dimabarbos": { status: "Дійсна", expiry: "08.09.2025", telegram: "6591557304" },
-"Arsenic3996": { status: "Дійсна", expiry: "08.09.2025", telegram: "7643022641" },
-"set45dt": { status: "Дійсна", expiry: "08.09.2025", telegram: "6371380345" },
-"eldor830": { status: "Дійсна", expiry: "08.09.2025", telegram: "6267044472" },
-"nikita100808": { status: "Дійсна", expiry: "08.09.2025", telegram: "6348110356" },
+"Float_UR": { status: "Дійсна", expiry: "08.10.2025", telegram: "1431122546" },
+"artemMelnichenko2013": { status: "Дійсна", expiry: "08.10.2025", telegram: "5242336088" },
+"starikashka228337": { status: "Дійсна", expiry: "08.10.2025", telegram: "5358641921" },
+"maksumkasymk789": { status: "Дійсна", expiry: "08.10.2025", telegram: "1405483524" },
+"dima276518": { status: "Дійсна", expiry: "08.10.2025", telegram: "8107753437" },
+"Dimabarbos": { status: "Дійсна", expiry: "08.10.2025", telegram: "6591557304" },
+"Arsenic3996": { status: "Дійсна", expiry: "08.10.2025", telegram: "7643022641" },
+"set45dt": { status: "Дійсна", expiry: "08.10.2025", telegram: "6371380345" },
+"eldor830": { status: "Дійсна", expiry: "08.10.2025", telegram: "6267044472" },
+"nikita100808": { status: "Дійсна", expiry: "08.10.2025", telegram: "6348110356" },
 
-               // СБС
-                        
+               // НАБС
+                     "kingfogfok": { status: "Дійсна", expiry: "08.10.2025", telegram: "t.me/lllCasino" },   
         },
 
         // Зареєстровані бізнеси
