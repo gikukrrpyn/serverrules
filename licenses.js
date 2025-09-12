@@ -271,6 +271,7 @@ window.licenses = {
 
 // W
 "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
+"weazyzxcc": { "role": "86 449", "status": "514160", "expiry": "", "telegram": "1600480438" },
 
 // X
 "XxsSashaxxjj": { "role": "31 998", "status": "374713", "expiry": "", "telegram": "7135907655" },
