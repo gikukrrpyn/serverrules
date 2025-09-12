@@ -101,6 +101,14 @@ const players = {
     },
   ],
 
+    "Andrew_UR01": [
+    {
+      role: "Суддя",
+      telegram: "t.me/ami_woolw",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
 
      "olegh34": [
     {
@@ -111,14 +119,6 @@ const players = {
     },
   ],
 
-    "Andrew_UR01": [
-    {
-      role: "Суддя",
-      telegram: "t.me/ami_woolw",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "Svervanchik": [
     {
