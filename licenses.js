@@ -156,6 +156,7 @@ window.licenses = {
 "Katerina234598": { role: "3 154", status: "845512", expiry: "", telegram: "5126019220" },
 "Krutoi_chel1331": { role: "687", status: "856150", expiry: "", telegram: "1509244286" },
 "Kiska_2025": { role: "17 752", status: "337167", expiry: "", telegram: "1678532244" },
+"KoT_MyRkOt50206": { role: "6 392", status: "394614", expiry: "", telegram: "6141181148" },
 
 // L
 "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
@@ -247,6 +248,7 @@ window.licenses = {
 "Tima213400": { "role": "748", "status": "470558", "expiry": "", "telegram": "5587637443" },
 "tortkaki": { "role": "2 927", "status": "159994", "expiry": "", "telegram": "994767140" },
 "Tomy_Sun": { "role": "1 600", "status": "340127", "expiry": "", "telegram": "1273437595" },
+"top45328": { "role": "22 463", "status": "272508", "expiry": "", "telegram": "5081237788" },
 
 // U
 "Ukraine_n100": { "role": "752", "status": "930726", "expiry": "", "telegram": "7264304153" },
@@ -261,6 +263,7 @@ window.licenses = {
 "Vivason_sns": { "role": "9 258", "status": "272157", "expiry": "", "telegram": "1570926136" },
 "vlkadkrut": { "role": "889", "status": "500167", "expiry": "", "telegram": "1678264189" },
 "Van_wac": { "role": "1 993", "status": "724596", "expiry": "", "telegram": "5960708792" },
+"Vano122939": { "role": "9 706", "status": "806757", "expiry": "", "telegram": "7576246440" },
 
 // W
 "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
