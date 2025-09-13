@@ -298,9 +298,8 @@ window.licenses = {
   "kingfogfok": { role: "Директор НАБС", status: "500842", telegram: "t.me/lllCasino" },
   "Derick47846": { role: "Стажер НАБС", status: "771500", telegram: "7892698228" },
   "pavel36558": { role: "Курсант НАБС", status: "186748", telegram: "7485750248" },
-  "levopravo2024": { role: "Курсант НАБС", status: "749513", telegram: "5134083594" },
   "BETA_ALPHA999": { role: "Стажер НАБС", status: "813616", telegram: "6160003630" },
-  "3cy_77781046": { role: "Стажер НАБС", status: "418637", telegram: "6370149052" },
+  "3cy_77781046": { role: "Курсант НАБС", status: "418637", telegram: "6370149052" },
 },
 
   sbs: {
