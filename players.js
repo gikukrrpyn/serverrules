@@ -82,15 +82,6 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BBF6A08B276D1D8E94206E9EB06933F9-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-  
-"PoWly0": [
-    {
-      role: "R1b Адміністратор-Повітряний Контроль",
-      telegram: "t.me/M1N_HWAM1I",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-48CDB715407B15C3773B0DFCB6E86902-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
 "Ntinetter": [
     {
