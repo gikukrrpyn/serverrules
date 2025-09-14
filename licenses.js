@@ -10,7 +10,7 @@ window.licenses = {
                 // Суд
     "Svervanchik": { status: "Дійсна", expiry: "08.10.2025", telegram: "5634473488" },
                // ДБР
-"Float_UR": { status: "Дійсна", expiry: "08.10.2025", telegram: "1431122546" },
+"Floatik_UR": { status: "Дійсна", expiry: "08.10.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.10.2025", telegram: "5242336088" },
 "starikashka228337": { status: "Дійсна", expiry: "08.10.2025", telegram: "5358641921" },
 "maksumkasymk789": { status: "Дійсна", expiry: "08.10.2025", telegram: "1405483524" },
@@ -307,7 +307,7 @@ window.licenses = {
 },
 
   dbr: {
-  "Float_UR": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
+  "Floatik_UR": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
   "starikashka228337": { role: "Старший Лейтенант", status: "544535", telegram: "5358641921" },
   "dima276518": { role: "Капітан", status: "703481", telegram: "8107753437" },
