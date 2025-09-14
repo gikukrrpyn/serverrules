@@ -121,12 +121,12 @@ const players = {
   ],
 
 
-  "Float_UR": [
+  "Floatik_UR": [
     {
       role: "Директор ДБР",
       telegram: "t.me/li9nes",
       category: "ДБР",
-      avatar: "",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BD4C8B7C3815CC73E868A9A1A0C36DA5-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
