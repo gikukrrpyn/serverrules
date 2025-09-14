@@ -111,6 +111,8 @@ window.licenses = {
 "djdkdsbxi": { "role": "6 442", "status": "862803", "expiry": "", "telegram": "8031988249" },
 "DED_UNCAUDolo": { "role": "1 453", "status": "339514", "expiry": "", "telegram": "5147766858" },
 "DANYA0705DANYA": { "role": "22 654", "status": "392164", "expiry": "", "telegram": "1644768537" },
+"DarkSpeakermanRBX": { "role": "7 104", "status": "561839", "expiry": "", "telegram": "8391433209" },
+"DIMA2442dvsg": { "role": "3 539", "status": "451547", "expiry": "", "telegram": "5474315984" },
 
 // E
 "eeeeyegeggegehux": { "role": "30 456", "status": "275559", "expiry": "", "telegram": "5599228299" },
