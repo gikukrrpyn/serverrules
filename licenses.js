@@ -310,7 +310,7 @@ window.licenses = {
   "Float_UR": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
   "starikashka228337": { role: "Старший Лейтенант", status: "544535", telegram: "5358641921" },
-  "dima276518": { role: "Старший Лейтинант", status: "703481", telegram: "8107753437" },
+  "dima276518": { role: "Капітан", status: "703481", telegram: "8107753437" },
   "maksumkasymk789": { role: "Старший Сержант", status: "392140", telegram: "1405483524" },
   "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
   "Arsenic3996": { role: "Рядовий", status: "605764", telegram: "7643022641" },
