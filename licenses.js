@@ -272,7 +272,7 @@ window.licenses = {
 "Vivason_sns": { "role": "9 258", "status": "272157", "expiry": "", "telegram": "1570926136" },
 "vlkadkrut": { "role": "889", "status": "500167", "expiry": "", "telegram": "1678264189" },
 "Van_wac": { "role": "1 993", "status": "724596", "expiry": "", "telegram": "5960708792" },
-"Vano122939": { "role": "9 706", "status": "806757", "expiry": "", "telegram": "7576246440" },
+"Vano122939": { "role": "12 021", "status": "806757", "expiry": "", "telegram": "7576246440" },
 "ViktorB20016": { "role": "20 515", "status": "786554", "expiry": "", "telegram": "5548568377" },
 
 // W
