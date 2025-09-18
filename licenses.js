@@ -94,6 +94,7 @@ window.licenses = {
 "Caston08963": { role: "3 391", status: "477755", expiry: "", telegram: "7557434574" },
 "cheater777_Yt": { role: "16 557", status: "150569", expiry: "", telegram: "5696745193" },
 "Cript1305": { role: "89 781", status: "378132", expiry: "", telegram: "1329172606" },
+"CHERNIHIV1": { role: "1 694", status: "238187", expiry: "", telegram: "1871915258" },
 
 // D
 "Dodu340dd": { "role": "31 383", "status": "438563", "expiry": "", "telegram": "5632698118" },
@@ -113,6 +114,7 @@ window.licenses = {
 "DANYA0705DANYA": { "role": "22 654", "status": "392164", "expiry": "", "telegram": "1644768537" },
 "DarkSpeakermanRBX": { "role": "7 104", "status": "561839", "expiry": "", "telegram": "8391433209" },
 "DIMA2442dvsg": { "role": "3 539", "status": "451547", "expiry": "", "telegram": "5474315984" },
+"desna200": { "role": "35 019", "status": "135548", "expiry": "", "telegram": "5481711216" },
 
 // E
 "eeeeyegeggegehux": { "role": "30 456", "status": "275559", "expiry": "", "telegram": "5599228299" },
@@ -219,6 +221,7 @@ window.licenses = {
 "partizan_oboo": { "role": "153", "status": "776712", "expiry": "", "telegram": "7120569425" },
 "Po_po171": { "role": "6 401", "status": "332622", "expiry": "", "telegram": "6221089320" },
 "player001hj": { "role": "29 221", "status": "412717", "expiry": "", "telegram": "7172542925" },
+"paiper6576": { "role": "2 243", "status": "816790", "expiry": "", "telegram": "7909730307" },
 
 // Q
 
@@ -270,6 +273,7 @@ window.licenses = {
 "vlkadkrut": { "role": "889", "status": "500167", "expiry": "", "telegram": "1678264189" },
 "Van_wac": { "role": "1 993", "status": "724596", "expiry": "", "telegram": "5960708792" },
 "Vano122939": { "role": "9 706", "status": "806757", "expiry": "", "telegram": "7576246440" },
+"ViktorB20016": { "role": "20 515", "status": "786554", "expiry": "", "telegram": "5548568377" },
 
 // W
 "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
@@ -297,11 +301,12 @@ window.licenses = {
 },
 
   nabs: {
-  "kingfogfok": { role: "Директор НАБС", status: "500842", telegram: "t.me/lllCasino" },
-  "Derick47846": { role: "Стажер НАБС", status: "771500", telegram: "7892698228" },
-  "pavel36558": { role: "Курсант НАБС", status: "186748", telegram: "7485750248" },
-  "BETA_ALPHA999": { role: "Стажер НАБС", status: "813616", telegram: "6160003630" },
-  "3cy_77781046": { role: "Курсант НАБС", status: "418637", telegram: "6370149052" },
+  "kingfogfok": { role: "Директор", status: "500842", telegram: "t.me/lllCasino" },
+  "Derick47846": { role: "Курсант", status: "771500", telegram: "7892698228" },
+  "pavel36558": { role: "Курсант", status: "186748", telegram: "7485750248" },
+  "BETA_ALPHA999": { role: "Курсант", status: "813616", telegram: "6160003630" },
+  "3cy_77781046": { role: "Агент-практикант", status: "418637", telegram: "6370149052" },
+  "DANYA0705DANYA": { role: "Курсант", status: "392164", telegram: "1644768537" },
 },
 
   sbs: {
