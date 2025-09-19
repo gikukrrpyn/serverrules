@@ -1,12 +1,14 @@
 window.licenses = {
             weapon: {
                 // Куплені
-    "Caston08963": { status: "Дійсна", expiry: "14.09.2025", telegram: "7557434574" },
+    "Caston08963": { status: "Дійсна", expiry: "19.10.2025", telegram: "4775989978" },
     "Dodu340dd": { status: "використання ліцензії у злочинних цілях; призначено довічну заборону на отримання ліцензії.", expiry: "00.00.0000", telegram: "5632698118" },
     "pavel36558": { status: "Дійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "7485750248" },
     "IMBEBRIK8": { status: "Дійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "5042918774" },
     "nikita100808": { status: "Дійсна", expiry: "19.08.2025 to 19.09.2025", telegram: "6348110356" },
-    "gg_roms1": { status: "Дійсна", expiry: "02.09.2025 to 02.10.2025", telegram: "7402143374" },                    
+    "gg_roms1": { status: "Дійсна", expiry: "02.09.2025 to 02.10.2025", telegram: "7402143374" },
+    "XxsSashaxxjj": { status: "Дійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "7135907655" },
+    "Mr_Zver3000": { status: "Дійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "6626655148" },                    
                 // Суд
     "Svervanchik": { status: "Дійсна", expiry: "08.10.2025", telegram: "5634473488" },
                // ДБР
