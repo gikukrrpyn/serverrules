@@ -47,7 +47,9 @@ window.licenses = {
   { username: "Englishorspanish_1w7", status: "7325250870", role: "Нова Пошта", telegram: "5963490462" },
   { username: "mat250956", status: "2542612025", role: "ХАЛЯВА ТУТ", telegram: "6304172321" },
   { username: "GGpaprikashGG", status: "1098026781", role: "Кредит UKRAINE RP", telegram: "5120042358" },
-  { username: "IZAAK1797", status: "7648929805", role: "Ресторан", telegram: "1700093221" }, 
+  { username: "IZAAK1797", status: "7648929805", role: "Ресторан", telegram: "1700093221" },
+  { username: "mat250956", status: "2542612025", role: "Смак Алмаза", telegram: "6304172321" },           
+  { username: "Mr_Zver3000", status: "6091562785", role: "Чорний Лотос", telegram: "6626655148" },           
             
 ],
 
@@ -577,7 +579,10 @@ window.licenses = {
               "nikita1359z11": { status: "UM11", telegram: "6031850989", role: "Укр.ЗМІ"},
               "starikashka228337": { status: "ND12", telegram: "5358641921", role: "NOW NEWS"},
               "Pit_uk": { status: "NP13", telegram: "7811050819", role: "NOW NEWS"},
-              "TANKIST77735": { status: "TT14", telegram: "1188953601", role: "ТСГ"},         
+              "TANKIST77735": { status: "TT14", telegram: "1188953601", role: "ТСГ"},
+              "Adein_48": { status: "LA15", telegram: "6549388943", role: "Життя Кримінала"}, 
+              "Ilkevich2112": { status: "NI16", telegram: "5184005049", role: "NOW NEWS"},
+              "Solomiyakolom": { status: "IS17", telegram: "1728690525", role: "INTERESTING UKRAINE"},         
             },
             
             // Зареєстровані ЗМІ
@@ -585,6 +590,9 @@ window.licenses = {
               "lSqwizzyl": { status: "NOW NEWS", "telegram": "t.me/shppsqwizzy"},
               "TANKIST77735": { "status": "ТСГ", "telegram": "t.me/Retrrwerq"}, // якщо немає username, вказувати id (без t.me/)
               "nikita1359z11": { "status": "Укр.ЗМІ", "telegram": "t.me/NikitosP10"},
+              "Pushka2030": { "status": "NOW NEWS", "telegram": "t.me/BuddyyyXD"}, 
+              "Robert_polsan228": { "status": "NOW NEWS", "telegram": "t.me/Mr_Akylo4ka"}, 
+              "Solomiyakolom": { "status": "Interesting Ukraine", "telegram": "t.me/knyazzin"},       
             },
 
            // Легалізовані мафії, банди
