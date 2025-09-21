@@ -82,5 +82,20 @@ export const marriedList = [
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AD7FA5D027B14E0E25019DF6636AB52D-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
+{
+        username1: "pycT_KUst",
+        username2: "Yexor_rt",
+        date: "2025-20-09", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6D042C21EA2B1E41F636837FF3931B5A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B6F560C0FB142A6A95E4337CFC7BEC39-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
+
+{
+        username1: "GordiyYarmolenko",
+        username2: "zvirakaarina",
+        date: "2025-20-09", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7D5B8C452506DD59A5AFC8BD10F2E5C5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E2B0B56A63BC8276F0372013952B300-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
 
   ];
