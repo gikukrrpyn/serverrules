@@ -562,6 +562,7 @@ window.licenses = {
                 "Mellov_imeg4": { status: "A6767", telegram: "7613534424" },
                 "Bloxycolpak": { status: "A7171", telegram: "6101802031" },
                 "Isus_338": { status: "A7474", telegram: "t.me/NoScopeBaba" }, // 5020585585
+                "bodja150510": { status: "A8080", telegram: "t.me/marsqwrty0" }, // 1334371648
             },
 
             // Прес-карти
