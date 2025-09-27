@@ -102,17 +102,6 @@ const players = {
   ],
 
 
-
-  "Svervanchik": [
-    {
-      role: "Охоронець",
-      telegram: "5634473488",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB08C288C39560E6F471055F9F416AB6-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
   "Floatik_UR": [
     {
       role: "Директор ДБР",
