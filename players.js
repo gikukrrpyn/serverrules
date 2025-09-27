@@ -101,14 +101,6 @@ const players = {
     },
   ],
 
-     "olegh34": [
-    {
-      role: "Суддя",
-      telegram: "t.me/olegh34",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F30216AFBE173D0F87E3F937C51CAB64-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
 
   "Svervanchik": [
