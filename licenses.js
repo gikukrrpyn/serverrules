@@ -9,8 +9,7 @@ window.licenses = {
     "gg_roms1": { status: "Дійсна", expiry: "02.09.2025 to 02.10.2025", telegram: "7402143374" },
     "XxsSashaxxjj": { status: "Дійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "7135907655" },
     "Mr_Zver3000": { status: "Дійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "6626655148" },                    
-                // Суд
-    "Svervanchik": { status: "Дійсна", expiry: "08.10.2025", telegram: "5634473488" },
+
                // ДБР
 "Floatik_UR": { status: "Дійсна", expiry: "08.10.2025", telegram: "1431122546" },
 "artemMelnichenko2013": { status: "Дійсна", expiry: "08.10.2025", telegram: "5242336088" },
