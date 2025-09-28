@@ -9,23 +9,6 @@ const players = {
     },
   ],
 
-  "p1eyys": [
-    {
-      role: "R5 Заступниця засновника сервера",
-      telegram: "t.me/crybaby_mew",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ADADC5DDD7166D4303D48A60400D97B4-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Klipri": [
-    {
-      role: "R4 Головний Адміністратор",
-      telegram: "t.me/Klipri",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9DDDCBA77F06410A34EFB0FCA671D135-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
 "XxHA7AxX": [
    {
@@ -65,14 +48,6 @@ const players = {
     },
   ],
 
-"Adein_48": [
-    {
-      role: "R2b Інспектор Службового Контролю (ІСК)",
-      telegram: "t.me/Rush04",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F728AB1AB2ED6F2B3929F6D59ADF443-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
 "H8TpizzaG8D": [
     {
@@ -102,12 +77,12 @@ const players = {
   ],
 
 
-  "Floatik_UR": [
+  "Itz_raose": [
     {
       role: "Директор ДБР",
       telegram: "t.me/li9nes",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BD4C8B7C3815CC73E868A9A1A0C36DA5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FADFA189B7E7FE60E5EFD4BD37435701-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
