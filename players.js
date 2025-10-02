@@ -2,7 +2,7 @@ const players = {
 
   "gikusya": [
     {
-      role: "R6 Засновник сервера",
+      role: "Засновник сервера",
       telegram: "t.me/ukreh_admin",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2A30D90F517F189F6D602CFDB2EF48BE-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -11,18 +11,26 @@ const players = {
 
 
 "XxHA7AxX": [
+
+   {
+      role: "Власник сервера",
+      telegram: "t.me/Na7atelega",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-893F6FD6D7EF0F7B58E6BB6900E97E18-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  
    {
       role: "Головний Суддя",
       telegram: "t.me/Na7atelega",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-893F6FD6D7EF0F7B58E6BB6900E97E18-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
 
         {
       role: "Контентмейкер",
       telegram: "t.me/Na7atelega",
       category: "Інше",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6A4128A0A905A7C7C711387C34747EB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-893F6FD6D7EF0F7B58E6BB6900E97E18-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
 
     {
