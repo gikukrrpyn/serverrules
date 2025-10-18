@@ -11,19 +11,19 @@ window.licenses = {
     "Mr_Zver3000": { status: "Дійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "6626655148" },                    
 
                // ДБР
-"Floatik_UR": { status: "Дійсна", expiry: "08.10.2025", telegram: "1431122546" },
-"artemMelnichenko2013": { status: "Дійсна", expiry: "08.10.2025", telegram: "5242336088" },
-"starikashka228337": { status: "Дійсна", expiry: "08.10.2025", telegram: "5358641921" },
-"maksumkasymk789": { status: "Дійсна", expiry: "08.10.2025", telegram: "1405483524" },
-"dima276518": { status: "Дійсна", expiry: "08.10.2025", telegram: "8107753437" },
-"Dimabarbos": { status: "Дійсна", expiry: "08.10.2025", telegram: "6591557304" },
-"Arsenic3996": { status: "Дійсна", expiry: "08.10.2025", telegram: "7643022641" },
-"set45dt": { status: "Дійсна", expiry: "08.10.2025", telegram: "6371380345" },
-"eldor830": { status: "Дійсна", expiry: "08.10.2025", telegram: "6267044472" },
-"nikita100808": { status: "Дійсна", expiry: "08.10.2025", telegram: "6348110356" },
+"Itz_raose": { status: "Дійсна", expiry: "31.12.2025", telegram: "1431122546" },
+"artemMelnichenko2013": { status: "Дійсна", expiry: "31.12.2025", telegram: "5242336088" },
+"starikashka228337": { status: "Дійсна", expiry: "31.12.2025", telegram: "5358641921" },
+"maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "1405483524" },
+"dima276518": { status: "Дійсна", expiry: "31.12.2025", telegram: "8107753437" },
+"Dimabarbos": { status: "Дійсна", expiry: "31.12.2025", telegram: "6591557304" },
+"Arsenic3996": { status: "Дійсна", expiry: "31.12.2025", telegram: "7643022641" },
+"set45dt": { status: "Дійсна", expiry: "31.12.2025", telegram: "6371380345" },
+"eldor830": { status: "Дійсна", expiry: "31.12.2025", telegram: "6267044472" },
+"nikita100808": { status: "Дійсна", expiry: "31.12.2025", telegram: "6348110356" },
 
                // НАБС
-                     "kingfogfok": { status: "Дійсна", expiry: "08.10.2025", telegram: "t.me/lllCasino" },   
+                     "kingfogfok": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/lllCasino" },   
         },
 
         // Зареєстровані бізнеси
@@ -317,11 +317,11 @@ window.licenses = {
 },
 
   dbr: {
-  "Floatik_UR": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
+  "Itz_raose": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
-  "starikashka228337": { role: "Старший Лейтенант", status: "544535", telegram: "5358641921" },
+  "starikashka228337": { role: "Капрал", status: "544535", telegram: "5358641921" },
   "dima276518": { role: "Капітан", status: "703481", telegram: "8107753437" },
-  "maksumkasymk789": { role: "Старший Сержант", status: "392140", telegram: "1405483524" },
+  "maksumkasymk789": { role: "Молодший Лейтинант", status: "392140", telegram: "1405483524" },
   "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
   "Arsenic3996": { role: "Рядовий", status: "605764", telegram: "7643022641" },
   "Set45dt": { role: "Капрал", status: "490637", telegram: "6371380345" },
