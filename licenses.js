@@ -22,6 +22,7 @@ window.licenses = {
 
                // НАБС
                      "kingfogfok": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/lllCasino" },   
+                     "3cy_77781046": { status: "Дійсна", expiry: "31.12.2025", telegram: "6370149052" },   
         },
 
         // Зареєстровані бізнеси
@@ -303,11 +304,13 @@ window.licenses = {
 
   nabs: {
   "kingfogfok": { role: "Директор", status: "500842", telegram: "t.me/lllCasino" },
-  "Derick47846": { role: "Курсант", status: "771500", telegram: "7892698228" },
-  "pavel36558": { role: "Курсант", status: "186748", telegram: "7485750248" },
+  "pavel36558": { role: "Інспектор НАБС", status: "186748", telegram: "7485750248" },
   "BETA_ALPHA999": { role: "Курсант", status: "813616", telegram: "6160003630" },
-  "3cy_77781046": { role: "Агент-практикант", status: "418637", telegram: "6370149052" },
+  "3cy_77781046": { role: "Керівник відділу", status: "418637", telegram: "6370149052" },
   "DANYA0705DANYA": { role: "Курсант", status: "392164", telegram: "1644768537" },
+  "mat250956": { role: "Курсант", status: "254630", telegram: "6304172321" },
+  "bodja150510": { role: "Стажер", status: "650828", telegram: "1334371648" },
+  "Niko1989Z": { role: "Стажер", status: "303192", telegram: "1921033973" },
 },
 
   sbs: {
