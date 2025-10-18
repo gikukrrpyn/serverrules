@@ -325,7 +325,7 @@ window.licenses = {
   "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
   "Arsenic3996": { role: "Капрал", status: "605764", telegram: "7643022641" },
   "eldor830": { role: "Сержант", status: "506626", telegram: "6267044472" },
-  "nikita100808": { role: "Рядовий", status: "724634", telegram: "6348110356" },
+  "nikita100808": { role: "Капрал", status: "724634", telegram: "6348110356" },
 },
               // Таксистська ліцензія
             taxi: {
