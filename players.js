@@ -98,12 +98,12 @@ const players = {
 
 
   
-    "Andrew_UR01": [
+    "Andrew_01174": [
     {
       role: "Головний суддя",
       telegram: "t.me/ami_woolw",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B63101244F9DFAD9A1707466BFF0169-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
 
         {
