@@ -105,6 +105,14 @@ const players = {
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
+
+        {
+      role: "Організатор ДАРШ",
+      telegram: "t.me/ami_woolw",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+      
   ],
 
 
@@ -171,34 +179,8 @@ const players = {
     },
   ],
 
-        "Dimabarbos": [
-    {
-      role: "Працівник ДБР",
-      telegram: "6591557304",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A9106E381B813BC1AABA06EA684A037B-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-          "Arsenic3996": [
-    {
-      role: "Працівник ДБР",
-      telegram: "7643022641",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-81A7C1D70E500D3B8FCF82768C7849D1-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-            "eldor830": [
-    {
-      role: "Працівник ДБР",
-      telegram: "6267044472",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E65399E363006B14297BD9FC893EC3FB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-              "nikita100808": [
+      
+   "nikita100808": [
     {
       role: "Працівник ДБР",
       telegram: "6348110356",
@@ -209,13 +191,36 @@ const players = {
   
 "Absolute09_SO": [
     {
-      role: "Мер",
+      role: "Працівник ДБР",
       telegram: "t.me/Absolute_WT",
-      category: "Мерія",
+      category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
+  "Rechs10": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/rexi4ek17",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E8F64F0C30D1018263AD8C785AC590A5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
+
+
+   "Zoomsos123": [
+    {
+      role: "Директор СБС",
+      telegram: "t.me/Xmm_help",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F084072F317A0249F980B7610E459193-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  
+  
 
  "kingfogfok": [
     {
