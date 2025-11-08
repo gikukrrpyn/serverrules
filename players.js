@@ -222,13 +222,16 @@ const players = {
   
   
 
- "kingfogfok": [
+ "va1ron4": [
     {
-      role: "Директор НАБС",
-      telegram: "t.me/lllCasino",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EFB78A58ABFAD3E5264563E793C3564E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      role: "Начальник НПС",
+      telegram: "t.me/clefa1r",
+      category: "НПС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-60B7A4F13CC2C19F56A174183EE803A6-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
+
+
+  
 };
