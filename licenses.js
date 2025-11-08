@@ -21,6 +21,7 @@ window.licenses = {
 "nikita100808": { status: "Дійсна", expiry: "31.12.2025", telegram: "6348110356" },
 "Rechs10": { status: "Дійсна", expiry: "31.12.2025", telegram: "6387100458" },
 "Absolute09_SO": { status: "Дійсна", expiry: "31.12.2025", telegram: "5109532913" },
+"starikashka228337": { status: "Дійсна", expiry: "31.12.2025", telegram: "5358641921" },
                         
                // НАБС
         },
@@ -320,7 +321,6 @@ window.licenses = {
 },
 
   dbr: {
-  "Itz_raose": { role: "Директор ДБР (Генерал—Полковник)", status: "194143", telegram: "1431122546" },
   "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
   "starikashka228337": { role: "Рядовий", status: "544535", telegram: "5358641921" },
   "maksumkasymk789": { role: "Молодший Лейтинант", status: "392140", telegram: "1405483524" },
