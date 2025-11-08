@@ -226,7 +226,7 @@ const players = {
     {
       role: "Начальник НПС",
       telegram: "t.me/clefa1r",
-      category: "НПС",
+      category: "Поліція",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-60B7A4F13CC2C19F56A174183EE803A6-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
