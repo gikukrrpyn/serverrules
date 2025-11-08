@@ -207,6 +207,15 @@ const players = {
     },
   ],
 
+    "starikashka228337": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/F1Hhunter", // 5358641921
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E92D6D74658DD1692F16C1F7F1F32ECA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
 
 
