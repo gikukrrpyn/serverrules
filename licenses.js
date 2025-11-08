@@ -20,6 +20,7 @@ window.licenses = {
 "maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "1405483524" },
 "nikita100808": { status: "Дійсна", expiry: "31.12.2025", telegram: "6348110356" },
 "Rechs10": { status: "Дійсна", expiry: "31.12.2025", telegram: "6387100458" },
+"Absolute09_SO": { status: "Дійсна", expiry: "31.12.2025", telegram: "5109532913" },
                         
                // НАБС
         },
