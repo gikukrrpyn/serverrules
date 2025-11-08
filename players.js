@@ -18,13 +18,6 @@ const players = {
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-893F6FD6D7EF0F7B58E6BB6900E97E18-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-  
-     {
-      role: "Контентмейкер",
-      telegram: "t.me/Na7atelega",
-      category: "Інше",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-893F6FD6D7EF0F7B58E6BB6900E97E18-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
 
   ],
 
@@ -44,21 +37,21 @@ const players = {
   ],
 
 
-"H8TpizzaG8D": [
-    {
-      role: "R1c Адміністратор-Комунікатор + Інспектор Підтримки",
-      telegram: "t.me/P1zzaGod",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BBF6A08B276D1D8E94206E9EB06933F9-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
 "Ntinetter": [
     {
-      role: "R1a Адміністратор-Патрульний",
+      role: "R3 Старший адміністратор",
       telegram: "t.me/makyas10",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F1EF271A48F0ED1FD4C2732CF5F1F55E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+    "Itz_raose": [
+    {
+      role: "R2b Інспектор службового контролю",
+      telegram: "t.me/li9nes",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FADFA189B7E7FE60E5EFD4BD37435701-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -71,15 +64,6 @@ const players = {
     },
   ],
 
-
-  "Itz_raose": [
-    {
-      role: "Директор ДБР",
-      telegram: "t.me/li9nes",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FADFA189B7E7FE60E5EFD4BD37435701-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   
   "artemMelnichenko2013": [
