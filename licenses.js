@@ -23,7 +23,10 @@ window.licenses = {
 "Absolute09_SO": { status: "Дійсна", expiry: "31.12.2025", telegram: "5109532913" },
 "starikashka228337": { status: "Дійсна", expiry: "31.12.2025", telegram: "5358641921" },
                         
-               // НАБС
+               // Суд
+
+ "Arsenic3996": { status: "Дійсна", expiry: "31.12.2025", telegram: "7643022641" },
+                        
         },
 
         // Зареєстровані бізнеси
