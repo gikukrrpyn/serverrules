@@ -10,20 +10,18 @@ window.licenses = {
     "XxsSashaxxjj": { status: "Дійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "7135907655" },
     "Mr_Zver3000": { status: "Дійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "6626655148" },                    
 
-               // ДБР
-"Itz_raose": { status: "Дійсна", expiry: "31.12.2025", telegram: "1431122546" },
-"artemMelnichenko2013": { status: "Дійсна", expiry: "31.12.2025", telegram: "5242336088" },
-"starikashka228337": { status: "Дійсна", expiry: "31.12.2025", telegram: "5358641921" },
-"maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "1405483524" },
-"Dimabarbos": { status: "Дійсна", expiry: "31.12.2025", telegram: "6591557304" },
-"Arsenic3996": { status: "Дійсна", expiry: "31.12.2025", telegram: "7643022641" },
-"eldor830": { status: "Дійсна", expiry: "31.12.2025", telegram: "6267044472" },
-"nikita100808": { status: "Дійсна", expiry: "31.12.2025", telegram: "6348110356" },
 
+               // СБС
+"Zoomsos123": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Xmm_help" }, // 5339606531
+                        
+               // ДБР
+"Vaylet009": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Vaylet009" }, // 5169521179
+"artemMelnichenko2013": { status: "Дійсна", expiry: "31.12.2025", telegram: "5242336088" },
+"maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "1405483524" },
+"nikita100808": { status: "Дійсна", expiry: "31.12.2025", telegram: "6348110356" },
+"Rechs10": { status: "Дійсна", expiry: "31.12.2025", telegram: "6387100458" },
+                        
                // НАБС
-                     "kingfogfok": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/lllCasino" },   
-                     "3cy_77781046": { status: "Дійсна", expiry: "31.12.2025", telegram: "6370149052" },   
-                     "Pavel36558": { status: "Дійсна", expiry: "31.12.2025", telegram: "7485750248" },   
         },
 
         // Зареєстровані бізнеси
