@@ -145,6 +145,16 @@ const players = {
     },
   ],
 
+            "Arsenic3996": [
+    {
+      role: "Охоронець суду",
+      telegram: "t.me/Evgen20102010", // 7643022641
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D490A8A7313201D6127537E3A27EE5FC-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
   
 
 
