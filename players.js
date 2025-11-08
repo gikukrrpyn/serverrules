@@ -46,6 +46,7 @@ const players = {
     },
   ],
 
+
     "Itz_raose": [
     {
       role: "R2b Інспектор службового контролю",
@@ -55,6 +56,48 @@ const players = {
     },
   ],
 
+        "sergij18": [
+    {
+      role: "R2a Головний координатор ролі",
+      telegram: "t.me/Sergij9000",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB194328B57422E8EA87C2DAAEDE4548-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+      "Junius_2008": [
+    {
+      role: "R1с Адміністратор-комунікатор",
+      telegram: "t.me/ara_wxug",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7C32621AAF22289C251138AB18FD5160-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+        "Adein_48": [
+    {
+      role: "R1a Адміністратор-патрульний",
+      telegram: "t.me/Rush04",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D5DC7D47BF53BC95F6AE89021E032526-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+          "PoWly0": [
+    {
+      role: "R1a Адміністратор-патрульний",
+      telegram: "t.me/M1N_HWAM1I",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-24D431081F07D2E1A9F0D36496D86126-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
+
+
+
+
+  
     "Andrew_UR01": [
     {
       role: "Головний суддя",
@@ -64,6 +107,49 @@ const players = {
     },
   ],
 
+
+      "olegh34": [
+    {
+      role: "Суддя",
+      telegram: "t.me/olegh34",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-54DF76D4CFC6D31BE523D5DF2C743B82-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  
+        "desna200": [
+    {
+      role: "Суддя",
+      telegram: "t.me/lox_rb",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FFAAF5CE5561888F16F1B0CBC7167BD7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
+          "palamarka2288": [
+    {
+      role: "Суддя",
+      telegram: "t.me/Foxxi_Love",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A6B4C79D7543A347CB061C26D0A45FC3-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  
+
+
+
+
+    "Vaylet009": [
+    {
+      role: "Директор ДБР",
+      telegram: "t.me/Vaylet009",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A80C02F770E55FC62861B3874FE4B35F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
 
   
   "artemMelnichenko2013": [
@@ -75,14 +161,6 @@ const players = {
     },
   ],
 
-    "starikashka228337": [
-    {
-      role: "Працівник ДБР",
-      telegram: "5358641921",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2331B1E6EF04F726C33C255BC1FEA9AA-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
       "maksumkasymk789": [
     {
