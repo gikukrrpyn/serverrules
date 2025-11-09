@@ -92,6 +92,14 @@ const players = {
     },
   ],
 
+         "3cy_77781046": [
+    {
+      role: "R1a Адміністратор-патрульний",
+      telegram: "t.me/SKODA_UR",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D4BEC81A801E7CB345995DFFB88F88FD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
 
 
 
