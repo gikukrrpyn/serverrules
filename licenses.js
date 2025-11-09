@@ -268,7 +268,7 @@ window.licenses = {
 // U
 "Ukraine_n100": { "role": "752", "status": "930726", "expiry": "", "telegram": "7264304153" },
 "Ukristi2020": { "role": "3 430", "status": "483663", "expiry": "", "telegram": "6638796744" },
-"Username22": { "role": "1 000", "status": "123456", "expiry": "", "telegram": "6638796744" },"              
+"Username22": { "role": "1 000", "status": "123456", "expiry": "", "telegram": "6638796744" },              
 
 // V
 "vitali77rr": { "role": "7 814", "status": "267637", "expiry": "", "telegram": "6378314737" },
