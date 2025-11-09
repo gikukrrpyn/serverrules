@@ -186,18 +186,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C0C0541A9CA426461D9F9734328806-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-
-
-      "maksumkasymk789": [
-    {
-      role: "Працівник ДБР",
-      telegram: "1405483524",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1A96C6486ED87233BC622C2AB85BA72C-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-      
+    
    "nikita100808": [
     {
       role: "Працівник ДБР",
@@ -246,7 +235,23 @@ const players = {
     },
   ],
 
-  
+"eldor830": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/eldorichek",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D3D23E9ED69EA086DB126E356C1AECB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],  
+
+  "maksumkasymk789": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/Coocas",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BB8E3A5E86CF3EE68398430EAF3EF790-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],  
   
 
  "va1ron4": [
