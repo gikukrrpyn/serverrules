@@ -9,19 +9,16 @@ const players = {
     },
   ],
 
-
-"XxHA7AxX": [
-
-   {
+  "XxHA7AxX": [
+    {
       role: "R6 Власник сервера",
       telegram: "t.me/Na7atelega",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-893F6FD6D7EF0F7B58E6BB6900E97E18-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-
   ],
 
-"Bandera909": [
+  "Bandera909": [
     {
       role: "R4 Головний адміністратор",
       telegram: "t.me/Great_Terku",
@@ -36,8 +33,7 @@ const players = {
     },
   ],
 
-
-"Ntinetter": [
+  "Ntinetter": [
     {
       role: "R3 Старший адміністратор",
       telegram: "t.me/makyas10",
@@ -46,8 +42,7 @@ const players = {
     },
   ],
 
-
-    "Itz_raose": [
+  "Itz_raose": [
     {
       role: "R2b Інспектор службового контролю",
       telegram: "t.me/li9nes",
@@ -56,7 +51,7 @@ const players = {
     },
   ],
 
-        "sergij18": [
+  "sergij18": [
     {
       role: "R2a Головний координатор ролі",
       telegram: "t.me/Sergij9000",
@@ -65,7 +60,7 @@ const players = {
     },
   ],
 
-      "Junius_2008": [
+  "Junius_2008": [
     {
       role: "R1с Адміністратор-комунікатор",
       telegram: "t.me/ara_wxug",
@@ -74,7 +69,7 @@ const players = {
     },
   ],
 
-        "Adein_48": [
+  "Adein_48": [
     {
       role: "R1a Адміністратор-патрульний",
       telegram: "t.me/Rush04",
@@ -83,7 +78,7 @@ const players = {
     },
   ],
 
-          "PoWly0": [
+  "PoWly0": [
     {
       role: "R1a Адміністратор-патрульний",
       telegram: "t.me/M1N_HWAM1I",
@@ -92,7 +87,7 @@ const players = {
     },
   ],
 
-         "3cy_77781046": [
+  "3cy_77781046": [
     {
       role: "R1a Адміністратор-патрульний",
       telegram: "t.me/SKODA_UR",
@@ -105,26 +100,23 @@ const players = {
 
 
 
-  
-    "Andrew_01174": [
+
+  "Andrew_01174": [
     {
       role: "Головний суддя",
       telegram: "t.me/ami_woolw",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B63101244F9DFAD9A1707466BFF0169-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-
-        {
+    {
       role: "Організатор ДАРШ",
       telegram: "t.me/ami_woolw",
       category: "ДАРШ",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-      
   ],
 
-
-      "olegh34": [
+  "olegh34": [
     {
       role: "Суддя",
       telegram: "t.me/olegh34",
@@ -133,8 +125,7 @@ const players = {
     },
   ],
 
-  
-        "desna200": [
+  "desna200": [
     {
       role: "Суддя",
       telegram: "t.me/lox_rb",
@@ -143,8 +134,7 @@ const players = {
     },
   ],
 
-
-          "palamarka2288": [
+  "palamarka2288": [
     {
       role: "Суддя",
       telegram: "t.me/Foxxi_Love",
@@ -153,7 +143,7 @@ const players = {
     },
   ],
 
-"Absolute09_SO": [
+  "Absolute09_SO": [
     {
       role: "Суддя",
       telegram: "t.me/Absolute_WT",
@@ -161,7 +151,8 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-            "Arsenic3996": [
+  
+  "Arsenic3996": [
     {
       role: "Охоронець суду",
       telegram: "t.me/Evgen20102010", // 7643022641
@@ -171,12 +162,11 @@ const players = {
   ],
 
 
-  
 
 
 
 
-    "Vaylet009": [
+  "Vaylet009": [
     {
       role: "Директор ДБР",
       telegram: "t.me/Vaylet009",
@@ -185,7 +175,6 @@ const players = {
     },
   ],
 
-  
   "artemMelnichenko2013": [
     {
       role: "Працівник ДБР",
@@ -194,8 +183,8 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C0C0541A9CA426461D9F9734328806-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-    
-   "nikita100808": [
+
+  "nikita100808": [
     {
       role: "Працівник ДБР",
       telegram: "6348110356",
@@ -203,7 +192,6 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52426F10465A4F65F7E5105821318D01-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-  
 
   "Rechs10": [
     {
@@ -214,7 +202,7 @@ const players = {
     },
   ],
 
-    "starikashka228337": [
+  "starikashka228337": [
     {
       role: "Працівник ДБР",
       telegram: "t.me/F1Hhunter", // 5358641921
@@ -226,7 +214,7 @@ const players = {
 
 
 
-   "Zoomsos123": [
+  "Zoomsos123": [
     {
       role: "Директор СБС",
       telegram: "t.me/Xmm_help",
@@ -235,14 +223,14 @@ const players = {
     },
   ],
 
-"eldor830": [
+  "eldor830": [
     {
       role: "Працівник СБС",
       telegram: "t.me/eldorichek",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D3D23E9ED69EA086DB126E356C1AECB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-  ],  
+  ],
 
   "maksumkasymk789": [
     {
@@ -251,10 +239,12 @@ const players = {
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BB8E3A5E86CF3EE68398430EAF3EF790-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-  ],  
+  ],
+
+
   
 
- "va1ron4": [
+  "va1ron4": [
     {
       role: "Начальник НПС",
       telegram: "t.me/clefa1r",
@@ -263,7 +253,4 @@ const players = {
     },
   ],
 
-
-
-  
 };
