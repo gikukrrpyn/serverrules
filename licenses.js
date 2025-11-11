@@ -127,6 +127,7 @@ window.licenses = {
     // C
     "Caston08963": { role: "3 391", status: "477755", expiry: "", telegram: "7557434574" },
     "cheater777_Yt": { role: "16 557", status: "150569", expiry: "", telegram: "5696745193" },
+    "cheburek234649": { role: "8 744", status: "6228149", expiry: "", telegram: "6224803702" },
     "Cript1305": { role: "89 781", status: "378132", expiry: "", telegram: "1329172606" },
     "CHERNIHIV1": { role: "1 694", status: "238187", expiry: "", telegram: "1871915258" },
 
