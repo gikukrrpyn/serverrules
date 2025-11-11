@@ -31,6 +31,7 @@ window.licenses = {
         // Зареєстровані бізнеси
  business: [
   { username: "XxsSashaxxjj", status: "7696678842", role: "Грант Плюс", telegram: "1921850684" },
+             { username: "XxsSashaxxjj", status: "76966788422", role: "Грант Плюс2", telegram: "1921850684" },
   { username: "XxHA7AxX", status: "2918785998", role: "UkrBank", telegram: "1731530720" },
   { username: "MaxPowerPlay2", cans: "CANS через несплату податку на сервер.", status: "7143205526", role: "немає (тип діяльності охорона)", telegram: "6736952314" },
   { username: "Otto_octopu", cans: "CANS через несплату податку на сервер.", status: "4030724774", role: "Зевс", telegram: "6110818100" },
