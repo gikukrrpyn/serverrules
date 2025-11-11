@@ -326,7 +326,7 @@ window.licenses = {
     // Z
     "Zoomsos123": { "role": "65 129", "status": "350533", "expiry": "", "telegram": "5339606531" },
     "zsu_980532": { "role": "14 252", "status": "415563", "expiry": "", "telegram": "5632468122" },
-
+    "Zumagemp": { "role": "30", "status": "599357", "expiry": "", "telegram": "5998010840" },
 
     "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
     "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
