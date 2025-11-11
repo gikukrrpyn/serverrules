@@ -143,16 +143,8 @@ const players = {
     },
   ],
 
-  "Absolute09_SO": [
-    {
-      role: "Суддя",
-      telegram: "t.me/Absolute_WT",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-  
-  "Arsenic3996": [
+
+   "Arsenic3996": [
     {
       role: "Охоронець суду",
       telegram: "t.me/Evgen20102010", // 7643022641
@@ -238,6 +230,15 @@ const players = {
       telegram: "t.me/Coocas",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BB8E3A5E86CF3EE68398430EAF3EF790-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+   "Absolute09_SO": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/Absolute_WT",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
