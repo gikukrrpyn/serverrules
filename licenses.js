@@ -73,7 +73,7 @@ window.licenses = {
     { username: "IZAAK1797", status: "7648929805", role: "Ресторан", telegram: "1700093221" },
     { username: "mat250956", status: "2542612025", role: "Смак Алмаза", telegram: "6304172321" },
     { username: "Mr_Zver3000", status: "6091562785", role: "Чорний Лотос", telegram: "6626655148" },
-    { username: "username roblox", status: "id бізнесу", role: "Чорний Лотос", telegram: "6626655148" },
+    { username: "Caston08963", status: "4775989978", role: "Футбольний клуб FC115 international", telegram: "7557434574" },
     { username: "username roblox", status: "id бізнесу", role: "назва", telegram: "username/id telegram" },
 
   ],
