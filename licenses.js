@@ -25,14 +25,22 @@ window.licenses = {
 
     // СБС
     "Zoomsos123": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Xmm_help" }, // id tg 5339606531
+    "maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Coocas" }, // id tg 1405483524
+    "eldor830": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/eldorichek" }, // id tg 6267044472
+    "Dorcftf": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Dorcftf" }, // id tg 6187783163
+    "Levopravo2024": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/APECTOBAL_BABKU" }, // id tg 5134083594
+    
 
     // ДБР
-    "Vaylet009": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Vaylet009" }, // id tg 5169521179 
+    "Absolute09_SO": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Absolute_WT" }, // id tg 5109532913
     "artemMelnichenko2013": { status: "Дійсна", expiry: "31.12.2025", telegram: "5242336088" },
     "maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "1405483524" },
     "nikita100808": { status: "Дійсна", expiry: "31.12.2025", telegram: "6348110356" },
     "Rechs10": { status: "Дійсна", expiry: "31.12.2025", telegram: "6387100458" },
     "starikashka228337": { status: "Дійсна", expiry: "31.12.2025", telegram: "5358641921" },
+    "dolinskuy": { status: "Дійсна", expiry: "31.12.2025", telegram: "1812225406" },
+    "kirya277": { status: "Дійсна", expiry: "31.12.2025", telegram: "1482508992" },
+    "Makes_847": { status: "Дійсна", expiry: "31.12.2025", telegram: "5681585839" },
 
     // Суд
     "Arsenic3996": { status: "Дійсна", expiry: "31.12.2025", telegram: "7643022641" },
@@ -420,11 +428,15 @@ window.licenses = {
   // Звання працівників СБС
   sbs: {
     "Zoomsos123": { role: "Голова СБС", status: "350533", telegram: "t.me/Xmm_help" }, // id tg 5339606531
-    "username": { role: "звання", status: "ID", telegram: "telegram" },
+    "maksumkasymk789": { role: "Заступник директора СБС", status: "392140", telegram: "1405483524" },
+    "eldor830": { role: "Рядовий", status: "506626", telegram: "t.me/eldorichek" },
+    "Dorcftf": { role: "Рядовий", status: "402618", telegram: "t.me/Dorcftf" },
+    "Levopravo2024": { role: "Рядовий", status: "749513", telegram: "t.me/APECTOBAL_BABKU" },
   },
 
   // Звання працівників ДБР
   dbr: {
+    "Absolute09_SO": { role: "Генерал Полковник", status: "510905", telegram: "9056098869" },
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
     "starikashka228337": { role: "Рядовий", status: "544535", telegram: "5358641921" },
     "maksumkasymk789": { role: "Молодший Лейтинант", status: "392140", telegram: "1405483524" },
@@ -432,6 +444,10 @@ window.licenses = {
     "Arsenic3996": { role: "Капрал", status: "605764", telegram: "7643022641" },
     "eldor830": { role: "Сержант", status: "506626", telegram: "6267044472" },
     "nikita100808": { role: "Капрал", status: "724634", telegram: "6348110356" },
+    "kirya277": { role: "Капрал", status: "508148", telegram: "1482508992" },
+    "Makes_847": { role: "Капрал", status: "474568", telegram: "5681585839" },
+    "dolinskuy": { role: "Капрал", status: "136181", telegram: "1812225406" },
+    "jofer_hob": { role: "Рядовий", status: "420684", telegram: "6840451973" },
   },
 
   // Таксистська ліцензія
