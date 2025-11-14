@@ -158,12 +158,12 @@ const players = {
 
 
 
-  "Vaylet009": [
+  "Absolute09_SO": [
     {
       role: "Директор ДБР",
-      telegram: "t.me/Vaylet009",
+      telegram: "t.me/Absolute_WT",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A80C02F770E55FC62861B3874FE4B35F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52234BF9E6C33D36801CF828B69EF613-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -203,6 +203,34 @@ const players = {
     },
   ],
 
+   "dolinskuy": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/Dolya_original", // 1812225406
+      category: "ДБР",
+      avatar: "https://www.roblox.com/users/1367045435/profile?friendshipSourceType=PlayerSearch",
+    },
+  ],
+
+  "kirya277": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/kirya2777", // 1482508992
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7A83617440C18F64135C61E5B1E2970D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Makes_847": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/RNSxSHAGGY", // 5681585839
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1C021592C4C14DB49B3A42A09F797188-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
 
 
 
@@ -226,19 +254,28 @@ const players = {
 
   "maksumkasymk789": [
     {
-      role: "Працівник СБС",
+      role: "Заступник Директора СБС",
       telegram: "t.me/Coocas",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BB8E3A5E86CF3EE68398430EAF3EF790-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
-   "Absolute09_SO": [
+   "Dorcftf": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/Absolute_WT",
+      telegram: "t.me/Dorcftf",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4A73371856D536748B49625E0B515AC2-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8FDD527DFC05599D9283D35484A5D2CC-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "levopravo2024": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/APECTOBAL_BABKU",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-18E01F6B24769A5A6E20A5314E653BE5-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
