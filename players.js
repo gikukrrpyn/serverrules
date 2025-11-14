@@ -134,16 +134,6 @@ const players = {
     },
   ],
 
-  "palamarka2288": [
-    {
-      role: "Суддя",
-      telegram: "t.me/Foxxi_Love",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A6B4C79D7543A347CB061C26D0A45FC3-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
    "Arsenic3996": [
     {
       role: "Охоронець суду",
