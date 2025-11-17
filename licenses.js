@@ -670,8 +670,14 @@ window.licenses = {
     "zjd_68": { "status": "T0214", "telegram": "7794902666" },
     "Solomiyakolom": { "status": "T0215", "telegram": "1728690525" },
     "sigma_moment1488ara": { "status": "T0216", "telegram": "5438013135" },
-    "username roblox": { "status": "T0217", "telegram": "username/id telegram" },
-    "username roblox": { "status": "T0218", "telegram": "username/id telegram" },
+    "Fedir786": { "status": "T0217", "telegram": "8335732565" },
+    "DIMA2442dvsg": { "status": "T0218", "telegram": "5474315984" },
+    "BeautifulSigma": { "status": "T0219", "telegram": "7614430801" },
+    "Labyby_9999": { "status": "T0220", "telegram": "6194191202" },
+    "jroslav2014dr": { "status": "T0221", "telegram": "7329691938" },
+    "PLATO_974": { "status": "T0222", "telegram": "7618844112" },
+    "Yklviv": { "status": "T0223", "telegram": "6005498606" },
+    "Oleksi426": { "status": "T0224", "telegram": "7693328569" },
 
   },
 
