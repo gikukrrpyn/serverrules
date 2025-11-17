@@ -669,7 +669,7 @@ window.licenses = {
     "Krutoi_chel1331": { "status": "T0213", "telegram": "1509244286" },
     "zjd_68": { "status": "T0214", "telegram": "7794902666" },
     "Solomiyakolom": { "status": "T0215", "telegram": "1728690525" },
-    "username roblox": { "status": "T0216", "telegram": "username/id telegram" },
+    "sigma_moment1488ara": { "status": "T0216", "telegram": "5438013135" },
     "username roblox": { "status": "T0217", "telegram": "username/id telegram" },
     "username roblox": { "status": "T0218", "telegram": "username/id telegram" },
 
