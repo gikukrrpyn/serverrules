@@ -40,7 +40,6 @@ window.licenses = {
     "starikashka228337": { status: "Дійсна", expiry: "31.12.2025", telegram: "5358641921" },
     "dolinskuy": { status: "Дійсна", expiry: "31.12.2025", telegram: "1812225406" },
     "kirya277": { status: "Дійсна", expiry: "31.12.2025", telegram: "1482508992" },
-    "Makes_847": { status: "Дійсна", expiry: "31.12.2025", telegram: "5681585839" },
 
     // Суд
     "Arsenic3996": { status: "Дійсна", expiry: "31.12.2025", telegram: "7643022641" },
@@ -445,7 +444,6 @@ window.licenses = {
     "eldor830": { role: "Сержант", status: "506626", telegram: "6267044472" },
     "nikita100808": { role: "Капрал", status: "724634", telegram: "6348110356" },
     "kirya277": { role: "Капрал", status: "508148", telegram: "1482508992" },
-    "Makes_847": { role: "Капрал", status: "474568", telegram: "5681585839" },
     "dolinskuy": { role: "Капрал", status: "136181", telegram: "1812225406" },
     "jofer_hob": { role: "Рядовий", status: "420684", telegram: "6840451973" },
   },
