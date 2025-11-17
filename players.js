@@ -198,7 +198,7 @@ const players = {
       role: "Працівник ДБР",
       telegram: "t.me/Dolya_original", // 1812225406
       category: "ДБР",
-      avatar: "https://www.roblox.com/users/1367045435/profile?friendshipSourceType=PlayerSearch",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0EA962E034FF44F7F07D121F0C5C16FE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
