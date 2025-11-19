@@ -256,15 +256,6 @@ const players = {
     },
   ],
 
-"Karinqs_UA": [
-    {
-      role: "Психолог серверу",
-      telegram: "https://t.me/Kr1stinqw,
-      category: "Інше",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0C72931E872AB16A167FC9A4B3C0F7C4-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-  
   };
 
 
