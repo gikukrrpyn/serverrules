@@ -31,6 +31,13 @@ const players = {
       category: "ДАРШ",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
+    {
+      role: "Контентмейкер",
+      telegram: "t.me/Great_Terku",
+      category: "Інше",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+    
   ],
 
   "Ntinetter": [
@@ -220,15 +227,6 @@ const players = {
     },
   ],
 
-  "eldor830": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/eldorichek",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D3D23E9ED69EA086DB126E356C1AECB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "maksumkasymk789": [
     {
       role: "Заступник Директора СБС",
@@ -253,6 +251,15 @@ const players = {
       telegram: "t.me/APECTOBAL_BABKU",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-18E01F6B24769A5A6E20A5314E653BE5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "eldor830": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/eldorichek",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D3D23E9ED69EA086DB126E356C1AECB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
