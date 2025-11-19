@@ -31,12 +31,6 @@ const players = {
       category: "ДАРШ",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-    {
-      role: "Контентмейкер",
-      telegram: "t.me/Great_Terku",
-      category: "Інше",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
    ],
 
   "Ntinetter": [
