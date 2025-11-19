@@ -709,7 +709,7 @@ window.licenses = {
     "Bloxycolpak": { status: "A7171", telegram: "6101802031" },
     "Isus_338": { status: "A7474", telegram: "t.me/NoScopeBaba" }, // id tg 5020585585
     "bodja150510": { status: "A8080", telegram: "t.me/marsqwrty0" }, // id tg 1334371648
-    "username roblox": { status: "AXXXX", telegram: "username/id telegram" },
+    "Syhoi_sprayt": { status: "8181", telegram: "1217080970" },
     "username roblox": { status: "AXXXX", telegram: "username/id telegram" },
   },
 
