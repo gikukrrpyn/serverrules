@@ -20,9 +20,9 @@ const players = {
 
   "Bandera909": [
     {
-      role: "R4 Головний адміністратор",
+      role: "Начальник НПС",
       telegram: "t.me/Great_Terku",
-      category: "Адміністрація",
+      category: "Поліція",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
     {
@@ -32,13 +32,20 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+  {
+      role: "Контентмейкер",
+      telegram: "t.me/Great_Terku",
+      category: "Інше",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
 
   "Ntinetter": [
     {
-      role: "R3 Старший адміністратор",
+      role: "R4 Головний Адміністратор",
       telegram: "t.me/makyas10",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F1EF271A48F0ED1FD4C2732CF5F1F55E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C3012658C35B0D6A4B9EE5B57ECB158D-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -159,7 +166,7 @@ const players = {
 
   "artemMelnichenko2013": [
     {
-      role: "Працівник ДБР",
+      role: "Заступник Директора ДБР",
       telegram: "5242336088",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C0C0541A9CA426461D9F9734328806-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -210,19 +217,6 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7A83617440C18F64135C61E5B1E2970D-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-
-  "Makes_847": [
-    {
-      role: "Працівник ДБР",
-      telegram: "t.me/RNSxSHAGGY", // 5681585839
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1C021592C4C14DB49B3A42A09F797188-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
-
-
 
   "Zoomsos123": [
     {
