@@ -158,7 +158,7 @@ window.licenses = {
     "Cheburah_0": { role: "21 223", status: "638429", expiry: "", telegram: "6383340935" },
     "Colden_720": { role: "35 769", status: "515371", expiry: "", telegram: "5158076915" },
     "Carlson9990": { role: "6 047", status: "625586", expiry: "", telegram: "6257652257" },
-    "cyyyyyyyys": { role: "2 465", status: "192478", expiry: "", telegram: "1926942229 },
+    "cyyyyyyyys": { role: "2 465", status: "192478", expiry: "", telegram: "1926942229" },
 
     // D
     "DOGvDOMIKE": { "role": "22 055", "status": "291643", "expiry": "", "telegram": "6433921215" },
