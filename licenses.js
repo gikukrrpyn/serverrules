@@ -450,8 +450,8 @@ window.licenses = {
     "Zoomsos123": { role: "Голова СБС", status: "350533", telegram: "t.me/Xmm_help" }, // id tg 5339606531
     "maksumkasymk789": { role: "Заступник директора СБС", status: "392140", telegram: "1405483524" },
     "eldor830": { role: "Рядовий", status: "506626", telegram: "t.me/eldorichek" },
-    "Dorcftf": { role: "Рядовий", status: "402618", telegram: "t.me/Dorcftf" },
-    "Levopravo2024": { role: "Рядовий", status: "749513", telegram: "t.me/APECTOBAL_BABKU" },
+    "Dorcftf": { role: "Молодший сержант", status: "402618", telegram: "t.me/Dorcftf" },
+    "Pit_uk": { role: "Стажер", status: "764781", telegram: "t.me/Pebro_447" },
   },
 
   // Звання працівників ДБР
@@ -467,6 +467,8 @@ window.licenses = {
     "kirya277": { role: "Капрал", status: "508148", telegram: "1482508992" },
     "dolinskuy": { role: "Капрал", status: "136181", telegram: "1812225406" },
     "jofer_hob": { role: "Рядовий", status: "420684", telegram: "6840451973" },
+    "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "6026275163" },
+    "kolyamoichenko": { role: "Рядовий", status: "745311", telegram: "7456729729" },
   },
 
   // Таксистська ліцензія
