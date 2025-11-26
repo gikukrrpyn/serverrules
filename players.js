@@ -89,10 +89,19 @@ const players = {
 
   "3cy_77781046": [
     {
-      role: "R1a Адміністратор-патрульний",
+      role: "R1b Адміністратор-Повітряний Контроль",
       telegram: "t.me/SKODA_UR",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D4BEC81A801E7CB345995DFFB88F88FD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Slavixzz4356": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/slavixzz43",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-31F95B33DDBE4E6F8D62D5BADA5DD4F4-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -134,12 +143,30 @@ const players = {
     },
   ],
 
+  "Syhoi_sprayt": [
+    {
+      role: "Державний адвокат",
+      telegram: "t.me/Staesshi",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F8A47C31FFBF943F2EC9E847405DBA22-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
    "Arsenic3996": [
     {
       role: "Охоронець суду",
       telegram: "t.me/Evgen20102010", // 7643022641
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D490A8A7313201D6127537E3A27EE5FC-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Svervanchik": [
+    {
+      role: "Охоронець суду",
+      telegram: "t.me/Svervanchik", // 5634473488
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-54BD905F52D3C02AAAA403FB6D87D512-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -211,6 +238,24 @@ const players = {
     },
   ],
 
+  "Kiril_30083008": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/Roblikser", // 6026275163
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-18103630BA8D6E96E88EEA2936582902-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "kolyamoichenko": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/KolyaMoichenko2013", // 7456729729
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-133D4C90273634EDDDBD851CE1F1CB04-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Zoomsos123": [
     {
       role: "Директор СБС",
@@ -238,12 +283,12 @@ const players = {
     },
   ],
 
-  "levopravo2024": [
+  "Pit_uk": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/APECTOBAL_BABKU",
+      telegram: "t.me/Pebro_447",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-18E01F6B24769A5A6E20A5314E653BE5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8B66029B9765C68920F4D05B6CE9AED9-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
