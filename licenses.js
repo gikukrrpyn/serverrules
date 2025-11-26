@@ -28,7 +28,7 @@ window.licenses = {
     "maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Coocas" }, // id tg 1405483524
     "eldor830": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/eldorichek" }, // id tg 6267044472
     "Dorcftf": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Dorcftf" }, // id tg 6187783163
-    "Levopravo2024": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/APECTOBAL_BABKU" }, // id tg 5134083594
+    "Pit_uk": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Pebro_447" }, // id tg 7811050819
     
 
     // ДБР
@@ -40,9 +40,12 @@ window.licenses = {
     "starikashka228337": { status: "Дійсна", expiry: "31.12.2025", telegram: "5358641921" },
     "dolinskuy": { status: "Дійсна", expiry: "31.12.2025", telegram: "1812225406" },
     "kirya277": { status: "Дійсна", expiry: "31.12.2025", telegram: "1482508992" },
+    "Kiril_30083008": { status: "Дійсна", expiry: "31.12.2025", telegram: "6026275163" },
+    "kolyamoichenk": { status: "Дійсна", expiry: "31.12.2025", telegram: "7456729729" },
 
     // Суд
     "Arsenic3996": { status: "Дійсна", expiry: "31.12.2025", telegram: "7643022641" },
+    "Svervanchik": { status: "Дійсна", expiry: "31.12.2025", telegram: "1217080970" },
 
   },
 
@@ -60,7 +63,6 @@ window.licenses = {
 
     */
     { username: "XxsSashaxxjj", status: "7696678842", role: "Грант Плюс", telegram: "1921850684" },
-    { username: "XxHA7AxX", status: "2918785998", role: "UkrBank", telegram: "1731530720" },
     { username: "MaxPowerPlay2", cans: "CANS через несплату податку на сервер.", status: "7143205526", role: "немає (тип діяльності охорона)", telegram: "6736952314" },
     { username: "Otto_octopu", cans: "CANS через несплату податку на сервер.", status: "4030724774", role: "Зевс", telegram: "6110818100" },
     { username: "neymar234612", cans: "CANS через несплату податку на сервер.", status: "5080670998", role: "Driver company UR", telegram: "2072597149" },
