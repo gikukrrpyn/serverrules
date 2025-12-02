@@ -173,7 +173,6 @@ window.licenses = {
     "Dorcftf": { "role": "139 889", "status": "402618", "expiry": "", "telegram": "6187783163" },
     "dima1gdgfyfggu": { "role": "3 172", "status": "267633", "expiry": "", "telegram": "6337847056" },
     "deesv5": { "role": "11 219", "status": "531732", "expiry": "", "telegram": "7320756543" },
-    "Dddrrrtttyykjhj": { "role": "3 122", "status": "451590", "expiry": "", "telegram": "5903095976" },
     "definitely_9643": { "role": "16 006", "status": "468595", "expiry": "", "telegram": "5957350635" },
     "danik_pro221": { "role": "34 885", "status": "201701", "expiry": "", "telegram": "7012057243" },
     "djdkdsbxi": { "role": "6 442", "status": "862803", "expiry": "", "telegram": "8031988249" },
@@ -204,7 +203,7 @@ window.licenses = {
     "Fantomchik_TV": { "role": "940", "status": "928605", "expiry": "", "telegram": "6053471356" },
     "firsunin2013": { "role": "60 646", "status": "407511", "expiry": "", "telegram": "5119828268" },
     "Fyh_634": { "role": "7 019", "status": "775866", "expiry": "", "telegram": "7751665474" },
-    "Fedir786": { "role": "11 413", "status": "833391", "expiry": "", "telegram": " 8335732565" },
+    "Fedir786": { "role": "11 413", "status": "833391", "expiry": "", "telegram": "8335732565" },
 
     // G
     "gonorer45": { "role": "14 520", "status": "120161", "expiry": "", "telegram": "1613994040" },
@@ -419,7 +418,7 @@ window.licenses = {
     "Vano122939": { "role": "35 007", "status": "806757", "expiry": "", "telegram": "7576246440" },
     "ViktorB20016": { "role": "20 515", "status": "786554", "expiry": "", "telegram": "5548568377" },
     "vano54725472": { "role": "342", "status": "701983", "expiry": "", "telegram": "7017124741" },
-    "vova34gvb": { "role": "26 411, "status": "847512", "expiry": "", "telegram": "8478553835" },
+    "vova34gvb": { "role": "26 411", "status": "847512", "expiry": "", "telegram": "8478553835" },
 
     // W
     "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
