@@ -134,18 +134,9 @@ const players = {
     },
   ],
 
-  "desna200": [
-    {
-      role: "Суддя",
-      telegram: "t.me/lox_rb",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FFAAF5CE5561888F16F1B0CBC7167BD7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Syhoi_sprayt": [
     {
-      role: "Державний адвокат",
+      role: "Суддя",
       telegram: "t.me/Staesshi",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F8A47C31FFBF943F2EC9E847405DBA22-Png/150/150/AvatarHeadshot/Webp/noFilter",
