@@ -29,6 +29,7 @@ window.licenses = {
     "eldor830": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/eldorichek" }, // id tg 6267044472
     "Dorcftf": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Dorcftf" }, // id tg 6187783163
     "Pit_uk": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Pebro_447" }, // id tg 7811050819
+    "MKSON829": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
     
 
     // ДБР
@@ -472,7 +473,8 @@ window.licenses = {
     "maksumkasymk789": { role: "Заступник директора СБС", status: "392140", telegram: "1405483524" },
     "eldor830": { role: "Рядовий", status: "506626", telegram: "t.me/eldorichek" },
     "Dorcftf": { role: "Молодший сержант", status: "402618", telegram: "t.me/Dorcftf" },
-    "Pit_uk": { role: "Стажер", status: "764781", telegram: "t.me/Pebro_447" },
+    "Pit_uk": { role: "Рядовий", status: "764781", telegram: "t.me/Pebro_447" },
+    "MKSON829": { role: "Стажер", status: "721802", telegram: "t.me/sich_o_admin" },
   },
 
   // Звання працівників ДБР
