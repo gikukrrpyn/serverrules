@@ -20,9 +20,9 @@ const players = {
 
   "Bandera909": [
     {
-      role: "Начальник НПС",
+      role: "Головний адмніністратор",
       telegram: "t.me/Great_Terku",
-      category: "Поліція",
+      category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
     {
@@ -33,15 +33,7 @@ const players = {
     },
    ],
 
-  "Ntinetter": [
-    {
-      role: "R4 Головний Адміністратор",
-      telegram: "t.me/makyas10",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C3012658C35B0D6A4B9EE5B57ECB158D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
+  
   "Itz_raose": [
     {
       role: "R2b Інспектор службового контролю",
@@ -143,28 +135,6 @@ const players = {
     },
   ],
 
-   "Arsenic3996": [
-    {
-      role: "Охоронець суду",
-      telegram: "t.me/Evgen20102010", // 7643022641
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D490A8A7313201D6127537E3A27EE5FC-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Svervanchik": [
-    {
-      role: "Охоронець суду",
-      telegram: "t.me/Svervanchik", // 5634473488
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-54BD905F52D3C02AAAA403FB6D87D512-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
-
-
-
 
   "Absolute09_SO": [
     {
@@ -259,7 +229,7 @@ const players = {
   "maksumkasymk789": [
     {
       role: "Заступник Директора СБС",
-      telegram: "t.me/Coocas",
+      telegram: "t.me/player_wins",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BB8E3A5E86CF3EE68398430EAF3EF790-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
@@ -291,6 +261,16 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D3D23E9ED69EA086DB126E356C1AECB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "MKSON829": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/sich_o_admin",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7F4F2E35F6E43C2D4BA69BFF9C338127-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
   };
 
