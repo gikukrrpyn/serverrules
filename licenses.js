@@ -28,7 +28,7 @@ window.licenses = {
     "maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Coocas" }, // id tg 1405483524
     "eldor830": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/eldorichek" }, // id tg 6267044472
     "Dorcftf": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Dorcftf" }, // id tg 6187783163
-    "Pit_uk": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Pebro_447" }, // id tg 7811050819
+    "pravolevo678": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Pebro_447" }, // id tg 7811050819
     "MKSON829": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
     
 
@@ -353,7 +353,7 @@ window.licenses = {
     "player001hj": { "role": "30 964", "status": "412717", "expiry": "", "telegram": "7172542925" },
     "paiper6576": { "role": "2 243", "status": "816790", "expiry": "", "telegram": "7909730307" },
     "ProILYHA_MYHA": { "role": "8 476", "status": "565327", "expiry": "", "telegram": "5655464476" },
-    "Pit_uk": { "role": "35 853", "status": "781764", "expiry": "", "telegram": "7811050819" },
+    "pravolevo678": { "role": "35 853", "status": "781764", "expiry": "", "telegram": "7811050819" },
     "partizanen228": { "role": "3 926", "status": "566779", "expiry": "", "telegram": "5667577829" },
     "Psap_1": { "role": "6 268", "status": "847505", "expiry": "", "telegram": "8475123404" },
     "player28242": { "role": "142 381", "status": "player28242", "expiry": "", "telegram": "5315957513" },
