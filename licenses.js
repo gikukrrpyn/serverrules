@@ -820,7 +820,7 @@ window.licenses = {
     */
     "va1ron4": { cans: "CANS через несанкціоновані дії з боку учасників мафії, проведення нелегального мітингу з використанням заборонених предметів.", status: "Чеченська мафія", telegram: "954036347", role: "Мафія" },
     "Rom_roma7": { cans: "CANS через організовані рейди з використанням читів учасників ОЗУ на наш сервер та у зв’язку з шахрайською діяльністю проти гравців нашого сервера.", status: "Хади Такташ", telegram: "t.me/Void_EH", role: "Клан" }, // id tg: 5749857571
-    "desna200": { status: "Empire's Shadow", telegram: "1398473564, role: "Мафія" },
+    "desna200": { status: "Empire's Shadow", telegram: "1398473564", role: "Мафія" },
     "username roblox": { status: "назва", telegram: "username/id telegram", role: "тип" }
   },
 
