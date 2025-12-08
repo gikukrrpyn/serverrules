@@ -100,9 +100,9 @@ const players = {
 
    "andrew_urtest": [
     {
-      role: "Головний суддя",
+      role: "Адміністратор-Патрульний",
       telegram: "t.me/ami_woolw",
-      category: "Суд",
+      category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5E59C2644AAAD908BA79DA15120D7F51-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
     {
