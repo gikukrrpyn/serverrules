@@ -98,31 +98,27 @@ const players = {
   ],
 
 
-
-
-
-
-  "Andrew_01174": [
+   "andrew_urtest": [
     {
       role: "Головний суддя",
       telegram: "t.me/ami_woolw",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B63101244F9DFAD9A1707466BFF0169-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5E59C2644AAAD908BA79DA15120D7F51-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
     {
       role: "Організатор ДАРШ",
       telegram: "t.me/ami_woolw",
       category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB76B667D48AFE9E5B853A0EE8B923AD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5E59C2644AAAD908BA79DA15120D7F51-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
   "olegh34": [
     {
-      role: "Суддя",
+      role: "Головний суддя",
       telegram: "t.me/olegh34",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-54DF76D4CFC6D31BE523D5DF2C743B82-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62E107CEF7ABA5EA7BAF7385601C92B1-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -244,12 +240,12 @@ const players = {
     },
   ],
 
-  "Pit_uk": [
+  "pravolevo678": [
     {
       role: "Працівник СБС",
       telegram: "t.me/Pebro_447",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8B66029B9765C68920F4D05B6CE9AED9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E7FC73FB481FC67A2DDD19A195D43E6-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
