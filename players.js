@@ -20,7 +20,7 @@ const players = {
 
   "Bandera909": [
     {
-      role: "Головний адмніністратор",
+      role: "R4 Головний адмніністратор",
       telegram: "t.me/Great_Terku",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -100,7 +100,7 @@ const players = {
 
    "andrew_urtest": [
     {
-      role: "Адміністратор-Патрульний",
+      role: "R1a Адміністратор-Патрульний",
       telegram: "t.me/ami_woolw",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5E59C2644AAAD908BA79DA15120D7F51-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -186,15 +186,6 @@ const players = {
     },
   ],
 
-  "kirya277": [
-    {
-      role: "Працівник ДБР",
-      telegram: "t.me/kirya2777", // 1482508992
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7A83617440C18F64135C61E5B1E2970D-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Kiril_30083008": [
     {
       role: "Працівник ДБР",
@@ -264,6 +255,15 @@ const players = {
       telegram: "t.me/sich_o_admin",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7F4F2E35F6E43C2D4BA69BFF9C338127-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+   "kirya277": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/kirya2777",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2C62D65A0F591DAAEA35E6333ED755C4-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
