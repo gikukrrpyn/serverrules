@@ -30,6 +30,7 @@ window.licenses = {
     "Dorcftf": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Dorcftf" }, // id tg 6187783163
     "pravolevo678": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Pebro_447" }, // id tg 7811050819
     "MKSON829": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
+    "kirya277": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/kirya2777" }, // id tg 1482508992
     
 
     // ДБР
@@ -44,8 +45,8 @@ window.licenses = {
     "kolyamoichenk": { status: "Дійсна", expiry: "31.12.2025", telegram: "7456729729" },
 
     // Суд
-    "Arsenic3996": { status: "Дійсна", expiry: "31.12.2025", telegram: "7643022641" },
-    "Svervanchik": { status: "Дійсна", expiry: "31.12.2025", telegram: "1217080970" },
+    "username": { status: "Дійсна", expiry: "31.12.2025", telegram: "username/id" },
+    "username": { status: "Дійсна", expiry: "31.12.2025", telegram: "username/id" },
 
   },
 
@@ -483,8 +484,9 @@ window.licenses = {
     "maksumkasymk789": { role: "Заступник директора СБС", status: "392140", telegram: "1405483524" },
     "eldor830": { role: "Рядовий", status: "506626", telegram: "t.me/eldorichek" },
     "Dorcftf": { role: "Молодший сержант", status: "402618", telegram: "t.me/Dorcftf" },
-    "Pit_uk": { role: "Рядовий", status: "764781", telegram: "t.me/Pebro_447" },
+    "pravolevo678": { role: "Рядовий", status: "764781", telegram: "t.me/Pebro_447" },
     "MKSON829": { role: "Стажер", status: "721802", telegram: "t.me/sich_o_admin" },
+    "kirya277": { role: "Стажер", status: "148508", telegram: "t.me/kirya2777" },
   },
 
   // Звання працівників ДБР
@@ -497,7 +499,6 @@ window.licenses = {
     "Arsenic3996": { role: "Капрал", status: "605764", telegram: "7643022641" },
     "eldor830": { role: "Сержант", status: "506626", telegram: "6267044472" },
     "nikita100808": { role: "Капрал", status: "724634", telegram: "6348110356" },
-    "kirya277": { role: "Капрал", status: "508148", telegram: "1482508992" },
     "dolinskuy": { role: "Капрал", status: "136181", telegram: "1812225406" },
     "jofer_hob": { role: "Рядовий", status: "420684", telegram: "6840451973" },
     "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "6026275163" },
