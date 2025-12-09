@@ -61,6 +61,15 @@ const players = {
     },
   ],
 
+  "3cy_77781046": [
+    {
+      role: "R1b Адміністратор-Повітряний Контроль",
+      telegram: "t.me/SKODA_UR",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D4BEC81A801E7CB345995DFFB88F88FD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Adein_48": [
     {
       role: "R1a Адміністратор-патрульний",
@@ -76,15 +85,6 @@ const players = {
       telegram: "t.me/M1N_HWAM1I",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-24D431081F07D2E1A9F0D36496D86126-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "3cy_77781046": [
-    {
-      role: "R1b Адміністратор-Повітряний Контроль",
-      telegram: "t.me/SKODA_UR",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D4BEC81A801E7CB345995DFFB88F88FD-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
