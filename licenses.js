@@ -34,7 +34,6 @@ window.licenses = {
     
 
     // ДБР
-    "Absolute09_SO": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Absolute_WT" }, // id tg 5109532913
     "artemMelnichenko2013": { status: "Дійсна", expiry: "31.12.2025", telegram: "5242336088" },
     "maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "1405483524" },
     "nikita100808": { status: "Дійсна", expiry: "31.12.2025", telegram: "6348110356" },
@@ -194,6 +193,8 @@ window.licenses = {
     "Dodu340dd": { "role": "31 383", "status": "438563", "expiry": "", "telegram": "5632698118" },
     "DENYS_3222": { "role": "86 746", "status": "6549534", "expiry": "", "telegram": "6499887902" },
     "Disnxidnud499": { "role": "1 774", "status": "524975", "expiry": "", "telegram": "5246667073" },
+    "dragon_not08": { "role": "3 223", "status": "833831", "expiry": "", "telegram": "8337921707" },
+    "DeMisonBrs": { "role": "8 482", "status": "853610", "expiry": "", "telegram": "8538361164" },
 
     // E
     "eeeeyegeggegehux": { "role": "30 456", "status": "275559", "expiry": "", "telegram": "5599228299" },
@@ -222,6 +223,7 @@ window.licenses = {
     "grisha_grishana20": { "role": "40", "status": "846100", "expiry": "", "telegram": "8469415267" },
     "ge33fhlh": { "role": "1 014", "status": "523500", "expiry": "", "telegram": "5239858915" },
     "GICDER13": { "role": "11 220", "status": "518895", "expiry": "", "telegram": "5181385100" },
+    "GGpaprikashGG": { "role": "2 397", "status": "512109", "expiry": "", "telegram": "5120042358" },
 
 
 
@@ -250,6 +252,7 @@ window.licenses = {
     "jroslav2014dr": { "role": "154", "status": "732323", "expiry": "", "telegram": "7329691938" },
     "jfhhddjh": { "role": "23 737", "status": "699244", "expiry": "", "telegram": "6997233193" },
     "jgdfgjfgnd": { "role": "9 853", "status": "310763", "expiry": "", "telegram": "7630293394" },
+    "jeka34567899": { "role": "88 471", "status": "811456", "expiry": "", "telegram": "8114402013" },
 
 
 
@@ -314,6 +317,8 @@ window.licenses = {
     "Moloduikozak": { role: "2 129", status: "713405", expiry: "", telegram: "7138869614" },
     "maksim2013kiev": { role: "1 920", status: "743339", expiry: "", telegram: "7432489557" },
     "MKSON829": { role: "1 739", status: "712802", expiry: "", telegram: "7126844124" },
+    "Maksuuuda": { role: "682", status: "493766", expiry: "", telegram: "7664835907" },
+    "Makaron22227": { role: "682", status: "690853", expiry: "", telegram: "6908762601" },
 
 
     // N
@@ -357,7 +362,8 @@ window.licenses = {
     "pravolevo678": { "role": "35 853", "status": "781764", "expiry": "", "telegram": "7811050819" },
     "partizanen228": { "role": "3 926", "status": "566779", "expiry": "", "telegram": "5667577829" },
     "Psap_1": { "role": "6 268", "status": "847505", "expiry": "", "telegram": "8475123404" },
-    "player28242": { "role": "142 381", "status": "player28242", "expiry": "", "telegram": "5315957513" },
+    "player28242": { "role": "142 381", "status": "531476", "expiry": "", "telegram": "5315957513" },
+    "Pacha_f9": { "role": "2 014", "status": "549484", "expiry": "", "telegram": "5493911565" },
 
     // Q
 
@@ -431,6 +437,7 @@ window.licenses = {
     "vano54725472": { "role": "342", "status": "701983", "expiry": "", "telegram": "7017124741" },
     "vova34gvb": { "role": "26 411", "status": "847512", "expiry": "", "telegram": "8478553835" },
     "vlad_demi": { "role": "54", "status": "140221", "expiry": "", "telegram": "1406514887" },
+    "Vip_Teg5": { "role": "5 677", "status": "520784", "expiry": "", "telegram": "7849163796" },
 
     // W
     "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
@@ -441,6 +448,8 @@ window.licenses = {
     // X
     "XxsSashaxxjj": { "role": "31 998", "status": "374713", "expiry": "", "telegram": "7135907655" },
     "XxHA7AxX": { "role": "82 115", "status": "291173", "expiry": "", "telegram": "1731530720" },
+    "xs_misha51": { "role": "3 037", "status": "815464", "expiry": "", "telegram": "8154232017" },
+
 
     // Y
     "Yarik_Exalle": { "role": "7 328", "status": "360621", "expiry": "", "telegram": "6218212222" },
