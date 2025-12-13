@@ -52,12 +52,12 @@ const players = {
     },
   ],
 
-  "Junius_2008": [
+  "Slavixzz4356": [
     {
       role: "R1с Адміністратор-комунікатор",
-      telegram: "t.me/ara_wxug",
+      telegram: "t.me/slavixzz43",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7C32621AAF22289C251138AB18FD5160-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-31F95B33DDBE4E6F8D62D5BADA5DD4F4-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -88,12 +88,12 @@ const players = {
     },
   ],
 
-  "Slavixzz4356": [
+  "Junius_2008": [
     {
       role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/slavixzz43",
+      telegram: "t.me/ara_wxug",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-31F95B33DDBE4E6F8D62D5BADA5DD4F4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9E6CF18AD4B711E8866BF55A5EF1CFE9-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -228,15 +228,6 @@ const players = {
       telegram: "t.me/Dorcftf",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8FDD527DFC05599D9283D35484A5D2CC-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "pravolevo678": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/Pebro_447",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E7FC73FB481FC67A2DDD19A195D43E6-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
