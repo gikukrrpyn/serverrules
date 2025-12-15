@@ -33,6 +33,14 @@ const players = {
     },
    ],
 
+  "sergij18": [
+    {
+      role: "R2a Головний координатор ролі",
+      telegram: "t.me/Sergij9000",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB194328B57422E8EA87C2DAAEDE4548-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
   
   "Itz_raose": [
     {
@@ -43,14 +51,6 @@ const players = {
     },
   ],
 
-  "sergij18": [
-    {
-      role: "R2a Головний координатор ролі",
-      telegram: "t.me/Sergij9000",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB194328B57422E8EA87C2DAAEDE4548-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "Slavixzz4356": [
     {
@@ -119,6 +119,15 @@ const players = {
       telegram: "t.me/olegh34",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62E107CEF7ABA5EA7BAF7385601C92B1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "eeeeyegeggegehux": [
+    {
+      role: "Суддя",
+      telegram: "t.me/JonDR_9620R",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B1640B3F699D47285E17CB540CA73C63-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
