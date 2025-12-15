@@ -83,7 +83,9 @@ window.licenses = {
     { username: "mat250956", status: "2542612025", role: "Смак Алмаза", telegram: "6304172321" },
     { username: "Mr_Zver3000", status: "6091562785", role: "Чорний Лотос", telegram: "6626655148" },
     { username: "Caston08963", status: "4775989978", role: "Футбольний клуб FC115 international", telegram: "7557434574" },
-    { username: "username roblox", status: "id бізнесу", role: "назва", telegram: "username/id telegram" },
+    { username: "kingfogfok", status: "500448677", role: "Reapers", telegram: "842515350" },
+    { username: "Bandera909", status: "3537582829", role: "Aureum Law Office", telegram: "6909809142" },
+    { username: "palamarka2288", status: "4340767989", role: "Оперативний Підрозділ 1", telegram: "1902876079" },
 
   ],
 
@@ -751,6 +753,11 @@ window.licenses = {
     "PLATO_974": { "status": "T0222", "telegram": "7618844112" },
     "Yklviv": { "status": "T0223", "telegram": "6005498606" },
     "Oleksi426": { "status": "T0224", "telegram": "7693328569" },
+    "fgron38": { "status": "T0225", "telegram": "8464091744" },
+    "PON_DA911": { "status": "T0226", "telegram": "8464091744" },
+    "Yffgjjifh": { "status": "T0227", "telegram": "5367053785" },
+    "Vano122939": { "status": "T0228", "telegram": "7576246440" },
+    "rdotyhbh": { "status": "T0229", "telegram": "7422972652" },
 
   },
 
