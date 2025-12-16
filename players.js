@@ -35,7 +35,7 @@ const players = {
 
   "sergij18": [
     {
-      role: "R2a Головний координатор ролі",
+      role: "R3 Старший Адміністратор",
       telegram: "t.me/Sergij9000",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB194328B57422E8EA87C2DAAEDE4548-Png/150/150/AvatarHeadshot/Webp/noFilter",
