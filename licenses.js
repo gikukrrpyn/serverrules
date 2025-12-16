@@ -281,7 +281,7 @@ window.licenses = {
     "Krill358": { role: "3 016", status: "724482", expiry: "", telegram: "7249275121" },
     "kingfogfok": { role: "19 137", status: "845500", expiry: "", telegram: "842515350" },
     "KAMZONER": { role: "5 356", status: "5128407", expiry: "", telegram: "5185748523" },
-    "kakashkavurybashkaa": { role: "2 658", status: "549233", expiry: "", telegram: "5249364290" },
+    "kakashkavurybashkaa": { role: "26 658", status: "549233", expiry: "", telegram: "5249364290" },
  
 
     // L
