@@ -65,7 +65,6 @@ window.licenses = {
     { username: "XxsSashaxxjj", status: "7696678842", role: "Грант Плюс", telegram: "1921850684" },
     { username: "MaxPowerPlay2", cans: "CANS через несплату податку на сервер.", status: "7143205526", role: "немає (тип діяльності охорона)", telegram: "6736952314" },
     { username: "Otto_octopu", cans: "CANS через несплату податку на сервер.", status: "4030724774", role: "Зевс", telegram: "6110818100" },
-    { username: "neymar234612", cans: "CANS через несплату податку на сервер.", status: "5080670998", role: "Driver company UR", telegram: "2072597149" },
     { username: "Caston08963", status: "4775989978", role: "ОВЖ (Охорона Вашого Життя)", telegram: "7557434574" },
     { username: "nikita100808", cans: "CANS через несплату податку на сервер.", status: "7244099562", role: "Olimp", telegram: "6348110356" },
     { username: "cheater777_Yt", cans: "CANS через несплату податку на сервер.", status: "1509308134", role: "ВВС", telegram: "5696745197" },
