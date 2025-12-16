@@ -85,7 +85,9 @@ window.licenses = {
     { username: "Caston08963", status: "4775989978", role: "Футбольний клуб FC115 international", telegram: "7557434574" },
     { username: "kingfogfok", status: "500448677", role: "Reapers", telegram: "842515350" },
     { username: "Bandera909", status: "3537582829", role: "Aureum Law Office", telegram: "6909809142" },
-    { username: "palamarka2288", status: "4340767989", role: "Оперативний Підрозділ 1", telegram: "1902876079" },
+    { username: "palamarka2288", status: "4340767989", role: "Оперативний Підрозділ", telegram: "1902876079" },
+    { username: "neymar234612", status: "5080670998", role: "AR BANK", telegram: "2072597149" },
+
 
   ],
 
