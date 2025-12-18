@@ -87,6 +87,7 @@ window.licenses = {
     { username: "Bandera909", status: "3537582829", role: "Aureum Law Office", telegram: "6909809142" },
     { username: "palamarka2288", status: "4340767989", role: "Оперативний Підрозділ", telegram: "1902876079" },
     { username: "neymar234612", status: "5080670998", role: "AR BANK", telegram: "2072597149" },
+    { username: "Levopravo2024", status: "7491753543", role: "UR Events", telegram: "5134083594" },
 
 
   ],
@@ -801,6 +802,9 @@ window.licenses = {
     "bodja150510": { status: "A8080", telegram: "t.me/marsqwrty0" }, // id tg 1334371648
     "Syhoi_sprayt": { status: "А8181", telegram: "1217080970" },
     "Danfas4": { status: "A8282", telegram: "username/id telegram" },
+    "olegh34": { status: "A8383", telegram: "5007175515" },
+    "Levopravo2024": { status: "A8484", telegram: "5134083594" },
+    "Englishorspanish_1w7": { status: "A8585", telegram: "5963490462" },
   },
 
   // Прес-карти
