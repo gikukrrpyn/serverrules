@@ -141,12 +141,12 @@ const players = {
   ],
 
 
-  "Absolute09_SO": [
+  "kingfogfok": [
     {
       role: "Директор ДБР",
-      telegram: "t.me/Absolute_WT",
+      telegram: "t.me/lllCasino",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52234BF9E6C33D36801CF828B69EF613-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5AFAF09F0BFFAAAC0E3A49019043AD61-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -255,15 +255,6 @@ const players = {
       telegram: "t.me/sich_o_admin",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7F4F2E35F6E43C2D4BA69BFF9C338127-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-   "kirya277": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/kirya2777",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2C62D65A0F591DAAEA35E6333ED755C4-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
