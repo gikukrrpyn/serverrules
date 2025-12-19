@@ -30,7 +30,6 @@ window.licenses = {
     "Dorcftf": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Dorcftf" }, // id tg 6187783163
     "pravolevo678": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Pebro_447" }, // id tg 7811050819
     "MKSON829": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
-    "kirya277": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/kirya2777" }, // id tg 1482508992
     
 
     // ДБР
@@ -43,6 +42,7 @@ window.licenses = {
     "Kiril_30083008": { status: "Дійсна", expiry: "31.12.2025", telegram: "6026275163" },
     "kolyamoichenk": { status: "Дійсна", expiry: "31.12.2025", telegram: "7456729729" },
     "Mr_Zver3000": { status: "Дійсна", expiry: "31.12.2025", telegram: "6626655148" },
+    "kingfogfok": { status: "Дійсна", expiry: "31.12.2025", telegram: "500448688" },
 
     // Суд
     "username": { status: "Дійсна", expiry: "31.12.2025", telegram: "username/id" },
@@ -537,8 +537,8 @@ window.licenses = {
     "jofer_hob": { role: "Рядовий", status: "420684", telegram: "6840451973" },
     "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "6026275163" },
     "kolyamoichenko": { role: "Рядовий", status: "745311", telegram: "7456729729" },
-    "Rokk834": { role: "Рядовий", status: "747751", telegram: "7517215417" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
+    "kingfogfok": { role: "Директор ДБР", status: "500842", telegram: "842515350" },
   },
 
   // Таксистська ліцензія
