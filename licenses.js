@@ -82,7 +82,6 @@ window.licenses = {
     { username: "IZAAK1797", status: "7648929805", role: "Ресторан", telegram: "1700093221" },
     { username: "mat250956", status: "2542612025", role: "Смак Алмаза", telegram: "6304172321" },
     { username: "Mr_Zver3000", status: "6091562785", role: "Чорний Лотос", telegram: "6626655148" },
-    { username: "Caston08963", status: "4775989978", role: "Футбольний клуб FC115 international", telegram: "7557434574" },
     { username: "kingfogfok", status: "500448677", role: "Reapers", telegram: "842515350" },
     { username: "Bandera909", status: "3537582829", role: "Aureum Law Office", telegram: "6909809142" },
     { username: "palamarka2288", status: "4340767989", role: "Оперативний Підрозділ", telegram: "1902876079" },
@@ -792,6 +791,9 @@ window.licenses = {
     "Yffgjjifh": { "status": "T0227", "telegram": "5367053785" },
     "Vano122939": { "status": "T0228", "telegram": "7576246440" },
     "rdotyhbh": { "status": "T0229", "telegram": "7422972652" },
+    "oleg5192": { "status": "T0230", "telegram": "7504636795" },
+    "dimka_barabimka3": { "status": "T0231", "telegram": "5987683472" },
+    "Nestor112364": { "status": "T0232", "telegram": "6714098603" },
 
   },
 
@@ -866,7 +868,7 @@ window.licenses = {
     "Pushka2030": { "status": "NOW NEWS", "telegram": "t.me/BuddyyyXD" }, // 5549609551
     "Robert_polsan228": { "status": "NOW NEWS", "telegram": "t.me/Mr_Akylo4ka" }, // 1921850684
     "Solomiyakolom": { "status": "Interesting Ukraine", "telegram": "t.me/knyazzin" }, // 1728690525
-    "username roblox": { "status": "назва ЗМІ", "telegram": "t.me/username" },
+    "3су_77781046": { "status": "Телеканал РАДА Єдині Новини /// UR": "t.me/SKODA_UR" }, // 6370149052
   },
 
   // Легалізовані ОЗУ
