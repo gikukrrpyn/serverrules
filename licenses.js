@@ -868,7 +868,8 @@ window.licenses = {
     "Pushka2030": { "status": "NOW NEWS", "telegram": "t.me/BuddyyyXD" }, // 5549609551
     "Robert_polsan228": { "status": "NOW NEWS", "telegram": "t.me/Mr_Akylo4ka" }, // 1921850684
     "Solomiyakolom": { "status": "Interesting Ukraine", "telegram": "t.me/knyazzin" }, // 1728690525
-    "3су_77781046": { "status": "Телеканал РАДА Єдині Новини /// UR": "t.me/SKODA_UR" }, // 6370149052
+    "3су_77781046": { "status": "Телеканал РАДА Єдині Новини /// UR", "telegram": "t.me/SKODA_UR" }, // 6370149052
+    "username": { "status": "назва", "telegram": "t.me/сюди вставити username" }, 
   },
 
   // Легалізовані ОЗУ
