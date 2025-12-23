@@ -28,8 +28,8 @@ window.licenses = {
     "maksumkasymk789": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Coocas" }, // id tg 1405483524
     "eldor830": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/eldorichek" }, // id tg 6267044472
     "Dorcftf": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Dorcftf" }, // id tg 6187783163
-    "pravolevo678": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/Pebro_447" }, // id tg 7811050819
     "MKSON829": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
+    "sosiska8756": { status: "Дійсна", expiry: "31.12.2025", telegram: "t.me/ffucksolevoy" }, // id tg 7315509029
     
 
     // ДБР
@@ -536,7 +536,7 @@ window.licenses = {
     "Dorcftf": { role: "Молодший сержант", status: "402618", telegram: "t.me/Dorcftf" },
     "pravolevo678": { role: "Рядовий", status: "764781", telegram: "t.me/Pebro_447" },
     "MKSON829": { role: "Рядовий", status: "721802", telegram: "t.me/sich_o_admin" },
-    "username": { role: "Стажер", status: "148508", telegram: "t.me/username" },
+    "sosiska8756": { role: "Рядовий", status: "731335", telegram: "t.me/ffucksolevoy" },
   },
 
   // Звання працівників ДБР
