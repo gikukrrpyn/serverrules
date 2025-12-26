@@ -85,7 +85,6 @@ window.licenses = {
     { username: "kingfogfok", status: "500448677", role: "Reapers", telegram: "842515350" },
     { username: "Bandera909", status: "3537582829", role: "Aureum Law Office", telegram: "6909809142" },
     { username: "palamarka2288", status: "4340767989", role: "Оперативний Підрозділ", telegram: "1902876079" },
-    { username: "neymar234612", status: "5080670998", role: "AR BANK", telegram: "2072597149" },
     { username: "Levopravo2024", status: "7491753543", role: "UR Events", telegram: "5134083594" },
 
 
@@ -806,6 +805,9 @@ window.licenses = {
     "oleg5192": { "status": "T0230", "telegram": "7504636795" },
     "dimka_barabimka3": { "status": "T0231", "telegram": "5987683472" },
     "Nestor112364": { "status": "T0232", "telegram": "6714098603" },
+    "Vndall": { "status": "T0233", "telegram": "8190358361" },
+    "BMW_M5F456": { "status": "T0234", "telegram": "1172225259" },
+    "IllaBro2222": { "status": "T0235", "telegram": "1172225259" },
 
   },
 
