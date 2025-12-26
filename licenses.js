@@ -504,7 +504,7 @@ window.licenses = {
     "yegorhacke": { "role": "1 318", "status": "581283", "expiry": "", "telegram": "5817738385" },
     "Yffgjjifh": { "role": "37 475", "status": "709536", "expiry": "", "telegram": "5367053785" },
     "yxyxdimon": { "role": "4 017", "status": "708738", "expiry": "", "telegram": "7383511396" },
-    "Yklviv": { "role": "11 988", "status": "600339", "expiry": "", "telegram": "6005498606" },
+    "Yklviv": { "role": "14 012", "status": "600339", "expiry": "", "telegram": "6005498606" },
     "yZasa_feda": { "role": "14 012", "status": "667204", "expiry": "", "telegram": "7017516540" },
 
     // Z
