@@ -103,6 +103,15 @@ const players = {
     },
   ],
 
+  "Ntinetter": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/makyas10",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF86C148E6C14E9065DB349A3C26348F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
   "olegh34": [
     {
@@ -120,14 +129,38 @@ const players = {
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B1640B3F699D47285E17CB540CA73C63-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-  ],
+    {
+      role: "Діджей ДАРШ",
+      telegram: "t.me/JonDR_9620R",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+   ],
 
-  "Syhoi_sprayt": [
+  "kirya277": [
     {
       role: "Суддя",
-      telegram: "t.me/Staesshi",
+      telegram: "t.me/kirya2777",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F8A47C31FFBF943F2EC9E847405DBA22-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DD22DCA1FE530FB4C14E8C79FB953B22-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Caston08963": [
+    {
+      role: "Охоронець суду",
+      telegram: "t.me/I_am_Grifit_the_beautiful_knighti",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-917F5EFDF5B6C8BE290E05623C3E9B85-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "4ooSe_3104": [
+    {
+      role: "Охоронець суду",
+      telegram: "https://t.me/pupt1mmy",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9C0C39C71B207E4C9BE5DEEF62DC06FF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -247,6 +280,15 @@ const players = {
       telegram: "t.me/ffucksolevoy",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8835E243567B04D822EAFE36F582AAE7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Rostyk_gej71": [
+    {
+      role: "Водій лімузина",
+      telegram: "t.me/Kotro71",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-954E1014189DC7C85116EEFA537F349D-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
