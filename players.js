@@ -133,7 +133,7 @@ const players = {
       role: "Діджей ДАРШ",
       telegram: "t.me/JonDR_9620R",
       category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B1640B3F699D47285E17CB540CA73C63-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
    ],
 
