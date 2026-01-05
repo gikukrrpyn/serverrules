@@ -57,7 +57,7 @@ const players = {
       role: "R1с Адміністратор-комунікатор",
       telegram: "t.me/slavixzz43",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-31F95B33DDBE4E6F8D62D5BADA5DD4F4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB2D55E18803AD614AF7BE92BC1F9B32-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -94,15 +94,6 @@ const players = {
     },
   ],
 
-  "Junius_2008": [
-    {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/ara_wxug",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9E6CF18AD4B711E8866BF55A5EF1CFE9-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Ntinetter": [
     {
       role: "R1a Адміністратор-Патрульний",
@@ -124,7 +115,7 @@ const players = {
 
   "eeeeyegeggegehux": [
     {
-      role: "Суддя",
+      role: "Заступник головного судді",
       telegram: "t.me/JonDR_9620R",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B1640B3F699D47285E17CB540CA73C63-Png/150/150/AvatarHeadshot/Webp/noFilter",
