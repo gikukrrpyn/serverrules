@@ -273,6 +273,43 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8835E243567B04D822EAFE36F582AAE7-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+  
+
+  "pavel36558": [
+    {
+      role: "Директор НАБС",
+      telegram: "t.me/barabanya_kolbasa",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-07B7B547553380E15026673EB5E53EFF-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "constelations152": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/endlesliness",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0462BE8CC7B77BF2EA9C8C5AD4366384-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "kirya_Gambit": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/kiriwllq11",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0DB1767CF16629C481AE1E2C7CE273B4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "777ivan07": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/ivanoll_vip",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3FD9560F25B29CB3EEE0DB0523E85F79-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
 
   "Rostyk_gej71": [
     {
