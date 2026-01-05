@@ -292,6 +292,15 @@ const players = {
     },
   ],
 
+  "Kristinqs": [
+    {
+      role: "Психолог",
+      telegram: "t.me/Kr1stinqss",
+      category: "Інше",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-78B7D7731F78D20987C5CFE334D92EF1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
   };
 
