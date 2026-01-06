@@ -311,6 +311,15 @@ const players = {
     },
   ],
 
+  "NOOB_GOLDI": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/METAMORP_n1",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D418C8033174593C37552C9FB8E77BCD-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Rostyk_gej71": [
     {
       role: "Водій лімузина",
