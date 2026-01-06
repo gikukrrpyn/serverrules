@@ -112,7 +112,7 @@ window.licenses = {
     "3333OMON": { "role": "24 318", "status": "114605", "expiry": "", "telegram": "6058122903" },
     
     // 4
-    "4ooSe_3104": { "role": "1 116", "status": "578363", "expiry": "", "telegram": "5688779177" },
+    "4ooSe_3104": { "role": "4 571", "status": "578363", "expiry": "", "telegram": "5688779177" },
     
      //6
      "666_Vegas": { "role": "63 526", "status": "629324", "expiry": "", "telegram": "6297036775" },
@@ -126,7 +126,7 @@ window.licenses = {
     "9999_Anime": { "role": "27 473", "status": "338546", "expiry": "", "telegram": "5463405945" },
 
     // A (перший символ username)
-    "andrew_urtest": { "role": "9 710", "status": "526108", "expiry": "", "telegram": "5262299554" },
+    "andrew_urtest": { "role": "20 553", "status": "526108", "expiry": "", "telegram": "5262299554" },
     "arbus34s": { "role": "3 274", "status": "418501", "expiry": "", "telegram": "5017227588" },
     "Adein_48": { "role": "50 358", "status": "133654", "expiry": "", "telegram": "6549388943" },
     "ATEM_SYRC": { "role": "30 819", "status": "436191", "expiry": "", "telegram": "1915195071" },
@@ -154,7 +154,7 @@ window.licenses = {
     "Bandera909": { "role": "Ветеран", "status": "353690", "expiry": "", "telegram": "6909809142" },
     "banan_228gg1": { "role": "56 775", "status": "607724", "expiry": "", "telegram": "7249340917" },
     "BEBROCHKA_2287667": { "role": "26 221", "status": "577605", "expiry": "", "telegram": "6058122903" },
-    "BETA_ALPHA999": { "role": "19 407", "status": "813616", "expiry": "", "telegram": "6160003630" },
+    "BETA_ALPHA999": { "role": "27 512", "status": "813616", "expiry": "", "telegram": "6160003630" },
     "Bumblebee_20802": { "role": "735", "status": "153862", "expiry": "", "telegram": "1536069947" },
     "BMvv_e34": { "role": "43 000", "status": "504537", "expiry": "", "telegram": "5054965905" },
     "Black_Batman02": { "role": "57 978", "status": "109379", "expiry": "", "telegram": "1093245097" },
@@ -164,8 +164,10 @@ window.licenses = {
     "Bob5604506": { "role": "9 633", "status": "747754", "expiry": "", "telegram": "7478703024" },
     "BMW_5098591": { "role": "6 191", "status": "604802", "expiry": "", "telegram": "6042898465" },
     "BEBRA207F2": { "role": "8 013", "status": "51687", "expiry": "", "telegram": "5168967051" },
-    "Bohdan1031": { "role": "4 655", "status": "579791", "expiry": "", "telegram": "5795035694" },
     "Bohdan1031": { "role": "37 620", "status": "806898", "expiry": "", "telegram": "8064092076" },
+    "BOBERnaKALENE": { "role": "1 792", "status": "620769", "expiry": "", "telegram": "6201938709" },
+    "bream_454647848": { "role": "29 000", "status": "553555", "expiry": "", "telegram": "5530147387" },
+
 
 
 
@@ -178,8 +180,9 @@ window.licenses = {
     "Cheburah_0": { role: "21 223", status: "638429", expiry: "", telegram: "6383340935" },
     "Colden_720": { role: "35 769", status: "515371", expiry: "", telegram: "5158076915" },
     "Carlson9990": { role: "6 047", status: "625586", expiry: "", telegram: "6257652257" },
-    "cyyyyyyyys": { role: "10 006", status: "192478", expiry: "", telegram: "1926942229" },
+    "cyyyyyyyys": { role: "16 577", status: "192478", expiry: "", telegram: "1926942229" },
     "ccnfcsr35": { role: "1 219", status: "780359", expiry: "", telegram: "7800158439" },
+    "Chisburger02": { role: "13 212", status: "780359", expiry: "", telegram: "6501600339" },
 
     // D
     "DOGvDOMIKE": { "role": "22 055", "status": "291643", "expiry": "", "telegram": "6433921215" },
@@ -210,6 +213,11 @@ window.licenses = {
     "dragon_not08": { "role": "3 223", "status": "833831", "expiry": "", "telegram": "8337921707" },
     "DeMisonBrs": { "role": "10 009", "status": "853610", "expiry": "", "telegram": "8538361164" },
     "Dravix_vibe": { "role": "1 950", "status": "898815", "expiry": "", "telegram": "8156462440" },
+    "dotd649": { "role": "28 901", "status": "817968", "expiry": "", "telegram": "8171979913" },
+    "Danyaaaaaaaaaa0006": { "role": "3 900", "status": "763622", "expiry": "", "telegram": "7636472784" },
+    "Dariysmertnk": { "role": "90 521", "status": "788333", "expiry": "", "telegram": "7889063904" },
+    "denik3570": { "role": "385", "status": "150968", "expiry": "", "telegram": "1505423645" },
+    "Dkndhfyjtn": { "role": "27 133", "status": "569393", "expiry": "", "telegram": "15691333952" },
 
     // E
     "eeeeyegeggegehux": { "role": "30 456", "status": "275559", "expiry": "", "telegram": "5599228299" },
@@ -230,6 +238,7 @@ window.licenses = {
     "fed09172": { "role": "1 994", "status": "529913", "expiry": "", "telegram": "5290943071" },
     "Fnnfgnjgf": { "role": "353", "status": "438438", "expiry": "", "telegram": "5059070361" },
     "Fast1lk5": { "role": "166", "status": "601650", "expiry": "", "telegram": "6501180350" },
+    "Fakijdik": { "role": "5 141", "status": "593438", "expiry": "", "telegram": "5931117420" },
 
     // G
     "gonorer45": { "role": "14 520", "status": "120161", "expiry": "", "telegram": "1613994040" },
@@ -243,7 +252,7 @@ window.licenses = {
     "ge33fhlh": { "role": "1 014", "status": "523500", "expiry": "", "telegram": "5239858915" },
     "GICDER13": { "role": "11 220", "status": "518895", "expiry": "", "telegram": "5181385100" },
     "GGpaprikashGG": { "role": "2 397", "status": "512109", "expiry": "", "telegram": "5120042358" },
-    "golopa076": { "role": "13 004", "status": "854745", "expiry": "", "telegram": "8549231265" },
+    "golopa076": { "role": "15 698", "status": "854745", "expiry": "", "telegram": "8549231265" },
 
 
 
@@ -286,7 +295,7 @@ window.licenses = {
     // K
     "Kedvirm": { "role": "46 524", "status": "402781", "expiry": "", "telegram": "7811987070" },
     "Kolopohv": { "role": "38 097", "status": "481628", "expiry": "", "telegram": "6286540452" },
-    "Kirilkleo123422": { "role": "18 505", "status": "833737", "expiry": "", "telegram": "7378236816" },
+    "Kirilkleo123422": { "role": "22 017", "status": "833737", "expiry": "", "telegram": "7378236816" },
     "kiril_30083008": { role: "31 374", status: "883602", expiry: "", telegram: "6026275163" },
     "Kirya_Gambit": { role: "26 404", status: "759561", expiry: "", telegram: "5611774157" },
     "Klipri": { role: "23 707", status: "185548", expiry: "", telegram: "548708048" },
@@ -302,6 +311,8 @@ window.licenses = {
     "kingfogfok": { role: "19 137", status: "845500", expiry: "", telegram: "842515350" },
     "KAMZONER": { role: "5 356", status: "5128407", expiry: "", telegram: "5185748523" },
     "kakashkavurybashkaa": { role: "26 658", status: "549233", expiry: "", telegram: "5249364290" },
+    "Kolkav9": { role: "9 452", status: "502822", expiry: "", telegram: "5057962662" },
+    "kiril_krisov1": { role: "21 802", status: "753485", expiry: "", telegram: "7531872975" },
  
 
     // L
@@ -316,6 +327,7 @@ window.licenses = {
     "Labyby_9999": { "role": "11 431", "status": "619860", "expiry": "", "telegram": "6194191202" },
     "lev_001y": { "role": "2 633", "status": "796326", "expiry": "", "telegram": "7968066802" },
     "lopi3725": { "role": "2 940", "status": "183412", "expiry": "", "telegram": "1838703759" },
+    "Lipodgre": { "role": "1 257", "status": "630916", "expiry": "", "telegram": "6308121808" },
 
     // M
     "mamkinxaker229": { "role": "46 264", "status": "329543", "expiry": "", "telegram": "5433768754" },
@@ -324,14 +336,14 @@ window.licenses = {
     "Maks15top_1": { role: "10 827", status: "483610", expiry: "", telegram: "6107412355" },
     "Misha222sok": { role: "20 242", status: "480615", expiry: "", telegram: "6159153631" },
     "Mbfppe": { role: "1 849", status: "402203", expiry: "", telegram: "2032234018" },
-    "Max520015": { role: "14 506", status: "754598", expiry: "", telegram: "5983478576" },
+    "Max520015": { role: "16 995", status: "754598", expiry: "", telegram: "5983478576" },
     "Marcat210228": { role: "1 494", status: "486500", expiry: "", telegram: "5009537118" },
     "Makes_847": { role: "Комісар", status: "474568", expiry: "", telegram: "56815858393" },
     "Mishawais2000": { role: "890", status: "455539", expiry: "", telegram: "5395188779" },
     "Maksik1344": { role: "2 612", status: "112585", expiry: "", telegram: "5850433024" },
     "Mr_Zver3000": { role: "35 817", status: "609662", expiry: "", telegram: "6626655148" },
     "Mattwj_rblx": { role: "2 188", status: "462514", expiry: "", telegram: "5141140329" },
-    "Markito5518": { role: "13 601", status: "511640", expiry: "", telegram: "6408141542" },
+    "Markito5518": { role: "22 027", status: "511640", expiry: "", telegram: "6408141542" },
     "Maksimkos52": { role: "15 595", status: "848713", expiry: "", telegram: "7133764937" },
     "MakisMakis1": { role: "4 442", status: "552576", expiry: "", telegram: "5760282370" },
     "mthin": { role: "10 481", status: "561501", expiry: "", telegram: "5611639400" },
@@ -340,20 +352,22 @@ window.licenses = {
     "Maksmakus": { role: "13 655", status: "676145", expiry: "", telegram: "6766041555" },
     "Matviy_qs13": { role: "1 867", status: "956774", expiry: "", telegram: "7749923360" },
     "MHE_HOPMIK300889": { role: "3 919", status: "331692", expiry: "", telegram: "8551741743" },
-    "mastergame100p": { role: "10 192", status: "570290", expiry: "", telegram: "5706483624" },
+    "mastergame100p": { role: "13 546", status: "570290", expiry: "", telegram: "5706483624" },
     "mynameis_max2280": { role: "9 715", status: "572540", expiry: "", telegram: "5726023330" },
     "MARS_245642": { role: "7 237", status: "769406", expiry: "", telegram: "7693509552" },
     "Moloduikozak": { role: "2 129", status: "713405", expiry: "", telegram: "7138869614" },
     "maksim2013kiev": { role: "1 920", status: "743339", expiry: "", telegram: "7432489557" },
-    "MKSON829": { role: "1 739", status: "712802", expiry: "", telegram: "7126844124" },
+    "MKSON829": { role: "4 199", status: "712802", expiry: "", telegram: "7126844124" },
     "Maksuuuda": { role: "682", status: "493766", expiry: "", telegram: "7664835907" },
     "Makaron22227": { role: "682", status: "690853", expiry: "", telegram: "6908762601" },
     "MomO777659": { role: "1 492", status: "779527", expiry: "", telegram: "8356567081" },
     "macejten": { role: "3 078", status: "147101", expiry: "", telegram: "1457907243" },
-    "Maksim15469": { role: "3 715", status: "612561", expiry: "", telegram: "6218538220" },
+    "Maksim15469": { role: "6 016", status: "612561", expiry: "", telegram: "6218538220" },
     "Moiisha_Brothers": { role: "12 547", status: "629727", expiry: "", telegram: "6293596796" },
     "Morkva799": { role: "1 147", status: "774766", expiry: "", telegram: "7743957108" },
+    "Matviy105012": { role: "5 137", status: "615463", expiry: "", telegram: "6153820089" },
 
+    
 
 
     // N
@@ -372,6 +386,8 @@ window.licenses = {
     "Niko1989Z": { role: "7 859", status: "192303", expiry: "", telegram: "1921033973" },
     "nemew1234567809qq": { role: "1 100", status: "643461", expiry: "", telegram: "6432298821" },
     "Nestor112363": { role: "1 260", status: "671441", expiry: "", telegram: "6714098603" },
+    "Nazar_kooo": { role: "13 238", status: "541485", expiry: "", telegram: "5410651455" },
+    
 
     // O
     "od1nok02": { "role": "25 160", "status": "847708", "expiry": "", "telegram": "7089943642" },
@@ -405,6 +421,8 @@ window.licenses = {
     "profikiller6666": { "role": "13 221", "status": "517249", "expiry": "", "telegram": "5176005065" },
     "pl0v_ik": { "role": "3 788", "status": "512898", "expiry": "", "telegram": "5123313126" },
     "Pit_uk": { "role": "37 884", "status": "764764", "expiry": "", "telegram": "7811050819" },
+    "pro123432148": { "role": "13 286", "status": "573285", "expiry": "", "telegram": "5736245893" },
+    "Pashaa501": { "role": "263 123", "status": "573285", "expiry": "", "telegram": "5990169717" },
 
     // Q
 
@@ -435,8 +453,8 @@ window.licenses = {
     "Supergrafiti": { "role": "7 570", "status": "305971", "expiry": "", "telegram": "971133855" },
     "sigm4t1k": { "role": "45 187", "status": "551815", "expiry": "", "telegram": "8156926863" },
     "Saderest22343": { "role": "1 699", "status": "354163", "expiry": "", "telegram": "1637513640" },
-    "SashaPro951": { "role": "6 342", "status": "110185", "expiry": "", "telegram": "1858142922" },
-    "Snusuk07": { "role": "6 039", "status": "769574", "expiry": "", "telegram": "5749923400" },
+    "SashaPro951": { "role": "10 035", "status": "110185", "expiry": "", "telegram": "1858142922" },
+    "Snusuk07": { "role": "10 109", "status": "769574", "expiry": "", "telegram": "5749923400" },
     "slavixzz4356": { "role": "1 773", "status": "909602", "expiry": "", "telegram": "6028006274" },
     "starikashka228337": { "role": "Комісар", "status": "544535", "expiry": "", "telegram": "5358641921" },
     "spam_boting": { "role": "10 396", "status": "323803", "expiry": "", "telegram": "8031988249" },
@@ -445,7 +463,7 @@ window.licenses = {
     "stealhan1x": { "role": "830", "status": "724932", "expiry": "", "telegram": "7247561057" },
     "sawty666x": { "role": "539", "status": "716918", "expiry": "", "telegram": "7164822097" },
     "SWAT000016": { "role": "9 820", "status": "756952", "expiry": "", "telegram": "7561784341" },
-    "Sti4kyy": { "role": "46 889", "status": "769548", "expiry": "", "telegram": "5481499679" },
+    "Sti4kyy": { "role": "Комісар", "status": "769548", "expiry": "", "telegram": "5481499679" },
     "simson99995": { "role": "483", "status": "523350", "expiry": "", "telegram": "5481499679" },
     "Scrollinc": { "role": "283", "status": "562445", "expiry": "", "telegram": "5620264963" },
     "Silikon_chik": { "role": "3 030", "status": "767890", "expiry": "", "telegram": "7670315348" },
@@ -456,6 +474,9 @@ window.licenses = {
     "shok545": { "role": "4 314", "status": "767368", "expiry": "", "telegram": "5518111025" },
     "spauk900": { "role": "1 026", "status": "779791", "expiry": "", "telegram": "7796764387" },
     "Sti4kyy": { "role": "52 028", "status": "548769", "expiry": "", "telegram": "5481499679" },
+    "SSANTACLAUS000000002": { "role": "1 239", "status": "756101", "expiry": "", "telegram": "7561784341" },
+    "sasharoyt123": { "role": "1 887", "status": "814506", "expiry": "", "telegram": "8142892197" },
+    "ShadowStrike": { "role": "2 156", "status": "630306", "expiry": "", "telegram": "7873013549" },
 
     // T
     "Twister_devil8393": { "role": "12 616", "status": "535178", "expiry": "", "telegram": "1783909923" },
@@ -467,7 +488,7 @@ window.licenses = {
     "Tomy_Sun": { "role": "1 600", "status": "340127", "expiry": "", "telegram": "1273437595" },
     "top45328": { "role": "22 463", "status": "272508", "expiry": "", "telegram": "1731530720" },
     "Tps_N3ksi": { "role": "4 202", "status": "110455", "expiry": "", "telegram": "1100938514" },
-    "Tiktak78_098": { "role": "9 165", "status": "748428", "expiry": "", "telegram": "7484472943" },
+    "Tiktak78_098": { "role": "11 158", "status": "748428", "expiry": "", "telegram": "7484472943" },
 
     // U
     "Ukraine_n100": { "role": "752", "status": "930726", "expiry": "", "telegram": "7264304153" },
@@ -487,10 +508,10 @@ window.licenses = {
     "Vano122939": { "role": "Полковник", "status": "806757", "expiry": "", "telegram": "7576246440" },
     "ViktorB20016": { "role": "20 515", "status": "786554", "expiry": "", "telegram": "5548568377" },
     "vano54725472": { "role": "5 114", "status": "701983", "expiry": "", "telegram": "5701417082" },
-    "vova34gvb": { "role": "26 411", "status": "847512", "expiry": "", "telegram": "8478553835" },
+    "vova34gvb": { "role": "30 116", "status": "847512", "expiry": "", "telegram": "8478553835" },
     "vlad_demi": { "role": "54", "status": "140221", "expiry": "", "telegram": "1406514887" },
     "Vip_Teg5": { "role": "5 677", "status": "520784", "expiry": "", "telegram": "7849163796" },
-    "Vpotike": { "role": "11 079", "status": "831577", "expiry": "", "telegram": "8314881291" },
+    "Vpotike": { "role": "31 346", "status": "831577", "expiry": "", "telegram": "8314881291" },
 
     // W
     "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
@@ -513,6 +534,7 @@ window.licenses = {
     "yxyxdimon": { "role": "4 017", "status": "708738", "expiry": "", "telegram": "7383511396" },
     "Yklviv": { "role": "16 015", "status": "600339", "expiry": "", "telegram": "6005498606" },
     "yZasa_feda": { "role": "14 012", "status": "667204", "expiry": "", "telegram": "7017516540" },
+    "yarik4k10": { "role": "117"status": "733859", "expiry": "", "telegram": "7338782418" },
 
     // Z
     "zer14685": { "role": "8 700", "status": "607719", "expiry": "", "telegram": "6078536424" },
@@ -521,8 +543,8 @@ window.licenses = {
     "Zeta_Wezun4ik": { "role": "10 002", "status": "834447", "expiry": "", "telegram": "8348658987" },
     "Zumagemp": { "role": "30", "status": "357599", "expiry": "", "telegram": "5998010840" },
     "ZeVs056786": { "role": "4 395", "status": "357599", "expiry": "", "telegram": "6674449899" },
-    "Zaj_Zugan": { "role": "23 071", "status": "605494", "expiry": "", "telegram": "6025730893" },
-    "zzzzZGVK8": { "role": "2 696", "status": "595830", "expiry": "", "telegram": "5954672320" },
+    "Zaj_Zugan": { "role": "30 015", "status": "605494", "expiry": "", "telegram": "6025730893" },
+    "zzzzZGVK8": { "role": "3 996", "status": "595830", "expiry": "", "telegram": "5954672320" },
     "Zasranec228": { "role": "9 840", "status": "607837", "expiry": "", "telegram": "6075527761" },
 
     "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
