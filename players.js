@@ -137,6 +137,15 @@ const players = {
     },
   ],
 
+  "Arseniy_zabanen": [
+    {
+      role: "Суддя",
+      telegram: "t.me/Samyry228",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-358CD48909FD30E5E14F11A80482B03C-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Caston08963": [
     {
       role: "Охоронець суду",
