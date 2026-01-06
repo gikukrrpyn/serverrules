@@ -183,12 +183,12 @@ const players = {
     },
   ],
 
-  "Rechs10": [
+  "Mr_Zver3000": [
     {
       role: "Працівник ДБР",
-      telegram: "t.me/rexi4ek17",
+      telegram: "6626655148",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E8F64F0C30D1018263AD8C785AC590A5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E8BB0FBEB8D08F154F18C49A8010A735-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -199,24 +199,6 @@ const players = {
       telegram: "t.me/Dolya_original", // 1812225406
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0EA962E034FF44F7F07D121F0C5C16FE-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Kiril_30083008": [
-    {
-      role: "Працівник ДБР",
-      telegram: "t.me/Roblikser", // 6026275163
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-18103630BA8D6E96E88EEA2936582902-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "kolyamoichenko": [
-    {
-      role: "Працівник ДБР",
-      telegram: "t.me/KolyaMoichenko2013", // 7456729729
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-133D4C90273634EDDDBD851CE1F1CB04-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
