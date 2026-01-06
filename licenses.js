@@ -543,7 +543,6 @@ window.licenses = {
     "pavel36558": { role: "Голова НАБС", status: "186748", telegram: "t.me/barabanya_kolbasa" },
     "mynameis_max2280": { role: "Курсант", status: "540572", telegram: "t.me/Makjm193" },
     "constelations152": { role: "Курсант", status: "600746", telegram: "t.me/leadconverted" },
-    "Englishorspanish_1w7": { role: "Стажер", status: "684420", telegram: "t.me/ministr_love" },
     "username": { role: "звання", status: "ID", telegram: "telegram" },
   },
 
@@ -561,15 +560,8 @@ window.licenses = {
   // Звання працівників ДБР
   dbr: {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
-    "maksumkasymk789": { role: "Молодший Лейтинант", status: "392140", telegram: "1405483524" },
-    "Dimabarbos": { role: "Капрал", status: "833659", telegram: "6591557304" },
-    "Arsenic3996": { role: "Капрал", status: "605764", telegram: "7643022641" },
-    "eldor830": { role: "Сержант", status: "506626", telegram: "6267044472" },
     "nikita100808": { role: "Капрал", status: "724634", telegram: "6348110356" },
     "dolinskuy": { role: "Капрал", status: "136181", telegram: "1812225406" },
-    "jofer_hob": { role: "Рядовий", status: "420684", telegram: "6840451973" },
-    "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "6026275163" },
-    "kolyamoichenko": { role: "Рядовий", status: "745311", telegram: "7456729729" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "kingfogfok": { role: "Директор ДБР", status: "500842", telegram: "842515350" },
   },
@@ -908,7 +900,7 @@ window.licenses = {
     */
     "va1ron4": { cans: "CANS через несанкціоновані дії з боку учасників мафії, проведення нелегального мітингу з використанням заборонених предметів.", status: "Чеченська мафія", telegram: "954036347", role: "Мафія" },
     "Rom_roma7": { cans: "CANS через організовані рейди з використанням читів учасників ОЗУ на наш сервер та у зв’язку з шахрайською діяльністю проти гравців нашого сервера.", status: "Хади Такташ", telegram: "t.me/Void_EH", role: "Клан" }, // id tg: 5749857571
-    "desna200": { status: "Empire's Shadow", telegram: "1398473564", role: "Мафія" },
+    "username roblox": { status: "назва", telegram: "username", role: "тип" },
     "username roblox": { status: "назва", telegram: "username/id telegram", role: "тип" }
   },
 
