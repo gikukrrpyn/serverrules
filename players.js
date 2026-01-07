@@ -256,15 +256,6 @@ const players = {
     },
   ],
 
-  "sosiska8756": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/ffucksolevoy",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8835E243567B04D822EAFE36F582AAE7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-  
 
   "pavel36558": [
     {
@@ -311,6 +302,15 @@ const players = {
     },
   ],
 
+  "Makes_847": [
+    {
+      role: "Начальник НПС",
+      telegram: "t.me/ShaggyUR",
+      category: "Поліція",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-897E38752EAB9FCE2FC303B024440666-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Rostyk_gej71": [
     {
       role: "Водій лімузина",
@@ -323,7 +323,7 @@ const players = {
   "Kristinqs": [
     {
       role: "Психолог",
-      telegram: "t.me/Kr1stinqss",
+      telegram: "t.me/Kr1stinqs",
       category: "Інше",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-78B7D7731F78D20987C5CFE334D92EF1-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
