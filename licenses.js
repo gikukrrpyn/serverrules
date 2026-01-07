@@ -338,7 +338,7 @@ window.licenses = {
     "Mbfppe": { role: "1 849", status: "402203", expiry: "", telegram: "2032234018" },
     "Max520015": { role: "16 995", status: "754598", expiry: "", telegram: "5983478576" },
     "Marcat210228": { role: "1 494", status: "486500", expiry: "", telegram: "5009537118" },
-    "Makes_847": { role: "Комісар", status: "474568", expiry: "", telegram: "56815858393" },
+    "Makes_847": { role: "Начальник НПС", status: "474568", expiry: "", telegram: "56815858393" },
     "Mishawais2000": { role: "890", status: "455539", expiry: "", telegram: "5395188779" },
     "Maksik1344": { role: "2 612", status: "112585", expiry: "", telegram: "5850433024" },
     "Mr_Zver3000": { role: "35 817", status: "609662", expiry: "", telegram: "6626655148" },
@@ -829,6 +829,10 @@ window.licenses = {
     "Vndall": { "status": "T0233", "telegram": "8190358361" },
     "BMW_M5F456": { "status": "T0234", "telegram": "1172225259" },
     "IllaBro2222": { "status": "T0235", "telegram": "1172225259" },
+    "Zoomsos123": { "status": "T0236", "telegram": "5339606531" },
+    "Misza_470": { "status": "T0237", "telegram": "8473016072" },
+    "Raklo_UA1": { "status": "T0238", "telegram": "7208839104" },
+    "golopa07": { "status": "T0239", "telegram": "8549231265" },
 
   },
 
@@ -858,6 +862,7 @@ window.licenses = {
     "olegh34": { status: "A8383", telegram: "5007175515" },
     "Levopravo2024": { status: "A8484", telegram: "5134083594" },
     "Englishorspanish_1w7": { status: "A8585", telegram: "5963490462" },
+    "danylo23679": { status: "A8686", telegram: "8355250760" },
   },
 
   // Прес-карти
