@@ -34,11 +34,8 @@ window.licenses = {
 
     // ДБР
     "artemMelnichenko2013": { status: "Дійсна", expiry: "31.01.2026", telegram: "5242336088" },
-    "maksumkasymk789": { status: "Дійсна", expiry: "31.01.2026", telegram: "1405483524" },
     "nikita100808": { status: "Дійсна", expiry: "31.01.2026", telegram: "6348110356" },
-    "Rechs10": { status: "Дійсна", expiry: "31.01.2026", telegram: "6387100458" },
     "dolinskuy": { status: "Дійсна", expiry: "31.01.2026", telegram: "1812225406" },
-    "Kiril_30083008": { status: "Дійсна", expiry: "31.01.2026", telegram: "6026275163" },
     "kolyamoichenk": { status: "Дійсна", expiry: "31.01.2026", telegram: "7456729729" },
     "Mr_Zver3000": { status: "Дійсна", expiry: "31.01.2026", telegram: "6626655148" },
     "kingfogfok": { status: "Дійсна", expiry: "31.01.2026", telegram: "500448688" },
@@ -596,6 +593,7 @@ window.licenses = {
     "dolinskuy": { role: "Капрал", status: "136181", telegram: "1812225406" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "kingfogfok": { role: "Директор ДБР", status: "500842", telegram: "842515350" },
+    "Dddrrrtttyykjhj": { role: "Рядовий", status: "451590", telegram: "5903095976" },
   },
 
   // Таксистська ліцензія
