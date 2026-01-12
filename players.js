@@ -76,15 +76,6 @@ const players = {
     },
   ],
 
-  "3cy_77781046": [
-    {
-      role: "R1b Адміністратор-Повітряний Контроль",
-      telegram: "t.me/SKODA_UR",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D4BEC81A801E7CB345995DFFB88F88FD-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "PoWly0": [
     {
       role: "R1a Адміністратор-патрульний",
@@ -100,6 +91,15 @@ const players = {
       telegram: "t.me/makyas10",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF86C148E6C14E9065DB349A3C26348F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+   "desna200": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "https:/t.me/lox_rb",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FFAAF5CE5561888F16F1B0CBC7167BD7-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -308,6 +308,16 @@ const players = {
       telegram: "t.me/ShaggyUR",
       category: "Поліція",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-897E38752EAB9FCE2FC303B024440666-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
+  "3cy_77781046": [
+    {
+      role: "Мер",
+      telegram: "t.me/SKODA_UR",
+      category: "Мерія",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-307633BAE3F8DAC8644B5BFF5B243552-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
