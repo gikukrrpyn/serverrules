@@ -843,6 +843,12 @@ window.licenses = {
     "Misza_470": { "status": "T0237", "telegram": "8473016072" },
     "Raklo_UA1": { "status": "T0238", "telegram": "7208839104" },
     "golopa07": { "status": "T0239", "telegram": "8549231265" },
+    "senchous_81818": { "status": "T0240", "telegram": "8106737244" },
+    "Super_BETMEN67": { "status": "T0241", "telegram": "5119828268" },
+    "olegh34": { "status": "T0242", "telegram": "5007175515" },
+    "olexqww": { "status": "T0243", "telegram": "7650872813" },
+    "Rjdef31": { "status": "T0244", "telegram": "6952642925" },
+    "kinglots36": { "status": "T0245", "telegram": "6392047202" },
 
   },
 
