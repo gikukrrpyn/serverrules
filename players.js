@@ -25,17 +25,26 @@ const players = {
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
+   ],
+
+  "Andrushka_pupsik": [
     {
-      role: "Директор ДАРШ",
-      telegram: "t.me/Great_Terku",
+      role: "R3 Старший Адміністратор",
+      telegram: "t.me/ami_woolw",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C17F7122623868016B99E97BA7DB9540-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+     {
+      role: "Організатор ДАРШ",
+      telegram: "t.me/ami_woolw",
       category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-57527754C944AE793A07800781358CAE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C17F7122623868016B99E97BA7DB9540-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
    ],
 
   "sergij18": [
     {
-      role: "R3 Старший Адміністратор",
+      role: "R2b Інспектор службового контролю",
       telegram: "t.me/Sergij9000",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FB194328B57422E8EA87C2DAAEDE4548-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -58,21 +67,6 @@ const players = {
       telegram: "t.me/slavixzz43",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CB2D55E18803AD614AF7BE92BC1F9B32-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "andrew_urtest": [
-    {
-      role: "R1a Адміністратор-Патрульний",
-      telegram: "t.me/ami_woolw",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5E59C2644AAAD908BA79DA15120D7F51-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-    {
-      role: "Організатор ДАРШ",
-      telegram: "t.me/ami_woolw",
-      category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5E59C2644AAAD908BA79DA15120D7F51-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -229,12 +223,12 @@ const players = {
     },
   ],
 
-   "Dorcftf": [
+   "starikashka228337": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/Dorcftf",
+      telegram: "t.me/F1Hhunter",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8FDD527DFC05599D9283D35484A5D2CC-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BF2085F7007430ECA6665523D375B2F7-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
