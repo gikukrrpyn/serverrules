@@ -6,7 +6,6 @@ window.licenses = {
     "username": { status: "причина.", expiry: "00.00.0000", telegram: "username/id telegram" },
 
      Куплені */
-    "Caston08963": { status: "Недійсна", expiry: "19.10.2025", telegram: "4775989978" },
     "Dodu340dd": { status: "використання ліцензії у злочинних цілях; призначено довічну заборону на отримання ліцензії.", expiry: "00.00.0000", telegram: "5632698118" },
     "pavel36558": { status: "Недійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "7485750248" },
     "IMBEBRIK8": { status: "Недійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "5042918774" },
@@ -27,22 +26,21 @@ window.licenses = {
     "Zoomsos123": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/Xmm_help" }, // id tg 5339606531
     "maksumkasymk789": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/Coocas" }, // id tg 1405483524
     "eldor830": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/eldorichek" }, // id tg 6267044472
-    "Dorcftf": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/Dorcftf" }, // id tg 6187783163
+    "starikashka228337": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
     "MKSON829": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
-    "sosiska8756": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/ffucksolevoy" }, // id tg 7315509029
+    "nikita100808": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
     
 
     // ДБР
-    "artemMelnichenko2013": { status: "Дійсна", expiry: "31.01.2026", telegram: "5242336088" },
-    "nikita100808": { status: "Дійсна", expiry: "31.01.2026", telegram: "6348110356" },
-    "dolinskuy": { status: "Дійсна", expiry: "31.01.2026", telegram: "1812225406" },
-    "kolyamoichenk": { status: "Дійсна", expiry: "31.01.2026", telegram: "7456729729" },
-    "Mr_Zver3000": { status: "Дійсна", expiry: "31.01.2026", telegram: "6626655148" },
-    "kingfogfok": { status: "Дійсна", expiry: "31.01.2026", telegram: "500448688" },
+    "artemMelnichenko2013": { status: "Дійсна", expiry: "31.02.2026", telegram: "5242336088" },
+    "dolinskuy": { status: "Дійсна", expiry: "31.02.2026", telegram: "1812225406" },
+    "kolyamoichenk": { status: "Дійсна", expiry: "31.02.2026", telegram: "7456729729" },
+    "Mr_Zver3000": { status: "Дійсна", expiry: "31.02.2026", telegram: "6626655148" },
+    "kingfogfok": { status: "Дійсна", expiry: "31.02.2026", telegram: "500448688" },
 
     // Суд
-    "4ooSe_3104": { status: "Дійсна", expiry: "31.01.2026", telegram: "5688779177" },
-    "username": { status: "Дійсна", expiry: "31.01.2026", telegram: "username/id" },
+    "4ooSe_3104": { status: "Дійсна", expiry: "31.02.2026", telegram: "5688779177" },
+    "username": { status: "Дійсна", expiry: "31.02.2026", telegram: "username/id" },
 
   },
 
@@ -81,8 +79,7 @@ window.licenses = {
     { username: "kingfogfok", status: "500448677", role: "Reapers", telegram: "842515350" },
     { username: "Bandera909", status: "3537582829", role: "Aureum Law Office", telegram: "6909809142" },
     { username: "palamarka2288", status: "4340767989", role: "Оперативний Підрозділ", telegram: "1902876079" },
-    { username: "Levopravo2024", status: "7491753543", role: "UR Events", telegram: "5134083594" },
-    { username: "Levopravo2024", status: "7491753543", role: "UR Events", telegram: "5134083594" },
+    { username: "levopravo2025", status: "7491753543", role: "UR Events", telegram: "5134083594" },
 
 
   ],
@@ -470,7 +467,7 @@ window.licenses = {
     "stealhan1x": { "role": "830", "status": "724932", "expiry": "", "telegram": "7247561057" },
     "sawty666x": { "role": "539", "status": "716918", "expiry": "", "telegram": "7164822097" },
     "SWAT000016": { "role": "9 820", "status": "756952", "expiry": "", "telegram": "7561784341" },
-    "Sti4kyy": { "role": "Комісар", "status": "769548", "expiry": "", "telegram": "5481499679" },
+    "Sti4kyy": { "role": "Полковник", "status": "769548", "expiry": "", "telegram": "5481499679" },
     "simson99995": { "role": "483", "status": "523350", "expiry": "", "telegram": "5481499679" },
     "Scrollinc": { "role": "283", "status": "562445", "expiry": "", "telegram": "5620264963" },
     "Silikon_chik": { "role": "3 030", "status": "767890", "expiry": "", "telegram": "7670315348" },
@@ -582,17 +579,15 @@ window.licenses = {
   sbs: {
     "Zoomsos123": { role: "Голова СБС", status: "350533", telegram: "t.me/Xmm_help" }, // id tg 5339606531
     "maksumkasymk789": { role: "Заступник директора СБС", status: "392140", telegram: "1405483524" },
-    "eldor830": { role: "Молодший сержант", status: "506626", telegram: "t.me/eldorichek" },
-    "Dorcftf": { role: "Молодший сержант", status: "402618", telegram: "t.me/Dorcftf" },
-    "pravolevo678": { role: "Рядовий", status: "764781", telegram: "t.me/Pebro_447" },
-    "MKSON829": { role: "Рядовий", status: "721802", telegram: "t.me/sich_o_admin" },
-    "sosiska8756": { role: "Рядовий", status: "731335", telegram: "t.me/ffucksolevoy" },
+    "eldor830": { role: "Сержант", status: "506626", telegram: "t.me/eldorichek" },
+    "starikashka228337": { role: "Рядовий", status: "545544", telegram: "t.me/F1Hhunter" },
+    "MKSON829": { role: "Молодший Сержант", status: "721802", telegram: "t.me/sich_o_admin" },
+    "nikita100808": { role: "Рядовий", status: "724634", telegram: "6348110356" },
   },
 
   // Звання працівників ДБР
   dbr: {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
-    "nikita100808": { role: "Капрал", status: "724634", telegram: "6348110356" },
     "dolinskuy": { role: "Капрал", status: "136181", telegram: "1812225406" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "kingfogfok": { role: "Директор ДБР", status: "500842", telegram: "842515350" },
@@ -877,7 +872,7 @@ window.licenses = {
     "Syhoi_sprayt": { status: "А8181", telegram: "1217080970" },
     "Danfas4": { status: "A8282", telegram: "username/id telegram" },
     "olegh34": { status: "A8383", telegram: "5007175515" },
-    "Levopravo2024": { status: "A8484", telegram: "5134083594" },
+    "levopravo2025": { status: "A8484", telegram: "5134083594" },
     "Englishorspanish_1w7": { status: "A8585", telegram: "5963490462" },
     "danylo23679": { status: "A8686", telegram: "8355250760" },
   },
