@@ -177,15 +177,6 @@ const players = {
     },
   ],
 
-  "nikita100808": [
-    {
-      role: "Працівник ДБР",
-      telegram: "6348110356",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52426F10465A4F65F7E5105821318D01-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Mr_Zver3000": [
     {
       role: "Працівник ДБР",
@@ -250,6 +241,15 @@ const players = {
     },
   ],
 
+  "nikita100808": [
+    {
+      role: "Працівник СБС",
+      telegram: "6348110356",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52426F10465A4F65F7E5105821318D01-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
   "pavel36558": [
     {
@@ -296,6 +296,15 @@ const players = {
     },
   ],
 
+  "jofer_hob": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/EMPx_m1nistr",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9F7975E3EB6E17F1E8B1941BCDEE1393-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Makes_847": [
     {
       role: "Начальник НПС",
@@ -304,6 +313,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-897E38752EAB9FCE2FC303B024440666-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+  
 
 
   "3cy_77781046": [
