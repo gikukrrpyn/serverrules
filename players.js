@@ -196,6 +196,15 @@ const players = {
     },
   ],
 
+  "Marsianin_l0l": [
+    {
+      role: "Працівник ДБР",
+      telegram: "7636472784",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2327191689E3212A3AED275AF9F6892E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Zoomsos123": [
     {
       role: "Директор СБС",
@@ -210,7 +219,7 @@ const players = {
       role: "Заступник Директора СБС",
       telegram: "t.me/player_wins",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BB8E3A5E86CF3EE68398430EAF3EF790-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DA6976EA4235794B1D062C9914D40CCB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -247,6 +256,15 @@ const players = {
       telegram: "6348110356",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52426F10465A4F65F7E5105821318D01-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "kolopohv": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/KairoGglol",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-90E12250D549BF09F397634EE39D08C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
