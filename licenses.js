@@ -29,6 +29,7 @@ window.licenses = {
     "starikashka228337": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
     "MKSON829": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
     "nikita100808": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
+    "kolopohv": { status: "Дійсна", expiry: "31.02.2026", telegram: "6286540452" },
     
 
     // ДБР
@@ -37,6 +38,7 @@ window.licenses = {
     "kolyamoichenk": { status: "Дійсна", expiry: "31.02.2026", telegram: "7456729729" },
     "Mr_Zver3000": { status: "Дійсна", expiry: "31.02.2026", telegram: "6626655148" },
     "kingfogfok": { status: "Дійсна", expiry: "31.02.2026", telegram: "500448688" },
+    "Marsianin_l0l": { status: "Дійсна", expiry: "31.02.2026", telegram: "7636472784" },
 
     // Суд
     "4ooSe_3104": { status: "Дійсна", expiry: "31.02.2026", telegram: "5688779177" },
@@ -578,6 +580,7 @@ window.licenses = {
     "starikashka228337": { role: "Рядовий", status: "545544", telegram: "t.me/F1Hhunter" },
     "MKSON829": { role: "Молодший Сержант", status: "721802", telegram: "t.me/sich_o_admin" },
     "nikita100808": { role: "Рядовий", status: "724634", telegram: "6348110356" },
+    "kolopohv": { role: "Рядовий", status: "628481", telegram: "6286540452" },
   },
 
   // Звання працівників ДБР
@@ -587,6 +590,7 @@ window.licenses = {
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "kingfogfok": { role: "Директор ДБР", status: "500842", telegram: "842515350" },
     "Dddrrrtttyykjhj": { role: "Рядовий", status: "451590", telegram: "5903095976" },
+    "Marsianin_l0l": { role: "Капрал", status: "103763", telegram: "7636472784" },
   },
 
   // Таксистська ліцензія
