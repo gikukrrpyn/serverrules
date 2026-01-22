@@ -88,13 +88,20 @@ const players = {
     },
   ],
 
-   "desna200": [
+   "XxsSashaxxjj": [
     {
       role: "R1a Адміністратор-Патрульний",
-      telegram: "https:/t.me/lox_rb",
+      telegram: "t.me/XxsSashaxxjj",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FFAAF5CE5561888F16F1B0CBC7167BD7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9959B70E5F43033FFEA69ACF451FD9BC-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
+     {
+      role: "Директор ДАРШ",
+      telegram: "t.me/XxsSashaxxjj",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9959B70E5F43033FFEA69ACF451FD9BC-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+   ],
   ],
 
 
@@ -186,16 +193,6 @@ const players = {
     },
   ],
 
-
-   "dolinskuy": [
-    {
-      role: "Працівник ДБР",
-      telegram: "t.me/Dolya_original", // 1812225406
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0EA962E034FF44F7F07D121F0C5C16FE-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Marsianin_l0l": [
     {
       role: "Працівник ДБР",
@@ -269,12 +266,12 @@ const players = {
   ],
 
 
-  "pavel36558": [
+  "lSqwizzyl": [
     {
       role: "Директор НАБС",
-      telegram: "t.me/barabanya_kolbasa",
+      telegram: "t.me/shppsqwizzy",
       category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-07B7B547553380E15026673EB5E53EFF-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B77383CD8C20F94A72FF6032CEA534E-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -293,15 +290,6 @@ const players = {
       telegram: "t.me/kiriwllq11",
       category: "НАБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0DB1767CF16629C481AE1E2C7CE273B4-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "777ivan07": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/ivanoll_vip",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3FD9560F25B29CB3EEE0DB0523E85F79-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
