@@ -101,7 +101,6 @@ const players = {
       category: "ДАРШ",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9959B70E5F43033FFEA69ACF451FD9BC-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-   ],
   ],
 
 
