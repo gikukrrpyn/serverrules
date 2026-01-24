@@ -23,11 +23,9 @@ window.licenses = {
     */
 
     // СБС
-    "Zoomsos123": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/Xmm_help" }, // id tg 5339606531
-    "maksumkasymk789": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/Coocas" }, // id tg 1405483524
-    "eldor830": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/eldorichek" }, // id tg 6267044472
-    "starikashka228337": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
-    "MKSON829": { status: "Дійсна", expiry: "31.01.2026", telegram: "t.me/sich_o_admin" }, // id tg 7126844124
+    "Andrushka_pupsik": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/ami_woolw" }, // id tg 5262299554
+    "eldor830": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/eldorichek" }, // id tg 6267044472
+    "starikashka228337": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
     "nikita100808": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
     "kolopohv": { status: "Дійсна", expiry: "31.02.2026", telegram: "6286540452" },
     
@@ -577,13 +575,15 @@ window.licenses = {
     "lSqwizzyl": { role: "Директор НАБС", status: "379965", telegram: "t.me/shppsqwizzy" },
     "mynameis_max2280": { role: "Курсант", status: "540572", telegram: "t.me/Makjm193" },
     "constelations152": { role: "Курсант", status: "600746", telegram: "t.me/leadconverted" },
-    "username": { role: "звання", status: "ID", telegram: "telegram" },
+    "MKSON829": { role: "Заступник Директора НАБС", status: "802712", telegram: "t.me/sich_o_admin" },
+    "kirya_Gambit": { role: "Агент", status: "7595611", telegram: "t.me/kiriwllq11" },
+    "pravolevo678": { role: "Стажер", status: "781100", telegram: "t.me/Retro_ses" },
+    "Caston08963": { role: "Курсант", status: "477757", telegram: "t.me/I_am_Grifit_the_beautiful_knights" },
   },
 
   // Звання працівників СБС
   sbs: {
-    "Zoomsos123": { role: "Голова СБС", status: "350533", telegram: "t.me/Xmm_help" }, // id tg 5339606531
-    "maksumkasymk789": { role: "Заступник директора СБС", status: "392140", telegram: "1405483524" },
+    "Andrushka_pupsik": { role: "Голова СБС", status: "103526", telegram: "t.me/ami_woolw" }, // id tg 5262299554
     "eldor830": { role: "Сержант", status: "506626", telegram: "t.me/eldorichek" },
     "starikashka228337": { role: "Рядовий", status: "545544", telegram: "t.me/F1Hhunter" },
     "nikita100808": { role: "Рядовий", status: "724634", telegram: "6348110356" },
@@ -599,6 +599,10 @@ window.licenses = {
     "mat250956": { role: "Стажер", status: "254630", telegram: "6304172321" },
     "pycT_KUst": { role: "Стажер", status: "397599", telegram: "5998010840" },
     "SIGMA2019827": { role: "Стажер", status: "817777", telegram: "8378012679" },
+    "Rjdef31": { role: "Стажер", status: "821695", telegram: "6952642925" },
+    "SokerYT123": { role: "Стажер", status: "315129", telegram: "1290504411" },
+    "constelations152": { role: "Стажер", status: "600746", telegram: "7460379767" },
+    "CHERNIHIV1": { role: "Стажер", status: "323187", telegram: "1871915258" },
   },
 
   // Таксистська ліцензія
