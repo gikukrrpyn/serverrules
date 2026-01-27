@@ -152,7 +152,7 @@ const players = {
   "4ooSe_3104": [
     {
       role: "Охоронець суду",
-      telegram: "https://t.me/pupt1mmy",
+      telegram: "t.me/pupt1mmy",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9C0C39C71B207E4C9BE5DEEF62DC06FF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
@@ -194,6 +194,70 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2327191689E3212A3AED275AF9F6892E-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "mat250956": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/Ra11zer",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-047E8FF5221314844923A160F0D8C2E1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "pycT_KUst": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/sancozCHE",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-406F8A5A91C8E12FB524C5ED718D9603-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "SIGMA2019827": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/sancozCHE",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-406F8A5A91C8E12FB524C5ED718D9603-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Rjdef31": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/Rt_1098",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A89AD9A75579B47EC5791A4A5A92DA71-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "SokerYT123": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/tymko777",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9A1B64E1F8E135960FB0175129B93B4A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "constelations152": [
+    {
+      role: "Працівник ДБР",
+      telegram: "7460379767",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0462BE8CC7B77BF2EA9C8C5AD4366384-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "CHERNIHIV1": [
+    {
+      role: "Працівник ДБР",
+      telegram: "1871915258",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-16C6A70D8EDCA581EF8557A83362122A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
   "andrushka_pupsik": [
     {
