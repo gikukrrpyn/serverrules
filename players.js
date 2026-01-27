@@ -266,7 +266,13 @@ const players = {
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DC92D9189AABB029901E18E224F25921-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-  ],
+     {
+      role: "Організатор ДАРШ",
+      telegram: "t.me/ami_woolw",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DC92D9189AABB029901E18E224F25921-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+   ],
 
    "starikashka228337": [
     {
