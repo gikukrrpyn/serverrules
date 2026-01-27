@@ -324,15 +324,6 @@ const players = {
     },
   ],
 
-  "constelations152": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/endlesliness",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0462BE8CC7B77BF2EA9C8C5AD4366384-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "kirya_Gambit": [
     {
       role: "Працівник НАБС",
