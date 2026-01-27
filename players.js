@@ -218,7 +218,7 @@ const players = {
       role: "Працівник ДБР",
       telegram: "t.me/sancozCHE",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-406F8A5A91C8E12FB524C5ED718D9603-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3A62492B8998F64409CF6A1850404995-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
