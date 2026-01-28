@@ -43,6 +43,9 @@ window.licenses = {
     "4ooSe_3104": { status: "Дійсна", expiry: "31.02.2026", telegram: "5688779177" },
     "username": { status: "Дійсна", expiry: "31.02.2026", telegram: "username/id" },
 
+    // Мерія
+    "username": { status: "Дійсна", expiry: "31.02.2026", telegram: "username/id" },
+
   },
 
   // Зареєстровані бізнеси
