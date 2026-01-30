@@ -86,6 +86,9 @@ window.licenses = {
     { username: "levopravo2025", status: "7491753543", role: "UR Events", telegram: "5134083594" },
     { username: "sana538937", status: "3974854100", role: "AR Bank", telegram: "5472742710" },
     { username: "slavmanga", status: "4538647359", role: "ОЛДР-Організація Лени Далі Райд", telegram: "5058792421" },
+    { username: "Carlson9990", status: "5861347227", role: "Ukraine Night Mobility", telegram: "6257652257" },
+  
+    
 
 
   ],
@@ -869,6 +872,11 @@ window.licenses = {
     "olexqww": { "status": "T0243", "telegram": "7650872813" },
     "Rjdef31": { "status": "T0244", "telegram": "6952642925" },
     "kinglots36": { "status": "T0245", "telegram": "6392047202" },
+    "Dddrrrtttyykjhj": { "status": "T0246", "telegram": "5903095976" },
+    "John_broll": { "status": "T0247", "telegram": "60283508226" },
+    "nskwwlwlkwkwksk": { "status": "T0248", "telegram": "6308121808" },
+    "Timsesis2332Pro": { "status": "T0249", "telegram": "6748362980" },
+    "Kykymbra11": { "status": "T0250", "telegram": "5622034488" },
 
   },
 
