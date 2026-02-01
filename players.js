@@ -74,15 +74,6 @@ const players = {
     },
   ],
 
-  "PoWly0": [
-    {
-      role: "R1a Адміністратор-патрульний",
-      telegram: "t.me/M1N_HWAM1I",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-24D431081F07D2E1A9F0D36496D86126-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Ntinetter": [
     {
       role: "R1a Адміністратор-Патрульний",
@@ -292,12 +283,12 @@ const players = {
     },
   ],
 
-  "nikita100808": [
+  "sqw1zy_n7": [
     {
       role: "Працівник СБС",
       telegram: "6348110356",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52426F10465A4F65F7E5105821318D01-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7C22795125C008F291C6810CF2C8B798-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
