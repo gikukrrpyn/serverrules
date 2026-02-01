@@ -26,7 +26,7 @@ window.licenses = {
     "Andrushka_pupsik": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/ami_woolw" }, // id tg 5262299554
     "eldor830": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/eldorichek" }, // id tg 6267044472
     "starikashka228337": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
-    "nikita100808": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
+    "sqw1zy_n7": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
     "kolopohv": { status: "Дійсна", expiry: "31.02.2026", telegram: "6286540452" },
     
 
@@ -602,7 +602,7 @@ window.licenses = {
     "Andrushka_pupsik": { role: "Голова СБС", status: "103526", telegram: "t.me/ami_woolw" }, // id tg 5262299554
     "eldor830": { role: "Сержант", status: "506626", telegram: "t.me/eldorichek" },
     "starikashka228337": { role: "Рядовий", status: "545544", telegram: "t.me/F1Hhunter" },
-    "nikita100808": { role: "Рядовий", status: "724634", telegram: "6348110356" },
+    "sqw1zy_n7": { role: "Рядовий", status: "724634", telegram: "6348110356" },
     "kolopohv": { role: "Рядовий", status: "628481", telegram: "6286540452" },
   },
 
