@@ -302,7 +302,6 @@ window.licenses = {
 
     // J
     "jrlm_987": { "role": "15 556", "status": "384680", "expiry": "", "telegram": "6800141946" },
-    "jdjdudhshshdb": { "role": "95 005", "status": "257630", "expiry": "", "telegram": "6306896242" },
     "JustIwannaMoney": { "role": "154", "status": "567628", "expiry": "", "telegram": "6283446597" },
     "jroslav2014dr": { "role": "10 239", "status": "732323", "expiry": "", "telegram": "7329691938" },
     "jfhhddjh": { "role": "30 010", "status": "699244", "expiry": "", "telegram": "6997233193" },
@@ -954,7 +953,7 @@ window.licenses = {
     "4ooSe_3104": { status: "NT18", telegram: "5688779177", role: "NOW NEWS" },
     "Makes_847": { status: "NS19", telegram: "5681585839", role: "NOW NEWS" },
     "3333OMON": { status: "NW20", telegram: "6058122903", role: "NOW NEWS" },
-    "Andrushka_pupsik: { status: "NW21", telegram: "5262299554", role: "NOW NEWS" },
+    "Andrushka_pupsik": { status: "NW21", telegram: "5262299554", role: "NOW NEWS" },
     "username roblox": { status: "XX22", telegram: "username/id telegram", role: "назва ЗМІ" },
   },
 
