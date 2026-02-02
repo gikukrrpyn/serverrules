@@ -32,7 +32,6 @@ window.licenses = {
 
     // ДБР
     "artemMelnichenko2013": { status: "Дійсна", expiry: "31.02.2026", telegram: "5242336088" },
-    "mat250956": { status: "Дійсна", expiry: "31.02.2026", telegram: "6304172321" },
     "pycT_KUst": { status: "Дійсна", expiry: "31.02.2026", telegram: "5998010840" },
     "Mr_Zver3000": { status: "Дійсна", expiry: "31.02.2026", telegram: "6626655148" },
     "kingfogfok": { status: "Дійсна", expiry: "31.02.2026", telegram: "500448688" },
@@ -161,6 +160,7 @@ window.licenses = {
     "Ars_ikrbx": { "role": "1 423", "status": "510457", "expiry": "", "telegram": "5101182444" },
     "Arseniy_Zabanen": { "role": "6 083", "status": "545294", "expiry": "", "telegram": "5454145993" },
     "Artemnaryzhnyj1235": { "role": "10 004", "status": "147238", "expiry": "", "telegram": "1478280976" },
+    "Airbreks2": { "role": "10 004", "status": "163762", "expiry": "", "telegram": "1630158774" },
    
 
     // B
@@ -198,6 +198,7 @@ window.licenses = {
     "Chisburger02": { role: "13 212", status: "780359", expiry: "", telegram: "6501600339" },
     "copyZasanec2": { role: "6 017", status: "607101", expiry: "", telegram: "6075527761" },
     "charunya0charunya": { role: "13 415", status: "742758", expiry: "", telegram: "7427869776" },
+    "cnfcsr35": { role: "8622", status: "780359", expiry: "", telegram: "7800158439" },
 
     // D
     "DOGvDOMIKE": { "role": "22 055", "status": "291643", "expiry": "", "telegram": "6433921215" },
@@ -296,6 +297,7 @@ window.licenses = {
     "IXoLLa3": { "role": "6 013", "status": "531198", "expiry": "", "telegram": "5319846300" },
     "Igor7382jd": { "role": "3 451", "status": "791377", "expiry": "", "telegram": "7916738896" },
     "ILONA_3373": { "role": "3 003", "status": "571488", "expiry": "", "telegram": "5715436088" },
+    "I_pelmen112": { "role": "34 000", "status": "206808", "expiry": "", "telegram": "8081710275" },
 
 
     // J
@@ -390,6 +392,7 @@ window.licenses = {
     "Matviy105012": { role: "5 137", status: "615463", expiry: "", telegram: "6153820089" },
     "Marsianin_l0l": { role: "3 466", status: "763103", expiry: "", telegram: "7636472784" },
     "milkcoffe_2024": { role: "1038", status: "534582", expiry: "", telegram: "5827998592" },
+    "mimi091594": { role: "120", status: "586729", expiry: "", telegram: "5865962309" },
 
     
 
@@ -505,6 +508,8 @@ window.licenses = {
     "ShadowStrike": { "role": "2 156", "status": "630306", "expiry": "", "telegram": "7873013549" },
     "SokerYT123": { "role": "1 035", "status": "129315", "expiry": "", "telegram": "1290504411" },
     "senchous_81818": { "role": "3 625", "status": "866810", "expiry": "", "telegram": "8106737244" },
+    "sigm4t1k": { "role": "45 553", "status": "815551", "expiry": "", "telegram": "8156926863" },
+    "sawty666x": { "role": "803", "status": "716918", "expiry": "", "telegram": "7164822097" },
 
     // T
     "Twister_devil8393": { "role": "12 616", "status": "535178", "expiry": "", "telegram": "1783909923" },
@@ -543,6 +548,7 @@ window.licenses = {
     "vlad_demi": { "role": "54", "status": "140221", "expiry": "", "telegram": "1406514887" },
     "Vip_Teg5": { "role": "5 677", "status": "520784", "expiry": "", "telegram": "7849163796" },
     "Vpotike": { "role": "31 346", "status": "831577", "expiry": "", "telegram": "8314881291" },
+    "Vogneliter_228": { "role": "7 471", "status": "713851", "expiry": "", "telegram": "7133853494" },
 
     // W
     "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
@@ -619,7 +625,6 @@ window.licenses = {
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "kingfogfok": { role: "Директор ДБР", status: "500842", telegram: "842515350" },
     "Marsianin_l0l": { role: "Капрал", status: "103763", telegram: "7636472784" },
-    "mat250956": { role: "Стажер", status: "254630", telegram: "6304172321" },
     "pycT_KUst": { role: "Стажер", status: "397599", telegram: "5998010840" },
     "SIGMA2019827": { role: "Стажер", status: "817777", telegram: "8378012679" },
     "Rjdef31": { role: "Стажер", status: "821695", telegram: "6952642925" },
