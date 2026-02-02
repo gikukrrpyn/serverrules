@@ -198,7 +198,7 @@ const players = {
   "pycT_KUst": [
     {
       role: "Працівник ДБР",
-      telegram: "t.me/sancozCHE",
+      telegram: "t.me/shu7542",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-406F8A5A91C8E12FB524C5ED718D9603-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
@@ -298,6 +298,24 @@ const players = {
       telegram: "t.me/KairoGglol",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-90E12250D549BF09F397634EE39D08C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Jofer_hob": [
+    {
+      role: "Працівник СБС",
+      telegram: "6840451973",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3E43425C6B841BC7B58ABDEC16BF750-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "sigm4t1k": [
+    {
+      role: "Працівник СБС",
+      telegram: "8156926863",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-91CEEA9E59D5BA6FF863E1CFA67025B3-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
   
