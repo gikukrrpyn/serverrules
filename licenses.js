@@ -44,7 +44,9 @@ window.licenses = {
     "username": { status: "Дійсна", expiry: "31.02.2026", telegram: "username/id" },
 
     // Мерія
-    "username": { status: "Дійсна", expiry: "31.02.2026", telegram: "username/id" },
+    "Krutoi_chel1331": { status: "Дійсна", expiry: "31.02.2026", telegram: "1509244286" },
+    "slavmanga": { status: "Дійсна", expiry: "31.02.2026", telegram: "5058792421" },
+    "mastergame100p": { status: "Дійсна", expiry: "31.02.2026", telegram: "5706483624" },
 
   },
 
@@ -87,6 +89,11 @@ window.licenses = {
     { username: "sana538937", status: "3974854100", role: "AR Bank", telegram: "5472742710" },
     { username: "slavmanga", status: "4538647359", role: "ОЛДР-Організація Лени Далі Райд", telegram: "5058792421" },
     { username: "Carlson9990", status: "5861347227", role: "Ukraine Night Mobility", telegram: "6257652257" },
+    { username: "kingfogfok", status: "500448677", role: "Світло Добра", telegram: "842515350" },
+    { username: "Robert_polsan228", status: "7696678842", role: "Грант Плюс", telegram: "1921850684" },
+    { username: "Marsianin_l0l", status: "10312353894", role: "Мирне ягня", telegram: "7636472784" },
+    { username: "Ukrain_h4", status: "5172624998", role: "FixHamburg", telegram: "5379128979" },
+    
   
     
 
@@ -877,6 +884,8 @@ window.licenses = {
     "nskwwlwlkwkwksk": { "status": "T0248", "telegram": "6308121808" },
     "Timsesis2332Pro": { "status": "T0249", "telegram": "6748362980" },
     "Kykymbra11": { "status": "T0250", "telegram": "5622034488" },
+    "ugcc_truth": { "status": "T0251", "telegram": "7085045477" },
+    "svyatosuk489": { "status": "T0252", "telegram": "1567835732" },
 
   },
 
@@ -907,6 +916,7 @@ window.licenses = {
     "levopravo2025": { status: "A8484", telegram: "5134083594" },
     "Englishorspanish_1w7": { status: "A8585", telegram: "5963490462" },
     "danylo23679": { status: "A8686", telegram: "8355250760" },
+    "dima276518": { status: "A8787", telegram: "8536032204" },
   },
 
   // Прес-карти
@@ -939,7 +949,7 @@ window.licenses = {
     "4ooSe_3104": { status: "NT18", telegram: "5688779177", role: "NOW NEWS" },
     "Makes_847": { status: "NS19", telegram: "5681585839", role: "NOW NEWS" },
     "3333OMON": { status: "NW20", telegram: "6058122903", role: "NOW NEWS" },
-    "username roblox": { status: "XX21", telegram: "username/id telegram", role: "назва ЗМІ" },
+    "Andrushka_pupsik: { status: "NW21", telegram: "5262299554", role: "NOW NEWS" },
     "username roblox": { status: "XX22", telegram: "username/id telegram", role: "назва ЗМІ" },
   },
 
@@ -971,7 +981,7 @@ window.licenses = {
     */
     "va1ron4": { cans: "CANS через несанкціоновані дії з боку учасників мафії, проведення нелегального мітингу з використанням заборонених предметів.", status: "Чеченська мафія", telegram: "954036347", role: "Мафія" },
     "Rom_roma7": { cans: "CANS через організовані рейди з використанням читів учасників ОЗУ на наш сервер та у зв’язку з шахрайською діяльністю проти гравців нашого сервера.", status: "Хади Такташ", telegram: "t.me/Void_EH", role: "Клан" }, // id tg: 5749857571
-    "username roblox": { status: "назва", telegram: "username", role: "тип" },
+    "heehrhrhl9": { status: "Space diamond", telegram: "6510561713", role: "Банда" },
     "username roblox": { status: "назва", telegram: "username/id telegram", role: "тип" }
   },
 
