@@ -40,7 +40,7 @@ window.licenses = {
 
     // Суд
     "4ooSe_3104": { status: "Дійсна", expiry: "31.02.2026", telegram: "5688779177" },
-    "username": { status: "Дійсна", expiry: "31.02.2026", telegram: "username/id" },
+    "Yffgjjifh ": { status: "Дійсна", expiry: "31.02.2026", telegram: "5367053785" },
 
     // Мерія
     "Krutoi_chel1331": { status: "Дійсна", expiry: "31.02.2026", telegram: "1509244286" },
