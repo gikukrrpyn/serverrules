@@ -611,7 +611,7 @@ window.licenses = {
     "kirya_Gambit": { role: "Агент", status: "7595611", telegram: "t.me/kiriwllq11" },
     "pravolevo678": { role: "Стажер", status: "781100", telegram: "t.me/Retro_ses" },
     "Caston08963": { role: "Курсант", status: "477757", telegram: "t.me/I_am_Grifit_the_beautiful_knights" },
-    "777ivan07": { role: "Агент практикант", status: "243203", telegram: "t.me/leleleka_best" },
+    "sosiska8756": { role: "Агент практикант", status: "731335", telegram: "t.me/ffucksolevoyy" },
   },
 
   // Звання працівників СБС
