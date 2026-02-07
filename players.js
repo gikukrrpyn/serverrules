@@ -121,16 +121,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B1640B3F699D47285E17CB540CA73C63-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
    ],
-
-  "kirya2770": [
-    {
-      role: "Суддя",
-      telegram: "t.me/kirya2777",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BC6095521A5AA582EE4A4BF9DD887413-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
+  
   "Arseniy_zabanen": [
     {
       role: "Суддя",
@@ -149,15 +140,6 @@ const players = {
     },
   ],
 
-
-  "kingfogfok": [
-    {
-      role: "Директор ДБР",
-      telegram: "t.me/lllCasino",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5AFAF09F0BFFAAAC0E3A49019043AD61-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "artemMelnichenko2013": [
     {
@@ -186,19 +168,10 @@ const players = {
     },
   ],
 
-  "mat250956": [
-    {
-      role: "Працівник ДБР",
-      telegram: "t.me/Ra11zer",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-047E8FF5221314844923A160F0D8C2E1-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "pycT_KUst": [
     {
       role: "Працівник ДБР",
-      telegram: "t.me/shu7542",
+      telegram: "t.me/sancozCHE",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-406F8A5A91C8E12FB524C5ED718D9603-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
@@ -207,7 +180,7 @@ const players = {
   "SIGMA2019827": [
     {
       role: "Працівник ДБР",
-      telegram: "t.me/sancozCHE",
+      telegram: " t.me/shu7542",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3A62492B8998F64409CF6A1850404995-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
@@ -348,39 +321,12 @@ const players = {
     },
   ],
 
-  "NOOB_GOLDI": [
+  "sosiska8756": [
     {
       role: "Працівник НАБС",
-      telegram: "t.me/METAMORP_n1",
+      telegram: "t.me/ffucksolevoyy",
       category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D418C8033174593C37552C9FB8E77BCD-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "jofer_hob": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/EMPx_m1nistr",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9F7975E3EB6E17F1E8B1941BCDEE1393-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "777ivan07": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/leleleka_best",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FE2B4F7C371076420DE2C9350FFAD669-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "pravolevo678": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/Retro_ses",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-00F5AC885358FFA038CDDE7FF571BB80-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8835E243567B04D822EAFE36F582AAE7-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
