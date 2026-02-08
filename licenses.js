@@ -28,19 +28,19 @@ window.licenses = {
     "starikashka228337": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
     "sqw1zy_n7": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
     "kolopohv": { status: "Дійсна", expiry: "31.02.2026", telegram: "6286540452" },
+    "777ivan07": { status: "Дійсна", expiry: "31.02.2026", telegram: "2036860761" },
     
 
     // ДБР
     "artemMelnichenko2013": { status: "Дійсна", expiry: "31.02.2026", telegram: "5242336088" },
     "pycT_KUst": { status: "Дійсна", expiry: "31.02.2026", telegram: "5998010840" },
     "Mr_Zver3000": { status: "Дійсна", expiry: "31.02.2026", telegram: "6626655148" },
-    "kingfogfok": { status: "Дійсна", expiry: "31.02.2026", telegram: "500448688" },
     "Marsianin_l0l": { status: "Дійсна", expiry: "31.02.2026", telegram: "7636472784" },
     "SIGMA2019827": { status: "Дійсна", expiry: "31.02.2026", telegram: "8378012679" },
 
     // Суд
     "4ooSe_3104": { status: "Дійсна", expiry: "31.02.2026", telegram: "5688779177" },
-    "Yffgjjifh ": { status: "Дійсна", expiry: "31.02.2026", telegram: "5367053785" },
+    "Yffgjjifh": { status: "Дійсна", expiry: "31.02.2026", telegram: "5367053785" },
 
     // Мерія
     "Krutoi_chel1331": { status: "Дійсна", expiry: "31.02.2026", telegram: "1509244286" },
@@ -621,13 +621,13 @@ window.licenses = {
     "starikashka228337": { role: "Рядовий", status: "545544", telegram: "t.me/F1Hhunter" },
     "sqw1zy_n7": { role: "Рядовий", status: "724634", telegram: "6348110356" },
     "kolopohv": { role: "Рядовий", status: "628481", telegram: "6286540452" },
+    "777ivan07": { role: "Рядовий", status: "203243", telegram: "2036860761" },
   },
 
   // Звання працівників ДБР
   dbr: {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
-    "kingfogfok": { role: "Директор ДБР", status: "500842", telegram: "842515350" },
     "Marsianin_l0l": { role: "Капрал", status: "103763", telegram: "7636472784" },
     "pycT_KUst": { role: "Стажер", status: "397599", telegram: "5998010840" },
     "SIGMA2019827": { role: "Стажер", status: "817777", telegram: "8378012679" },
