@@ -112,13 +112,13 @@ const players = {
       role: "Заступник головного судді",
       telegram: "t.me/JonDR_9620R",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B1640B3F699D47285E17CB540CA73C63-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-29A7DA25E59ACD98759B32E66EFDD326-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
     {
       role: "Діджей ДАРШ",
       telegram: "t.me/JonDR_9620R",
       category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B1640B3F699D47285E17CB540CA73C63-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-29A7DA25E59ACD98759B32E66EFDD326-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
    ],
   
@@ -139,6 +139,16 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9C0C39C71B207E4C9BE5DEEF62DC06FF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "Yffgjjifh": [
+    {
+      role: "Охоронець суду",
+      telegram: "t.me/Yarik4h",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C999EF60BB44D8CC2604BB6142E8414F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
 
   "artemMelnichenko2013": [
@@ -274,12 +284,12 @@ const players = {
     },
   ],
 
-  "Jofer_hob": [
+  "777ivan07": [
     {
       role: "Працівник СБС",
-      telegram: "6840451973",
+      telegram: "t.me/leleleka_best",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3E43425C6B841BC7B58ABDEC16BF750-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2040D8997695D8F94F5CB4DF4095228-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -336,6 +346,15 @@ const players = {
       telegram: "t.me/Fairlady_240Z",
       category: "НАБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-156CA7F405C9DAA63AB3D35E9877B9B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "jofer_hob": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/m1nistr_HABS",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B699BFB8063567BFFC925219782E7373-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
