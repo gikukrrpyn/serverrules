@@ -929,6 +929,7 @@ window.licenses = {
     "Englishorspanish_1w7": { status: "A8585", telegram: "5963490462" },
     "danylo23679": { status: "A8686", telegram: "8355250760" },
     "dima276518": { status: "A8787", telegram: "8536032204" },
+    "Bandera909": { status: "A8888", telegram: "8556123935" },
   },
 
   // Прес-карти
