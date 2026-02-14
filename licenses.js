@@ -902,6 +902,7 @@ window.licenses = {
     "ugcc_truth": { "status": "T0251", "telegram": "7085045477" },
     "svyatosuk489": { "status": "T0252", "telegram": "1567835732" },
     "tymofii123446": { "status": "T0253", "telegram": "7519738294" },
+    "charunya0charunya": { "status": "T0254", "telegram": "7427869776" },
 
   },
 
@@ -934,6 +935,7 @@ window.licenses = {
     "danylo23679": { status: "A8686", telegram: "8355250760" },
     "dima276518": { status: "A8787", telegram: "8536032204" },
     "Bandera909": { status: "A8888", telegram: "8556123935" },
+    "w1west": { status: "A8989", telegram: "7562574264" },
   },
 
   // Прес-карти
@@ -967,6 +969,7 @@ window.licenses = {
     "Makes_847": { status: "NS19", telegram: "5681585839", role: "NOW NEWS" },
     "3333OMON": { status: "NW20", telegram: "6058122903", role: "NOW NEWS" },
     "Andrushka_pupsik": { status: "NW21", telegram: "5262299554", role: "NOW NEWS" },
+    "eeeeyegeggegehux": { status: "NW22", telegram: "5599228299", role: "NOW NEWS" },
     "username roblox": { status: "XX22", telegram: "username/id telegram", role: "назва ЗМІ" },
   },
 
