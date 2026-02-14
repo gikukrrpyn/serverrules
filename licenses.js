@@ -29,6 +29,7 @@ window.licenses = {
     "sqw1zy_n7": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
     "kolopohv": { status: "Дійсна", expiry: "31.02.2026", telegram: "6286540452" },
     "777ivan07": { status: "Дійсна", expiry: "31.02.2026", telegram: "2036860761" },
+    "Sti4kyу": { status: "Дійсна", expiry: "31.02.2026", telegram: "5481499679" },
     
 
     // ДБР
@@ -616,17 +617,17 @@ window.licenses = {
     "kirya_Gambit": { role: "Агент", status: "7595611", telegram: "t.me/kiriwllq11" },
     "Caston08963": { role: "Курсант", status: "477757", telegram: "t.me/I_am_Grifit_the_beautiful_knights" },
     "sosiska8756": { role: "Агент практикант", status: "731335", telegram: "t.me/ffucksolevoyy" },
-    "jofer_hob": { role: "Агент практикант", status: "684420", telegram: "t.me/m1nistr_HABS" },
+    "jofer_hob": { role: "Агент практикант", status: "548769", telegram: "t.me/St1cky1705" },
   },
 
   // Звання працівників СБС
   sbs: {
-    "Andrushka_pupsik": { role: "Голова СБС", status: "103526", telegram: "t.me/ami_woolw" }, // id tg 5262299554
     "eldor830": { role: "Сержант", status: "506626", telegram: "t.me/eldorichek" },
     "starikashka228337": { role: "Рядовий", status: "545544", telegram: "t.me/F1Hhunter" },
     "sqw1zy_n7": { role: "Рядовий", status: "724634", telegram: "6348110356" },
     "kolopohv": { role: "Рядовий", status: "628481", telegram: "6286540452" },
     "777ivan07": { role: "Рядовий", status: "203243", telegram: "2036860761" },
+    "Sti4kyу": { role: "Рядовий", status: "203243", telegram: "2036860761" },
   },
 
   // Звання працівників ДБР
