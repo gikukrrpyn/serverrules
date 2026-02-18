@@ -623,6 +623,9 @@ window.licenses = {
     "Caston08963": { role: "Курсант", status: "477757", telegram: "t.me/I_am_Grifit_the_beautiful_knights" },
     "sosiska8756": { role: "Агент практикант", status: "731335", telegram: "t.me/ffucksolevoyy" },
     "jofer_hob": { role: "Агент практикант", status: "548769", telegram: "t.me/St1cky1705" },
+    "pavel36558": { role: "Керівник Відділу", status: "748186", telegram: "t.me/barabanya_kolbasa" },
+    "svyatosuk489": { role: "Практикант", status: "156157", telegram: "t.me/Dark_Ungel2" },
+    "destroyerlawgran": { role: "Практикант", status: "850104", telegram: "t.me/Bhklolp" },
   },
 
   // Звання працівників СБС
