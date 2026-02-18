@@ -38,6 +38,10 @@ window.licenses = {
     "Mr_Zver3000": { status: "Дійсна", expiry: "31.02.2026", telegram: "6626655148" },
     "Marsianin_l0l": { status: "Дійсна", expiry: "31.02.2026", telegram: "7636472784" },
     "SIGMA2019827": { status: "Дійсна", expiry: "31.02.2026", telegram: "8378012679" },
+    "yatupoykogdabalans2": { status: "Дійсна", expiry: "31.02.2026", telegram: "5710792095" },
+    "Caston08963": { status: "Дійсна", expiry: "31.02.2026", telegram: "7557434574" },
+    "Kiril_30083008": { status: "Дійсна", expiry: "31.02.2026", telegram: "8830930892" },
+    "Yffgjjifh": { status: "Дійсна", expiry: "31.02.2026", telegram: "5367053785" },
 
     // Суд
     "4ooSe_3104": { status: "Дійсна", expiry: "31.02.2026", telegram: "5688779177" },
@@ -635,13 +639,17 @@ window.licenses = {
   dbr: {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
-    "Marsianin_l0l": { role: "Капрал", status: "103763", telegram: "7636472784" },
+    "Marsianin_l0l": { role: "Молодший Лейтенант", status: "103763", telegram: "7636472784" },
     "pycT_KUst": { role: "Стажер", status: "397599", telegram: "5998010840" },
     "SIGMA2019827": { role: "Стажер", status: "817777", telegram: "8378012679" },
     "Rjdef31": { role: "Стажер", status: "821695", telegram: "6952642925" },
     "SokerYT123": { role: "Стажер", status: "315129", telegram: "1290504411" },
     "constelations152": { role: "Стажер", status: "600746", telegram: "7460379767" },
     "CHERNIHIV1": { role: "Стажер", status: "323187", telegram: "1871915258" },
+    "yatupoykogdabalans2": { role: "Рядовий", status: "870571", telegram: "5710792095" },
+    "Caston08963": { role: "Рядовий", status: "477755", telegram: "7557434574" },
+    "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "8830930892" },
+    "Yffgjjifh": { role: "Рядовий", status: "537709", telegram: "5367053785" },
   },
 
   // Таксистська ліцензія
