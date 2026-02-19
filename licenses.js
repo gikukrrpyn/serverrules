@@ -98,6 +98,7 @@ window.licenses = {
     { username: "Marsianin_l0l", status: "10312353894", role: "Мирне ягня", telegram: "7636472784" },
     { username: "Ukrain_h4", status: "5172624998", role: "FixHamburg", telegram: "5379128979" },
     { username: "pravolevo678", status: "10074623422", role: "DTEK", telegram: "7811050819" },
+    { username: "3cy_77781046", status: "4183089820", role: "ŠKODA - Automobile UR CDS", telegram: "6370149052" },
     
   
     
@@ -137,7 +138,7 @@ window.licenses = {
      "657zik": { "role": "1 769", "status": "746403", "expiry": "", "telegram": "7468669144" },
 
     // 7 
-    "777ivan07": { "role": "13 1000", "status": "203243", "expiry": "", "telegram": "2036860761" },
+    "777ivan07": { "role": "13 100", "status": "203243", "expiry": "", "telegram": "2036860761" },
 
     // 9 (перший символ username)
     "9999_Anime": { "role": "27 473", "status": "338546", "expiry": "", "telegram": "5463405945" },
@@ -918,6 +919,8 @@ window.licenses = {
     "svyatosuk489": { "status": "T0252", "telegram": "1567835732" },
     "tymofii123446": { "status": "T0253", "telegram": "7519738294" },
     "charunya0charunya": { "status": "T0254", "telegram": "7427869776" },
+    "kirya2770": { "status": "T0255", "telegram": "1482508992" },
+    "Barotpisun": { "status": "T0256", "telegram": "5848939336" },
 
   },
 
@@ -1017,7 +1020,7 @@ window.licenses = {
     "va1ron4": { cans: "CANS через несанкціоновані дії з боку учасників мафії, проведення нелегального мітингу з використанням заборонених предметів.", status: "Чеченська мафія", telegram: "954036347", role: "Мафія" },
     "Rom_roma7": { cans: "CANS через організовані рейди з використанням читів учасників ОЗУ на наш сервер та у зв’язку з шахрайською діяльністю проти гравців нашого сервера.", status: "Хади Такташ", telegram: "t.me/Void_EH", role: "Клан" }, // id tg: 5749857571
     "heehrhrhl9": { status: "Space diamond", telegram: "6510561713", role: "Банда" },
-    "username roblox": { status: "назва", telegram: "username/id telegram", role: "тип" }
+    "maksphava": { status: "ZEMAN", telegram: "8124501866", role: "Мафія" }
   },
 
 };
