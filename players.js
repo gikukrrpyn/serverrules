@@ -371,15 +371,6 @@ const players = {
     },
   ],
 
-  "Caston08963": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/Fairlady_240Z",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-156CA7F405C9DAA63AB3D35E9877B9B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "jofer_hob": [
     {
       role: "Працівник НАБС",
