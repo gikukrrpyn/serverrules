@@ -99,6 +99,8 @@ window.licenses = {
     { username: "Ukrain_h4", status: "5172624998", role: "FixHamburg", telegram: "5379128979" },
     { username: "pravolevo678", status: "10074623422", role: "DTEK", telegram: "7811050819" },
     { username: "3cy_77781046", status: "4183089820", role: "ŠKODA - Automobile UR CDS", telegram: "6370149052" },
+    { username: "Caston08963", status: "4775989978", role: "Vinum Imperia", telegram: "7557434574" },
+    { username: "Matviy105012", status: "4634753941", role: "DHLHamserver GROUP", telegram: "6153820089" },
     
   
     
