@@ -81,6 +81,15 @@ const players = {
   ],
 
 
+  "kirya2770": [
+    {
+      role: "R1b Адміністратор-Повітряний Контроль",
+      telegram: "t.me/makyas10",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DFD71857736CB68D27E04E586B984E74-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "Ntinetter": [
     {
       role: "R1a Адміністратор-Патрульний",
