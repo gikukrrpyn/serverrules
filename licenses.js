@@ -23,34 +23,34 @@ window.licenses = {
     */
 
     // СБС
-    "Andrushka_pupsik": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/ami_woolw" }, // id tg 5262299554
-    "eldor830": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/eldorichek" }, // id tg 6267044472
-    "starikashka228337": { status: "Дійсна", expiry: "31.02.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
-    "sqw1zy_n7": { status: "Дійсна", expiry: "31.02.2026", telegram: "6348110356" },
-    "kolopohv": { status: "Дійсна", expiry: "31.02.2026", telegram: "6286540452" },
-    "777ivan07": { status: "Дійсна", expiry: "31.02.2026", telegram: "2036860761" },
-    "Sti4kyу": { status: "Дійсна", expiry: "31.02.2026", telegram: "5481499679" },
+    "Andrushka_pupsik": { status: "Дійсна", expiry: "31.03.2026", telegram: "t.me/ami_woolw" }, // id tg 5262299554
+    "eldor830": { status: "Дійсна", expiry: "31.03.2026", telegram: "t.me/eldorichek" }, // id tg 6267044472
+    "starikashka228337": { status: "Дійсна", expiry: "31.03.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
+    "sqw1zy_n7": { status: "Дійсна", expiry: "31.03.2026", telegram: "6348110356" },
+    "kolopohv": { status: "Дійсна", expiry: "31.03.2026", telegram: "6286540452" },
+    "777ivan07": { status: "Дійсна", expiry: "31.03.2026", telegram: "2036860761" },
+    "Sti4kyу": { status: "Дійсна", expiry: "31.03.2026", telegram: "5481499679" },
     
 
     // ДБР
-    "artemMelnichenko2013": { status: "Дійсна", expiry: "31.02.2026", telegram: "5242336088" },
-    "pycT_KUst": { status: "Дійсна", expiry: "31.02.2026", telegram: "5998010840" },
-    "Mr_Zver3000": { status: "Дійсна", expiry: "31.02.2026", telegram: "6626655148" },
-    "Marsianin_l0l": { status: "Дійсна", expiry: "31.02.2026", telegram: "7636472784" },
-    "SIGMA2019827": { status: "Дійсна", expiry: "31.02.2026", telegram: "8378012679" },
-    "yatupoykogdabalans2": { status: "Дійсна", expiry: "31.02.2026", telegram: "5710792095" },
-    "Caston08963": { status: "Дійсна", expiry: "31.02.2026", telegram: "7557434574" },
-    "Kiril_30083008": { status: "Дійсна", expiry: "31.02.2026", telegram: "8830930892" },
-    "Yffgjjifh": { status: "Дійсна", expiry: "31.02.2026", telegram: "5367053785" },
+    "artemMelnichenko2013": { status: "Дійсна", expiry: "31.03.2026", telegram: "5242336088" },
+    "pycT_KUst": { status: "Дійсна", expiry: "31.03.2026", telegram: "5998010840" },
+    "Mr_Zver3000": { status: "Дійсна", expiry: "31.03.2026", telegram: "6626655148" },
+    "Marsianin_l0l": { status: "Дійсна", expiry: "31.03.2026", telegram: "7636472784" },
+    "SIGMA2019827": { status: "Дійсна", expiry: "31.03.2026", telegram: "8378012679" },
+    "yatupoykogdabalans2": { status: "Дійсна", expiry: "31.03.2026", telegram: "5710792095" },
+    "Caston08963": { status: "Дійсна", expiry: "31.03.2026", telegram: "7557434574" },
+    "Kiril_30083008": { status: "Дійсна", expiry: "31.03.2026", telegram: "8830930892" },
+    "Yffgjjifh": { status: "Дійсна", expiry: "31.03.2026", telegram: "5367053785" },
 
     // Суд
-    "4ooSe_3104": { status: "Дійсна", expiry: "31.02.2026", telegram: "5688779177" },
-    "Yffgjjifh": { status: "Дійсна", expiry: "31.02.2026", telegram: "5367053785" },
+    "4ooSe_3104": { status: "Дійсна", expiry: "31.03.2026", telegram: "5688779177" },
+    "Yffgjjifh": { status: "Дійсна", expiry: "31.03.2026", telegram: "5367053785" },
 
     // Мерія
-    "Krutoi_chel1331": { status: "Дійсна", expiry: "31.02.2026", telegram: "1509244286" },
-    "slavmanga": { status: "Дійсна", expiry: "31.02.2026", telegram: "5058792421" },
-    "mastergame100p": { status: "Дійсна", expiry: "31.02.2026", telegram: "5706483624" },
+    "Krutoi_chel1331": { status: "Дійсна", expiry: "31.03.2026", telegram: "1509244286" },
+    "slavmanga": { status: "Дійсна", expiry: "31.03.2026", telegram: "5058792421" },
+    "mastergame100p": { status: "Дійсна", expiry: "31.03.2026", telegram: "5706483624" },
 
   },
 
