@@ -476,6 +476,7 @@ window.licenses = {
     "PAVELO_444742": { "role": "14 096", "status": "406769", "expiry": "", "telegram": "7693509552" },
     "pravolevo678": { "role": "278", "status": "781100", "expiry": "", "telegram": "7811050819" },
     "PON_DA911": { "role": "4198", "status": "729403", "expiry": "", "telegram": "7290496078" },
+    "PATRIOT_UA": { "role": "2 843", "status": "837484", "expiry": "", "telegram": "8371649979" },
 
     // Q
 
