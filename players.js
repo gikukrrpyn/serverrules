@@ -95,7 +95,7 @@ const players = {
       role: "R1a Адміністратор-Патрульний",
       telegram: "t.me/makyas10",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF86C148E6C14E9065DB349A3C26348F-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-32D12D1DC17A08FD27581EAAD54FA694-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -137,7 +137,16 @@ const players = {
       role: "Охоронець суду",
       telegram: "t.me/pupt1mmy",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9C0C39C71B207E4C9BE5DEEF62DC06FF-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40582FDD322B8B1692FF86DCCD1096DE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "makspsava": [
+    {
+      role: "Охоронець суду",
+      telegram: "t.me/aa_bb_bb",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D1E6DF05A4972A801EB9396258C28B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -147,7 +156,7 @@ const players = {
       role: "Заступник Директора ДБР",
       telegram: "5242336088",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40C0C0541A9CA426461D9F9734328806-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1C633DFF3E730C736C8508EAE69F7CCF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -156,7 +165,7 @@ const players = {
       role: "Працівник ДБР",
       telegram: "6626655148",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E8BB0FBEB8D08F154F18C49A8010A735-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7449115CCA22ABF2C39D362639510EE1-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -165,25 +174,16 @@ const players = {
       role: "Працівник ДБР",
       telegram: "7636472784",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2327191689E3212A3AED275AF9F6892E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-308900F28D519B3BF1A31ABEE921EE2D-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
-  "pycT_KUst": [
+  "Fakijdik": [
     {
       role: "Працівник ДБР",
-      telegram: "t.me/sancozCHE",
+      telegram: "t.me/Stylelive62",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-406F8A5A91C8E12FB524C5ED718D9603-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "SIGMA2019827": [
-    {
-      role: "Працівник ДБР",
-      telegram: " t.me/shu7542",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3A62492B8998F64409CF6A1850404995-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1B46F2EE30F77B870CD34D9A53E4E56F-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -275,7 +275,7 @@ const players = {
       role: "Працівник СБС",
       telegram: "t.me/F1Hhunter",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BF2085F7007430ECA6665523D375B2F7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-10A5F54434D4948A3CDB66EF7A9AA390-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -284,7 +284,7 @@ const players = {
       role: "Працівник СБС",
       telegram: "t.me/eldorichek",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D3D23E9ED69EA086DB126E356C1AECB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E21F1FD62A5D08065E3DA6D605237B7C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -333,12 +333,12 @@ const players = {
     },
   ],
 
-  "Sti4kyу": [
+  "ant0n_ch1gur7": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/St1cky1705",
+      telegram: "t.me/Txzw2",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-920B6E94968C35FE8F6A5B3BDA9D72E9-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-82718171A5CFC9EDC684BBA32FD89F28-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
   
