@@ -235,7 +235,7 @@ window.licenses = {
     "Dankert_57": { "role": "13 880", "status": "769894", "expiry": "", "telegram": "7694189576" },
     "dima276518": { "role": "77 389", "status": "810703", "expiry": "", "telegram": "8107753437" },
     "dfsrededwd": { "role": "139", "status": "750414", "expiry": "", "telegram": "7509517488" },
-    "Dddrrrtttyykjhj": { "role": "18 813", "status": "590451", "expiry": "", "telegram": "5903095976" },
+    "Dddrrrtttyykjhj": { "role": "22 106", "status": "590451", "expiry": "", "telegram": "5903095976" },
     "Den4ik57_Bro": { "role": "3 022", "status": "589229", "expiry": "", "telegram": "5894843888" },
     "DanyloServatyak": { "role": "3 072", "status": "798164", "expiry": "", "telegram": "7982066453" },
     "Dodu340dd": { "role": "31 383", "status": "438563", "expiry": "", "telegram": "5632698118" },
@@ -408,7 +408,7 @@ window.licenses = {
     "Makaron22227": { role: "682", status: "690853", expiry: "", telegram: "6908762601" },
     "MomO777659": { role: "1 492", status: "779527", expiry: "", telegram: "8356567081" },
     "macejten": { role: "3 078", status: "147101", expiry: "", telegram: "1457907243" },
-    "Maksim15469": { role: "19 054", status: "612561", expiry: "", telegram: "6218538220" },
+    "Maksim15469": { role: "31 090", status: "612561", expiry: "", telegram: "6218538220" },
     "Moiisha_Brothers": { role: "12 547", status: "629727", expiry: "", telegram: "6293596796" },
     "Morkva799": { role: "1 147", status: "774766", expiry: "", telegram: "7743957108" },
     "Matviy105012": { role: "5 137", status: "615463", expiry: "", telegram: "6153820089" },
@@ -475,7 +475,7 @@ window.licenses = {
     "Patroneys1": { "role": "2 649", "status": "679464", "expiry": "", "telegram": "6798698847" },
     "PAVELO_444742": { "role": "14 096", "status": "406769", "expiry": "", "telegram": "7693509552" },
     "pravolevo678": { "role": "278", "status": "781100", "expiry": "", "telegram": "7811050819" },
-    "PON_DA911": { "role": "4198", "status": "729403", "expiry": "", "telegram": "7290496078" },
+    "PON_DA911": { "role": "6 070", "status": "729403", "expiry": "", "telegram": "7290496078" },
     "PATRIOT_UA": { "role": "2 843", "status": "837484", "expiry": "", "telegram": "8371649979" },
 
     // Q
