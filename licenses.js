@@ -639,12 +639,13 @@ window.licenses = {
 
   // Звання працівників СБС
   sbs: {
-    "eldor830": { role: "Сержант", status: "506626", telegram: "t.me/eldorichek" },
-    "starikashka228337": { role: "Рядовий", status: "545544", telegram: "t.me/F1Hhunter" },
-    "sqw1zy_n7": { role: "Рядовий", status: "724634", telegram: "6348110356" },
-    "kolopohv": { role: "Рядовий", status: "628481", telegram: "6286540452" },
+    "eldor830": { role: "Старшина", status: "506626", telegram: "t.me/eldorichek" },
+    "starikashka228337": { role: "Полковник", status: "545544", telegram: "t.me/F1Hhunter" },
+    "sqw1zy_n7": { role: "Поклвник", status: "724634", telegram: "6348110356" },
+    "kolopohv": { role: "Старшина", status: "628481", telegram: "6286540452" },
     "777ivan07": { role: "Рядовий", status: "203243", telegram: "2036860761" },
-    "Sti4kyу": { role: "Рядовий", status: "203243", telegram: "2036860761" },
+    "ant0n_ch1gur7": { role: "Рядовий", status: "38105", telegram: "1389146181" },
+    "Zoomsos123": { role: "Генерал-Полковник", status: "533350", telegram: "5339606531" },
   },
 
   // Звання працівників ДБР
@@ -652,8 +653,8 @@ window.licenses = {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "Marsianin_l0l": { role: "Молодший Лейтенант", status: "103763", telegram: "7636472784" },
-    "pycT_KUst": { role: "Стажер", status: "397599", telegram: "5998010840" },
-    "SIGMA2019827": { role: "Стажер", status: "817777", telegram: "8378012679" },
+    "Fakijdik ": { role: "Стажер", status: "493593", telegram: "5931117420" },
+    "ROSTIKTHS": { role: "Стажер", status: "269515", telegram: "5151514815" },
     "Rjdef31": { role: "Стажер", status: "821695", telegram: "6952642925" },
     "SokerYT123": { role: "Стажер", status: "315129", telegram: "1290504411" },
     "constelations152": { role: "Стажер", status: "600746", telegram: "7460379767" },
