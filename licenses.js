@@ -101,6 +101,7 @@ window.licenses = {
     { username: "3cy_77781046", status: "4183089820", role: "ŠKODA - Automobile UR CDS", telegram: "6370149052" },
     { username: "Caston08963", status: "4775989978", role: "Vinum Imperia", telegram: "7557434574" },
     { username: "Matviy105012", status: "4634753941", role: "DHLHamserver GROUP", telegram: "6153820089" },
+    { username: "Matviy105012", status: "4634753941", role: "DHLHamserver GROUP", telegram: "6153820089" },
     
   
     
@@ -928,6 +929,8 @@ window.licenses = {
     "charunya0charunya": { "status": "T0254", "telegram": "7427869776" },
     "kirya2770": { "status": "T0255", "telegram": "1482508992" },
     "Barotpisun": { "status": "T0256", "telegram": "5848939336" },
+    "Ygorkahak29": { "status": "T0257", "telegram": "8293730968" },
+    "Forerkel": { "status": "T0258", "telegram": "6673041140" },
 
   },
 
@@ -1027,7 +1030,8 @@ window.licenses = {
     "va1ron4": { cans: "CANS через несанкціоновані дії з боку учасників мафії, проведення нелегального мітингу з використанням заборонених предметів.", status: "Чеченська мафія", telegram: "954036347", role: "Мафія" },
     "Rom_roma7": { cans: "CANS через організовані рейди з використанням читів учасників ОЗУ на наш сервер та у зв’язку з шахрайською діяльністю проти гравців нашого сервера.", status: "Хади Такташ", telegram: "t.me/Void_EH", role: "Клан" }, // id tg: 5749857571
     "heehrhrhl9": { status: "Space diamond", telegram: "6510561713", role: "Банда" },
-    "maksphava": { status: "ZEMAN", telegram: "8124501866", role: "Мафія" }
+    "makspsava": { status: "ZEMAN", telegram: "8124501866", role: "Мафія" },
+    "makspsava": { status: "ZEMAN", telegram: "8124501866", role: "Мафія" },
   },
 
 };
