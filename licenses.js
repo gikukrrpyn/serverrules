@@ -101,7 +101,7 @@ window.licenses = {
     { username: "3cy_77781046", status: "4183089820", role: "ŠKODA - Automobile UR CDS", telegram: "6370149052" },
     { username: "Caston08963", status: "4775989978", role: "Vinum Imperia", telegram: "7557434574" },
     { username: "Matviy105012", status: "4634753941", role: "DHLHamserver GROUP", telegram: "6153820089" },
-    { username: "Matviy105012", status: "4634753941", role: "DHLHamserver GROUP", telegram: "6153820089" },
+    { username: "Aktavia9283fn", status: "5957350635", role: "Aktavia Post RP", telegram: "5957350635" },
     
   
     
@@ -932,6 +932,8 @@ window.licenses = {
     "Barotpisun": { "status": "T0256", "telegram": "5848939336" },
     "Ygorkahak29": { "status": "T0257", "telegram": "8293730968" },
     "Forerkel": { "status": "T0258", "telegram": "6673041140" },
+    "firsunin2013": { "status": "T0259", "telegram": "5119828268" },
+    "Galem_228": { "status": "T0300", "telegram": "7506823225" },
 
   },
 
@@ -965,6 +967,7 @@ window.licenses = {
     "dima276518": { status: "A8787", telegram: "8536032204" },
     "Bandera909": { status: "A8888", telegram: "8556123935" },
     "w1west": { status: "A8989", telegram: "7562574264" },
+    "eba1wrot": { status: "A9090", telegram: "7120569425" },
   },
 
   // Прес-карти
