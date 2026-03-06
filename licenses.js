@@ -323,7 +323,7 @@ window.licenses = {
     // J
     "jrlm_987": { "role": "15 556", "status": "384680", "expiry": "", "telegram": "6800141946" },
     "JustIwannaMoney": { "role": "154", "status": "567628", "expiry": "", "telegram": "6283446597" },
-    "jroslav2014dr": { "role": "10 239", "status": "732323", "expiry": "", "telegram": "7329691938" },
+    "jroslav2014dr": { "role": "13 100", "status": "732323", "expiry": "", "telegram": "7329691938" },
     "jfhhddjh": { "role": "30 010", "status": "699244", "expiry": "", "telegram": "6997233193" },
     "jgdfgjfgnd": { "role": "9 853", "status": "310763", "expiry": "", "telegram": "7630293394" },
     "jeka34567899": { "role": "88 471", "status": "811456", "expiry": "", "telegram": "8114402013" },
@@ -478,7 +478,7 @@ window.licenses = {
     "PAVELO_444742": { "role": "14 096", "status": "406769", "expiry": "", "telegram": "7693509552" },
     "pravolevo678": { "role": "278", "status": "781100", "expiry": "", "telegram": "7811050819" },
     "PON_DA911": { "role": "6 070", "status": "729403", "expiry": "", "telegram": "7290496078" },
-    "PATRIOT_UA": { "role": "2 843", "status": "837484", "expiry": "", "telegram": "8371649979" },
+    "PATRIOT_UA": { "role": "3 093", "status": "837484", "expiry": "", "telegram": "8371649979" },
 
     // Q
 
@@ -539,7 +539,7 @@ window.licenses = {
     "svyatosuk489": { "role": "11 794", "status": "156157", "expiry": "", "telegram": "1567835732" },
 
     // T
-    "Twister_devil8393": { "role": "12 616", "status": "535178", "expiry": "", "telegram": "1783909923" },
+    "Twister_devil8393": { "role": "20 745", "status": "535178", "expiry": "", "telegram": "1783909923" },
     "Tezil0": { "role": "23 457", "status": "538615", "expiry": "", "telegram": "6156909455" },
     "tus47e": { "role": "1 283", "status": "160774", "expiry": "", "telegram": "7741728209" },
     "Taim_omp": { "role": "6 080", "status": "560548", "expiry": "", "telegram": "5485975054" },
