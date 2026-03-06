@@ -416,6 +416,7 @@ window.licenses = {
     "Marsianin_l0l": { role: "3 466", status: "763103", expiry: "", telegram: "7636472784" },
     "milkcoffe_2024": { role: "6 037", status: "534582", expiry: "", telegram: "5827998592" },
     "mimi091594": { role: "120", status: "586729", expiry: "", telegram: "5865962309" },
+    "Maksumkasymk789": { role: "74 516", status: "811392", expiry: "", telegram: "8155030379" },
 
     
 
