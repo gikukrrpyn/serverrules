@@ -371,30 +371,21 @@ const players = {
     },
   ],
 
-  "kirya_Gambit": [
+  "svyatosuk489": [
     {
       role: "Працівник НАБС",
-      telegram: "t.me/kiriwllq11",
+      telegram: "t.me/Dark_Ungel2",
       category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0DB1767CF16629C481AE1E2C7CE273B4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9545E92641C14F16EF0A142C49936A74-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
-  "sosiska8756": [
+  "pavel36558": [
     {
       role: "Працівник НАБС",
-      telegram: "t.me/ffucksolevoyy",
+      telegram: "t.me/barabanya_kolbasa",
       category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8835E243567B04D822EAFE36F582AAE7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "jofer_hob": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/m1nistr_HABS",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B699BFB8063567BFFC925219782E7373-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A7304C382B42775B3F6203B790BAE85C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -407,12 +398,12 @@ const players = {
     },
   ],
 
-  "jofer_hob": [
+  "destroyerlawgran": [
     {
       role: "Працівник НАБС",
-      telegram: "t.me/m1nistr_HABS",
+      telegram: "t.me/Bhklolp",
       category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B699BFB8063567BFFC925219782E7373-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-42A8EFDDD31DB4183B8F2BC95A961362-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
