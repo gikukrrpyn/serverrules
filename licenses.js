@@ -967,7 +967,7 @@ window.licenses = {
     "dima276518": { status: "A8787", telegram: "8536032204" },
     "Bandera909": { status: "A8888", telegram: "8556123935" },
     "w1west": { status: "A8989", telegram: "7562574264" },
-    "eba1wrot": { status: "A9090", telegram: "7120569425" },
+    "Adein_48": { status: "A9191", telegram: "6549388943" },
   },
 
   // Прес-карти
