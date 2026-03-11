@@ -355,7 +355,7 @@ window.licenses = {
     "Kiborg_458": { role: "10 026", status: "550190", expiry: "", telegram: "5505076322" },
     "kar_karY55": { role: "26 769", status: "107764", expiry: "", telegram: "1070341794" },
     "Kiril_30083008": { role: "40 937", status: "602883", expiry: "", telegram: "6026275163" },
-    "kirilkleo123425": { role: "174", status: "737832", expiry: "", telegram: "7378236816" },
+    "kirilkleo123425": { role: "3 142", status: "737832", expiry: "", telegram: "7378236816" },
     "KBAC490174": { role: "6 532", status: "57327", expiry: "", telegram: "5735710517" },
     "kyrilozavr290": { role: "2 069", status: "187269", expiry: "", telegram: "1875769733" },
     "kirya2770": { role: "7 611", status: "148508", expiry: "", telegram: "1482508992" },
