@@ -145,7 +145,7 @@ const players = {
   "Vaylet009": [
     {
       role: "Директор ДБР",
-      telegram: "t.me/Vaylet009,
+      telegram: "t.me/Vaylet009",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E4C965B2E6DB23701FD6E390F2E3426C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
