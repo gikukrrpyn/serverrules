@@ -173,6 +173,7 @@ window.licenses = {
     "Artemnaryzhnyj1235": { "role": "10 004", "status": "147238", "expiry": "", "telegram": "1478280976" },
     "Airbreks2": { "role": "10 004", "status": "163762", "expiry": "", "telegram": "1630158774" },
     "ARtem4uk": { "role": "55 998", "status": "191158", "expiry": "", "telegram": "1915195071" },
+    "andrey_kika": { "role": "2 243", "status": "464630", "expiry": "", "telegram": "6308441311" },
    
 
     // B
@@ -417,6 +418,8 @@ window.licenses = {
     "milkcoffe_2024": { role: "6 037", status: "534582", expiry: "", telegram: "5827998592" },
     "mimi091594": { role: "120", status: "586729", expiry: "", telegram: "5865962309" },
     "Maksumkasymk789": { role: "74 516", status: "811392", expiry: "", telegram: "8155030379" },
+    "Mykhailo_Zaya1": { role: "6 025", status: "529158", expiry: "", telegram: "5295879849" },
+    "Maksimka20131411": { role: "37 922", status: "855567", expiry: "", telegram: "8556942531" },
 
     
 
@@ -449,6 +452,7 @@ window.licenses = {
     "Oleg3422PRO": { "role": "4 040", "status": "498549", "expiry": "", "telegram": "5497100065" },
     "o123opk": { "role": "32 305", "status": "785797", "expiry": "", "telegram": "7852586318" },
     "oleg5192": { "role": "9 635", "status": "750399", "expiry": "", "telegram": "7504636795" },
+    "Oli1324226": { "role": "3 739", "status": "616866", "expiry": "", "telegram": "6167279322" },
 
     // P
     "palamarka2288": { "role": "Полковник", "status": "434780", "expiry": "", "telegram": "7806572251" },
@@ -601,6 +605,7 @@ window.licenses = {
     "Yklviv": { "role": "30 344", "status": "600339", "expiry": "", "telegram": "6005498606" },
     "yZasa_feda": { "role": "14 012", "status": "667204", "expiry": "", "telegram": "7017516540" },
     "yarik4k10": { "role": "117", "status": "733859", "expiry": "", "telegram": "7338782418" },
+    "YarikUkr59": { "role": "868", "status": "623550", "expiry": "", "telegram": "6235409740" },
 
     // Z
     "zer14685": { "role": "8 700", "status": "607719", "expiry": "", "telegram": "6078536424" },
