@@ -56,18 +56,9 @@ const players = {
     },
   ],
 
-  "maksumkasymk789": [
-    {
-      role: "R1d Адміністратор з безпеки сервера",
-      telegram: "t.me/Player_wins",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-32D12D1DC17A08FD27581EAAD54FA694-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
    "XxsSashaxxjj": [
     {
-      role: "R1c Адміністратор-Комунікатор",
+      role: "R1d Адміністратор з безпеки сервера",
       telegram: "t.me/XxsSashaxxjj",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9959B70E5F43033FFEA69ACF451FD9BC-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -132,6 +123,15 @@ const players = {
     },
   ],
 
+  "Mixaul_petrovich1": [
+    {
+      role: "Суддя",
+      telegram: "t.me/hrykal0",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-05405AFA1F99C6D9715A8CEAEE9ED8E5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
   "4ooSe_3104": [
     {
       role: "Охоронець суду",
@@ -141,15 +141,15 @@ const players = {
     },
   ],
 
-  "makspsava": [
+
+  "Vaylet009": [
     {
-      role: "Охоронець суду",
-      telegram: "t.me/aa_bb_bb",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8D1E6DF05A4972A801EB9396258C28B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      role: "Директор ДБР",
+      telegram: "t.me/Vaylet009,
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E4C965B2E6DB23701FD6E390F2E3426C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-
 
   "artemMelnichenko2013": [
     {
@@ -279,6 +279,15 @@ const players = {
     },
    ],
 
+  "maksumkasymk789": [
+    {
+      role: "Директор СБС",
+      telegram: "t.me/Player_wins",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ACE0FACBC9E4B408F22B66ECEA21C7C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+   ],
+
    "starikashka228337": [
     {
       role: "Працівник СБС",
@@ -342,15 +351,7 @@ const players = {
     },
   ],
 
-  "ant0n_ch1gur7": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/Txzw2",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-82718171A5CFC9EDC684BBA32FD89F28-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-  
+
 
 
   "lSqwizzyl": [
