@@ -281,7 +281,7 @@ const players = {
 
   "maksumkasymk789": [
     {
-      role: "Директор СБС",
+      role: "Заступник Директора СБС",
       telegram: "t.me/Player_wins",
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ACE0FACBC9E4B408F22B66ECEA21C7C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
