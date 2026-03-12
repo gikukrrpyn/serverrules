@@ -420,14 +420,6 @@ const players = {
   
 
 
-  "3cy_77781046": [
-    {
-      role: "Мер",
-      telegram: "t.me/SKODA_UR",
-      category: "Мерія",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-307633BAE3F8DAC8644B5BFF5B243552-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "Rostyk_gej71": [
     {
