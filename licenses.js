@@ -23,13 +23,12 @@ window.licenses = {
     */
 
     // СБС
-    "Andrushka_pupsik": { status: "Дійсна", expiry: "31.03.2026", telegram: "t.me/ami_woolw" }, // id tg 5262299554
-    "eldor830": { status: "Дійсна", expiry: "31.03.2026", telegram: "t.me/eldorichek" }, // id tg 6267044472
+    "Zoomsos123": { status: "Дійсна", expiry: "31.03.2026", telegram: "5339606531" },
     "starikashka228337": { status: "Дійсна", expiry: "31.03.2026", telegram: "t.me/F1Hhunter" }, // id tg 5358641921
     "sqw1zy_n7": { status: "Дійсна", expiry: "31.03.2026", telegram: "6348110356" },
     "kolopohv": { status: "Дійсна", expiry: "31.03.2026", telegram: "6286540452" },
     "777ivan07": { status: "Дійсна", expiry: "31.03.2026", telegram: "2036860761" },
-    "Sti4kyу": { status: "Дійсна", expiry: "31.03.2026", telegram: "5481499679" },
+    "maksumkasymk789": { status: "Дійсна", expiry: "31.03.2026", telegram: "8155030379" },
     
 
     // ДБР
@@ -41,16 +40,11 @@ window.licenses = {
     "yatupoykogdabalans2": { status: "Дійсна", expiry: "31.03.2026", telegram: "5710792095" },
     "Caston08963": { status: "Дійсна", expiry: "31.03.2026", telegram: "7557434574" },
     "Kiril_30083008": { status: "Дійсна", expiry: "31.03.2026", telegram: "8830930892" },
-    "Yffgjjifh": { status: "Дійсна", expiry: "31.03.2026", telegram: "5367053785" },
 
     // Суд
     "4ooSe_3104": { status: "Дійсна", expiry: "31.03.2026", telegram: "5688779177" },
-    "Yffgjjifh": { status: "Дійсна", expiry: "31.03.2026", telegram: "5367053785" },
 
-    // Мерія
-    "Krutoi_chel1331": { status: "Дійсна", expiry: "31.03.2026", telegram: "1509244286" },
-    "slavmanga": { status: "Дійсна", expiry: "31.03.2026", telegram: "5058792421" },
-    "mastergame100p": { status: "Дійсна", expiry: "31.03.2026", telegram: "5706483624" },
+
 
   },
 
@@ -647,12 +641,11 @@ window.licenses = {
 
   // Звання працівників СБС
   sbs: {
-    "eldor830": { role: "Старшина", status: "506626", telegram: "t.me/eldorichek" },
+    "maksumkasymk789": { role: "Генерал-Полковник", status: "140392", telegram: "t.me/Player_wins" },
     "starikashka228337": { role: "Полковник", status: "545544", telegram: "t.me/F1Hhunter" },
-    "sqw1zy_n7": { role: "Поклвник", status: "724634", telegram: "6348110356" },
+    "sqw1zy_n7": { role: "Полковник", status: "724634", telegram: "6348110356" },
     "kolopohv": { role: "Старшина", status: "628481", telegram: "6286540452" },
     "777ivan07": { role: "Рядовий", status: "203243", telegram: "2036860761" },
-    "ant0n_ch1gur7": { role: "Рядовий", status: "38105", telegram: "1389146181" },
     "Zoomsos123": { role: "Генерал-Полковник", status: "533350", telegram: "5339606531" },
   },
 
