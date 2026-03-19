@@ -539,7 +539,7 @@ window.licenses = {
     "sigm4t1k": { "role": "45 553", "status": "815551", "expiry": "", "telegram": "8156926863" },
     "sawty666x": { "role": "803", "status": "716918", "expiry": "", "telegram": "7164822097" },
     "svyatosuk489": { "role": "11 794", "status": "156157", "expiry": "", "telegram": "1567835732" },
-    "SOMIK_557 ": { "role": "8 308", "status": "860105", "expiry": "", "telegram": "8609908965" },
+    "SOMIK_557": { "role": "8 308", "status": "860105", "expiry": "", "telegram": "8609908965" },
 
     // T
     "Twister_devil8393": { "role": "20 745", "status": "535178", "expiry": "", "telegram": "1783909923" },
