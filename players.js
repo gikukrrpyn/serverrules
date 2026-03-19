@@ -71,13 +71,12 @@ const players = {
     },
   ],
 
-
-  "kirya2770": [
+  "yhggyoii": [
     {
-      role: "R1b Адміністратор-Повітряний Контроль",
-      telegram: "t.me/kirya2777",
+      role: "R0 Стажер-Адміністратор",
+      telegram: "5208276815",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DFD71857736CB68D27E04E586B984E74-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C1D9AF66401BC37919135C953E1BB712-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -120,15 +119,6 @@ const players = {
       telegram: "t.me/Samyry228",
       category: "Суд",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-358CD48909FD30E5E14F11A80482B03C-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Mixaul_petrovich1": [
-    {
-      role: "Суддя",
-      telegram: "t.me/hrykal0",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-05405AFA1F99C6D9715A8CEAEE9ED8E5-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -288,24 +278,6 @@ const players = {
     },
    ],
 
-   "starikashka228337": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/F1Hhunter",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-10A5F54434D4948A3CDB66EF7A9AA390-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "eldor830": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/eldorichek",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E21F1FD62A5D08065E3DA6D605237B7C-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "sqw1zy_n7": [
     {
       role: "Працівник СБС",
@@ -333,23 +305,6 @@ const players = {
     },
   ],
 
-  "sigm4t1k": [
-    {
-      role: "Працівник СБС",
-      telegram: "8156926863",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-91CEEA9E59D5BA6FF863E1CFA67025B3-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "777ivan07": [
-    {
-      role: "Працівник СБС",
-      telegram: "t.me/leleleka_best",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B5C29359D5B54FFFE3FCE40E23C0D4CE-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
 
 
