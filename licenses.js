@@ -1009,7 +1009,7 @@ window.licenses = {
     "3333OMON": { status: "NW20", telegram: "6058122903", role: "NOW NEWS" },
     "Andrushka_pupsik": { status: "NW21", telegram: "5262299554", role: "NOW NEWS" },
     "eeeeyegeggegehux": { status: "NW22", telegram: "5599228299", role: "NOW NEWS" },
-    "mastergame100p": { status: "NM23", telegram: "5706483624", role: "NEWS 24 },
+    "mastergame100p": { status: "NM23", telegram: "5706483624", role: "NEWS 24" },
     "kolopohv": { status: "NK24", telegram: "6286540452", role: "NOW NEWS" },
   },
 
