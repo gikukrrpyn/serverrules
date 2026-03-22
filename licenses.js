@@ -283,6 +283,7 @@ window.licenses = {
     "golopa076": { "role": "35 453", "status": "854745", "expiry": "", "telegram": "8549231265" },
     "GermanBest77": { "role": "14 060", "status": "774575", "expiry": "", "telegram": "7748682018" },
     "Galen_228": { "role": "7 226", "status": "202750", "expiry": "", "telegram": "7506823225" },
+    "Ghoul_UA": { "role": "2 125", "status": "608389", "expiry": "", "telegram": "6089019366" },
 
 
 
@@ -413,7 +414,7 @@ window.licenses = {
     "milkcoffe_2024": { role: "6 037", status: "534582", expiry: "", telegram: "5827998592" },
     "mimi091594": { role: "120", status: "586729", expiry: "", telegram: "5865962309" },
     "Maksumkasymk789": { role: "74 516", status: "811392", expiry: "", telegram: "8155030379" },
-    "Mykhailo_Zaya1": { role: "10 529", status: "529158", expiry: "", telegram: "5295879849" },
+    "Mykhailo_Zaya1": { role: "13 099", status: "529158", expiry: "", telegram: "5295879849" },
     "Maksimka20131411": { role: "37 922", status: "855567", expiry: "", telegram: "8556942531" },
     "mat250956": { role: "1 834", status: "630254", expiry: "", telegram: "6304172321" },
     "Monster2024210": { role: "1 557", status: "531716", expiry: "", telegram: "5317856352" },
@@ -485,7 +486,7 @@ window.licenses = {
 
     // R
     "Rechs10": { "role": "65 200", "status": "404638", "expiry": "", "telegram": "6387100458" },
-    "Robert_polsan228": { "role": "30 360", "status": "769192", "expiry": "", "telegram": "1921850684" },
+    "Robert_polsan228": { "role": "Комісар", "status": "769192", "expiry": "", "telegram": "1921850684" },
     "Rokk834": { "role": "66 579", "status": "747751", "expiry": "", "telegram": "7517215417" },
     "RODON297": { role: "3 813", status: "726519", expiry: "", telegram: "5196592487" },
     "roma9080705": { role: "9 996", status: "520816", expiry: "", telegram: "8163191765" },
@@ -659,19 +660,19 @@ window.licenses = {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "Marsianin_l0l": { role: "Молодший Лейтенант", status: "103763", telegram: "7636472784" },
-    "Fakijdik ": { role: "Стажер", status: "493593", telegram: "5931117420" },
-    "ROSTIKTHS": { role: "Стажер", status: "269515", telegram: "5151514815" },
-    "Rjdef31": { role: "Стажер", status: "821695", telegram: "6952642925" },
-    "SokerYT123": { role: "Стажер", status: "315129", telegram: "1290504411" },
+    "Fakijdik ": { role: "Рядовий", status: "493593", telegram: "5931117420" },
+    "ROSTIKTHS": { role: "Рядовий", status: "269515", telegram: "5151514815" },
+    "Rjdef31": { role: "Рядовий", status: "821695", telegram: "6952642925" },
+    "SokerYT123": { role: "Рядовий", status: "315129", telegram: "1290504411" },
     "constelations152": { role: "Стажер", status: "600746", telegram: "7460379767" },
-    "CHERNIHIV1": { role: "Стажер", status: "323187", telegram: "1871915258" },
+    "CHERNIHIV1": { role: "Рядовий", status: "323187", telegram: "1871915258" },
     "yatupoykogdabalans2": { role: "Рядовий", status: "870571", telegram: "5710792095" },
     "Caston08963": { role: "Рядовий", status: "477755", telegram: "7557434574" },
     "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "8830930892" },
     "Yffgjjifh": { role: "Рядовий", status: "537709", telegram: "5367053785" },
-    "makxuitaem": { role: "Стажер", status: "103829", telegram: "10348548484" },
-    "per4ik_rrrt": { role: "Стажер", status: "423158", telegram: "1585314228" },
-    "Dddrrrtttyykjhj": { role: "Стажер", status: "451590", telegram: "5903095976" },
+    "makxuitaem": { role: "Рядовий", status: "103829", telegram: "10348548484" },
+    "per4ik_rrrt": { role: "Рядовий", status: "423158", telegram: "1585314228" },
+    "Dddrrrtttyykjhj": { role: "Рядовий", status: "451590", telegram: "5903095976" },
   },
 
   // Таксистська ліцензія
@@ -940,6 +941,8 @@ window.licenses = {
     "Forerkel": { "status": "T0258", "telegram": "6673041140" },
     "firsunin2013": { "status": "T0259", "telegram": "5119828268" },
     "Galem_228": { "status": "T0300", "telegram": "7506823225" },
+    "SIGMA2019827": { "status": "T0301", "telegram": "7770250915" },
+    "sane4ka1708": { "status": "T0302", "telegram": "6498765492" },
 
   },
 
