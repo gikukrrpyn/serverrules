@@ -17,6 +17,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1BB58793A1978C267A1612D8543EC1E6-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+  
 
   "sergij18": [
     {
@@ -26,6 +27,7 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2438FDC656E50134F46B94223FDFD1E2-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+  
 
   "Slavixzz4356": [
     {
@@ -63,10 +65,19 @@ const players = {
 
   "Andrushka_pupsik": [
     {
-      role: "R1c",
+      role: "R1c Адміністратор-Комунікатор",
       telegram: "t.me/ami_woolw",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F440757BA0B8FC11F0276D6729EC0B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "maksumkasymk789": [
+    {
+      role: "R1c Адміністратор-Комунікатор",
+      telegram: "t.me/Player_wins",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ACE0FACBC9E4B408F22B66ECEA21C7C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
   
@@ -133,6 +144,8 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-40582FDD322B8B1692FF86DCCD1096DE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  
 
 
   "Vaylet009": [
@@ -272,14 +285,6 @@ const players = {
     },
    ],
 
-  "maksumkasymk789": [
-    {
-      role: "Заступник Директора СБС",
-      telegram: "t.me/Player_wins",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ACE0FACBC9E4B408F22B66ECEA21C7C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-   ],
 
   "sqw1zy_n7": [
     {
