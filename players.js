@@ -18,22 +18,21 @@ const players = {
     },
   ],
 
-  "Bandera909": [
-    {
-      role: "R4 Головний адмніністратор",
-      telegram: "t.me/Great_Terku",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4673A3CF98813A3743A9EB2DD18F627A-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-   ],
-
-
   "sergij18": [
     {
-      role: "R3 Старший Адміністратор",
+      role: "R4 Головний Адміністратор",
       telegram: "t.me/Sergij9000",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2438FDC656E50134F46B94223FDFD1E2-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Slavixzz4356": [
+    {
+      role: "R3 Старший Адміністратор",
+      telegram: "t.me/slavixzz43",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A4800254931C5B610A660E5B3619B75B-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
   
@@ -46,15 +45,6 @@ const players = {
     },
   ],
 
-
-  "Slavixzz4356": [
-    {
-      role: "R2a Головний Координатор Ролі (ГКР)",
-      telegram: "t.me/slavixzz43",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A4800254931C5B610A660E5B3619B75B-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
    "XxsSashaxxjj": [
     {
@@ -71,14 +61,15 @@ const players = {
     },
   ],
 
-  "yhggyoii": [
+  "Andrushka_pupsik": [
     {
-      role: "R0 Стажер-Адміністратор",
-      telegram: "5208276815",
+      role: "R1c",
+      telegram: "t.me/ami_woolw",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C1D9AF66401BC37919135C953E1BB712-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F440757BA0B8FC11F0276D6729EC0B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+  
 
   "Ntinetter": [
     {
@@ -88,6 +79,18 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-32D12D1DC17A08FD27581EAAD54FA694-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "yhggyoii": [
+    {
+      role: "R0 Стажер-Адміністратор",
+      telegram: "5208276815",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C1D9AF66401BC37919135C953E1BB712-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+
+  
 
   "olegh34_LUX": [
     {
@@ -384,6 +387,16 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-954E1014189DC7C85116EEFA537F349D-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+   "Bandera909": [
+    {
+      role: "Мер",
+      telegram: "t.me/Great_Terku",
+      category: "Мерія",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4673A3CF98813A3743A9EB2DD18F627A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+  
 
   
 
