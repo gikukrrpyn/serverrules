@@ -1046,7 +1046,8 @@ window.licenses = {
     "Rom_roma7": { cans: "CANS через організовані рейди з використанням читів учасників ОЗУ на наш сервер та у зв’язку з шахрайською діяльністю проти гравців нашого сервера.", status: "Хади Такташ", telegram: "t.me/Void_EH", role: "Клан" }, // id tg: 5749857571
     "heehrhrhl9": { status: "Space diamond", telegram: "6510561713", role: "Банда" },
     "makspsava": { status: "ZEMAN", telegram: "8124501866", role: "Мафія" },
-    "makspsava": { status: "ZEMAN", telegram: "8124501866", role: "Мафія" },
+    "starikashka228337": { status: "Золотий Шлях", telegram: "5358641921", role: "Мафія" },
+    "Taras267975": { status: "Night Raid", telegram: "5358641921", role: "Мафія" },
   },
 
 };
