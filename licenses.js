@@ -43,7 +43,10 @@ window.licenses = {
     // Суд
     "4ooSe_3104": { status: "Дійсна", expiry: "30.04.2026", telegram: "5688779177" },
 
-
+    //Мерія
+    "mastergame100p": { status: "Дійсна", expiry: "30.04.2026", telegram: "5706483624" },
+    "slavmanga": { status: "Дійсна", expiry: "30.04.2026", telegram: "5058792421" },
+    
 
   },
 
