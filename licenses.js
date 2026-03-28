@@ -94,6 +94,7 @@ window.licenses = {
     { username: "Caston08963", status: "4775989978", role: "Vinum Imperia", telegram: "7557434574" },
     { username: "Matviy105012", status: "4634753941", role: "DHLHamserver GROUP", telegram: "6153820089" },
     { username: "Aktavia9283fn", status: "5957350635", role: "Aktavia Post RP", telegram: "5957350635" },
+    { username: "artemMelnichenko2013", status: "5957350635", role: "Aktavia Post RP", telegram: "5957350635" },
     
   
     
@@ -947,6 +948,7 @@ window.licenses = {
     "Galem_228": { "status": "T0300", "telegram": "7506823225" },
     "SIGMA2019827": { "status": "T0301", "telegram": "7770250915" },
     "sane4ka1708": { "status": "T0302", "telegram": "6498765492" },
+    "Serhant1488": { "status": "T0303", "telegram": "6193923907" },
 
   },
 
