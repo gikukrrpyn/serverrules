@@ -309,7 +309,7 @@ const players = {
       role: "Працівник СБС",
       telegram: "t.me/leleleka_best",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2040D8997695D8F94F5CB4DF4095228-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0792B7AEA6409C78A867CC8B1729ECDB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
