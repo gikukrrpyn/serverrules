@@ -142,6 +142,9 @@ window.licenses = {
     // 9 (перший символ username)
     "9999_Anime": { "role": "27 473", "status": "338546", "expiry": "", "telegram": "5463405945" },
 
+    // 0
+    "0Secret_garden0": { "role": "47 322", "status": "755107", "expiry": "", "telegram": "7553801810" },
+
     // A (перший символ username)
     "andrew_urtest": { "role": "20 553", "status": "526108", "expiry": "", "telegram": "5262299554" },
     "Andrushka_pupsik": { "role": "3 400", "status": "526103", "expiry": "", "telegram": "5262299554" },
@@ -170,6 +173,7 @@ window.licenses = {
     "Airbreks2": { "role": "10 004", "status": "163762", "expiry": "", "telegram": "1630158774" },
     "ARtem4uk": { "role": "55 998", "status": "191158", "expiry": "", "telegram": "1915195071" },
     "andrey_kika": { "role": "2 243", "status": "464630", "expiry": "", "telegram": "6308441311" },
+    "agency_roblox4": { "role": "2 243", "status": "387737", "expiry": "", "telegram": "7373162173" },
    
 
     // B
@@ -272,6 +276,7 @@ window.licenses = {
     "Fast1lk5": { "role": "166", "status": "601650", "expiry": "", "telegram": "6501180350" },
     "Fakijdik": { "role": "6 007", "status": "593438", "expiry": "", "telegram": "5931117420" },
     "Fil_shena20": { "role": "48 517", "status": "828480", "expiry": "", "telegram": "8289723271" },
+    "filipp_top11": { "role": "684", "status": "628775", "expiry": "", "telegram": "6268247897" },
 
     // G
     "gonorer45": { "role": "14 520", "status": "120161", "expiry": "", "telegram": "1613994040" },
@@ -424,6 +429,7 @@ window.licenses = {
     "Maksimka20131411": { role: "37 922", status: "855567", expiry: "", telegram: "8556942531" },
     "mat250956": { role: "1 834", status: "630254", expiry: "", telegram: "6304172321" },
     "Monster2024210": { role: "1 557", status: "531716", expiry: "", telegram: "5317856352" },
+    "M_GamerYar": { role: "22 072", status: "167414", expiry: "", telegram: "1670495254" },
 
     
 
@@ -446,6 +452,7 @@ window.licenses = {
     "Nestor112363": { role: "1 260", status: "671441", expiry: "", telegram: "6714098603" },
     "Nazar_kooo": { role: "13 238", status: "541485", expiry: "", telegram: "5410651455" },
     "Nazar_47744": { role: "6 403", status: "719232", expiry: "", telegram: "7198120693" },
+    "Niko1989Z": { role: "10 195", status: "329303", expiry: "", telegram: "1921033973" },
     
 
     // O
@@ -591,6 +598,8 @@ window.licenses = {
     "Vpotike": { "role": "31 346", "status": "831577", "expiry": "", "telegram": "8314881291" },
     "Vogneliter_228": { "role": "7 471", "status": "713851", "expiry": "", "telegram": "7133853494" },
     "Vivd020": { "role": "2 564", "status": "955834", "expiry": "", "telegram": "8349228539" },
+    "valik_704": { "role": "1 182", "status": "746497", "expiry": "", "telegram": "7467903045" },
+    "VAFELKA22885": { "role": "77 099", "status": "757760", "expiry": "", "telegram": "7576103605" },
 
     // W
     "w0ndexq": { "role": "59 343", "status": "788668", "expiry": "", "telegram": "6684510288" },
@@ -617,6 +626,7 @@ window.licenses = {
     "YarikUkr59": { "role": "868", "status": "623550", "expiry": "", "telegram": "6235409740" },
     "yhggyoii": { "role": "15 606", "status": "520337", "expiry": "", "telegram": "5208276815" },
     "Yrka348": { "role": "526", "status": "757446", "expiry": "", "telegram": "5757749525" },
+    "yerkan96": { "role": "1 817", "status": "211523", "expiry": "", "telegram": "2117383006" },
 
     // Z
     "zer14685": { "role": "8 700", "status": "607719", "expiry": "", "telegram": "6078536424" },
@@ -629,6 +639,7 @@ window.licenses = {
     "zzzzZGVK8": { "role": "3 996", "status": "595830", "expiry": "", "telegram": "5954672320" },
     "Zasranec228": { "role": "9 840", "status": "607837", "expiry": "", "telegram": "6075527761" },
     "ZSY_TOP15": { "role": "0", "status": "774990", "expiry": "", "telegram": "7742380955" },
+    "Zaj_Zuga3": { "role": "5 998", "status": "105602", "expiry": "", "telegram": "6025730893" },
 
     "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
     "username": { role: "кількістьXP", status: "айді", expiry: "", telegram: "telegram" },
