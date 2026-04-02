@@ -93,10 +93,28 @@ const players = {
 
   "yhggyoii": [
     {
-      role: "R0 Стажер-Адміністратор",
+      role: "R1a Адміністратор-Патрульний",
       telegram: "5208276815",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C1D9AF66401BC37919135C953E1BB712-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "agency_roblox4": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/D_201_k",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3C246384FEE3F81F8A4C71B89C67EA7A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Junius_2008": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/awi_wxug",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A09A952F8492F5B489969C14FD8B641A-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -313,6 +331,24 @@ const players = {
     },
   ],
 
+  "levopravo2024": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/Aleksandryulik",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FC632A004C5418CDE0CE72F9B0677FB6-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "SIGMA2019827": [
+    {
+      role: "Працівник СБС",
+      telegram: "t.me/shu754228",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-220C32BBBDB6635DEAAD0F2F8C1F0AAF-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ]
+
 
 
 
@@ -344,14 +380,6 @@ const players = {
     },
   ],
 
-  "pavel36558": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/barabanya_kolbasa",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A7304C382B42775B3F6203B790BAE85C-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "jofer_hob": [
     {
@@ -362,14 +390,6 @@ const players = {
     },
   ],
 
-  "destroyerlawgran": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/Bhklolp",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-42A8EFDDD31DB4183B8F2BC95A961362-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
 
   "Makes_847": [
