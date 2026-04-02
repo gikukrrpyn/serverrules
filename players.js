@@ -347,7 +347,7 @@ const players = {
       category: "СБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-220C32BBBDB6635DEAAD0F2F8C1F0AAF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-  ]
+  ],
 
 
 
