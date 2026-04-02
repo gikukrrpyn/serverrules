@@ -964,7 +964,6 @@ window.licenses = {
     "SIGMA2019827": { "status": "T0301", "telegram": "7770250915" },
     "sane4ka1708": { "status": "T0302", "telegram": "6498765492" },
     "Serhant1488": { "status": "T0303", "telegram": "6193923907" },
-    "dimorzp": { "status": "T0304", "telegram": "8307170339" },
     "best333_EHya": { "status": "T0306", "telegram": "7868910369" },
     "Nazar6951": { "status": "T0307", "telegram": "6398378145" },
     "ZlatikBratik": { "status": "T0308", "telegram": "6742185015" },
