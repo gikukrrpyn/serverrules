@@ -26,7 +26,8 @@ window.licenses = {
     "sqw1zy_n7": { status: "Дійсна", expiry: "30.04.2026", telegram: "6348110356" },
     "kolopohv": { status: "Дійсна", expiry: "30.04.2026", telegram: "6286540452" },
     "777ivan07": { status: "Дійсна", expiry: "30.04.2026", telegram: "2036860761" },
-    "maksumkasymk789": { status: "Дійсна", expiry: "30.04.2026", telegram: "8155030379" },
+    "levopravo2024": { status: "Дійсна", expiry: "30.04.2026", telegram: "5134083594" },
+    "SIGMA2019827": { status: "Дійсна", expiry: "30.04.2026", telegram: "7770250915" },
     
 
     // ДБР
@@ -666,8 +667,8 @@ window.licenses = {
 
   // Звання працівників СБС
   sbs: {
-    "maksumkasymk789": { role: "Генерал-Полковник", status: "140392", telegram: "t.me/Player_wins" },
-    "starikashka228337": { role: "Полковник", status: "545544", telegram: "t.me/F1Hhunter" },
+    "levopravo2024": { role: "Рядовий", status: "513749", telegram: "t.me/Aleksandryulik" },
+    "SIGMA2019827": { role: "Полковник", status: "777917", telegram: "t.me/shu754228" },
     "sqw1zy_n7": { role: "Полковник", status: "724634", telegram: "6348110356" },
     "kolopohv": { role: "Старшина", status: "628481", telegram: "6286540452" },
     "777ivan07": { role: "Рядовий", status: "203243", telegram: "2036860761" },
