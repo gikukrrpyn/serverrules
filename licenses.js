@@ -659,11 +659,8 @@ window.licenses = {
   // Звання працівників НАБС
   nabs: {
     "lSqwizzyl": { role: "Директор НАБС", status: "379965", telegram: "t.me/shppsqwizzy" },
-    "MKSON829": { role: "Заступник Директора НАБС", status: "802712", telegram: "t.me/sich_o_admin" },
     "jofer_hob": { role: "Агент практикант", status: "548769", telegram: "t.me/m1nistr_HABS" },
     "svyatosuk489": { role: "Практикант", status: "156157", telegram: "t.me/Dark_Ungel2" },
-    "Зсу_77781046": { role: "Керівник Відділення", status: "637418", telegram: "t.me/SKODAsimply_clever" },
-    "SokerYT123": { role: "Агент Практикант", status: "315822", telegram: "t.me/sexyb0yyy" },
   },
 
   // Звання працівників СБС
@@ -682,14 +679,9 @@ window.licenses = {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
     "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
     "Marsianin_l0l": { role: "Молодший Лейтенант", status: "103763", telegram: "7636472784" },
-    "Fakijdik ": { role: "Рядовий", status: "493593", telegram: "5931117420" },
     "ROSTIKTHS": { role: "Рядовий", status: "269515", telegram: "5151514815" },
-    "Rjdef31": { role: "Рядовий", status: "821695", telegram: "6952642925" },
-    "SokerYT123": { role: "Рядовий", status: "315129", telegram: "1290504411" },
     "constelations152": { role: "Стажер", status: "600746", telegram: "7460379767" },
-    "CHERNIHIV1": { role: "Рядовий", status: "323187", telegram: "1871915258" },
     "yatupoykogdabalans2": { role: "Рядовий", status: "870571", telegram: "5710792095" },
-    "Caston08963": { role: "Рядовий", status: "477755", telegram: "7557434574" },
     "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "8830930892" },
     "Yffgjjifh": { role: "Рядовий", status: "537709", telegram: "5367053785" },
     "makxuitaem": { role: "Рядовий", status: "103829", telegram: "10348548484" },
