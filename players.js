@@ -168,7 +168,7 @@ const players = {
       role: "Суддя-Стажер",
       telegram: "t.me/sich_o_admin",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7C09727480F71520E2D2EB0655DA88FE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
