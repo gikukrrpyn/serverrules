@@ -984,6 +984,15 @@ window.licenses = {
     "SashaMa00": { "status": "T0320", "telegram": "7233099532" },
     "SokerYT123": { "status": "T0321", "telegram": "7614238122" },
     "BMW_5098591": { "status": "T0322", "telegram": "6042898465" },
+    "Kpasend": { "status": "T0323", "telegram": "6728463974" },
+    "Aleksandro_W219": { "status": "T0324", "telegram": "8721156239" },
+    "SOMIK_557": { "status": "T0325", "telegram": "8721156239" },
+    "danylo2367": { "status": "T0326", "telegram": "8355250760" },
+    "YarikUkr59": { "status": "T0327", "telegram": "6235409740" },
+    "SIGMA564": { "status": "T0328", "telegram": "7898028816" },
+    "slen57763": { "status": "T0329", "telegram": "5489975171" },
+    "Patroneys1": { "status": "T0330", "telegram": "6798698847" },
+    "asdewqfgr12": { "status": "T0331", "telegram": "5008590630" },
 
   },
 
