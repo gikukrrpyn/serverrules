@@ -23,7 +23,6 @@ window.licenses = {
 
     // СБС
     "Zoomsos123": { status: "Дійсна", expiry: "30.04.2026", telegram: "5339606531" },
-    "sqw1zy_n7": { status: "Дійсна", expiry: "30.04.2026", telegram: "6348110356" },
     "kolopohv": { status: "Дійсна", expiry: "30.04.2026", telegram: "6286540452" },
     "777ivan07": { status: "Дійсна", expiry: "30.04.2026", telegram: "2036860761" },
     "levopravo2024": { status: "Дійсна", expiry: "30.04.2026", telegram: "5134083594" },
