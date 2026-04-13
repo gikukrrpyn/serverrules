@@ -28,6 +28,8 @@ window.licenses = {
     "levopravo2024": { status: "Дійсна", expiry: "30.04.2026", telegram: "5134083594" },
     "SIGMA2019827": { status: "Дійсна", expiry: "30.04.2026", telegram: "7770250915" },
     "golopa076": { status: "Дійсна", expiry: "30.04.2026", telegram: "8549231265" },
+    "Caston": { status: "Дійсна", expiry: "30.04.2026", telegram: "7557434574" },
+    "3cy_77781046": { status: "Дійсна", expiry: "30.04.2026", telegram: "6370149052" },
     
 
     // ДБР
@@ -40,9 +42,11 @@ window.licenses = {
     "Kiril_30083008": { status: "Дійсна", expiry: "30.04.2026", telegram: "8830930892" },
     "per4ik_rrrt": { status: "Дійсна", expiry: "30.04.2026", telegram: "1585314228" },
     "makxuitaem": { status: "Дійсна", expiry: "30.04.2026", telegram: "8291507970" },
+    "Black_Batman02": { status: "Дійсна", expiry: "30.04.2026", telegram: "1093245097" },
+    "jnskwwlwlwksk": { status: "Дійсна", expiry: "30.04.2026", telegram: "6308121808" },
 
     // Суд
-    "4ooSe_3104": { status: "Дійсна", expiry: "30.04.2026", telegram: "5688779177" },
+
 
     //Мерія
     "mastergame100p": { status: "Дійсна", expiry: "30.04.2026", telegram: "5706483624" },
@@ -700,13 +704,14 @@ window.licenses = {
 
   // Звання працівників СБС
   sbs: {
-    "levopravo2024": { role: "Рядовий", status: "513749", telegram: "t.me/Aleksandryulik" },
+    "levopravo2024": { role: "Сержант", status: "513749", telegram: "t.me/Aleksandryulik" },
     "SIGMA2019827": { role: "Рядовий", status: "777917", telegram: "t.me/shu754228" },
-    "sqw1zy_n7": { role: "Полковник", status: "724634", telegram: "6348110356" },
-    "kolopohv": { role: "Старшина", status: "628481", telegram: "6286540452" },
-    "777ivan07": { role: "Рядовий", status: "203243", telegram: "2036860761" },
+    "kolopohv": { role: "Підполковник", status: "628481", telegram: "6286540452" },
+    "777ivan07": { role: "Капітан", status: "203243", telegram: "2036860761" },
     "Zoomsos123": { role: "Генерал-Полковник", status: "533350", telegram: "5339606531" },
     "golopa076": { role: "Рядовий", status: "854745", telegram: "8549231265" },
+    "Caston": { role: "Рядовий", status: "755477", telegram: "7557434574" },
+    "3cy_77781046": { role: "Рядовий", status: "637418", telegram: "6370149052" },
   },
 
   // Звання працівників ДБР
@@ -722,6 +727,8 @@ window.licenses = {
     "makxuitaem": { role: "Рядовий", status: "103829", telegram: "10348548484" },
     "per4ik_rrrt": { role: "Рядовий", status: "423158", telegram: "1585314228" },
     "Dddrrrtttyykjhj": { role: "Рядовий", status: "451590", telegram: "5903095976" },
+    "Black_Batman02": { role: "Рядовий", status: "379109", telegram: "5169521179" },
+    "jnskwwlwlwksk": { role: "Рядовий", status: "916630", telegram: "6308121808" },
   },
 
   // Таксистська ліцензія
