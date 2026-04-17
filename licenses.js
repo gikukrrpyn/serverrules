@@ -26,7 +26,7 @@ window.licenses = {
     "kolopohv": { status: "Дійсна", expiry: "30.04.2026", telegram: "6286540452" },
     "777ivan07": { status: "Дійсна", expiry: "30.04.2026", telegram: "2036860761" },
     "levopravo2024": { status: "Дійсна", expiry: "30.04.2026", telegram: "5134083594" },
-    "SIGMA2019827": { status: "Дійсна", expiry: "30.04.2026", telegram: "7770250915" },
+    "shu754228": { status: "Дійсна", expiry: "30.04.2026", telegram: "7770250915" },
     "golopa076": { status: "Дійсна", expiry: "30.04.2026", telegram: "8549231265" },
     "Caston": { status: "Дійсна", expiry: "30.04.2026", telegram: "7557434574" },
     "3cy_77781046": { status: "Дійсна", expiry: "30.04.2026", telegram: "6370149052" },
