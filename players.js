@@ -135,7 +135,7 @@ const players = {
       role: "Суддя",
       telegram: "t.me/Samyry228",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-358CD48909FD30E5E14F11A80482B03C-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E913BC846B4C63706C0E103F604EB4D9-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -156,6 +156,8 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7C09727480F71520E2D2EB0655DA88FE-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  
 
 
   
