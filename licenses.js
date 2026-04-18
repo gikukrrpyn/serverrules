@@ -454,7 +454,7 @@ window.licenses = {
     "mimi091594": { role: "120", status: "586729", expiry: "", telegram: "5865962309" },
     "Maksumkasymk789": { role: "74 516", status: "811392", expiry: "", telegram: "8155030379" },
     "Mykhailo_Zaya1": { role: "15 750", status: "529158", expiry: "", telegram: "5295879849" },
-    "Maksimka20131411": { role: "37 922", status: "855567", expiry: "", telegram: "8556942531" },
+    "Maksimka20131411": { role: "Комісар", status: "855567", expiry: "", telegram: "8556942531" },
     "mat250956": { role: "1 834", status: "630254", expiry: "", telegram: "6304172321" },
     "Monster2024210": { role: "1 557", status: "531716", expiry: "", telegram: "5317856352" },
     "M_GamerYar": { role: "22 072", status: "167414", expiry: "", telegram: "1670495254" },
