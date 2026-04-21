@@ -1040,6 +1040,18 @@ window.licenses = {
     "slen57763": { "status": "T0329", "telegram": "5489975171" },
     "Patroneys1": { "status": "T0330", "telegram": "6798698847" },
     "asdewqfgr12": { "status": "T0331", "telegram": "5008590630" },
+    "DoggyGames_TV24": { "status": "T0332", "telegram": "6261556258" },
+    "repinft": { "status": "T0333", "telegram": "5711647757" },
+    "CAXAPOK_QUWI": { "status": "T0334", "telegram": "1172225259" },
+    "stas1234vooo": { "status": "T0335", "telegram": "8572452096" },
+    "ROBLOX_586m": { "status": "T0336", "telegram": "5611639400" },
+    "WA3KOT": { "status": "T0337", "telegram": "6192482987" },
+    "Nazarxc45666w": { "status": "T0338", "telegram": "5827135718" },
+    "UKBSROBV": { "status": "T0339", "telegram": "7232915575" },
+    "mastergame100p": { "status": "T0340", "telegram": "5706483624" },
+    "Bohdan1031": { "status": "T0341", "telegram": "5795035694" },
+    "ironersd_copy": { "status": "T0342", "telegram": "7740204499" },
+    "ArtemBannana": { "status": "T0343", "telegram": "8341208239" },
 
   },
 
