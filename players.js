@@ -5,7 +5,7 @@ const players = {
       role: "R7 Засновник сервера",
       telegram: "t.me/ukreh_admin",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3AC387EDB9B98A359AB29A72C80D871-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-09BD3D1BDBBF9097F5179B28187DB86B-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
