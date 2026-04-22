@@ -29,7 +29,8 @@ window.licenses = {
     "shu754228": { status: "Дійсна", expiry: "30.04.2026", telegram: "7770250915" },
     "golopa076": { status: "Дійсна", expiry: "30.04.2026", telegram: "8549231265" },
     "Caston": { status: "Дійсна", expiry: "30.04.2026", telegram: "7557434574" },
-    "3cy_77781046": { status: "Дійсна", expiry: "30.04.2026", telegram: "6370149052" },
+    "dariysmertnk": { status: "Дійсна", expiry: "30.04.2026", telegram: "7889063904" },
+    "Mini_broTBINK4": { status: "Дійсна", expiry: "30.04.2026", telegram: "7501968269" },
     
 
     // ДБР
@@ -729,7 +730,8 @@ window.licenses = {
     "Zoomsos123": { role: "Генерал-Полковник", status: "533350", telegram: "5339606531" },
     "golopa076": { role: "Рядовий", status: "854745", telegram: "8549231265" },
     "Caston": { role: "Рядовий", status: "755477", telegram: "7557434574" },
-    "3cy_77781046": { role: "Рядовий", status: "637418", telegram: "6370149052" },
+    "Mini_broTBINK4": { role: "Рядовий", status: "872958", telegram: "7501968269" },
+    "dariysmertnk": { role: "Рядовий", status: "788333", telegram: "7889063904" },
   },
 
   // Звання працівників ДБР
