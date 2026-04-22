@@ -714,6 +714,10 @@ window.licenses = {
     "lSqwizzyl": { role: "Директор НАБС", status: "379965", telegram: "t.me/shppsqwizzy" },
     "jofer_hob": { role: "Агент практикант", status: "548769", telegram: "t.me/m1nistr_HABS" },
     "svyatosuk489": { role: "Практикант", status: "156157", telegram: "t.me/Dark_Ungel2" },
+    "jehfirgrivbrhtklf": { role: "Агент-Практикант", status: "327595", telegram: "t.me/jehfirgrivbrhtklf" },
+    "DANYA0705DANYA": { role: "Курсант", status: "392848", telegram: "t.me/m8l8tok_m8" },
+    "Mykhailo_Zaya1": { role: "Агент-Практикант", status: "158529", telegram: "t.me/smishaa" },
+    "samunzhiev": { role: "Агент-Практикант", status: "386188", telegram: "t.me/smishaa" },
   },
 
   // Звання працівників СБС
