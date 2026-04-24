@@ -131,7 +131,7 @@ window.licenses = {
     "2012UA123": { "role": "6 580", "status": "402560", "expiry": "", "telegram": "5609089532" },
 
     // 3 (перший символ username)
-    "3cy_77781046": { "role": "Комісар", "status": "418637", "expiry": "", "telegram": "6370149052" },
+    "3cy_77781046": { "role": "Начальник НПС", "status": "418637", "expiry": "", "telegram": "6370149052" },
     "3333OMON": { "role": "38 978", "status": "114605", "expiry": "", "telegram": "6058122903" },
     
     // 4
