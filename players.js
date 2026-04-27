@@ -57,21 +57,6 @@ const players = {
   ],
 
 
-   "XxsSashaxxjj": [
-    {
-      role: "R2a Головний Координатор Ролі",
-      telegram: "t.me/XxsSashaxxjj",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9959B70E5F43033FFEA69ACF451FD9BC-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-     {
-      role: "Директор ДАРШ",
-      telegram: "t.me/XxsSashaxxjj",
-      category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9959B70E5F43033FFEA69ACF451FD9BC-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Andrushka_pupsik": [
     {
       role: "R1c Адміністратор-Комунікатор",
@@ -199,26 +184,6 @@ const players = {
     },
   ],
 
-
-  "constelations152": [
-    {
-      role: "Працівник ДБР",
-      telegram: "7460379767",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0462BE8CC7B77BF2EA9C8C5AD4366384-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
-  "Kiril_30083008": [
-    {
-      role: "Працівник ДБР",
-      telegram: "8830930892",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-FF45E4608C8EB5AA2D7CEE99438AA4FD-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Yffgjjifh": [
     {
       role: "Працівник ДБР",
@@ -243,6 +208,42 @@ const players = {
       telegram: "t.me/akcelix_x",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B104F9DE518967080FF5EAAC6E534E59-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "hdyfudjfv": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/ItsFurka",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8855C445C37399ACB9FBF28D27050DDB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "jnskwwlwkwkwksk": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/ALtHefaY",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-64C09E84074AE620AB7B1EA452B963BA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "3333OMON": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/w0orstY",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6995BA9FD09080C0DBD9C1A174905E1C-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Robert_polsan228": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/SPF_ON",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C6C4D89C7B724764B43CE51D5092792A-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -326,6 +327,15 @@ const players = {
     },
   ],
 
+  "jofer_hob": [
+    {
+      role: "Заступник Директора НАБС",
+      telegram: "t.me/m1nistr_HABS",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B699BFB8063567BFFC925219782E7373-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
   "svyatosuk489": [
     {
@@ -337,23 +347,50 @@ const players = {
   ],
 
 
-  "jofer_hob": [
+  "samunzhiev": [
     {
       role: "Працівник НАБС",
-      telegram: "t.me/m1nistr_HABS",
+      telegram: "t.me/LevBarinov",
       category: "НАБС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B699BFB8063567BFFC925219782E7373-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
+   "Mykhailo_Zaya1": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/smishaa",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-333225329533FCAA70A16572C96F84A4-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+   "DANYA0705DANYA": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/m8l8tok_m8",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F0EADED96EE13BC297B6EEADF17CBB10-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "jehfirgrivbrhtklf": [
+    {
+      role: "Працівник НАБС",
+      telegram: "t.me/jehfirgrivbrhtklf",
+      category: "НАБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-21739F5E1E566727148D71C9E4413401-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
 
 
-  "Makes_847": [
+
+  "3cy_77781046": [
     {
       role: "Начальник НПС",
-      telegram: "t.me/ShaggyUR",
+      telegram: "t.me/SKODAche",
       category: "Поліція",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-897E38752EAB9FCE2FC303B024440666-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-342E3D7829681689A3500C44D4A4C26C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
   
