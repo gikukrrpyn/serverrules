@@ -53,13 +53,7 @@ const players = {
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F440757BA0B8FC11F0276D6729EC0B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
-      {
-      role: "Організатор ДАРШ",
-      telegram: "t.me/ami_woolw"",
-      category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3F440757BA0B8FC11F0276D6729EC0B7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-   ],
+  ],
 
   "maksumkasymk789": [
     {
