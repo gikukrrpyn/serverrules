@@ -16,14 +16,7 @@ export const marriedList = [
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F3930BE709B255A8F6D6F428607C023-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
-         {
-        username1: "Junius_2008",
-        username2: "va1ron4",
-        date: "2025-26-06", 
-        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9232DE9306618B5D071B2DC605CAB647-Png/150/150/AvatarHeadshot/Webp/noFilter",
-        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6586EA63EC61E557F59731CEA1639F83-Png/150/150/AvatarHeadshot/Webp/noFilter"
-   },
-
+   
 {
         username1: "Tyjorty123987",
         username2: "YuhorKorotkevych",
@@ -57,14 +50,6 @@ export const marriedList = [
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-48CDB715407B15C3773B0DFCB6E86902-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
- {
-        username1: "Andrew_01174",
-        username2: "caxarok_agro06",
-        date: "2025-31-08", 
-        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8DEC919140E093F26EB72EF57B368BAF-Png/150/150/AvatarHeadshot/Webp/noFilter",
-        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-AD7FA5D027B14E0E25019DF6636AB52D-Png/150/150/AvatarHeadshot/Webp/noFilter"
-   },
-
 {
         username1: "pycT_KUst",
         username2: "Yexor_rt",
@@ -84,9 +69,25 @@ export const marriedList = [
    {
         username1: "Rendy_Furside",
         username2: "olegh34",
-        date: "2025-01-12", 
+        date: "2026-01-12", 
         photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-53194B2823C41D5FC7AF5BD106CCB9C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
         photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62E107CEF7ABA5EA7BAF7385601C92B1-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
+
+      {
+        username1: "eeeeyegeggegehux",
+        username2: "4ooSe_3104",
+        date: "2026-20-04", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D83AA4B0835F3C4BC156AB934348856D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-46D2409E6A07028F6470BAA1BE5FD310-Png/150/150/AvatarHeadshot/Webp/noFilter"
+   },
+
+   {
+        username1: "jofer_hob",
+        username2: "jehfirgrivbrhtklf",
+        date: "2026-01-05", 
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D34B074248FAF97910618CA18CF1BC20-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6322F85D7084D7C4436547C3EE92CD91-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
    
   ];
