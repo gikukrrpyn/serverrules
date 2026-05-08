@@ -62,16 +62,16 @@ export const marriedList = [
         username1: "GordiyYarmolenko",
         username2: "zvirakaarina",
         date: "2025-20-09", 
-        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7D5B8C452506DD59A5AFC8BD10F2E5C5-Png/150/150/AvatarHeadshot/Webp/noFilter",
-        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0E2B0B56A63BC8276F0372013952B300-Png/150/150/AvatarHeadshot/Webp/noFilter"
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-556FCBCFD57249F6A7B1F85428CAA63A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-939373B91FB0EAFBFC2B069151388A18-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
    {
         username1: "Rendy_Furside",
         username2: "olegh34",
         date: "2026-01-12", 
-        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-53194B2823C41D5FC7AF5BD106CCB9C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
-        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-62E107CEF7ABA5EA7BAF7385601C92B1-Png/150/150/AvatarHeadshot/Webp/noFilter"
+        photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DF966FA349E74B3F0BDB2689C3ECDB28-Png/150/150/AvatarHeadshot/Webp/noFilter",
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-95356E621AB96C58186C3260930E87D6-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
       {
