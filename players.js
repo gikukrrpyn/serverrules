@@ -3,7 +3,7 @@ const players = {
   "gikusya": [
     {
       role: "R7 Засновник сервера",
-      telegram: "t.me/ukreh_admin",
+      telegram: "t.me/im_gik",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-09BD3D1BDBBF9097F5179B28187DB86B-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
