@@ -66,7 +66,7 @@ const players = {
   "maksumkasymk789": [
     {
       role: "R1c Адміністратор-Комунікатор",
-      telegram: "t.me/Player_wins",
+      telegram: "t.me/white_wins",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ACE0FACBC9E4B408F22B66ECEA21C7C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
