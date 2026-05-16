@@ -27,14 +27,6 @@ const players = {
     },
   ],
 
-  "sergij18": [
-    {
-      role: "R3 Старший Адміністратор",
-      telegram: "t.me/Sergij9000",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2438FDC656E50134F46B94223FDFD1E2-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
   
   "Itz_raose": [
     {
@@ -72,14 +64,24 @@ const players = {
     },
   ],
 
-  "agency_roblox4": [
+  "Slavixzz4356": [
     {
-      role: "R1b Адміністратор-Повітряний Контроль",
-      telegram: "7373162173",
+      role: "R1c Адміністратор-Комунікатор",
+      telegram: "t.me/slavixzz43",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3C246384FEE3F81F8A4C71B89C67EA7A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0322948A074E2A2E34377AC625C1FBCF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "desna200": [
+    {
+      role: "R1a Адміністратор-Патрульний ",
+      telegram: "t.me/lox_rb",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F41E2B00CB96EC9DE20B79B16820964A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
   "Ntinetter": [
     {
@@ -121,12 +123,39 @@ const players = {
     },
   ],
 
-  "MKSON829": [
+  "starikashka228337": [
     {
       role: "Суддя",
-      telegram: "t.me/sich_o_admin",
+      telegram: "t.me/xxx_DELTA_xxx",
       category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7C09727480F71520E2D2EB0655DA88FE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-765D2C2769AAF0D1966A8F7536B98A02-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Zoomsos123": [
+    {
+      role: "Суддя",
+      telegram: "t.me/Xmm_help",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-910759A3B2D026948C1D457974748491-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "erikkvas": [
+    {
+      role: "Державний Адвокат",
+      telegram: "t.me/rukobloodne",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D21ABD0A45AC94F29AA6B67CA74B619B-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Zaj_Zuga3": [
+    {
+      role: "Державний Адвокат",
+      telegram: "t.me/Dz7xj",
+      category: "Суд",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-11F84C9369CEA50F7E97A612B8685ADB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -135,6 +164,15 @@ const players = {
 
   
 
+
+  "agency_roblox4": [
+    {
+      role: "Директор ДБР",
+      telegram: "7373162173",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F26274B3075E7BF51098FE2DB369FB7-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
 
   "artemMelnichenko2013": [
     {
@@ -145,14 +183,6 @@ const players = {
     },
   ],
 
-  "Mr_Zver3000": [
-    {
-      role: "Працівник ДБР",
-      telegram: "6626655148",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7449115CCA22ABF2C39D362639510EE1-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "Marsianin_l0l": [
     {
@@ -163,14 +193,6 @@ const players = {
     },
   ],
 
-  "Yffgjjifh": [
-    {
-      role: "Працівник ДБР",
-      telegram: "5367053785",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5A4139528D42B110A615EF3866E0EC43-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "ROSTIKTHS": [
     {
@@ -199,12 +221,12 @@ const players = {
     },
   ],
 
-  "jnskwwlwkwkwksk": [
+  "DoggyGames_TV24": [
     {
       role: "Працівник ДБР",
-      telegram: "t.me/ALtHefaY",
+      telegram: "t.me/Doggy_Arrrr",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-64C09E84074AE620AB7B1EA452B963BA-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E3D997376039193EBCC1A656ADF7A83F-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
@@ -226,6 +248,24 @@ const players = {
     },
   ],
 
+  "Mykhailo_Zaya1": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/smishaa",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-47E19F05C387B59F30C46FCAB370A6C5-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Makarmaka91": [
+    {
+      role: "Працівник ДБР",
+      telegram: "t.me/zzerbin",
+      category: "ДБР",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-829D6810DF4C83EF2B1AB987B049A892-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
 
 
@@ -238,24 +278,34 @@ const players = {
     },
    ],
 
+  "sergij18": [
+    {
+      role: "Заступник Директор СБС",
+      telegram: "5208276815",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7128C0443F429F83D6395B065DF3873C-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+   ],
 
-  "777ivan07": [
+
+   "BMW_5098591": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/leleleka_best",
+      telegram: "t.me/mxsnxc",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0792B7AEA6409C78A867CC8B1729ECDB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1A6264E0C3147E1F08AE9027E87FE9E-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
-  "SIGMA2019827": [
+  "jnskwwlwkwkwksk": [
     {
       role: "Працівник СБС",
-      telegram: "t.me/shu754228",
+      telegram: "t.me/ALtHefaY",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-220C32BBBDB6635DEAAD0F2F8C1F0AAF-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8DE352D3DE71036FED83918A00F3A036-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
 
 
 
@@ -278,52 +328,7 @@ const players = {
   ],
 
 
-  "svyatosuk489": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/Dark_Ungel2",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9545E92641C14F16EF0A142C49936A74-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
-  "samunzhiev": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/LevBarinov",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B699BFB8063567BFFC925219782E7373-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-   "Mykhailo_Zaya1": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/smishaa",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-333225329533FCAA70A16572C96F84A4-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-   "DANYA0705DANYA": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/m8l8tok_m8",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F0EADED96EE13BC297B6EEADF17CBB10-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "jehfirgrivbrhtklf": [
-    {
-      role: "Працівник НАБС",
-      telegram: "t.me/jehfirgrivbrhtklf",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-21739F5E1E566727148D71C9E4413401-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
+  
 
 
   "3cy_77781046": [
