@@ -22,36 +22,34 @@ window.licenses = {
     */
 
     // СБС
-    "Zoomsos123": { status: "Дійсна", expiry: "30.04.2026", telegram: "5339606531" },
-    "kolopohv": { status: "Дійсна", expiry: "30.04.2026", telegram: "6286540452" },
-    "777ivan07": { status: "Дійсна", expiry: "30.04.2026", telegram: "2036860761" },
-    "levopravo2024": { status: "Дійсна", expiry: "30.04.2026", telegram: "5134083594" },
-    "shu754228": { status: "Дійсна", expiry: "30.04.2026", telegram: "7770250915" },
-    "golopa076": { status: "Дійсна", expiry: "30.04.2026", telegram: "8549231265" },
-    "Caston": { status: "Дійсна", expiry: "30.04.2026", telegram: "7557434574" },
-    "dariysmertnk": { status: "Дійсна", expiry: "30.04.2026", telegram: "7889063904" },
-    "Mini_broTBINK4": { status: "Дійсна", expiry: "30.04.2026", telegram: "7501968269" },
+    "mauakowskiy": { status: "Дійсна", expiry: "30.05.2026", telegram: "5208276815" },
+    "jnskwwlwkwkwksk": { status: "Дійсна", expiry: "30.05.2026", telegram: "6308121808" },
+    "sergij18": { status: "Дійсна", expiry: "30.05.2026", telegram: "1138522447" },
+    "BMW_5098591": { status: "Дійсна", expiry: "30.05.2026", telegram: "6042898465" },
+    "Caston": { status: "Дійсна", expiry: "30.05.2026", telegram: "7557434574" },
+    "dariysmertnk": { status: "Дійсна", expiry: "30.05.2026", telegram: "7889063904" },
     
 
     // ДБР
-    "artemMelnichenko2013": { status: "Дійсна", expiry: "30.04.2026", telegram: "5242336088" },
-    "pycT_KUst": { status: "Дійсна", expiry: "30.04.2026", telegram: "5998010840" },
-    "Mr_Zver3000": { status: "Дійсна", expiry: "30.04.2026", telegram: "6626655148" },
+    "artemMelnichenko2013": { status: "Дійсна", expiry: "30.05.2026", telegram: "5242336088" },
+    "agency_roblox4": { status: "Дійсна", expiry: "30.05.2026", telegram: "7373162173" },
+    "ROSTIKTHS": { status: "Дійсна", expiry: "30.05.2026", telegram: "5151514815" },
     "Marsianin_l0l": { status: "Дійсна", expiry: "30.04.2026", telegram: "7636472784" },
-    "yatupoykogdabalans2": { status: "Дійсна", expiry: "30.04.2026", telegram: "5710792095" },
+    "yatupoykogdabalans2": { status: "Дійсна", expiry: "30.05.2026", telegram: "5710792095" },
     "Caston08963": { status: "Дійсна", expiry: "30.04.2026", telegram: "7557434574" },
-    "Kiril_30083008": { status: "Дійсна", expiry: "30.04.2026", telegram: "8830930892" },
-    "per4ik_rrrt": { status: "Дійсна", expiry: "30.04.2026", telegram: "1585314228" },
+    "Robert_polsan228": { status: "Дійсна", expiry: "30.04.2026", telegram: "1921850684" },
+    "3333OMON": { status: "Дійсна", expiry: "30.04.2026", telegram: "6058122903" },
     "makxuitaem": { status: "Дійсна", expiry: "30.04.2026", telegram: "8291507970" },
     "Black_Batman02": { status: "Дійсна", expiry: "30.04.2026", telegram: "1093245097" },
-    "jnskwwlwlwksk": { status: "Дійсна", expiry: "30.04.2026", telegram: "6308121808" },
+    "Makarmaka91": { status: "Дійсна", expiry: "30.04.2026", telegram: "6229743963" },
+    "hdyfudjfv": { status: "Дійсна", expiry: "30.04.2026", telegram: "6547254721" },
+    "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.04.2026", telegram: "5295879849" },
 
     // Суд
 
 
     //Мерія
-    "mastergame100p": { status: "Дійсна", expiry: "30.04.2026", telegram: "5706483624" },
-    "slavmanga": { status: "Дійсна", expiry: "30.04.2026", telegram: "5058792421" },
+   
     
 
   },
@@ -730,11 +728,6 @@ window.licenses = {
   nabs: {
     "lSqwizzyl": { role: "Директор НАБС", status: "379965", telegram: "t.me/shppsqwizzy" },
     "jofer_hob": { role: "Агент практикант", status: "548769", telegram: "t.me/m1nistr_HABS" },
-    "svyatosuk489": { role: "Практикант", status: "156157", telegram: "t.me/Dark_Ungel2" },
-    "jehfirgrivbrhtklf": { role: "Агент-Практикант", status: "327595", telegram: "t.me/jehfirgrivbrhtklf" },
-    "DANYA0705DANYA": { role: "Курсант", status: "392848", telegram: "t.me/m8l8tok_m8" },
-    "Mykhailo_Zaya1": { role: "Агент-Практикант", status: "158529", telegram: "t.me/smishaa" },
-    "samunzhiev": { role: "Агент-Практикант", status: "386188", telegram: "t.me/smishaa" },
   },
 
   // Звання працівників СБС
@@ -753,18 +746,17 @@ window.licenses = {
   // Звання працівників ДБР
   dbr: {
     "artemMelnichenko2013": { role: "Полковник", status: "417524", telegram: "5242336088" },
-    "Mr_Zver3000": { role: "Рядовий", status: "662609", telegram: "6626655148" },
-    "Marsianin_l0l": { role: "Молодший Лейтенант", status: "103763", telegram: "7636472784" },
-    "ROSTIKTHS": { role: "Рядовий", status: "269515", telegram: "5151514815" },
-    "constelations152": { role: "Стажер", status: "600746", telegram: "7460379767" },
-    "yatupoykogdabalans2": { role: "Рядовий", status: "870571", telegram: "5710792095" },
-    "Kiril_30083008": { role: "Рядовий", status: "602883", telegram: "8830930892" },
-    "Yffgjjifh": { role: "Рядовий", status: "537709", telegram: "5367053785" },
-    "makxuitaem": { role: "Рядовий", status: "103829", telegram: "10348548484" },
-    "per4ik_rrrt": { role: "Рядовий", status: "423158", telegram: "1585314228" },
-    "Dddrrrtttyykjhj": { role: "Рядовий", status: "451590", telegram: "5903095976" },
-    "Black_Batman02": { role: "Рядовий", status: "379109", telegram: "5169521179" },
-    "jnskwwlwlwksk": { role: "Рядовий", status: "916630", telegram: "6308121808" },
+    "agency_roblox4": { role: "Генерал-Полковник", status: "737378", telegram: "7373162173" },
+    "Marsianin_l0l": { role: "Генерал-майор", status: "103763", telegram: "7636472784" },
+    "ROSTIKTHS": { role: "Молодший Лейтенант", status: "269515", telegram: "5151514815" },
+    "yatupoykogdabalans2": { role: "Молодший Лейтенант", status: "870571", telegram: "5710792095" },
+    "Black_Batman02": { role: "Рядовий", status: "379109", telegram: "1093245097" },
+    "Robert_polsan228": { role: "Капрал", status: "537709", telegram: "5367053785" },
+    "3333OMON": { role: "Рядовий", status: "114605", telegram: "6058122903" },
+    "Makarmaka91": { role: "Рядовий", status: "462622", telegram: "6229743963" },
+    "Mykhailo_Zaya1": { role: "Рядовий", status: "158595", telegram: "5295879849" },
+    "hdyfudjfv": { role: "Рядовий", status: "654138", telegram: "6547254721" },
+    "DoggyGames_TV24": { role: "Рядовий", status: "357626", telegram: "6261556258" },
   },
 
   // Таксистська ліцензія
