@@ -281,9 +281,9 @@ const players = {
   "sergij18": [
     {
       role: "Заступник Директор СБС",
-      telegram: "5208276815",
+      telegram: "t.me/Sergij9000",
       category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7128C0443F429F83D6395B065DF3873C-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E5CC33E7C8EEE48592B08C86828131AB-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
    ],
 
