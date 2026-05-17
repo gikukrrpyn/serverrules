@@ -1075,6 +1075,7 @@ window.licenses = {
     "Donkido_kola1": { "status": "T0350", "telegram": "5140729959" },
     "donkido_ace": { "status": "T0351", "telegram": "5460248902" },
     "Davidin77": { "status": "T0352", "telegram": "631261535" },
+    "XxHA7AxX": { "status": "TXXXX", "telegram": "1731530720" },
 
 
 
