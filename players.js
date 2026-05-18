@@ -132,24 +132,6 @@ const players = {
     },
   ],
 
-  "Zoomsos123": [
-    {
-      role: "Суддя",
-      telegram: "t.me/Xmm_help",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-910759A3B2D026948C1D457974748491-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "erikkvas": [
-    {
-      role: "Державний Адвокат",
-      telegram: "t.me/rukobloodne",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-D21ABD0A45AC94F29AA6B67CA74B619B-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "Zaj_Zuga3": [
     {
       role: "Державний Адвокат",
