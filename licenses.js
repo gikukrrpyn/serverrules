@@ -1099,7 +1099,21 @@ window.licenses = {
     "Donkido_kola1": { "status": "T0350", "telegram": "5140729959" },
     "donkido_ace": { "status": "T0351", "telegram": "5460248902" },
     "Davidin77": { "status": "T0352", "telegram": "631261535" },
-    "XxHA7AxX": { "status": "TXXXX", "telegram": "1731530720" },
+    "Illkj228": { "status": "T0353", "telegram": "5634821957" },
+    "kozak372706": { "status": "T0354", "telegram": "6563705331" },
+    "Artem_kot2567": { "status": "T0355", "telegram": "7665389329" },
+    "14Tjoma": { "status": "T0356", "telegram": "7364736532" },
+    "stypiha": { "status": "T0357", "telegram": "6011012652" },
+    "aferiouhghn2025": { "status": "T0358", "telegram": "5375487073" },
+    "Egorik457676": { "status": "T0359", "telegram": "8787976822" },
+    "panba1868": { "status": "T0360", "telegram": "7255510561" },
+    "Egorus_Amogus": { "status": "T0361", "telegram": "8259507754" },
+    "Andrew999984": { "status": "T0362", "telegram": "6345127503" },
+    "Ceryn796": { "status": "T0363", "telegram": "5402360833" },
+    "tady_bear50": { "status": "T0364", "telegram": "7980860158" },
+    "artemMelnichenko2013": { "status": "T0365", "telegram": "5242336088" },
+    "tymkoBr0": { "status": "T0366", "telegram": "8377880216" },
+    "leamor91": { "status": "T0367", "telegram": "7948184740" },
 
 
 
