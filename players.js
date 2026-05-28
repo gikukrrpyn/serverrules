@@ -9,38 +9,20 @@ const players = {
     },
   ],
 
-  "XxHA7AxX": [
-    {
-      role: "R6 Власник сервера",
-      telegram: "t.me/Na7atelega",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1BB58793A1978C267A1612D8543EC1E6-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
   
   "Bandera909": [
     {
-      role: "R4 Головний Адміністратор",
+      role: "R6 Власник сервера",
       telegram: "t.me/Great_Terku",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-55A9B26BA82296BD37C9B8F883E5590A-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
-  
-  "Itz_raose": [
-    {
-      role: "R2b Інспектор службового контролю",
-      telegram: "t.me/li9nes",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-658A4BA5913FD66421F23E6C07E6F566-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "Andrushka_pupsik": [
+    "Andrushka_pupsik": [
 
    {
-      role: "R1c Адміністратор-Комунікатор",
+      role: "R4 Головний адміністратор",
       telegram: "t.me/ami_woolw",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3CB3B797288619E6AF4EC5766A4F5ADD-Png/150/150/AvatarHeadshot/Webp/noFilter",
@@ -53,6 +35,16 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3CB3B797288619E6AF4EC5766A4F5ADD-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
 
+  ],
+
+  
+  "Itz_raose": [
+    {
+      role: "R2b Інспектор службового контролю",
+      telegram: "t.me/li9nes",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-658A4BA5913FD66421F23E6C07E6F566-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
   ],
 
   "maksumkasymk789": [
@@ -94,16 +86,6 @@ const players = {
 
 
 
-  
-
-  "olegh34": [
-    {
-      role: "Головний суддя",
-      telegram: "t.me/olegh34",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3A8170C07BC6693866E2D114E75EBC0A-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
   
   "Arseniy_zabanen": [
     {
