@@ -125,22 +125,9 @@ const players = {
 
   
 
-
-  
-
-
-  "agency_roblox4": [
-    {
-      role: "Директор ДБР",
-      telegram: "7373162173",
-      category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6F26274B3075E7BF51098FE2DB369FB7-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "artemMelnichenko2013": [
     {
-      role: "Заступник Директора ДБР",
+      role: "Директор ДБР",
       telegram: "5242336088",
       category: "ДБР",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1C633DFF3E730C736C8508EAE69F7CCF-Png/150/150/AvatarHeadshot/Webp/noFilter",
