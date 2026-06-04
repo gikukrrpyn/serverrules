@@ -130,7 +130,7 @@ const players = {
       role: "Директор ДБР",
       telegram: "5242336088",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1C633DFF3E730C736C8508EAE69F7CCF-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0008752ACFBA6A06B69F08112B29BA91-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
