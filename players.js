@@ -227,7 +227,7 @@ const players = {
       role: "Працівник ДБР",
       telegram: "t.me/Mister_Pumasik",
       category: "ДБР",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-14789014510ED86CB3BB1724F9E2CAB1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "/img/avatar/dbr/ROSTIKTHS.webp",
     },
   ],
 
