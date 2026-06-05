@@ -7,11 +7,6 @@ window.licenses = {
 
      Куплені */
     "Dodu340dd": { status: "використання ліцензії у злочинних цілях; призначено довічну заборону на отримання ліцензії.", expiry: "00.00.0000", telegram: "5632698118" },
-    "pavel36558": { status: "Недійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "7485750248" },
-    "IMBEBRIK8": { status: "Недійсна", expiry: "14.08.2025 to 14.09.2025", telegram: "5042918774" },
-    "nikita100808": { status: "Недійсна", expiry: "19.08.2025 to 19.09.2025", telegram: "6348110356" },
-    "gg_roms1": { status: "Недійсна", expiry: "02.09.2025 to 02.10.2025", telegram: "7402143374" },
-    "XxsSashaxxjj": { status: "Недійсна", expiry: "19.09.2025 to 19.10.2025", telegram: "7135907655" },
     "username": { status: "Дійсна", expiry: "дата", telegram: "username/id" },
 
     /* Дата: 
@@ -22,28 +17,28 @@ window.licenses = {
     */
 
     // СБС
-    "mauakowskiy": { status: "Дійсна", expiry: "30.05.2026", telegram: "5208276815" },
-    "jnskwwlwkwkwksk": { status: "Дійсна", expiry: "30.05.2026", telegram: "6308121808" },
-    "sergij18": { status: "Дійсна", expiry: "30.05.2026", telegram: "1138522447" },
-    "BMW_5098591": { status: "Дійсна", expiry: "30.05.2026", telegram: "6042898465" },
-    "Caston": { status: "Дійсна", expiry: "30.05.2026", telegram: "7557434574" },
-    "dariysmertnk": { status: "Дійсна", expiry: "30.05.2026", telegram: "7889063904" },
+    "mauakowskiy": { status: "Дійсна", expiry: "30.07.2026", telegram: "5208276815" },
+    "jnskwwlwkwkwksk": { status: "Дійсна", expiry: "30.07.2026", telegram: "6308121808" },
+    "sergij18": { status: "Дійсна", expiry: "30.07.2026", telegram: "1138522447" },
+    "BMW_5098591": { status: "Дійсна", expiry: "30.07.2026", telegram: "6042898465" },
+    "Caston": { status: "Дійсна", expiry: "30.07.2026", telegram: "7557434574" },
+    "dariysmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
     
 
     // ДБР
-    "artemMelnichenko2013": { status: "Дійсна", expiry: "30.05.2026", telegram: "5242336088" },
-    "agency_roblox4": { status: "Дійсна", expiry: "30.05.2026", telegram: "7373162173" },
-    "ROSTIKTHS": { status: "Дійсна", expiry: "30.05.2026", telegram: "5151514815" },
-    "Marsianin_l0l": { status: "Дійсна", expiry: "30.05.2026", telegram: "7636472784" },
-    "yatupoykogdabalans2": { status: "Дійсна", expiry: "30.05.2026", telegram: "5710792095" },
-    "Caston08963": { status: "Дійсна", expiry: "30.05.2026", telegram: "7557434574" },
-    "Robert_polsan228": { status: "Дійсна", expiry: "30.05.2026", telegram: "1921850684" },
-    "3333OMON": { status: "Дійсна", expiry: "30.05.2026", telegram: "6058122903" },
-    "makxuitaem": { status: "Дійсна", expiry: "30.05.2026", telegram: "8291507970" },
-    "Black_Batman02": { status: "Дійсна", expiry: "30.05.2026", telegram: "1093245097" },
-    "Makarmaka91": { status: "Дійсна", expiry: "30.05.2026", telegram: "6229743963" },
-    "hdyfudjfv": { status: "Дійсна", expiry: "30.05.2026", telegram: "6547254721" },
-    "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.05.2026", telegram: "5295879849" },
+    "artemMelnichenko2013": { status: "Дійсна", expiry: "30.07.2026", telegram: "5242336088" },
+    "agency_roblox4": { status: "Дійсна", expiry: "30.07.2026", telegram: "7373162173" },
+    "ROSTIKTHS": { status: "Дійсна", expiry: "30.07.2026", telegram: "5151514815" },
+    "Marsianin_l0l": { status: "Дійсна", expiry: "30.07.2026", telegram: "7636472784" },
+    "yatupoykogdabalans2": { status: "Дійсна", expiry: "30.07.2026", telegram: "5710792095" },
+    "Caston08963": { status: "Дійсна", expiry: "30.07.2026", telegram: "7557434574" },
+    "Robert_polsan228": { status: "Дійсна", expiry: "30.07.2026", telegram: "1921850684" },
+    "3333OMON": { status: "Дійсна", expiry: "30.07.2026", telegram: "6058122903" },
+    "makxuitaem": { status: "Дійсна", expiry: "30.07.2026", telegram: "8291507970" },
+    "Black_Batman02": { status: "Дійсна", expiry: "30.07.2026", telegram: "1093245097" },
+    "Makarmaka91": { status: "Дійсна", expiry: "30.07.2026", telegram: "6229743963" },
+    "hdyfudjfv": { status: "Дійсна", expiry: "30.07.2026", telegram: "6547254721" },
+    "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
 
     // Суд
 
@@ -748,11 +743,6 @@ window.licenses = {
        telegram - username або ID акаунту Telegram
   */
 
-  // Звання працівників НАБС
-  nabs: {
-    "lSqwizzyl": { role: "Директор НАБС", status: "379965", telegram: "t.me/shppsqwizzy" },
-    "jofer_hob": { role: "Агент практикант", status: "548769", telegram: "t.me/m1nistr_HABS" },
-  },
 
   // Звання працівників СБС
   sbs: {
