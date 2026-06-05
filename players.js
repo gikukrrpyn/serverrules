@@ -331,7 +331,7 @@ const players = {
     {
       role: "Начальник НПС",
       telegram: "t.me/SKODAche",
-      category: "Поліція",
+      category: "НПС",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-342E3D7829681689A3500C44D4A4C26C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
