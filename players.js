@@ -19,6 +19,15 @@ const players = {
     },
   ],
 
+  "lSqwizzyl": [
+    {
+      role: "R5 Заступник власника",
+      telegram: "t.me/shppsqwizzy",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-21B26C33E4787853FF03917A90688884-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
     "Andrushka_pupsik": [
 
    {
@@ -37,25 +46,35 @@ const players = {
 
   ],
 
-  
-  "Itz_raose": [
-    {
-      role: "R2b Інспектор службового контролю",
-      telegram: "t.me/li9nes",
-      category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-658A4BA5913FD66421F23E6C07E6F566-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
   "maksumkasymk789": [
     {
-      role: "R1c Адміністратор-Комунікатор",
+      role: "R3 Старший адміністратор",
       telegram: "t.me/white_wins",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-ACE0FACBC9E4B408F22B66ECEA21C7C3-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
 
+  "Sergij18": [
+    {
+      role: "R3 Старший адміністратор",
+      telegram: "t.me/Sergij9000",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E5CC33E7C8EEE48592B08C86828131AB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  
+  "Itz_raose": [
+    {
+      role: "R2b Інспектор службового контролю + Технічний адміністратор",
+      telegram: "t.me/li9nes",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-658A4BA5913FD66421F23E6C07E6F566-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  
   "Slavixzz4356": [
     {
       role: "R1c Адміністратор-Комунікатор",
@@ -64,15 +83,25 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0322948A074E2A2E34377AC625C1FBCF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-
-  "desna200": [
+  
+"XxsSashaxxjj": [
     {
-      role: "R1a Адміністратор-Патрульний ",
-      telegram: "t.me/lox_rb",
+      role: "R1c Адміністратор-Комунікатор",
+      telegram: "t.me/XxsSashaxxjj",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F41E2B00CB96EC9DE20B79B16820964A-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-94FB4C1749F2241DECA41D2DE12AB95C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "agency_roblox4": [
+    {
+      role: "R1c Адміністратор-Комунікатор",
+      telegram: "t.me/D_201_k",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C5C4F14496A7F94A12B8D9A1F0F24718-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
 
   "Ntinetter": [
@@ -83,6 +112,43 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-32D12D1DC17A08FD27581EAAD54FA694-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
+
+  "K_PoPlove9473": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/CHED4Y",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A13468A25DB793631B06BDAE61D3EEEB-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Rjdef31": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/Iam_lurk",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "Mr_Zver3000": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/xIIIKOLHIKx",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-21DBC8287571A2E93806F3E0266519DE-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
+  "ONLYvPOTOKE": [
+    {
+      role: "R1a Адміністратор-Патрульний",
+      telegram: "t.me/militaryxxs",
+      category: "Адміністрація",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8290C1D85D315DB8C61C7E723F6D546E-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+  ],
+
 
 
 
