@@ -70,7 +70,7 @@ const players = {
       role: "R2b Інспектор службового контролю + Технічний адміністратор",
       telegram: "t.me/li9nes",
       category: "Адміністрація",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-658A4BA5913FD66421F23E6C07E6F566-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "/img/avatar/admin/Itz_raose.webp",
     },
   ],
 
