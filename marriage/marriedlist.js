@@ -13,7 +13,7 @@ export const marriedList = [
         username2: "stasik666667",
         date: "2025-23-06", 
         photo1: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EF739E89B4BF75098748264B787AA619-Png/150/150/AvatarHeadshot/Webp/noFilter",
-        photo2: "https://www.pbt.dance/_next/image?url=%2Fteachers-directory-shadow.jpg&w=3840&q=75"
+        photo2: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E856D3613DD72E899825183C4F8C6F30-Png/150/150/AvatarHeadshot/Webp/noFilter"
    },
 
    
