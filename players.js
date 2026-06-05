@@ -351,7 +351,7 @@ const players = {
       role: "Водій лімузина",
       telegram: "t.me/Kotro71",
       category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-954E1014189DC7C85116EEFA537F349D-Png/150/150/AvatarHeadshot/Webp/noFilter",
+      avatar: "/img/avatar/marriage/Rostyk_gej71.webp",
     },
   ],
 
