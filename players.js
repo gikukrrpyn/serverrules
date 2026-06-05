@@ -55,7 +55,7 @@ const players = {
     },
   ],
 
-  "Sergij18": [
+  "sergij18": [
     {
       role: "R3 Старший адміністратор",
       telegram: "t.me/Sergij9000",
@@ -83,16 +83,27 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-0322948A074E2A2E34377AC625C1FBCF-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
   ],
-  
-"XxsSashaxxjj": [
-    {
+
+
+    "XxsSashaxxjj": [
+
+   {
       role: "R1c Адміністратор-Комунікатор",
       telegram: "t.me/XxsSashaxxjj",
       category: "Адміністрація",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-94FB4C1749F2241DECA41D2DE12AB95C-Png/150/150/AvatarHeadshot/Webp/noFilter",
     },
+  
+     {
+      role: "Директор ДАРШ",
+      telegram: "t.me/XxsSashaxxjj",
+      category: "ДАРШ",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-94FB4C1749F2241DECA41D2DE12AB95C-Png/150/150/AvatarHeadshot/Webp/noFilter",
+    },
+
   ],
 
+  
   "agency_roblox4": [
     {
       role: "R1c Адміністратор-Комунікатор",
@@ -295,16 +306,7 @@ const players = {
     },
    ],
 
-  "sergij18": [
-    {
-      role: "Заступник Директор СБС",
-      telegram: "t.me/Sergij9000",
-      category: "СБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E5CC33E7C8EEE48592B08C86828131AB-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-   ],
-
-
+ 
    "BMW_5098591": [
     {
       role: "Працівник СБС",
@@ -325,29 +327,6 @@ const players = {
 
 
 
-
-  "lSqwizzyl": [
-    {
-      role: "Директор НАБС",
-      telegram: "t.me/shppsqwizzy",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-7B77383CD8C20F94A72FF6032CEA534E-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-  "jofer_hob": [
-    {
-      role: "Заступник Директора НАБС",
-      telegram: "t.me/m1nistr_HABS",
-      category: "НАБС",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B699BFB8063567BFFC925219782E7373-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
-
-
-  
-
-
   "3cy_77781046": [
     {
       role: "Начальник НПС",
@@ -357,15 +336,6 @@ const players = {
     },
   ],
   
-
-"XxsSashaxxjj": [
-    {
-      role: "Директор ДАРШ",
-      telegram: "t.me/XxsSashaxxjj",
-      category: "ДАРШ",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A44571FDA0BCA289260CC8033941D886-Png/150/150/AvatarHeadshot/Webp/noFilter",
-    },
-  ],
 
   "eeeeyegeggegehux": [
     {
