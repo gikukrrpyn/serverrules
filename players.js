@@ -31,7 +31,14 @@ const players = {
       "avatar": "https://i.postimg.cc/qqwGMFkd/IMG-20260624-223549-245.jpg",
     },
   ],
-
+  "roxbennis0": [
+    {
+      "role": "Радник",
+      "telegram": "t.me/lauwerx007",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/RhxN9mpw/photo-2026-06-06-12-31-43.jpg",
+    },
+  ],
   "gikusya": [
     {
       role: "R7 Засновник сервера",
@@ -444,14 +451,7 @@ const players = {
     },
   ],
 
-"roxbennis0": [
-    {
-      "role": "Радник",
-      "telegram": "t.me/lauwerx007",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/RhxN9mpw/photo-2026-06-06-12-31-43.jpg",
-    },
-  ],
+
 "Asda7771jog": [
     {
       "role": "Охоронець",
