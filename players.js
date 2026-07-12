@@ -1,20 +1,5 @@
 const players = {
-  "ZoomSos123": [
-    {
-      role: "Мер",
-      telegram: "t.me/kitsuxen",
-      category: "Мерія",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5CD467A78208C95DC904F3F5209EE15C-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  "master_patata1": [
-    {
-      role: "Секретар",
-      telegram: "t.me/hello_amqruko",
-      category: "Мерія",
-      avatar: "https://i.postimg.cc/8C40Xrbd/IMG-20260624-004700-310.jpg",
-    },
-  ],
+  
   "gikusya": [
     {
       role: "R7 Засновник сервера",
@@ -350,6 +335,47 @@ const players = {
       avatar: "/img/avatar/marriage/Rostyk_gej71.webp",
     },
   ],
+  "ZoomSos123": [
+    {
+      role: "Мер",
+      telegram: "t.me/kitsuxen",
+      category: "Мерія",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5CD467A78208C95DC904F3F5209EE15C-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
+  "777ivan07": [
+    {
+      "role": "Заступник Мера",
+      "telegram": "t.me/leleleka_best",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/NMmjdVGf/photo-2026-06-24-15-54-03.jpg",
+    },
+  ],
+  "master_patata1": [
+    {
+      role: "Секретар",
+      telegram: "t.me/hello_amqruko",
+      category: "Мерія",
+      avatar: "https://i.postimg.cc/8C40Xrbd/IMG-20260624-004700-310.jpg",
+    },
+  ],
+  "Anya_wuow35": [
+    {
+      "role": "Радник",
+      "telegram": "t.me/Giko_0303",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/qqwGMFkd/IMG-20260624-223549-245.jpg",
+    },
+  ],
+
+"roxbennis0": [
+    {
+      "role": "Радник",
+      "telegram": "t.me/lauwerx007",
+      "category": "Мерія",
+      "avatar": "https://i.postimg.cc/RhxN9mpw/photo-2026-06-06-12-31-43.jpg",
+    },
+  ],
   "Den45bgg": [
     {
       role: "Охоронець",
@@ -374,13 +400,6 @@ const players = {
       avatar: "https://i.postimg.cc/qRC2hPgC/IMG-20260624-003623-734.jpg",
     },
   ],
-
-  
-  
-  
-  
-  
-  
   "val1n0tm": [
     {
       "role": "Охоронець",
@@ -397,30 +416,7 @@ const players = {
       "avatar": "https://i.postimg.cc/SxdKKkck/photo-2026-06-29-18-25-14.jpg",
     },
   ],
-"Anya_wuow35": [
-    {
-      "role": "Радник",
-      "telegram": "t.me/Giko_0303",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/qqwGMFkd/IMG-20260624-223549-245.jpg",
-    },
-  ],
-"777ivan07": [
-    {
-      "role": "Заступник Мера",
-      "telegram": "t.me/leleleka_best",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/NMmjdVGf/photo-2026-06-24-15-54-03.jpg",
-    },
-  ],
-"roxbennis0": [
-    {
-      "role": "Радник",
-      "telegram": "t.me/lauwerx007",
-      "category": "Мерія",
-      "avatar": "https://i.postimg.cc/RhxN9mpw/photo-2026-06-06-12-31-43.jpg",
-    },
-  ],
+
 "Asda7771jog": [
     {
       "role": "Охоронець",
