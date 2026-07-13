@@ -43,7 +43,6 @@ window.licenses = {
     "val1n0tm": { cans: "CANS через val1n0tm.", status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/g0gocat" },
     "Asda7771jog": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/burmalda1488676752" },
     "Slammed310": { status: "Дійсна", expiry: "02.08.2026", telegram: "6026275163" },
-    "SIGMA2019827": { status: "Дійсна", expiry: "02.08.2026", telegram: "8378012679" },
     "Maksimka20131411": { status: "Дійсна", expiry: "02.08.2026", telegram: "8632389084" },
     "Den45bgg": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Hoslifx7pro6ka" },
     "DoggyGames_TV24": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Doggy_Arrrr" },
