@@ -306,6 +306,14 @@ const players = {
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3BAAD0ABB9EEC44F687005EF331EA087-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+  "Bohdan1031": [
+    {
+      role: "Працівник СБС",
+      telegram: "5795035694",
+      category: "СБС",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3EF378437735605B747B5FA703318BDB-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
   "Rostyk_gej71": [
     {
       role: "Водій лімузина",
@@ -469,14 +477,6 @@ const players = {
       "telegram": "https://t.me/mxsnxc",
       "category": "ДБР",
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1A6264E0C3147E1F08AE9027E87FE9E-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-  "kirya2770": [
-    {
-      "role": "Працівник ДБР",
-      "telegram": "https://t.me/polipowws",
-      "category": "ДБР",
-      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DDE4BE707B5DDF0CB22D160DC0E246B9-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
 };
