@@ -208,10 +208,10 @@ const players = {
   ],
 "Yffgjjifh": [
     {
-      role: "Суддя",
-      telegram: "t.me/Yarik4h",
-      category: "Суд",
-      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F996F8CFD4ECEDA7A40C3F84F4670747-Png/150/150/AvatarHeadshot/Png/noFilter",
+      "role": "Працівник ДБР",
+      "telegram": "https://t.me/Yarik4h",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CE0B4522286947779C628E0A38F8DC60-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
     {
       role: "Керівник ПП",
@@ -458,15 +458,6 @@ const players = {
       "telegram": "https://t.me/maks2022UK",
       "category": "ДБР",
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-92402577BA86B7ABBE1D66FA37E6876F-Png/150/150/AvatarHeadshot/Png/noFilter",
-    },
-  ],
-
-"Yffgjjifh": [
-    {
-      "role": "Працівник ДБР",
-      "telegram": "https://t.me/Yarik4h",
-      "category": "ДБР",
-      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CE0B4522286947779C628E0A38F8DC60-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
 
