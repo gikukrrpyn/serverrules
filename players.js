@@ -471,4 +471,12 @@ const players = {
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E1A6264E0C3147E1F08AE9027E87FE9E-Png/150/150/AvatarHeadshot/Png/noFilter",
     },
   ],
+  "kirya2770": [
+    {
+      "role": "Працівник ДБР",
+      "telegram": "https://t.me/polipowws",
+      "category": "ДБР",
+      "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-DDE4BE707B5DDF0CB22D160DC0E246B9-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+  ],
 };
