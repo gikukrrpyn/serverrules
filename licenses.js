@@ -23,6 +23,7 @@ window.licenses = {
     "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
     "Valintin530": { status: "Дійсна", expiry: "30.07.2026", telegram: "5409858031" },
     "CAXAPOK_5685rb": { status: "Дійсна", expiry: "30.07.2026", telegram: "8143665638" },
+    "Bohdan1031": { status: "Дійсна", expiry: "30.07.2026", telegram: "5795035694" },
     
 
     // ДБР
@@ -804,6 +805,7 @@ window.licenses = {
     "Mykhailo_Zaya1": { role: "Сержант", status: "529158", telegram: "t.me/smishaa" },
     "Valintin530": { role: "Сержант", status: "540243", telegram: "t.me/Sigmaboy556" },
     "CAXAPOK_5685rb": { role: "Рядовий", status: "411814", telegram: "t.me/K0VBACA" },
+    "Bohdan1031": { role: "Рядовий", status: "791579", telegram: "5795035694" },
   },
 
   // Звання працівників ДБР
