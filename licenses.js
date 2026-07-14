@@ -22,12 +22,18 @@ window.licenses = {
     "DariySmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
     "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
     "Valintin530": { status: "Дійсна", expiry: "30.07.2026", telegram: "5409858031" },
-"CAXAPOK_5685rb": { status: "Дійсна", expiry: "30.07.2026", telegram: "8143665638" },
+    "CAXAPOK_5685rb": { status: "Дійсна", expiry: "30.07.2026", telegram: "8143665638" },
     
 
     // ДБР
-    "3cy_77781046": { status: "Дійсна", expiry: "30.07.2026", telegram: "6370149052" },
-
+    "4ooSe_3104": { status: "Дійсна", expiry: "02.08.2026", telegram: "5688779177" },
+    "itz_raose": { status: "Дійсна", expiry: "02.08.2026", telegram: "1431122546" },
+    "Yffgjjifh": { status: "Дійсна", expiry: "02.08.2026", telegram: "5367053785" },
+    "Po_po171": { status: "Дійсна", expiry: "02.08.2026", telegram: "6221089320" },
+    "BMW_5098591": { status: "Дійсна", expiry: "02.08.2026", telegram: "6042898465" },
+    "Slammed310": { status: "Дійсна", expiry: "02.08.2026", telegram: "6026275163" },
+    "Maksimka20131411": { status: "Дійсна", expiry: "02.08.2026", telegram: "8632389084" },
+    
     // Суд
 
 
@@ -36,23 +42,21 @@ window.licenses = {
     
 
     "makspsava": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/RoksyxMaks" },
-"Den45bgg": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Hoslifx7pro6ka" },
-"34436euf": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Artem75fgj" },
-"Asda7771jog": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/burmalda1488676752" },
+    "Den45bgg": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Hoslifx7pro6ka" },
+    "34436euf": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Artem75fgj" },
+    "Asda7771jog": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/burmalda1488676752" },
     "Mativiti_aaa": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Matvei_Lego0_0" },
     "val1n0tm": { cans: "CANS через val1n0tm.", status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/g0gocat" },
     "Asda7771jog": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/burmalda1488676752" },
-    "Slammed310": { status: "Дійсна", expiry: "02.08.2026", telegram: "6026275163" },
-    "Maksimka20131411": { status: "Дійсна", expiry: "02.08.2026", telegram: "8632389084" },
+   
+   
     "Den45bgg": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/Hoslifx7pro6ka" },
     "DoggyGames_TV24": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Doggy_Arrrr" },
-"makspsava": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/RoksyxMaks" },
+    "makspsava": { status: "Дійсна", expiry: "24.07.2026", telegram: "t.me/RoksyxMaks" },
     "34436euf": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Artem75fgj" },
     "Val1n0tm": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/g0gocat" },
     "mativiti_aaa": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Matvei_Lego0_0" },
-    "Yffgjjifh": { status: "Дійсна", expiry: "02.08.2026", telegram: "5367053785" },
-    "Po_po171": { status: "Дійсна", expiry: "02.08.2026", telegram: "6221089320" },
-    "BMW_5098591": { status: "Дійсна", expiry: "02.08.2026", telegram: "6042898465" },
+
 },
 
   // Зареєстровані бізнеси
@@ -795,9 +799,9 @@ window.licenses = {
 
   // Звання працівників СБС
   sbs: {
-    "jofer_hob": { role: "Директор СБС", status: "684420", telegram: "t.me/m1nistr_ezz" },
+    "jofer_hob": { role: "СБС", status: "684420", telegram: "t.me/m1nistr_ezz" },
     "Caston08963": { role: "Генерал-Майор", status: "755477", telegram: "t.me/Obs1dianch1k" },
-    "DariySmertnk": { role: "Керівник ЦСО-А", status: "788333", telegram: "t.me/dariysmertnk" },
+    "DariySmertnk": { role: "Директор СБС", status: "788333", telegram: "t.me/dariysmertnk" },
     "Mykhailo_Zaya1": { role: "Сержант", status: "529158", telegram: "t.me/smishaa" },
     "Valintin530": { role: "Сержант", status: "540243", telegram: "t.me/Sigmaboy556" },
     "Maksimka20131411": { role: "Рядовий", status: "863304", telegram: "t.me/maks2022UK" },
@@ -806,10 +810,12 @@ window.licenses = {
 
   // Звання працівників ДБР
   dbr: {
-"Slammed310": { role: "Старший сержант ДБР", status: "109602", telegram: "6026275163" },
-"SIGMA2019827": { role: "Сержант ДБР", status: "917837", telegram: "8378012679" },
+    "4ooSe_3104": { role: "Директор ДБР", status: "363568", telegram: "5688779177" },
+    "itz_raose": { role: "Заступник Директора ДБР", status: "400143", telegram: "1431122546" },
+    "Slammed310": { role: "Старший сержант ДБР", status: "109602", telegram: "6026275163" },
+    "SIGMA2019827": { role: "Сержант ДБР", status: "917837", telegram: "8378012679" },
     "Maksimka20131411": { role: "Старший сержант ДБР", status: "304863", telegram: "8632389084" },
-"Yffgjjifh": { role: "Майор ДБР", status: "709536", telegram: "5367053785" },
+    "Yffgjjifh": { role: "Майор ДБР", status: "709536", telegram: "5367053785" },
     "Po_po171": { role: "Капрал ДБР", status: "332622", telegram: "6221089320" },
     "BMW_5098591": { role: "Капрал ДБР", status: "802604", telegram: "6042898465" },
 },
