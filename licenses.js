@@ -18,8 +18,7 @@ window.licenses = {
 
     // СБС
     "jofer_hob": { status: "Дійсна", expiry: "30.07.2026", telegram: "6840451973" },
-    "Caston08963": { status: "Дійсна", expiry: "30.07.2026", telegram: "7557434574" },
-    "DariySmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
+"DariySmertnk": { status: "Дійсна", expiry: "30.07.2026", telegram: "7889063904" },
     "Mykhailo_Zaya1": { status: "Дійсна", expiry: "30.07.2026", telegram: "5295879849" },
     "Valintin530": { status: "Дійсна", expiry: "30.07.2026", telegram: "5409858031" },
     "CAXAPOK_5685rb": { status: "Дійсна", expiry: "30.07.2026", telegram: "8143665638" },
@@ -57,6 +56,9 @@ window.licenses = {
     "Val1n0tm": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/g0gocat" },
     "mativiti_aaa": { status: "Дійсна", expiry: "24.08.2026", telegram: "t.me/Matvei_Lego0_0" },
 
+    "levopravo2024": { status: "Дійсна", expiry: "15.08.2026", telegram: "5134083594" },
+    "Caston08963": { status: "Дійсна", expiry: "15.08.2026", telegram: "7557434574" },
+    "3cy_77781046": { status: "Дійсна", expiry: "15.08.2026", telegram: "6370149052" },
 },
 
   // Зареєстровані бізнеси
@@ -258,6 +260,7 @@ window.licenses = {
     "Cib_328": { role: "26 012", status: "648453", expiry: "", telegram: "6483302909" },
 
     "CAMERA_MEN2014": { role: "32000", status: "904524", expiry: "", telegram: "5245671161" },
+    "Cintyr3201": { role: "1", status: "567359", expiry: "«»", telegram: "5672159419" },
     // D
     "DOGvDOMIKE": { "role": "22 055", "status": "291643", "expiry": "", "telegram": "6433921215" },
     "dolinskuy": { "role": "49 083", "status": "136181", "expiry": "", "telegram": "1812225406" },
@@ -355,6 +358,7 @@ window.licenses = {
 
 
     "glebkhleb228": { role: "18001", status: "451531", expiry: "", telegram: "5314868323" },
+    "gmmmf1224": { role: "Я", status: "671435", expiry: "ДКОРД", telegram: "6716417782" },
     // H
     "holodos222": { role: "7 544", status: "440594", expiry: "", telegram: "5947961816" },
     "haski1510": { role: "1 507", status: "275171", expiry: "", telegram: "1715926184" },
@@ -441,6 +445,8 @@ window.licenses = {
 
     "kakaxa_45293": { role: "40", status: "815729", expiry: "", telegram: "7290496078" },
     "kolopohv": { role: "ветеран", status: "481628", expiry: "", telegram: "6286540452" },
+    "KILLER_00803": { role: "1", status: "769772", expiry: "«»", telegram: "7693053757" },
+    "KRYTI_BREINROTU1": { role: "1", status: "519977", expiry: "«»", telegram: "5190014030" },
     // L
     "LingateYT": { "role": "4 410", "status": "773562", "expiry": "", "telegram": "5622537101" },
     "Luski2228": { "role": "1 617", "status": "849803", "expiry": "", "telegram": "8013042029" },
@@ -670,7 +676,7 @@ window.licenses = {
     "SOMIK_557": { "role": "17 527", "status": "860105", "expiry": "", "telegram": "8609908965" },
     "SashaMa00": { "role": "4 046", "status": "723613", "expiry": "", "telegram": "7233099532" },
     "slen57763": { "role": "6 121", "status": "548512", "expiry": "", "telegram": "5489975171" },
-    "samunzhiev": { role: "капітан", status: "188386", expiry: "ДКОРД", telegram: "3864603231" },
+    "samunzhiev": { role: "Генерал", status: "188386", expiry: "ДКОРД", telegram: "3864603231" },
 "sania100291": { "role": "28 695", "status": "753823", "expiry": "", "telegram": "7530227663" },
     "sashko2507": { "role": "18 013", "status": "622359", "expiry": "", "telegram": "6220388915" },
     "stas1234vo": { "role": "16 332", "status": "394857", "expiry": "", "telegram": "8572452096" },
@@ -768,6 +774,7 @@ window.licenses = {
     "Yatupoykogdabalans2": { "role": "31 684", "status": "571870", "expiry": "", "telegram": "5710792095" },
 
     "yryry0060": { role: "2060", status: "110677", expiry: "", telegram: "6772023583" },
+    "YTNEON": { role: "1", status: "835575", expiry: ".", telegram: "8357562286" },
     // Z
     "zer14685": { "role": "8 700", "status": "607719", "expiry": "", "telegram": "6078536424" },
     "Zoomsos123": { "role": "65 129", "status": "350533", "expiry": "", "telegram": "5339606531" },
