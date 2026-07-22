@@ -119,7 +119,7 @@ const players = {
     {
       "username": "DariySmertnk",
       "role": "Директор СБС",
-      "telegram": "t.me/dariysmertn",
+      "telegram": "t.me/dariysmertnk",
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-068CF7C938D41406777ACC560CE7312B-Png/150/150/AvatarHeadshot/Png/noFilter"
     },
     {
