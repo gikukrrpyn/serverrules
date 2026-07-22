@@ -107,6 +107,12 @@ const players = {
       role: "R1a Адміністратор-Патрульний",
       telegram: "5456022682",
       avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF6A1C9DB0505DBAAFDFA918F897C54A-Png/150/150/AvatarHeadshot/Png/noFilter",
+    },
+    {
+      username: "Itz_raose",
+      role: "Технічній адміністратор",
+      telegram: "t.me/ob1zyan",
+      avatar: "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CCFE7E5FA8103A1EE972B343EDCBBA68-Png/150/150/AvatarHeadshot/Png/noFilter",
     }
   ],
 
