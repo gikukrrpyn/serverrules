@@ -113,6 +113,12 @@ const players = {
       "role": "Технічній адміністратор",
       "telegram": "t.me/ob1zyan",
       "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CCFE7E5FA8103A1EE972B343EDCBBA68-Png/150/150/AvatarHeadshot/Png/noFilter"
+    },
+    {
+      "username": "о",
+      "role": "R7 Засновник сервера",
+      "telegram": "л",
+      "avatar": "л"
     }
   ],
   "СБС": [
