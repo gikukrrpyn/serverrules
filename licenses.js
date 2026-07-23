@@ -25,9 +25,6 @@ window.licenses = {
     // J
     "jofer_hob": {"status":"Дійсна","expiry":"30.07.2026","telegram":"6840451973"},
 
-    // K
-    "kirya2770": {"status":"Дійсна","expiry":"02.08.2026","telegram":"1482508992"},
-
     // M
     "Maksimka20131411": {"status":"Дійсна","expiry":"17.08.2026","telegram":"8556942531"},
     "makspsava": {"status":"Дійсна","expiry":"24.07.2026","telegram":"t.me/RoksyxMaks"},
