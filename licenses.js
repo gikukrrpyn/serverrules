@@ -45,9 +45,6 @@ window.licenses = {
 
     // Y
     "Yffgjjifh": {"status":"Дійсна","expiry":"02.08.2026","telegram":"5367053785"},
-
-    // Z
-    "Zaj_Zuga3": {"status":"Дійсна","expiry":"15.02.2026","telegram":"6025730893"},
   },
   "business": [
     {"username":"XxsSashaxxjj","status":"7696678842","role":"Грант Плюс","telegram":"1921850684"},
