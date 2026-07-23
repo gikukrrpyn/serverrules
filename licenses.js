@@ -20,9 +20,6 @@ window.licenses = {
     "Dodu340dd": {"status":"використання ліцензії у злочинних цілях; призначено довічну заборону на отримання ліцензії.","expiry":"00.00.0000","telegram":"5632698118"},
     "DoggyGames_TV24": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Doggy_Arrrr"},
 
-    // J
-    "jofer_hob": {"status":"Дійсна","expiry":"30.07.2026","telegram":"6840451973"},
-
     // M
     "Maksimka20131411": {"status":"Дійсна","expiry":"17.08.2026","telegram":"8556942531"},
     "makspsava": {"status":"Дійсна","expiry":"24.07.2026","telegram":"t.me/RoksyxMaks"},
