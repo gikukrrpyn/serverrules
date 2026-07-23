@@ -4,9 +4,6 @@ window.licenses = {
     // 3
     "34436euf": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Artem75fgj"},
 
-    // 4
-    "4ooSe_3104": {"status":"Дійсна","expiry":"02.08.2026","telegram":"5688779177"},
-
     // A
     "Asda7771jog": {"status":"Дійсна","expiry":"24.07.2026","telegram":"t.me/burmalda1488676752"},
 
