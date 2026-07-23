@@ -9,7 +9,6 @@ window.licenses = {
 
     // B
     "BMW_5098591": {"status":"Дійсна","expiry":"02.08.2026","telegram":"6042898465"},
-    "BMW_M5F456": {"status":"Дійсна","expiry":"15.08.2026","telegram":"8064092076"},
     "Bohdan1031": {"status":"Дійсна","expiry":"30.07.2026","telegram":"5795035694"},
 
     // C
