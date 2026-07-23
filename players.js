@@ -145,12 +145,6 @@ const players = {
             "role": "Працівник СБС",
             "telegram": "5795035694",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3EF378437735605B747B5FA703318BDB-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
-            "username": "test",
-            "role": "Test",
-            "telegram": "t.me/rolestest",
-            "avatar": ""
         }
     ],
     "ДБР": [
