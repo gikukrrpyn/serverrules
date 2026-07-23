@@ -14,7 +14,6 @@ window.licenses = {
 
     // C
     "CAXAPOK_5685rb": {"status":"Дійсна","expiry":"30.07.2026","telegram":"8143665638"},
-    "CAXAPOK_QUW": {"status":"Дійсна","expiry":"15.08.2026","telegram":"6025730893"},
 
     // D
     "DariySmertnk": {"status":"Дійсна","expiry":"30.07.2026","telegram":"7889063904"},
