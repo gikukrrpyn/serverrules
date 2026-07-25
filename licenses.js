@@ -1300,7 +1300,7 @@ window.licenses = {
     "heehrhrhl9": {"status":"Space diamond","telegram":"6510561713","role":"Банда"},
 
     // I
-    "itz_raose": {"status":"Спецоперація Моссаду 001","telegram":"1431122546","role":"Моссад"},
+    "itz_raose": {"status":"Ізраїльський Моссад","telegram":"1431122546","role":"Моссад","username":"itz_raose"},
 
     // M
     "makspsava": {"status":"ZEMAN","telegram":"8124501866","role":"Мафія"},
