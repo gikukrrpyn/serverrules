@@ -123,12 +123,6 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-068CF7C938D41406777ACC560CE7312B-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "Valintin530",
-            "role": "Працівник СБС",
-            "telegram": "t.me/Sigmaboy556",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-46422B5667021E2404CF32D2360E627B-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "CAXAPOK_5685rb",
             "role": "Працівник СБС",
             "telegram": "t.me/K0VBACA",
