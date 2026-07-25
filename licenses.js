@@ -592,7 +592,7 @@ window.licenses = {
     "shokhis": {"role":"4000","status":"368551","expiry":"","telegram":"5518111025"},
     "sifirka": {"role":"25 615","status":"622336","expiry":"","telegram":"6222251955"},
     "sigm4t1k": {"role":"45 553","status":"815551","expiry":"","telegram":"8156926863"},
-    "SIGMA2019827": {"role":"Генерал","status":"817770","expiry":"«»","telegram":"7770250915"},
+    "SIGMA2019827": {"role":"Ветеран","status":"817770","expiry":"«»","telegram":"7770250915"},
     "Silikon_chik": {"role":"3 030","status":"767890","expiry":"","telegram":"7670315348"},
     "simiaKoTenAsA38": {"role":"5200","status":"440610","expiry":"","telegram":"6109024849"},
     "simson99995": {"role":"483","status":"523350","expiry":"","telegram":"5481499679"},
