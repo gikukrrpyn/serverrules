@@ -31,7 +31,6 @@ window.licenses = {
     "Slammed310": {"status":"Дійсна","expiry":"02.08.2026","telegram":"6026275163"},
 
     // V
-    "val1n0tm": {"cans":"CANS через val1n0tm.","status":"Дійсна","expiry":"24.07.2026","telegram":"t.me/g0gocat"},
     "Val1n0tm": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/g0gocat"},
     "Valintin530": {"status":"Дійсна","expiry":"30.07.2026","telegram":"5409858031"},
 
