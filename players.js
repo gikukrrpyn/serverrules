@@ -127,6 +127,12 @@ const players = {
             "role": "Працівник СБС",
             "telegram": "t.me/K0VBACA",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3BAAD0ABB9EEC44F687005EF331EA087-Png/150/150/AvatarHeadshot/Png/noFilter"
+        },
+        {
+            "username": "Caston08963",
+            "role": "Директор СБС",
+            "telegram": "@Obs1dianch1k",
+            "avatar": "https://i.postimg.cc/430yJ3YD/IMG-20260726-232613-833.jpg"
         }
     ],
     "ДБР": [
