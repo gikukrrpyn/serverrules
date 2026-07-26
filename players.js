@@ -132,7 +132,7 @@ const players = {
             "username": "Caston08963",
             "role": "Директор СБС",
             "telegram": "@Obs1dianch1k",
-            "avatar": "https://i.postimg.cc/430yJ3YD/IMG-20260726-232613-833.jpg"
+            "avatar": "https://i.postimg.cc/htyPrG14/Screenshot-2026-07-26-23-18-52-637-com-roblox-client-edit-2.jpg"
         }
     ],
     "ДБР": [
