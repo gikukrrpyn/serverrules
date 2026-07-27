@@ -329,6 +329,12 @@ const players = {
             "role": "Комісар",
             "telegram": "https://t.me/marsqwr",
             "avatar": ""
+        },
+        {
+            "username": "Panko_v13",
+            "role": "Молодший патрульний",
+            "telegram": "10265195192",
+            "avatar": ""
         }
     ],
     "Інше": [
