@@ -353,6 +353,12 @@ const players = {
             "role": "Ветеран",
             "telegram": "8549231265",
             "avatar": ""
+        },
+        {
+            "username": "Yrik_232345",
+            "role": "Старший сержант",
+            "telegram": "6635850024",
+            "avatar": ""
         }
     ],
     "Інше": [
