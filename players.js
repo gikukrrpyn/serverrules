@@ -175,7 +175,7 @@ const players = {
     ],
     "Суд": [
         {
-            "username": "Arseniy_zabanen",
+            "username": "Arseniy_zabanen1",
             "role": "Головний Суддя",
             "telegram": "t.me/Samyry228",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-E913BC846B4C63706C0E103F604EB4D9-Png/150/150/AvatarHeadshot/Webp/noFilter"
