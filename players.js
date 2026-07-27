@@ -377,6 +377,12 @@ const players = {
             "role": "Ветеран",
             "telegram": "@g0gocat",
             "avatar": ""
+        },
+        {
+            "username": "Bendjamin29",
+            "role": "Кадет",
+            "telegram": "@BENR228",
+            "avatar": ""
         }
     ],
     "Інше": [
