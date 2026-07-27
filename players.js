@@ -331,12 +331,6 @@ const players = {
             "avatar": ""
         },
         {
-            "username": "CAXAPOK_5685rb",
-            "role": "Капітан",
-            "telegram": "8852170844",
-            "avatar": ""
-        },
-        {
             "username": "Val1nOtm",
             "role": "Ветеран",
             "telegram": "@g0gocat",
