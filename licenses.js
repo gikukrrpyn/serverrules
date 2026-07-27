@@ -1154,7 +1154,6 @@ window.licenses = {
 
     // B
     "Bandera909": {"status":"A8888","telegram":"8556123935"},
-    "belgaz5": {"cans":"CANS через несплату податку.","status":"A0303","telegram":"7131195407"},
     "Bloxycolpak": {"status":"A7171","telegram":"6101802031"},
     "bodja150510": {"status":"A8080","telegram":"t.me/marsqwrty0"},
 
