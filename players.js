@@ -333,7 +333,7 @@ const players = {
         {
             "username": "Panko_v13",
             "role": "Молодший патрульний",
-            "telegram": "10265195192",
+            "telegram": "8369674068",
             "avatar": ""
         },
         {
