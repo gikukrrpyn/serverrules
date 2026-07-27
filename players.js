@@ -329,12 +329,6 @@ const players = {
             "role": "Комісар",
             "telegram": "https://t.me/marsqwr",
             "avatar": ""
-        },
-        {
-            "username": "Bendjamin29",
-            "role": "Кадет",
-            "telegram": "@BENR228",
-            "avatar": ""
         }
     ],
     "Інше": [
