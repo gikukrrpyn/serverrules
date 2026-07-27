@@ -365,6 +365,12 @@ const players = {
             "role": "Кадет",
             "telegram": "7688452729",
             "avatar": ""
+        },
+        {
+            "username": "CAXAPOK_5685rb",
+            "role": "Капітан",
+            "telegram": "8852170844",
+            "avatar": ""
         }
     ],
     "Інше": [
