@@ -347,6 +347,12 @@ const players = {
             "role": "Кадет",
             "telegram": "6067969493",
             "avatar": ""
+        },
+        {
+            "username": "golopa076",
+            "role": "Ветеран",
+            "telegram": "8549231265",
+            "avatar": ""
         }
     ],
     "Інше": [
