@@ -335,6 +335,12 @@ const players = {
             "role": "Молодший патрульний",
             "telegram": "10265195192",
             "avatar": ""
+        },
+        {
+            "username": "jarik2slow",
+            "role": "Патрульний",
+            "telegram": "7748561330",
+            "avatar": ""
         }
     ],
     "Інше": [
