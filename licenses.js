@@ -13,7 +13,6 @@ window.licenses = {
 
     // D
     "DariySmertnk": {"status":"Дійсна","expiry":"30.07.2026","telegram":"7889063904"},
-    "Den45bgg": {"status":"Дійсна","expiry":"24.07.2026","telegram":"t.me/Hoslifx7pro6ka"},
     "Dodu340dd": {"status":"використання ліцензії у злочинних цілях; призначено довічну заборону на отримання ліцензії.","expiry":"00.00.0000","telegram":"5632698118"},
     "DoggyGames_TV24": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Doggy_Arrrr"},
 
