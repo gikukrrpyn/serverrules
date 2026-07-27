@@ -29,7 +29,6 @@ window.licenses = {
 
     // V
     "Val1n0tm": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/g0gocat"},
-    "Valintin530": {"status":"Дійсна","expiry":"30.07.2026","telegram":"5409858031"},
 
     // Y
     "Yffgjjifh": {"status":"Дійсна","expiry":"02.08.2026","telegram":"5367053785"},
