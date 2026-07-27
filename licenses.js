@@ -17,7 +17,6 @@ window.licenses = {
 
     // M
     "Maksimka20131411": {"status":"Дійсна","expiry":"17.08.2026","telegram":"8556942531"},
-    "makspsava": {"status":"Дійсна","expiry":"24.07.2026","telegram":"t.me/RoksyxMaks"},
     "mativiti_aaa": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Matvei_Lego0_0"},
 
     // P
