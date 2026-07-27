@@ -13,16 +13,16 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-52E8D0AEDF9EBFC016ABC09EAEDCA17D-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "Andrushka_pupsik",
-            "role": "R4 Головний Адміністратор-Технічний Адміністратор",
-            "telegram": "5262299554",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6BFE2CCC933544A43F2960DEB2B73826-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "lSqwizzyl",
             "role": "R5 Заступник власника",
             "telegram": "t.me/shppsqwizzy",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-21B26C33E4787853FF03917A90688884-Png/150/150/AvatarHeadshot/Webp/noFilter"
+        },
+        {
+            "username": "Andrushka_pupsik",
+            "role": "R4 Головний Адміністратор-Технічний Адміністратор",
+            "telegram": "5262299554",
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6BFE2CCC933544A43F2960DEB2B73826-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "Andrew_01174",
