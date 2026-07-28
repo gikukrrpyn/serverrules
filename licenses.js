@@ -741,9 +741,6 @@ window.licenses = {
     "BMW_5098591": {"role":"Капрал ДБР","status":"802604","telegram":"6042898465"},
     "BMW_M5F456": {"role":"Капрал ДБР","status":"898806","telegram":"8064092076"},
 
-    // C
-    "CAXAPOK_QUW": {"role":"Капрал ДБР","status":"762117","telegram":"1172225259"},
-
     // I
     "itz_raose": {"role":"Заступник Директора ДБР","status":"400143","telegram":"1431122546"},
 
