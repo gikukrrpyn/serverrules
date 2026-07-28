@@ -295,12 +295,6 @@ const players = {
     ],
     "НПС": [
         {
-            "username": "jehfjrgrivbrhtklf",
-            "role": "Начальник НПС",
-            "telegram": "t.me/jehfirgrivbrhtklf",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-14C8ACECBE7DA4F9ADB0E073B4999A2C-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "samunzhiev",
             "role": "Керівник ДКОРД",
             "telegram": "t.me/LevBarinovv",
