@@ -336,6 +336,7 @@ window.licenses = {
 
     // J
     "jari2slow": {"role":"6600","status":"825774","expiry":"","telegram":"8253274959"},
+    "jarik2slow": {"username":"jarik2slow","role":"7 083","status":"774841","telegram":"8413966588"},
     "jdjdudhshshdb": {"role":"143 553","status":"630257","expiry":"","telegram":"6306896242"},
     "jehfirgrivbrhtklf": {"role":"19500","status":"595327","expiry":"","telegram":"5959832681"},
     "jeka34567899": {"role":"88 471","status":"811456","expiry":"","telegram":"8114402013"},
