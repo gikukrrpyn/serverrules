@@ -55,12 +55,6 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C5C4F14496A7F94A12B8D9A1F0F24718-Png/150/150/AvatarHeadshot/Webp/noFilter"
         },
         {
-            "username": "ONLYvPOTOKE",
-            "role": "R1c Адміністратор-Комунікатор",
-            "telegram": "5408573953",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5DA5211B18586F679A008F8387CB57B7-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "eeeeyegeggegehux",
             "role": "R1c Адміністратор-Комунікатор",
             "telegram": "5599228299",
