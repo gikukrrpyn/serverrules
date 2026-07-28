@@ -62,7 +62,6 @@ window.licenses = {
     {"username":"Robert_polsan228","status":"7696678842","role":"Грант Плюс","telegram":"1921850684"},
     {"username":"Marsianin_l0l","status":"10312353894","role":"Мирне ягня","telegram":"7636472784"},
     {"username":"Ukrain_h4","status":"5172624998","role":"FixHamburg","telegram":"5379128979"},
-    {"username":"artemMelnichenko2013","status":"5957350635","role":"Aktavia Post RP","telegram":"5957350635"},
     {"username":"pravolevo678","status":"10074623422","role":"DTEK","telegram":"7811050819"},
     {"username":"Caston08963","status":"4775989978","role":"Vinum Imperia","telegram":"7557434574"},
     {"username":"Matviy105012","status":"4634753941","role":"DHLHamserver GROUP","telegram":"6153820089"},
