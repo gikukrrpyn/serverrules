@@ -448,6 +448,7 @@ window.licenses = {
     "milkcoffe_2024": {"role":"6 037","status":"534582","expiry":"","telegram":"5827998592"},
     "mimi091594": {"role":"120","status":"586729","expiry":"","telegram":"5865962309"},
     "Mini_broTBINK4": {"role":"601","status":"750958","expiry":"","telegram":"7501968269"},
+    "Mini134bro": {"username":"Mini134bro","role":"402","status":"967606","telegram":"6067969493"},
     "Miron097ua": {"role":"ветеран","status":"735643","expiry":"","telegram":"6435553200"},
     "Misha222sok": {"role":"20 242","status":"480615","expiry":"","telegram":"6159153631"},
     "Mishail201411": {"role":"9 229","status":"734220","expiry":"","telegram":"7345330944"},
