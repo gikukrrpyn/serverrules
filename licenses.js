@@ -2,7 +2,7 @@ window.licenses = {
   "weapon": {
 
     // 3
-    "34436euf": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Artem75fgj"},
+    "34436euf": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Artem75fgj","username":"34436euf","suspended":"бебебеб"},
 
     // B
     "BMW_5098591": {"status":"Дійсна","expiry":"02.08.2026","telegram":"6042898465"},
