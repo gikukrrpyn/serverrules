@@ -112,8 +112,7 @@ const players = {
             "username": "Itz_raose",
             "role": "Технічній адміністратор",
             "telegram": "t.me/ob1zyan",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CCFE7E5FA8103A1EE972B343EDCBBA68-Png/150/150/AvatarHeadshot/Png/noFilter",
-            "suspended": "Через Інактив. до 02.08.26"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CCFE7E5FA8103A1EE972B343EDCBBA68-Png/150/150/AvatarHeadshot/Png/noFilter"
         }
     ],
     "СБС": [
