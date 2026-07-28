@@ -140,8 +140,7 @@ const players = {
             "username": "SIGMA2019827",
             "role": "Працівник ДБР",
             "telegram": "https://t.me/shu4777",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6349BB4002E3C8509FE93A137873820C-Png/150/150/AvatarHeadshot/Png/noFilter",
-            "suspended": "Через траляляля до 02.08.26"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-6349BB4002E3C8509FE93A137873820C-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "Slammed310",
