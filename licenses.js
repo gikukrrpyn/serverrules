@@ -293,6 +293,7 @@ window.licenses = {
     "glebkhleb228": {"role":"18001","status":"451531","expiry":"","telegram":"5314868323"},
     "Gmmmf1224": {"role":"19 523","status":"671435","expiry":"","telegram":"6716417782"},
     "gmmmf1224": {"role":"Я","status":"671435","expiry":"ДКОРД","telegram":"6716417782"},
+    "golopa076": {"username":"golopa076","role":"62 907","status":"745854","telegram":"8549231265"},
     "gonorer45": {"role":"14 520","status":"120161","expiry":"","telegram":"1613994040"},
     "GordiyYarmolenko": {"role":"Комісар","status":"471644","expiry":"","telegram":"6446581492"},
     "grisha_grishana20": {"role":"40","status":"846100","expiry":"","telegram":"8469415267"},
