@@ -28,7 +28,7 @@ const players = {
             "username": "Andrew_01174",
             "role": "R3 Старший Адміністратор",
             "telegram": "8377880216",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-BB8BC2CA06ABA54B82B02456C6A3A00E-Png/150/150/AvatarHeadshot/Png/noFilter"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F3E80E05FD28B906F106F78AE3F59C4B-Png/420/420/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "bodja150510",
