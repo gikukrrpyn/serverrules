@@ -215,6 +215,12 @@ const players = {
             "role": "Охоронець Суду",
             "telegram": "t.me/Alexandriulik",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1D0527DBC9EAF981AD87BB30F0447998-Png/150/150/AvatarHeadshot/Png/noFilter"
+        },
+        {
+            "username": "Mr_Zver3000",
+            "role": "Суддя",
+            "telegram": "@xIIIKOLHIKx",
+            "avatar": ""
         }
     ],
     "Мерія": [
