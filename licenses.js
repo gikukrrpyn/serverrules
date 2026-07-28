@@ -65,8 +65,8 @@ window.licenses = {
     {"username":"pravolevo678","status":"10074623422","role":"DTEK","telegram":"7811050819"},
     {"username":"Caston08963","status":"4775989978","role":"Vinum Imperia","telegram":"7557434574"},
     {"username":"Matviy105012","status":"4634753941","role":"DHLHamserver GROUP","telegram":"6153820089"},
-    {"username":"Aktavia9283fn","status":"5957350635","role":"Aktavia Post RP","telegram":"5957350635"},
     {"username":"artemMelnichenko2013","status":"5957350635","role":"Aktavia Post RP","telegram":"5957350635"},
+    {"username":"Aktavia9283fn","status":"5957350635","role":"Aktavia Post RP","telegram":"5957350635"},
   ],
   "police": {
 
