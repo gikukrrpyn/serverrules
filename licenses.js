@@ -70,7 +70,6 @@ window.licenses = {
   "police": {
 
     // 1
-    "123kfer": {"role":"1 466","status":"805350","expiry":"","telegram":"8059771418"},
     "1313Gonf": {"role":"26 772","status":"433127","expiry":"","telegram":"1275263288"},
 
     // 2
