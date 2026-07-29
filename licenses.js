@@ -69,9 +69,6 @@ window.licenses = {
   ],
   "police": {
 
-    // 1
-    "1313Gonf": {"role":"26 772","status":"433127","expiry":"","telegram":"1275263288"},
-
     // 2
     "2012UA123": {"role":"6 580","status":"402560","expiry":"","telegram":"5609089532"},
     "2366453he": {"role":"13 371","status":"450657","expiry":"","telegram":"6579828005"},
