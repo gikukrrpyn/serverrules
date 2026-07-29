@@ -301,16 +301,16 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D9FE77C72950DFCC489479EDBA47756-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "Maksmakus",
-            "role": "Керівник ДП",
-            "telegram": "t.me/Maksikus19",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86EC8AD5E099209C81C822DA9B8DCFFD-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "levopravo2024",
             "role": "Начальник НПС",
             "telegram": "t.me/Alexandriulik",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1290420954AF9DDF74699118861FCD63-Png/150/150/AvatarHeadshot/Png/noFilter"
+        },
+        {
+            "username": "Maksmakus",
+            "role": "Керівник ДП",
+            "telegram": "t.me/Maksikus19",
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86EC8AD5E099209C81C822DA9B8DCFFD-Png/150/150/AvatarHeadshot/Png/noFilter"
         }
     ],
     "Інше": [
