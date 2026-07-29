@@ -295,16 +295,16 @@ const players = {
     ],
     "НПС": [
         {
-            "username": "samunzhiev",
-            "role": "Керівник ДКОРД",
-            "telegram": "t.me/LevBarinovv",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D9FE77C72950DFCC489479EDBA47756-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "levopravo2024",
             "role": "Начальник НПС",
             "telegram": "t.me/Alexandriulik",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1290420954AF9DDF74699118861FCD63-Png/150/150/AvatarHeadshot/Png/noFilter"
+        },
+        {
+            "username": "samunzhiev",
+            "role": "Керівник ДКОРД",
+            "telegram": "t.me/LevBarinovv",
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D9FE77C72950DFCC489479EDBA47756-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "Maksmakus",
