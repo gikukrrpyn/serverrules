@@ -313,7 +313,7 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86EC8AD5E099209C81C822DA9B8DCFFD-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "eeeeyegeggegehux",
+            "username": "Митий Трактор",
             "role": "Керівник ТОР",
             "telegram": "5599228299",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-82FA57C31A3250FBEFE4740D56EFA29E-Png/150/150/AvatarHeadshot/Webp/noFilter"
