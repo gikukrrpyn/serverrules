@@ -69,9 +69,6 @@ window.licenses = {
   ],
   "police": {
 
-    // 0
-    "0Secret_garden0": {"role":"47 322","status":"755107","expiry":"","telegram":"7553801810"},
-
     // 1
     "120807ROBZAN": {"role":"15 653","status":"125181","expiry":"","telegram":"1253019076"},
     "123kfer": {"role":"1 466","status":"805350","expiry":"","telegram":"8059771418"},
