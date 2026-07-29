@@ -392,7 +392,7 @@ window.licenses = {
     "Lager13071": {"role":"10 817","status":"763607","expiry":"","telegram":"7630271339"},
     "Lesyadovben1985": {"role":"4 051","status":"815323","expiry":"","telegram":"8159768315"},
     "lev_001y": {"role":"2 633","status":"796326","expiry":"","telegram":"7968066802"},
-    "levopravo2024": {"role":"45 437","status":"749513","expiry":"","telegram":"5134083594"},
+    "levopravo2024": {"role":"45437","status":"749513","expiry":"","telegram":"5134083594","username":"levopravo2024"},
     "LikDsa13": {"role":"6 928","status":"732188","expiry":"","telegram":"7322875684"},
     "Lilpodgre": {"role":"19 447","status":"630916","expiry":"","telegram":"6308121808"},
     "LingateYT": {"role":"4 410","status":"773562","expiry":"","telegram":"5622537101"},
