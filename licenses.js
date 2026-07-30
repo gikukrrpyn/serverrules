@@ -12,7 +12,7 @@ window.licenses = {
     "CAXAPOK_5685rb": {"status":"Дійсна","expiry":"30.07.2026","telegram":"8143665638"},
 
     // D
-    "DariySmertnk": {"status":"Дійсна","expiry":"30.07.2026","telegram":"7889063904"},
+    "DariySmertnk": {"status":"Дійсна","expiry":"30.08.2026","telegram":"7889063904","username":"DariySmertnk"},
     "DoggyGames_TV24": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Doggy_Arrrr"},
 
     // M
