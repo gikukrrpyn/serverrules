@@ -6,6 +6,7 @@ window.licenses = {
 
     // B
     "BMW_5098591": {"status":"Дійсна","expiry":"02.08.2026","telegram":"6042898465"},
+    "Bohdan1031": {"username":"Bohdan1031","status":"Дійсна","expiry":"30.08.2026","telegram":"@zefirpvp"},
 
     // C
     "Caston08963": {"username":"Caston08963","status":"Дійсна","expiry":"30.08","telegram":"https://t.me/Obs1dianch1k"},
