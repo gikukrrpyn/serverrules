@@ -9,7 +9,7 @@ window.licenses = {
     "Bohdan1031": {"username":"Bohdan1031","status":"Дійсна","expiry":"30.08.2026","telegram":"@zefirpvp"},
 
     // C
-    "Caston08963": {"username":"Caston08963","status":"Дійсна","expiry":"30.08","telegram":"https://t.me/Obs1dianch1k"},
+    "Caston08963": {"username":"Caston08963","status":"Дійсна","expiry":"30.08.2026","telegram":"https://t.me/Obs1dianch1k"},
     "CAXAPOK_5685rb": {"status":"Дійсна","expiry":"30.07.2026","telegram":"8143665638"},
 
     // D
