@@ -193,17 +193,17 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-99DC22B64852C360E8301416C26901CB-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
+            "username": "Mr_Zver3000",
+            "role": "Суддя",
+            "telegram": "@xIIIKOLHIKx",
+            "avatar": ""
+        },
+        {
             "username": "ferd1358",
             "role": "Суддя",
             "telegram": "6124873630",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B75E6E229AC2813A8054FF0BED9B238C-Png/150/150/AvatarHeadshot/Png/noFilter",
             "suspended": "Звільнився причина:psj"
-        },
-        {
-            "username": "Mr_Zver3000",
-            "role": "Суддя",
-            "telegram": "@xIIIKOLHIKx",
-            "avatar": ""
         },
         {
             "username": "olegh34",
