@@ -199,18 +199,18 @@ const players = {
             "avatar": ""
         },
         {
-            "username": "ferd1358",
-            "role": "Суддя",
-            "telegram": "6124873630",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B75E6E229AC2813A8054FF0BED9B238C-Png/150/150/AvatarHeadshot/Png/noFilter",
-            "suspended": "Звільнився причина:psj"
-        },
-        {
             "username": "olegh34",
             "role": "Суддя",
             "telegram": "5007175515",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2677D1D2238F099DA382781105E4447C-Png/150/150/AvatarHeadshot/Png/noFilter",
             "suspended": "звільнився причина:psj"
+        },
+        {
+            "username": "ferd1358",
+            "role": "Суддя",
+            "telegram": "6124873630",
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B75E6E229AC2813A8054FF0BED9B238C-Png/150/150/AvatarHeadshot/Png/noFilter",
+            "suspended": "Звільнився причина:psj"
         }
     ],
     "Мерія": [
