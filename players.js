@@ -203,7 +203,8 @@ const players = {
             "username": "olegh34",
             "role": "Суддя",
             "telegram": "5007175515",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2677D1D2238F099DA382781105E4447C-Png/150/150/AvatarHeadshot/Png/noFilter"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-2677D1D2238F099DA382781105E4447C-Png/150/150/AvatarHeadshot/Png/noFilter",
+            "suspended": "звільнився причина:psj"
         },
         {
             "username": "Mr_Zver3000",
