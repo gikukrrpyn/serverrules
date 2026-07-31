@@ -92,7 +92,7 @@ const players = {
         },
         {
             "username": "Danfas4",
-            "role": "R1a Адміністратор-Патрульний",
+            "role": "R1c Адміністратор-Комунікатор",
             "telegram": "5456022682",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-CF6A1C9DB0505DBAAFDFA918F897C54A-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
