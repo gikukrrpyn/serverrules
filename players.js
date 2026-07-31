@@ -196,7 +196,8 @@ const players = {
             "username": "ferd1358",
             "role": "Суддя",
             "telegram": "6124873630",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B75E6E229AC2813A8054FF0BED9B238C-Png/150/150/AvatarHeadshot/Png/noFilter"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B75E6E229AC2813A8054FF0BED9B238C-Png/150/150/AvatarHeadshot/Png/noFilter",
+            "suspended": "Звільнився причина:psj"
         },
         {
             "username": "olegh34",
