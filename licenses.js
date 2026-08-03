@@ -664,7 +664,7 @@ window.licenses = {
     // X
     "Xnyalo_lol": {"role":"15 243","status":"877103","expiry":"","telegram":"5275868281"},
     "xs_misha51": {"role":"3 037","status":"815464","expiry":"","telegram":"8154232017"},
-    "XxHA7AxX": {"role":"82 115","status":"291173","expiry":"","telegram":"1731530720"},
+    "XxHA7AxX": {"role":"82115","status":"291173","expiry":"","telegram":"1731530720","username":"XxHA7AxX"},
     "XxsSashaxxjj": {"role":"31 998","status":"374713","expiry":"","telegram":"7135907655"},
 
     // Y
