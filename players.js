@@ -37,12 +37,6 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D0AF282EE478B71AE86F7B2697B2C82-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "Rjdef31",
-            "role": "R1d Адмін Безпеки Сервера",
-            "telegram": "6952642925",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-9418E9FDC4342C2971FEA3149DD8D5A1-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "XxsSashaxxjj",
             "role": "R1c Адміністратор-Комунікатор",
             "telegram": "t.me/XxsSashaxxjj",
