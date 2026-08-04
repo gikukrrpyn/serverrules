@@ -191,6 +191,7 @@ window.licenses = {
     "cyyyyyyyys": {"role":"22 457","status":"192478","expiry":"","telegram":"1926942229"},
 
     // D
+    "Danichk3": {"username":"Danichk3","role":"618","status":"5703616119","telegram":"1635396145"},
     "DanieliGro": {"role":"29 359","status":"542893","expiry":"","telegram":"5422861091"},
     "danik_pro221": {"role":"34 885","status":"201701","expiry":"","telegram":"7012057243"},
     "Dankert_57": {"role":"13 880","status":"769894","expiry":"","telegram":"7694189576"},
