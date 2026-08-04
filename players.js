@@ -278,7 +278,7 @@ const players = {
     "НПС": [
         {
             "username": "levopravo2024",
-            "role": "Начальник НПС",
+            "role": "Гундон",
             "telegram": "t.me/Alexandriulik",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1290420954AF9DDF74699118861FCD63-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
