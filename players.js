@@ -278,7 +278,7 @@ const players = {
     "НПС": [
         {
             "username": "levopravo2024",
-            "role": "Гундон",
+            "role": "Начальник НПС",
             "telegram": "t.me/Alexandriulik",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-1290420954AF9DDF74699118861FCD63-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
@@ -295,12 +295,8 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86EC8AD5E099209C81C822DA9B8DCFFD-Png/150/150/AvatarHeadshot/Png/noFilter"
         }
     ],
-    "МВС": [
-        
-    ],
-    "Прокуратура": [
-        
-    ],
+    "МВС": [],
+    "Прокуратура": [],
     "Інше": [
         {
             "username": "Itz_raose",
