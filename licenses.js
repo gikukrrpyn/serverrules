@@ -1188,6 +1188,9 @@ window.licenses = {
     // W
     "w1west": {"status":"A8989","telegram":"7562574264"},
 
+    // X
+    "Xxha7axx": {"username":"Xxha7axx","status":"6769","telegram":"@xp1vo"},
+
     // Z
     "Zoomsos123": {"status":"A5353","telegram":"5339606531"},
   },
