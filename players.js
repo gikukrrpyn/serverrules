@@ -37,12 +37,6 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4D0AF282EE478B71AE86F7B2697B2C82-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "XxsSashaxxjj",
-            "role": "R1c Адміністратор-Комунікатор",
-            "telegram": "t.me/XxsSashaxxjj",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-94FB4C1749F2241DECA41D2DE12AB95C-Png/150/150/AvatarHeadshot/Webp/noFilter"
-        },
-        {
             "username": "agency_roblox4",
             "role": "R1c Адміністратор-Комунікатор",
             "telegram": "t.me/D_201_k",
