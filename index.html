@@ -33,7 +33,7 @@
     <title>UKRAINE RP | Emergency Hamburg</title>
     <meta name="description"
         content="UKRAINE RP — топовий український RP-сервер в Emergency Hamburg у форматі Casual RP з теплою атмосфера, активною спільнотою, доброзичливою адміністрацією та регулярними івентами.">
-    <link rel="stylesheet" href="styles.css?v=2" id="main-stylesheet">
+    <link rel="stylesheet" href="styles.css?v=6" id="main-stylesheet">
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0&icon_names=keyboard_double_arrow_right" />
     <script src="https://www.gstatic.com/firebasejs/9.22.2/firebase-app-compat.js"></script>
@@ -1922,8 +1922,23 @@
                 <h1 class="faq-title"> ПЕРЕВІРКА ГРАВЦІВ </h1>
                 <div class="pv-container">
                     <p>Перевірте гравця</p>
-                    <div id="pv-select-wrapper" class="pv-select-wrapper"><select id="licenseType" class="pv-select"
-                            onchange="handleSelectChange(this)">
+                    <div id="pv-select-wrapper" class="pv-select-wrapper">
+                        <div class="custom-pv-select" id="customLicenseSelect">
+                            <div class="custom-pv-select-trigger" onclick="togglePvSelect()">
+                                <span id="customPvSelectSelected">Оберіть категорію для перевірки</span>
+                                <span class="custom-pv-select-arrow" id="customPvSelectArrow">▼</span>
+                            </div>
+                            <div class="custom-pv-select-options" id="customPvSelectOptions">
+                                <div class="custom-pv-select-option" onclick="selectPvOption('weapon', 'Ліцензія на зброю')">Ліцензія на зброю</div>
+                                <div class="custom-pv-select-option" onclick="selectPvOption('taxi', 'Ліцензія таксиста')">Ліцензія таксиста</div>
+                                <div class="custom-pv-select-option" onclick="selectPvOption('advocat', 'Ліцензія адвоката')">Ліцензія адвоката</div>
+                                <div class="custom-pv-select-option" onclick="selectPvOption('police', 'Звання поліцейського')">Звання поліцейського</div>
+                                <div class="custom-pv-select-option" onclick="selectPvOption('sbs', 'Звання працівника СБС')">Звання працівника СБС</div>
+                                <div class="custom-pv-select-option" onclick="selectPvOption('dbr', 'Звання працівника ДБР')">Звання працівника ДБР</div>
+                                <div class="custom-pv-select-option" onclick="selectPvOption('mafia', 'Легалізоване ОЗУ')">Легалізоване ОЗУ</div>
+                            </div>
+                        </div>
+                        <select id="licenseType" class="pv-select" onchange="handleSelectChange(this)" style="display: none;">
                             <option value="" disabled selected>Оберіть категорію для перевірки</option>
                             <option value="weapon">Ліцензія на зброю</option>
                             <option value="taxi">Ліцензія таксиста</option>
@@ -1932,7 +1947,8 @@
                             <option value="sbs">Звання працівника СБС</option>
                             <option value="dbr">Звання працівника ДБР</option>
                             <option value="mafia">Легалізоване ОЗУ</option>
-                        </select></div>
+                        </select>
+                    </div>
                     <div class="pv-input-container"><input type="text" id="username" class="pv-input"
                             placeholder="Введіть username"><button class="pv-button" onclick="checkLicense()"><i
                                 class="fas fa-search"></i></button></div>
