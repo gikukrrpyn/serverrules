@@ -43,16 +43,16 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-C5C4F14496A7F94A12B8D9A1F0F24718-Png/150/150/AvatarHeadshot/Webp/noFilter"
         },
         {
-            "username": "eeeeyegeggegehux",
-            "role": "R1c Адміністратор-Комунікатор",
-            "telegram": "5599228299",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86422F21357F24D529A8BF311E7C5C43-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "aferiouhghn2025",
             "role": "R1c Адміністратор-Комунікатор",
             "telegram": "5375487073",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2B00BD9F45C8E4FB5D999C3538BBA3A-Png/150/150/AvatarHeadshot/Png/noFilter"
+        },
+        {
+            "username": "eeeeyegeggegehux",
+            "role": "R1c Адміністратор-Комунікатор",
+            "telegram": "5599228299",
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86422F21357F24D529A8BF311E7C5C43-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "maksumkasymk789",
