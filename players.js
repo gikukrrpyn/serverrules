@@ -295,7 +295,14 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-86EC8AD5E099209C81C822DA9B8DCFFD-Png/150/150/AvatarHeadshot/Png/noFilter"
         }
     ],
-    "МВС": [],
+    "МВС": [
+        {
+            "username": "3cy_77781046",
+            "role": "Міністр МВС",
+            "telegram": "t.me/ISKODAI",
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-029BB1844A91E13AFFEB1875682EE9C7-Png/150/150/AvatarHeadshot/Png/noFilter"
+        }
+    ],
     "Прокуратура": [],
     "Інше": [
         {
