@@ -189,12 +189,6 @@ const players = {
     ],
     "Мерія": [
         {
-            "username": "ZoomSos123",
-            "role": "Мер",
-            "telegram": "t.me/kitsuxen",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-5CD467A78208C95DC904F3F5209EE15C-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "777ivan07",
             "role": "Заступник Мера",
             "telegram": "t.me/leleleka_best",
