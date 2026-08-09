@@ -533,7 +533,7 @@ window.licenses = {
     "pryora87": {"role":"5 920","status":"695794","expiry":"","telegram":"6592999735"},
     "Psap_1": {"role":"6 268","status":"847505","expiry":"","telegram":"8475123404"},
     "Pushka2030": {"role":"17 173","status":"319554","expiry":"","telegram":"5549609551"},
-    "pycT_KUst": {"role":"14040","status":"97599","expiry":"","telegram":"5998010840"},
+    "pycT_KUst": {"role":"16000","status":"97599","telegram":"5998010840","username":"pycT_KUst"},
     "pypsik_2309812": {"role":"14 951","status":"642500","expiry":"","telegram":"6429626395"},
 
     // R
