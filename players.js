@@ -96,7 +96,7 @@ const players = {
             "username": "artemMelnichenko2013",
             "role": "Директор СБС",
             "telegram": "@hosters_full",
-            "avatar": "https://i.postimg.cc/SNvjychZ/Screenshot-2026-08-09-10-51-58-550-com-roblox-client-edit.jpg"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-13E4605FBEE2ECEF3B789D4CCEDF19A9-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "DariySmertnk",
