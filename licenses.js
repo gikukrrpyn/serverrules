@@ -702,6 +702,7 @@ window.licenses = {
     "Zaj_Zuga3": {"role":"10 854","status":"105602","expiry":"","telegram":"6025730893"},
     "Zaj_Zugan": {"role":"30 015","status":"605494","expiry":"","telegram":"6025730893"},
     "Zasranec228": {"role":"9 840","status":"607837","expiry":"","telegram":"6075527761"},
+    "zebin001": {"username":"zebin001","role":"10572","status":"8045908782","telegram":"8051848288"},
     "zer14685": {"role":"8 700","status":"607719","expiry":"","telegram":"6078536424"},
     "Zeta_Wezun4ik": {"role":"10 002","status":"834447","expiry":"","telegram":"8348658987"},
     "ZeVs056786": {"role":"4 395","status":"357599","expiry":"","telegram":"6674449899"},
