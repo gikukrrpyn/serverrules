@@ -549,7 +549,7 @@ window.licenses = {
     "roma9080705": {"role":"9 996","status":"520816","expiry":"","telegram":"8163191765"},
     "Romantik4212": {"role":"10 130","status":"370533","expiry":"","telegram":"5337736784"},
     "RONALDO_264770": {"role":"206","status":"100865","expiry":"","telegram":"8650143169"},
-    "rostik_IELF": {"role":"71159","status":"412618","telegram":"6181136097","username":"rostik_IELF"},
+    "rostik_IELF": {"role":"Генерал","status":"412618","telegram":"6181136097","username":"rostik_IELF"},
     "rostik9897": {"role":"18 613","status":"449726","expiry":"","telegram":"7264304153"},
     "ROSTIKTHS": {"role":"8 005","status":"515269","expiry":"","telegram":"5151514815"},
     "roxbennis0": {"role":"400","status":"105800","expiry":"","telegram":"8004476980"},
