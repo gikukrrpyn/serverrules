@@ -353,7 +353,7 @@ window.licenses = {
     "KBAC490174": {"role":"6 532","status":"57327","expiry":"","telegram":"5735710517"},
     "Kedvirm": {"role":"46 524","status":"402781","expiry":"","telegram":"7811987070"},
     "Kiborg_458": {"role":"10 026","status":"550190","expiry":"","telegram":"5505076322"},
-    "KILLER_00803": {"role":"1","status":"769772","expiry":"«»","telegram":"7693053757"},
+    "KILLER_00803": {"role":"9125","status":"769772","expiry":"«»","telegram":"7693053757","username":"KILLER_00803"},
     "kingfogfok": {"role":"19 137","status":"845500","expiry":"","telegram":"842515350"},
     "Kiril_30083008": {"role":"Комісар","status":"602883","expiry":"","telegram":"6026275163"},
     "kiril_78095": {"role":"1","status":"554884","expiry":"«»","telegram":"5543933561"},
