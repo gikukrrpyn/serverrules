@@ -111,7 +111,7 @@ window.licenses = {
     "Andrii13582": {"role":"23 871","status":"518192","expiry":"","telegram":"1920197902"},
     "Andrijus08": {"role":"0","status":"900185","expiry":"","telegram":"1858142922"},
     "Andriys77": {"role":"7 505","status":"7347310","expiry":"","telegram":"7343356100"},
-    "Andrushka_pupsik": {"role":"20 755","status":"526103","expiry":"","telegram":"5262299554"},
+    "Andrushka_pupsik": {"role":"38 456","status":"526103","telegram":"5262299554","username":"Andrushka_pupsik"},
     "andryha_2228": {"role":"105","status":"891617","expiry":"","telegram":"6170542212"},
     "AnreyPro_Hakk": {"role":"5 185","status":"511197","expiry":"","telegram":"5119306695"},
     "anton455ik": {"role":"4800","status":"101629","expiry":"","telegram":"6295420660"},
