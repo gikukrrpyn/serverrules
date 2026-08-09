@@ -147,7 +147,7 @@ window.licenses = {
     "Batirhan_lol": {"role":"12169","status":"993795","expiry":"","telegram":"7952558937"},
     "BEBRA207F2": {"role":"8 013","status":"51687","expiry":"","telegram":"5168967051"},
     "BEBROCHKA_2287667": {"role":"26 221","status":"577605","expiry":"","telegram":"6058122903"},
-    "belka00718": {"role":"8647","status":"100739","expiry":"","telegram":"7393588104"},
+    "belka00718": {"role":"14233","status":"100739","telegram":"7393588104","username":"belka00718"},
     "best333_EHya": {"role":"3 302","status":"786871","expiry":"","telegram":"7868910369"},
     "BETA_ALPHA999": {"role":"27 512","status":"813616","expiry":"","telegram":"6160003630"},
     "bigblekpensil333": {"role":"1 465","status":"120511","expiry":"","telegram":"1208607959"},
