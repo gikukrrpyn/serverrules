@@ -173,7 +173,7 @@ window.licenses = {
     "Capybara228772": {"role":"1 531","status":"681423","expiry":"","telegram":"6816425103"},
     "Carlson9990": {"role":"10 273","status":"625586","expiry":"","telegram":"6257652257"},
     "Caston08963": {"role":"6 760","status":"477755","expiry":"","telegram":"7557434574"},
-    "CAXAPOK_QUWI": {"role":"Комісар","status":"117762","expiry":"","telegram":"1172225259"},
+    "CAXAPOK_QUWI": {"role":"Комісар","status":"52193","telegram":"1172225259","username":"CAXAPOK_QUWI"},
     "ccnfcsr35": {"role":"1 219","status":"780359","expiry":"","telegram":"7800158439"},
     "charunya0charunya": {"role":"32 672","status":"742758","expiry":"","telegram":"7427869776"},
     "cheater777_Yt": {"role":"16 557","status":"150569","expiry":"","telegram":"5696745193"},
