@@ -242,7 +242,7 @@ window.licenses = {
 
     // E
     "eduarddolinskij": {"role":"3 234","status":"331692","expiry":"","telegram":"6922753773"},
-    "eeeeyegeggegehux": {"role":"ветеран","status":"129784","telegram":"5599228299","username":"eeeeyegeggegehux"},
+    "eeeeyegeggegehux": {"role":"Генерал","status":"129784","telegram":"5599228299","username":"eeeeyegeggegehux"},
     "EGOROK18": {"role":"38 644","status":"580747","expiry":"","telegram":"7470153375"},
     "egorok18": {"role":"ветеран","status":"846580","expiry":"","telegram":"5807324082"},
     "Egorus_Amogus": {"role":"1 739","status":"825985","expiry":"","telegram":"8259507754"},
