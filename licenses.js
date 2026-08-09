@@ -102,6 +102,7 @@ window.licenses = {
     "Airbreks2": {"role":"10 004","status":"163762","expiry":"","telegram":"1630158774"},
     "Aleksandro_W219": {"role":"36 735","status":"872882","expiry":"","telegram":"8721156239"},
     "ALEX_77792578": {"role":"5 950","status":"531859","expiry":"","telegram":"5136846132"},
+    "AloshaWolf_1": {"username":"AloshaWolf_1","role":"11111","status":"8549443918","telegram":"2013358277"},
     "altnik2015": {"role":"16970","status":"187800","expiry":"","telegram":"8000467290"},
     "andrew_urtest": {"role":"20 553","status":"526108","expiry":"","telegram":"5262299554"},
     "Andrey_78988": {"role":"6 040","status":"451592","expiry":"","telegram":"5928580906"},
