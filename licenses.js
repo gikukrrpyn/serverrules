@@ -266,6 +266,7 @@ window.licenses = {
     "firsunin2013": {"role":"60 646","status":"407511","expiry":"","telegram":"5119828268"},
     "Fnnfgnjgf": {"role":"353","status":"438438","expiry":"","telegram":"5059070361"},
     "foksy070": {"role":"19000","status":"257860","expiry":"","telegram":"8601736027"},
+    "foroksy": {"username":"foroksy","role":"1540","status":"1663396704","telegram":"5909346932"},
     "fqg123as10": {"role":"4 402","status":"418800","expiry":"","telegram":"8001789633"},
     "FunnyArtem_2012": {"role":"18 266","status":"522728","expiry":"","telegram":"5228238256"},
     "Fyh_634": {"role":"7 019","status":"775866","expiry":"","telegram":"7751665474"},
