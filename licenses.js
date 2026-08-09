@@ -187,7 +187,7 @@ window.licenses = {
     "cnfcsr35": {"role":"8 622","status":"780359","expiry":"","telegram":"7800158439"},
     "Colden_720": {"role":"35 769","status":"515371","expiry":"","telegram":"5158076915"},
     "constelations152": {"role":"32 097","status":"746600","expiry":"","telegram":"7460379767"},
-    "copyZasanec2": {"role":"26 058","status":"607101","expiry":"","telegram":"6075527761"},
+    "copyZasanec2": {"role":"40152","status":"607101","telegram":"6075527761","username":"copyZasanec2"},
     "cyyyyyyyys": {"role":"22 457","status":"192478","expiry":"","telegram":"1926942229"},
 
     // D
