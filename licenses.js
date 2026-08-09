@@ -432,6 +432,7 @@ window.licenses = {
     "Matviy105012": {"role":"6 821","status":"615463","expiry":"","telegram":"6153820089"},
     "max123457934": {"role":"29 887","status":"784732","expiry":"","telegram":"7329674344"},
     "Max520015": {"role":"16 995","status":"754598","expiry":"","telegram":"5983478576"},
+    "MAXIM4IK132098": {"username":"MAXIM4IK132098","role":"26844","status":"1467892218","telegram":"6053516349"},
     "Maxym5615": {"role":"12800","status":"738591","expiry":"","telegram":"5912378155"},
     "Mbfppe": {"role":"1 849","status":"402203","expiry":"","telegram":"2032234018"},
     "Mcmat111": {"role":"49 000","status":"124998","expiry":"","telegram":"1245474970"},
