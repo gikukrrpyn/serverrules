@@ -375,7 +375,7 @@ window.licenses = {
     "kotukigr": {"role":"1 336","status":"743568","expiry":"","telegram":"7430265213"},
     "Krill358": {"role":"6 015","status":"724482","expiry":"","telegram":"7249275121"},
     "Krutoi_chel1331": {"role":"3 462","status":"856150","expiry":"","telegram":"1509244286"},
-    "KRYTI_BREINROTU1": {"role":"1","status":"519977","expiry":"«»","telegram":"5190014030"},
+    "KRYTI_BREINROTU1": {"role":"8627","status":"519977","telegram":"5190014030","username":"KRYTI_BREINROTU1"},
     "Ksjhfte": {"role":"51 456","status":"772571","expiry":"","telegram":"7729164856"},
     "kvak612": {"role":"26 169","status":"512558","expiry":"","telegram":"5589767694"},
     "kyrilozavr290": {"role":"2 069","status":"187269","expiry":"","telegram":"1875769733"},
