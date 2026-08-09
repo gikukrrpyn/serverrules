@@ -209,7 +209,7 @@ window.licenses = {
     "deesv5": {"role":"11 219","status":"531732","expiry":"","telegram":"7320756543"},
     "definitely_9643": {"role":"16 006","status":"468595","expiry":"","telegram":"5957350635"},
     "DeMisonBrs": {"role":"10 009","status":"853610","expiry":"","telegram":"8538361164"},
-    "Demyan_Shcolar1": {"role":"1","status":"822466","expiry":"«»","telegram":"8228473697"},
+    "Demyan_Shcolar1": {"role":"11215","status":"822466","expiry":"«»","telegram":"8228473697","username":"Demyan_Shcolar1"},
     "den2000den2000": {"role":"26 202","status":"505266","expiry":"","telegram":"5057460149"},
     "Den45bgg": {"role":"46 101","status":"251172","expiry":"","telegram":"1720975513"},
     "Den4ik57_Bro": {"role":"3 022","status":"589229","expiry":"","telegram":"5894843888"},
