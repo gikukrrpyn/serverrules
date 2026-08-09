@@ -508,7 +508,6 @@ window.licenses = {
     "panba1868": {"role":"3040","status":"725924","expiry":"","telegram":"7255510561"},
     "Panko_v13": {"username":"Panko_v13","role":"Молодший патрульний","status":"102836","telegram":"8369674068"},
     "partizan_oboo": {"role":"153","status":"776712","expiry":"","telegram":"7120569425"},
-    "partizanen228": {"role":"3 926","status":"566779","expiry":"","telegram":"5667577829"},
     "Partizanen228": {"role":"5400","status":"779566","expiry":"","telegram":"566757782"},
     "Pashaa501": {"role":"263 123","status":"573285","expiry":"","telegram":"5990169717"},
     "PATRIOT_UA": {"role":"10200","status":"837484","expiry":"","telegram":"8371649979"},
