@@ -541,6 +541,7 @@ window.licenses = {
     "RAR1234969": {"role":"221","status":"201885","expiry":"","telegram":"2012068724"},
     "rdotyhbh": {"role":"7 856","status":"742307","expiry":"","telegram":"7422972652"},
     "resam_06": {"role":"ветеран","status":"571504","expiry":"","telegram":"5045584872"},
+    "ret3319": {"username":"ret3319","role":"130659","status":"5556388049","telegram":"6388448224"},
     "Rjdef31": {"role":"31 835","status":"921695","expiry":"","telegram":"6952642925"},
     "Robert_polsan228": {"role":"Комісар","status":"769192","expiry":"","telegram":"1921850684"},
     "ROBLOX_586m": {"role":"19 976","status":"561501","expiry":"","telegram":"5611639400"},
