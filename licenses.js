@@ -456,7 +456,7 @@ window.licenses = {
     "Monster2024210": {"role":"1 557","status":"531716","expiry":"","telegram":"5317856352"},
     "Moogleb288": {"role":"500","status":"714487","expiry":"","telegram":"7146128412"},
     "Morkva799": {"role":"1 147","status":"774766","expiry":"","telegram":"7743957108"},
-    "Mr_Zver3000": {"role":"35 817","status":"609662","expiry":"","telegram":"6626655148"},
+    "Mr_Zver3000": {"role":"55680","status":"609662","telegram":"6626655148","username":"Mr_Zver3000"},
     "MrBeast324802": {"role":"7 748","status":"847820","expiry":"","telegram":"8473769652"},
     "mthin": {"role":"10 481","status":"561501","expiry":"","telegram":"5611639400"},
     "mummu228kuku": {"role":"64 263","status":"626474","expiry":"","telegram":"6265410932"},
