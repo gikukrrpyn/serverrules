@@ -163,7 +163,7 @@ window.licenses = {
     "bogdanboyarskiy": {"role":"5 960","status":"548319","expiry":"","telegram":"5487233678"},
     "bogtan_vovan": {"role":"14100","status":"757822","expiry":"","telegram":"8221027538"},
     "bogtan_vovanq": {"role":"12 825","status":"757822","expiry":"","telegram":"8221027538"},
-    "Bohdan1031": {"role":"7 068","status":"806579","expiry":"","telegram":"5795035694"},
+    "Bohdan1031": {"role":"15749","status":"806579","telegram":"5795035694","username":"Bohdan1031"},
     "Borzyy52": {"role":"5 245","status":"595773","expiry":"","telegram":"5959521891"},
     "bream_454647848": {"role":"29 000","status":"553555","expiry":"","telegram":"5530147387"},
     "Bumblebee_20802": {"role":"735","status":"153862","expiry":"","telegram":"1536069947"},
