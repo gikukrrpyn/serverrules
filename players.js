@@ -99,16 +99,16 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-068CF7C938D41406777ACC560CE7312B-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "CAXAPOK_5685rb",
-            "role": "Працівник СБС",
-            "telegram": "t.me/K0VBACA",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3BAAD0ABB9EEC44F687005EF331EA087-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "artemMelnichenko2013",
             "role": "Директор СБС",
             "telegram": "@hosters_full",
             "avatar": "https://i.postimg.cc/SNvjychZ/Screenshot-2026-08-09-10-51-58-550-com-roblox-client-edit.jpg"
+        },
+        {
+            "username": "CAXAPOK_5685rb",
+            "role": "Працівник СБС",
+            "telegram": "t.me/K0VBACA",
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3BAAD0ABB9EEC44F687005EF331EA087-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "Bohdan1031",
