@@ -334,7 +334,7 @@ window.licenses = {
     "jdjdudhshshdb": {"role":"143 553","status":"630257","expiry":"","telegram":"6306896242"},
     "jehfirgrivbrhtklf": {"role":"19500","status":"595327","expiry":"","telegram":"5959832681"},
     "jeka34567899": {"role":"88 471","status":"811456","expiry":"","telegram":"8114402013"},
-    "Jesusismyhepherdlov": {"role":"1040","status":"866588","expiry":"","telegram":"5887162462"},
+    "Jesusismyhepherdlov": {"role":"17000","status":"866588","telegram":"5887162462","username":"Jesusismyhepherdlov"},
     "jfhhddjh": {"role":"30 010","status":"699244","expiry":"","telegram":"6997233193"},
     "jgdfgjfgnd": {"role":"9 853","status":"310763","expiry":"","telegram":"7630293394"},
     "jrlm_987": {"role":"15 556","status":"384680","expiry":"","telegram":"6800141946"},
