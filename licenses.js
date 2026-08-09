@@ -471,7 +471,7 @@ window.licenses = {
     "Nazar_kooo": {"role":"13 238","status":"541485","expiry":"","telegram":"5410651455"},
     "NAZAR_UKRAINE2022": {"role":"34 228","status":"715515","expiry":"","telegram":"515160116052"},
     "nazarpgh": {"role":"7 614","status":"142156","expiry":"","telegram":"5151514815"},
-    "Nazarxc45666w": {"role":"6 720","status":"399582","expiry":"","telegram":"5827135718"},
+    "Nazarxc45666w": {"role":"10015","status":"399582","telegram":"5827135718","username":"Nazarxc45666w"},
     "nemew1234567809qq": {"role":"1 100","status":"643461","expiry":"","telegram":"6432298821"},
     "Nestor112363": {"role":"1 260","status":"671441","expiry":"","telegram":"6714098603"},
     "NexTopPlay": {"role":"900","status":"615639","expiry":"","telegram":"6398641024"},
