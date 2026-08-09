@@ -358,7 +358,7 @@ window.licenses = {
     "kiril_78095": {"role":"1","status":"554884","expiry":"«»","telegram":"5543933561"},
     "kiril_krisov1": {"role":"21 802","status":"753485","expiry":"","telegram":"7531872975"},
     "Kirilkleo123422": {"role":"22 017","status":"833737","expiry":"","telegram":"7378236816"},
-    "kirilkleo123425": {"role":"23400","status":"737832","expiry":"","telegram":"7378236816"},
+    "kirilkleo123425": {"role":"35354","status":"737832","telegram":"7378236816","username":"kirilkleo123425"},
     "Kirill283823": {"role":"6 823","status":"859622","expiry":"","telegram":"8599037362"},
     "Kirya_Gambit": {"role":"26 404","status":"759561","expiry":"","telegram":"5611774157"},
     "kirya277": {"role":"30 073","status":"148508","expiry":"","telegram":"1482508992"},
