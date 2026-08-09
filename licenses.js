@@ -665,6 +665,7 @@ window.licenses = {
     "weazyzxcc": {"role":"86 449","status":"514160","expiry":"","telegram":"1600480438"},
     "wer_ttypet1": {"role":"606","status":"601831","expiry":"","telegram":"6015646511"},
     "WERXX235": {"role":"86 449","status":"514160","expiry":"","telegram":"1600480438"},
+    "wikyar": {"username":"wikyar","role":"21778","status":"4039994191","telegram":"5596407388"},
 
     // X
     "Xnyalo_lol": {"role":"15 243","status":"877103","expiry":"","telegram":"5275868281"},
