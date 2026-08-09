@@ -615,7 +615,7 @@ window.licenses = {
     "Tezil0": {"role":"23 457","status":"538615","expiry":"","telegram":"6156909455"},
     "Tiktak78_098": {"role":"27 588","status":"748428","expiry":"","telegram":"7484472943"},
     "Tima213400": {"role":"748","status":"470558","expiry":"","telegram":"5587637443"},
-    "Timsesis2332Pro": {"role":"10 224","status":"6754303","expiry":"","telegram":"6748362980"},
+    "Timsesis2332Pro": {"role":"16093","status":"6754303","telegram":"6748362980","username":"Timsesis2332Pro"},
     "timur_gladovsky": {"role":"1","status":"141105","expiry":"«»","telegram":"1419518440"},
     "Tomy_Sun": {"role":"1 600","status":"340127","expiry":"","telegram":"1273437595"},
     "top45328": {"role":"22 463","status":"272508","expiry":"","telegram":"1731530720"},
