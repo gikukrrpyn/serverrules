@@ -640,6 +640,7 @@ window.licenses = {
 
     // V
     "VAFELKA22885": {"role":"77 099","status":"757760","expiry":"","telegram":"7576103605"},
+    "Val1n0tm": {"username":"Val1n0tm","role":"56093","status":"8372454795","telegram":"7051722143"},
     "Valeragggggggggg": {"role":"124 075","status":"951673","expiry":"","telegram":"6733090877"},
     "valik_704": {"role":"1 182","status":"746497","expiry":"","telegram":"7467903045"},
     "Valintin530": {"role":"43 818","status":"540243","expiry":"","telegram":"5409858031"},
