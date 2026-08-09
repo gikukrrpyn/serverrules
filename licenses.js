@@ -562,6 +562,7 @@ window.licenses = {
     "samunzhiev": {"role":"капітан","status":"188386","expiry":"ДКОРД","telegram":"3864603231"},
     "sania100291": {"role":"28 695","status":"753823","expiry":"","telegram":"7530227663"},
     "SANTACLAUS000000002": {"role":"1 239","status":"756101","expiry":"","telegram":"7561784341"},
+    "sasha_me68": {"username":"sasha_me68","role":"19139","status":"5205653057","telegram":"6855616420"},
     "Sasha_roblox2314": {"role":"500","status":"362109","expiry":"","telegram":"1092794526"},
     "SashaMa00": {"role":"4 046","status":"723613","expiry":"","telegram":"7233099532"},
     "SashaPro951": {"role":"13 052","status":"110185","expiry":"","telegram":"1858142922"},
