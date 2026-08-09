@@ -286,7 +286,6 @@ window.licenses = {
     "gikusya": {"role":"Комісар","status":"315728","expiry":"","telegram":"t.me/ukreh_admin"},
     "Gladkyi200": {"role":"4 989","status":"503743","expiry":"","telegram":"743643578"},
     "glebkhleb228": {"role":"18001","status":"451531","expiry":"","telegram":"5314868323"},
-    "gmmmf1224": {"role":"30009","status":"671435","telegram":"6716417782","username":"gmmmf1224"},
     "golopa076": {"username":"golopa076","role":"62 907","status":"745854","telegram":"8549231265"},
     "gonorer45": {"role":"14 520","status":"120161","expiry":"","telegram":"1613994040"},
     "GordiyYarmolenko": {"role":"Комісар","status":"471644","expiry":"","telegram":"6446581492"},
