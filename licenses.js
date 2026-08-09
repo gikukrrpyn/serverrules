@@ -258,6 +258,7 @@ window.licenses = {
     "feederr25": {"role":"100","status":"112738","expiry":"","telegram":"7383363304"},
     "ferd1358": {"role":"Ветеран","status":"Ветеран","expiry":"","telegram":"6124873630"},
     "fereken_bulba1": {"role":"32 535","status":"668529","expiry":"","telegram":"6681760801"},
+    "fffffffffffffffnpu": {"username":"fffffffffffffffnpu","role":"15241","status":"7693053757"},
     "fgfhgghggg56": {"role":"202","status":"956201","expiry":"","telegram":"2105130356"},
     "filipp_top11": {"role":"684","status":"628775","expiry":"","telegram":"6268247897"},
     "fimozik_tworozok": {"role":"6000","status":"828770","expiry":"","telegram":"7700192997"},
