@@ -570,6 +570,7 @@ window.licenses = {
     "sawty666x": {"role":"803","status":"716918","expiry":"","telegram":"7164822097"},
     "sbdgegsxbd": {"role":"28 895","status":"181664","expiry":"","telegram":"6647686015"},
     "Scrollinc": {"role":"283","status":"562445","expiry":"","telegram":"5620264963"},
+    "Sdege0_ol": {"username":"Sdege0_ol","role":"325","status":"8578408744","telegram":"7231286198"},
     "SeIene77": {"role":"2 255","status":"875787","expiry":"","telegram":"7878807151"},
     "senchous_81818": {"role":"7 051","status":"866810","expiry":"","telegram":"8106737244"},
     "Seny5110": {"role":"21001","status":"515574","expiry":"","telegram":"5743083954"},
