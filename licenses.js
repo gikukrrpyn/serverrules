@@ -106,7 +106,7 @@ window.licenses = {
     "altnik2015": {"role":"16970","status":"187800","expiry":"","telegram":"8000467290"},
     "andrew_urtest": {"role":"20 553","status":"526108","expiry":"","telegram":"5262299554"},
     "Andrey_78988": {"role":"6 040","status":"451592","expiry":"","telegram":"5928580906"},
-    "andrey_kika": {"role":"2 243","status":"464630","expiry":"","telegram":"6308441311"},
+    "andrey_kika": {"role":"3205","status":"464630","telegram":"6308441311","username":"andrey_kika"},
     "Andrey20Andrey14": {"role":"8 290","status":"533376","expiry":"","telegram":"5441196502"},
     "Andrii13582": {"role":"26 362","status":"518192","telegram":"1920197902","username":"Andrii13582"},
     "Andrijus08": {"role":"0","status":"900185","expiry":"","telegram":"1858142922"},
