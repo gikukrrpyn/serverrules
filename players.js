@@ -93,12 +93,6 @@ const players = {
     ],
     "СБС": [
         {
-            "username": "Caston08963",
-            "role": "Директор СБС",
-            "telegram": "@Obs1dianch1k",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-F6064AD28E29593FF42B09D5C99777A4-Png/75/75/AvatarHeadshot/Png/isCircular"
-        },
-        {
             "username": "DariySmertnk",
             "role": "Заступник Директора СБС",
             "telegram": "t.me/dariysmertnk",
