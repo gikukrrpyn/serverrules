@@ -222,6 +222,7 @@ window.licenses = {
     "dima276518": {"role":"77 389","status":"810703","expiry":"","telegram":"8107753437"},
     "DINISLOX666": {"role":"34000","status":"258588","expiry":"","telegram":"5887162462"},
     "Disnxidnud499": {"role":"1 774","status":"524975","expiry":"","telegram":"5246667073"},
+    "djadja21111": {"username":"djadja21111","role":"3932","status":"1457540208","telegram":"2083614490"},
     "djdkdsbxi": {"role":"6 442","status":"862803","expiry":"","telegram":"8031988249"},
     "Dkndhfyjtn": {"role":"27 133","status":"569393","expiry":"","telegram":"15691333952"},
     "Dodosopolo": {"role":"19 809","status":"457673","expiry":"","telegram":"6733090877"},
