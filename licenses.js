@@ -678,7 +678,7 @@ window.licenses = {
     "XxsSashaxxjj": {"role":"31 998","status":"374713","expiry":"","telegram":"7135907655"},
 
     // Y
-    "Ya_amiD": {"role":"1","status":"501472","expiry":"«»","telegram":"5013338452"},
+    "Ya_amiD": {"role":"11214","status":"501472","expiry":"«»","telegram":"5013338452","username":"Ya_amiD"},
     "Yan_Salii": {"role":"3079","status":"629482","expiry":"«»","telegram":"6299209889","username":"Yan_Salii"},
     "Yar20269": {"role":"2 232","status":"877103","expiry":"","telegram":"8772440352"},
     "yar7k94": {"role":"10 999","status":"788836","expiry":"","telegram":"7888962295"},
