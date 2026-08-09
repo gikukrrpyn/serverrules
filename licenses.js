@@ -104,6 +104,7 @@ window.licenses = {
     "ALEX_77792578": {"role":"5 950","status":"531859","expiry":"","telegram":"5136846132"},
     "AloshaWolf_1": {"username":"AloshaWolf_1","role":"11111","status":"8549443918","telegram":"2013358277"},
     "altnik2015": {"role":"16970","status":"187800","expiry":"","telegram":"8000467290"},
+    "Andrej33341": {"username":"Andrej33341","role":"37795","status":"3753315924","telegram":"6673184972"},
     "andrew_urtest": {"role":"20 553","status":"526108","expiry":"","telegram":"5262299554"},
     "Andrey_78988": {"role":"6 040","status":"451592","expiry":"","telegram":"5928580906"},
     "andrey_kika": {"role":"3205","status":"464630","telegram":"6308441311","username":"andrey_kika"},
