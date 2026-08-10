@@ -1167,6 +1167,7 @@ window.licenses = {
 
     // I
     "Isus_338": {"status":"A7474","telegram":"t.me/NoScopeBaba"},
+    "Itz_raose": {"username":"Itz_raose","status":"A6969","telegram":"1431122546"},
 
     // J
     "jfhhddjh": {"status":"A4848","telegram":"6997233193"},
