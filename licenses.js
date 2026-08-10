@@ -729,9 +729,6 @@ window.licenses = {
     // J
     "jofer_hob": {"role":"СБС","status":"684420","telegram":"t.me/m1nistr_ezz"},
 
-    // M
-    "Mykhailo_Zaya1": {"role":"Сержант","status":"529158","telegram":"t.me/smishaa"},
-
     // V
     "Valintin530": {"role":"Сержант","status":"540243","telegram":"t.me/Sigmaboy556"},
   },
