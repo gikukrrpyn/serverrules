@@ -179,6 +179,11 @@ const players = {
             "role": "Суддя",
             "telegram": "@xIIIKOLHIKx",
             "avatar": ""
+        },
+        {
+            "username": "Itz_raose",
+            "role": "Суддя-Стажер",
+            "telegram": "@ob1zyan"
         }
     ],
     "Мерія": [
