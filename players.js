@@ -181,11 +181,6 @@ const players = {
             "avatar": ""
         },
         {
-            "username": "Itz_raose",
-            "role": "Суддя-Стажер",
-            "telegram": "@ob1zyan"
-        },
-        {
             "username": "heehrhrhl18",
             "role": "Суддя-Стажер",
             "telegram": "@hehr18_UR"
