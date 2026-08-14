@@ -112,7 +112,8 @@ const players = {
         },
         {
             "username": "LMxm1nistr",
-            "telegram": "6840451973"
+            "telegram": "6840451973",
+            "role": "працівник СБС"
         }
     ],
     "ДБР": [
