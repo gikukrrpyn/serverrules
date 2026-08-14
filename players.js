@@ -109,6 +109,10 @@ const players = {
             "role": "Працівник СБС",
             "telegram": "@zefirpvp",
             "avatar": "https://i.postimg.cc/6qG4hb5h/Screenshot-2026-07-30-10-20-46-270-com-roblox-client-edit.jpg"
+        },
+        {
+            "username": "LMxm1nistr",
+            "telegram": "6840451973"
         }
     ],
     "ДБР": [
