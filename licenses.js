@@ -15,6 +15,9 @@ window.licenses = {
     "DariySmertnk": {"status":"Дійсна","expiry":"30.08.2026","telegram":"7889063904","username":"DariySmertnk"},
     "DoggyGames_TV24": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Doggy_Arrrr"},
 
+    // J
+    "jofer_hob": {"username":"jofer_hob","status":"дійсна","expiry":"14.09,2026","telegram":"@m1nistr_ezz"},
+
     // M
     "Maksimka20131411": {"status":"Дійсна","expiry":"17.08.2026","telegram":"8556942531"},
     "mativiti_aaa": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Matvei_Lego0_0"},
