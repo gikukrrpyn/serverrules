@@ -117,7 +117,7 @@ const players = {
         },
         {
             "username": "eldor830",
-            "role": "працівник СБС",
+            "role": "Працівник СБС",
             "telegram": "@eldusia"
         },
         {
