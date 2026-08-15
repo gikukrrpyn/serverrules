@@ -116,14 +116,14 @@ const players = {
             "telegram": "@eldusia"
         },
         {
-            "username": "jofer_hob",
-            "telegram": "6840451973",
-            "role": "Працівник СБС"
-        },
-        {
             "username": "YTNEON_2",
             "role": "Працівник СБС",
             "telegram": "@userh1pek"
+        },
+        {
+            "username": "jofer_hob",
+            "telegram": "6840451973",
+            "role": "Працівник СБС"
         }
     ],
     "ДБР": [
