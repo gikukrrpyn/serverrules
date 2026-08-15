@@ -114,6 +114,11 @@ const players = {
             "username": "jofer_hob",
             "telegram": "6840451973",
             "role": "Працівник СБС"
+        },
+        {
+            "username": "eldor830",
+            "role": "працівник СБС",
+            "telegram": "@eldusia"
         }
     ],
     "ДБР": [
