@@ -324,8 +324,7 @@
 </head>
 
 <body>
-    <div class="parent"><img src="/img/cookie.png" alt="Печиво" class="fortune-cookie" onclick="openCookie()" width="60"
-            height="54"></div>
+
     <div class="fortune-backdrop" id="fortuneBackdrop">
         <div class="fortune-paper" id="fortunePaper">
             <p id="fortuneText"></p>
@@ -363,16 +362,21 @@
                         src="https://images.icon-icons.com/2699/PNG/512/youtube_logo_icon_168737.png" alt="YouTube"
                         class="icon"> YouTube</a></div>
         </div>
+        <img src="/img/cookie.png" alt="Печиво" class="fortune-cookie" onclick="openCookie()" width="60" height="54">
     </div>
     <section class="welcome-section">
         <div class="welcome-text">
             <h1>ВІТАЄМО В <span class="highlight">UKRAINE RP!</span></h1>
             <p> UKRAINE RP — топовий український RP-сервер в Emergency Hamburg у форматі Casual RP. <br>Тут тебе чекає
                 дружня та тепла атмосфера, доброзичлива адміністрація та регулярні івенти. <br>Стань частиною великої та
-                активної Community вже зараз! </p><a href="https://t.me/uarpeh" class="telegram-btn"
-                target="_blank"><img
+                активної Community вже зараз! </p>
+            <a href="https://t.me/uarpeh" class="telegram-btn" target="_blank"><img
                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png"
                     alt="Telegram" class="telegram-logo"> ДОЛУЧИТИСЬ В TELEGRAM </a>
+            <div class="scroll-down-hint">
+                <span>Гортай нижче</span>
+                <i class="fas fa-chevron-down"></i>
+            </div>
         </div>
         <section class="photo-of-the-week">
             <h2>EVENTS</h2>
@@ -412,6 +416,7 @@
                     class="fas fa-question-circle"></i></button><button class="tab-btn" data-tab="reviews"
                 data-tooltip="Відгуки"><i class="fas fa-star"></i></button>
             <button class="tab-btn" data-tab="map" data-tooltip="Мапа"><i class="fas fa-map-marked-alt"></i></button>
+
         </div>
         <div class="tab-content">
             <div id="rules" class="tab-panel active">
@@ -447,7 +452,7 @@
                         <div class="item-number"><small><b>5</b></small></div><b><span>Рейди</span></b>
                     </div>
                     <div data-id="rule-6" class="menu-item"
-                        onclick="openModalFromId('rule-6',` <h2 data-rule-number='6'>Non-RP поведінка</h2><p>Заборонено виконувати дії, які суперечать логіці та реалістичності рольової гри. Всі дії, що порушують принципи RP (наприклад, випадкові або безглузді вчинки, які не відповідають характеру персонажа чи ситуації), будуть вважатися нон-RP поведінкою. <p class='penalty'>Покарання - попередження, тимчасовий або постійний депорт в залежності від серйозності порушення</p><h2>RP-процес</h2><p><strong>Що таке RP?</strong></p><p> RP (Role Play) — це ситуації, коли гравці взаємодіють в рамках своїх ролей. Наприклад, поліціянт проводить перевірку документів у водія, лікар лікує пацієнта, чи водій таксі перевозить пасажира згідно правил дорожнього руху. RP-ситуації повинні бути логічними, адекватними та взаємопов’язаними між учасниками гри.</p><p style='text-align: center'><strong>Приклади нон-RP</strong></p><ul><li>Вихід з сервера під час RP-сцени.</li><li>Фальшиві виклики служб.</li><li>Перешкоджання організації івентів.</li><li>Атака на адміністрацію чи взаємодія з нею у RP-контексті (всі адміни - нон-RP персонажі).</li><li>RDM після припинення загрози (атака після того, як гравець припнив чинити опір або не становить загрози).</li><li>Втеча від поліції персонажем, який не має нічого протизаконного, але тікає просто «тому що хочеться».</li><li><strong>Нерелевантні чи неадекватні дії:</strong> Наприклад, стрілянина без причини.</li><li><strong>Вихід за межі ролі:</strong> Наприклад, лікар діє як поліціянт без RP-пояснення.</li><li><strong>Самовільні дії:</strong> не влаштовуй вибух у місті просто так; не проводь івенти без згоди.</li></ul><p style='text-align: center'><strong>Non-RP терміни:</strong></p><ul><li><strong>OOC (Out Of Character):</strong> Поведінка або висловлювання поза роллю.</li><li><strong>MG (MetaGaming):</strong> Використання позаігрової інформації у грі. Виключенням є веб-додаток СіЯ та Основний сайт серверу.</li><li><strong>PG (PowerGaming):</strong> Нереалістичні або нав’язані дії.</li><li><strong>RDM (Random Deathmatch):</strong> Безпричинне вбивство.</li><li><strong>SK (Spawn Kill):</strong> Вбивство одразу після появи в грі.</li><li><strong>NVL (No Value of Life):</strong> Ігнорування страху персонажа, нелогічна або безрозсудна поведінка.</li><li><strong>Breaking RP:</strong> Різкий вихід із ролі.</li><li><strong>Cop Baiting:</strong> Провокування поліції.</li><li><strong>RK (Revenge Kill):</strong> Помста за смерть без RP-причини.</li><li><strong>Bunnyhop (Bhop):</strong> Стрибки задля нереалістичної переваги.</li><li><strong>VDM (Vehicle Deathmatch):</strong> Вбивство транспортом без причини.</li><li><strong>Combat Logging:</strong> Вихід із гри під час бою.</li><li><strong>Trolling:</strong> Намірене провокування.</li><li><strong>Griefing:</strong> Пошкодження чи завада грі інших без RP-пояснення.</li><li><strong>AFK (Away From Keyboard):</strong> Відсутність гравця, але персонаж в грі.</li><li><strong>Non-RP Melee (NRM):</strong> Рукопашна без RP-підґрунтя.</li><li><strong>Cuff Rush:</strong> Надягання наручників без RP, без ІС підстав і без доказів, використовуючи лише механіку гри.</li><li><strong>Missclick:</strong> Випадкова дія в грі, яка сталася через те, що гравець натиснув не ту кнопку</li></ul><p style='text-align: center'><strong>Приклади RP:</strong></p><ul><li>Поліцейський зупиняє водія для перевірки документів, запитує про наявність прав і технічного паспорта, після чого виписує штраф за порушення.</li><li>Лікар надає допомогу потерпілому, оцінює його стан і приймає рішення щодо подальших дій.</li><li>Водій таксі проводить посадку пасажира, з’ясовує маршрут та слідує правилам руху.</li></ul><p style='text-align: center'><strong>RP терміни:</strong></p><ul><li><strong>IC (In Character):</strong> Все, що відбувається з точки зору персонажа у грі.</li><li><strong>CK (Character Kill):</strong> Повна смерть персонажа, після якої він не може бути відновлений.</li><li><strong>Long-term RP:</strong> Довготривала рольова історія або відносини.</li><li><strong>IC Actions:</strong> Дії в рамках рольової ситуації.</li><li><strong>IC Communication:</strong> Повідомлення, які йдуть від імені персонажа.</li><li><strong>NLR (New Life Rule):</strong> Заборонено пам’ятати події після смерті персонажа.</li><li><strong>Revive:</strong> Відновлення персонажа медиком після смерті або поранення.</li><li><strong>Fear RolePlay (Fear RP)</strong> — це реалістична реакція персонажа на небезпеку: ховатися, тікати або здаватися, щоб не робити абсурдних дій у грі.</li></ul><p><strong>Наголошуємо, що для якісного і приємного досвіду кожен гравець повинен керуватися логікою та дотримуватись ролі, у якій він перебуває, щоб уникнути порушень та забезпечити реалістичний ігровий процес.</strong></p>`)">
+                        onclick="openModalFromId('rule-6',` <h2 data-rule-number='6'>Non-RP поведінка</h2><p>Заборонено виконувати дії, які суперечать логіці та реалістичності рольової гри. Всі дії, що порушують принципи RP (наприклад, випадкові або безглузді вчинки, які не відповідають характеру персонажа чи ситуації), будуть вважатися нон-RP поведінкою. <p class='penalty'>Покарання - попередження, тимчасовий або постійний депорт в залежності від серйозності порушення</p><h2>RP-процес</h2><p><strong>Що таке RP?</strong></p><p> RP (Role Play) — це ситуації, коли гравці взаємодіють в рамках своїх ролей. Наприклад, поліціянт проводить перевірку документів у водія, лікар лікує пацієнта, чи водій таксі перевозить пасажира згідно правил дорожнього руху. RP-ситуації повинні бути логічними, адекватними та взаємопов’язаними між учасниками гри.</p><p style='text-align: center'><strong>Приклади нон-RP</strong></p><ul><li>Вихід з сервера під час RP-сцени.</li><li>Фальшиві виклики служб.</li><li>Перешкоджання організації івентів.</li><li>Атака на адміністрацію чи взаємодія з нею у RP-контексті (всі адміни - нон-RP персонажі).</li><li>RDM після припинення загрози (атака після того, як гравець припнив чинити опір або не становить загрози).</li><li>Втеча від поліції персонажем, який не має нічого протизаконного, але тікає просто «тому що хочеться».</li><li><strong>Нерелевантні чи неадекватні дії:</strong> Наприклад, стрілянина без причини.</li><li><strong>Вихід за межі ролі:</strong> Наприклад, лікар діє як поліціянт без RP-пояснення.</li></ul><p style='text-align: center'><strong>Non-RP терміни:</strong></p><ul><li><strong>OOC (Out Of Character):</strong> Поведінка або висловлювання поза роллю.</li><li><strong>MG (MetaGaming):</strong> Використання позаігрової інформації у грі. Виключенням є веб-додаток СіЯ та Основний сайт серверу.</li><li><strong>PG (PowerGaming):</strong> Нереалістичні або нав’язані дії.</li><li><strong>RDM (Random Deathmatch):</strong> Безпричинне вбивство.</li><li><strong>SK (Spawn Kill):</strong> Вбивство одразу після появи в грі.</li><li><strong>NVL (No Value of Life):</strong> Ігнорування страху персонажа, нелогічна або безрозсудна поведінка.</li><li><strong>Breaking RP:</strong> Різкий вихід із ролі.</li><li><strong>Cop Baiting:</strong> Провокування поліції.</li><li><strong>RK (Revenge Kill):</strong> Помста за смерть без RP-причини.</li><li><strong>Bunnyhop (Bhop):</strong> Стрибки задля нереалістичної переваги.</li><li><strong>VDM (Vehicle Deathmatch):</strong> Вбивство транспортом без причини.</li><li><strong>Combat Logging:</strong> Вихід із гри під час бою.</li><li><strong>Trolling:</strong> Намірене провокування.</li><li><strong>Griefing:</strong> Пошкодження чи завада грі інших без RP-пояснення.</li><li><strong>AFK (Away From Keyboard):</strong> Відсутність гравця, але персонаж в грі.</li><li><strong>Non-RP Melee (NRM):</strong> Рукопашна без RP-підґрунтя.</li><li><strong>Cuff Rush:</strong> Надягання наручників без RP, без ІС підстав і без доказів, використовуючи лише механіку гри.</li><li><strong>Missclick:</strong> Випадкова дія в грі, яка сталася через те, що гравець натиснув не ту кнопку</li></ul><p style='text-align: center'><strong>Приклади RP:</strong></p><ul><li>Поліцейський зупиняє водія для перевірки документів, запитує про наявність прав і технічного паспорта, після чого виписує штраф за порушення.</li><li>Лікар надає допомогу потерпілому, оцінює його стан і приймає рішення щодо подальших дій.</li><li>Водій таксі проводить посадку пасажира, з’ясовує маршрут та слідує правилам руху.</li></ul><p style='text-align: center'><strong>RP терміни:</strong></p><ul><li><strong>IC (In Character):</strong> Все, що відбувається з точки зору персонажа у грі.</li><li><strong>CK (Character Kill):</strong> Повна смерть персонажа, після якої він не може бути відновлений.</li><li><strong>Long-term RP:</strong> Довготривала рольова історія або відносини.</li><li><strong>IC Actions:</strong> Дії в рамках рольової ситуації.</li><li><strong>IC Communication:</strong> Повідомлення, які йдуть від імені персонажа.</li><li><strong>NLR (New Life Rule):</strong> Заборонено пам’ятати події після смерті персонажа.</li><li><strong>Revive:</strong> Відновлення персонажа медиком після смерті або поранення.</li><li><strong>Fear RolePlay (Fear RP)</strong> — це реалістична реакція персонажа на небезпеку: ховатися, тікати або здаватися, щоб не робити абсурдних дій у грі.</li></ul><p><strong>Наголошуємо, що для якісного і приємного досвіду кожен гравець повинен керуватися логікою та дотримуватись ролі, у якій він перебуває, щоб уникнути порушень та забезпечити реалістичний ігровий процес.</strong></p>`)">
                         <div class="item-number"><small><b>6</b></small></div><b><span>Non-RP поведінка</span></b>
                     </div>
                     <div data-id="rule-7" class="menu-item"
@@ -469,7 +474,7 @@
                         <div class="item-number"><small><b>10</b></small></div><b><span>Партнерські шлюби</span></b>
                     </div>
                     <div data-id="rule-11" class="menu-item"
-                        onclick="openModalFromId('rule-11',` <h2 data-rule-number='11'>Зброя <p><small class='smallp'>Для звичайних гравців</small></p></h2><h3>Стаття 1. Носіння зброї в публічних місцях</h3><p>Не можна відкрито ходити зі зброєю на виду в людних місцях — на вулиці, у парку, біля магазинів чи держустанов. Зброя має бути схована, якщо тільки не реально є загроза життю.</p><p class='ic-penalty'>Покарання — якщо наявна ліцензія: штраф 8 000€ та конфіскація ліцензії; якщо ліцензія відсутня: тюремний строк</p><hr><h3>Стаття 2. Неправомірне використання зброї</h3><p>Не можна стріляти без причини, нападати на інших без поважної РП-мотивації чи стріляти в повітря просто так. Агресія без підстав — це порушення.</p><p class='penalty'>Покарання — якщо наявна ліцензія: штраф 8 000€ та конфіскація ліцензії; якщо ліцензія відсутня: тюремний строк та можливий штраф 8 000€</p><hr><h3>Стаття 3. Нелегальна зброя</h3><p>Зброя без ліцензії — це проблема для всіх. Тримати її, ховати або використовувати не можна.</p><br><small>Ліцензію дають тільки тим, хто в відповідних ролях — ДБР, СБС, НАБС, охоронні компанії та інші.</small><br><p class='ic-penalty'>Покарання - тюремний строк</p><hr><h3>Стаття 4. Ліцензія на зброю</h3><p>З ліцензією можна захищатися або захищати інших, якщо є реальна загроза. Використовувати зброю для нападу, шантажу чи вимагання — ні в якому разі.</p><p class='penalty'>Покарання — конфіскація зброї, штраф 16 000€ або депорт до 3 діб</p><hr><h3>Стаття 5. Використання GPS-трекера громадянами</h3><p>GPS-трекери — ок, але лише для РП-цілей: захист майна, слідство чи інші логічні сценарії. Не можна стежити просто так, пресувати чи сталкерити без РП-мотиву — це нон-РП.</p><p class='ic-penalty'>Покарання — тюремний строк</p><p class='penalty'>Покарання — депорт до 3 діб</p><hr><h3>Стаття 6. Використання відмичок громадянами</h3><p>Відмички — це нормально для злочинців у грі, але лише з RP-мотивом і за наявності розшуку. Не можна знімати кайдани під час судового процесу (судові кайдани) чи без RP-мотиву — це нон-РП.</p><p class='ic-penalty'>Покарання - штраф 6250€</p><p class='penalty'>Покарання - депорт на 2 дні</p><br><div class='example-bad'><div class='content-row'>Ходжу з автоматом по місту, бо я ДБР.</div><div class='example-label'>Приклад порушення<br><span>→ Публічне носіння зброї — порушення</div></div><div class='example-good'><div class='content-row'>Витягнув лише при реальній загрозі життю.</div><div class='example-label'>Правильний приклад</div></div> `)">
+                        onclick="openModalFromId('rule-11',` <h2 data-rule-number='11'>Зброя <p><small class='smallp'>Для звичайних гравців</small></p></h2><h3>Стаття 1. Носіння зброї в публічних місцях</h3><p>Не можна відкрито ходити зі зброєю на виду в людних місцях — на вулиці, у парку, біля магазинів чи держустанов. Зброя має бути схована, якщо тільки не реально є загроза життю.</p><p class='ic-penalty'>Покарання — якщо наявна ліцензія: штраф 8 000€ та конфіскація ліцензії; якщо ліцензія відсутня: тюремний строк</p><hr><h3>Стаття 2. Неправомірне використання зброї</h3><p>Не можна стріляти без причини, нападати на інших без поважної РП-мотивації чи стріляти в повітря просто так. Агресія без підстав — це порушення.</p><p class='penalty'>Покарання — якщо наявна ліцензія: штраф 8 000€ та конфіскація ліцензії; якщо ліцензія відсутня: тюремний строк та можливий штраф 8 000€</p><hr><h3>Стаття 3. Нелегальна зброя</h3><p>Зброя без ліцензії — це проблема для всіх. Тримати її, ховати або використовувати не можна.</p><br><small>Ліцензію дають тільки тим, хто в відповідних ролях — ДБР, СБС, НАБС, охоронні компанії та інші.</small><br><p class='ic-penalty'>Покарання - тюремний строк</p><a href='https://t.me/gunlicenseUR_bot?start=start' target='_blank' style='display: inline-block; background-color: #ff9e3d;' class='button'>Отримати Ліцензію</a><hr><h3>Стаття 4. Ліцензія на зброю</h3><p>З ліцензією можна захищатися або захищати інших, якщо є реальна загроза. Використовувати зброю для нападу, шантажу чи вимагання — ні в якому разі.</p><p class='penalty'>Покарання — конфіскація зброї, штраф 16 000€ або депорт до 3 діб</p><hr><h3>Стаття 5. Використання GPS-трекера громадянами</h3><p>GPS-трекери — ок, але лише для РП-цілей: захист майна, слідство чи інші логічні сценарії. Не можна стежити просто так, пресувати чи сталкерити без РП-мотиву — це нон-РП.</p><p class='ic-penalty'>Покарання — тюремний строк</p><p class='penalty'>Покарання — депорт до 3 діб</p><hr><h3>Стаття 6. Використання відмичок громадянами</h3><p>Відмички — це нормально для злочинців у грі, але лише з RP-мотивом і за наявності розшуку. Не можна знімати кайдани під час судового процесу (судові кайдани) чи без RP-мотиву — це нон-РП.</p><p class='ic-penalty'>Покарання - штраф 6250€</p><p class='penalty'>Покарання - депорт на 2 дні</p><br><div class='example-bad'><div class='content-row'>Ходжу з автоматом по місту, бо я ДБР.</div><div class='example-label'>Приклад порушення<br><span>→ Публічне носіння зброї — порушення</div></div><div class='example-good'><div class='content-row'>Витягнув лише при реальній загрозі життю.</div><div class='example-label'>Правильний приклад</div></div> `)">
                         <div class="item-number"><small><b>11</b></small></div><b><span>Зброя<br><small>Для звичайних
                                     гравців</small></span></b>
                     </div>
@@ -2082,91 +2087,15 @@
                         <h1 class="faq-title">МАПА </h1>
                     </div>
                 </div>
-                <div class="map-mobile-wrapper">
+                <div class="map-mobile-wrapper"
+                    style="position: relative; overflow: hidden; touch-action: none; border-radius: 14px;">
+                    <div class="map-zoom-controls">
+                        <button id="zoomInBtn" title="Збільшити"><i class="fas fa-plus"></i></button>
+                        <button id="zoomOutBtn" title="Зменшити"><i class="fas fa-minus"></i></button>
+                        <button id="zoomResetBtn" title="Скинути"><i class="fas fa-expand"></i></button>
+                    </div>
                     <div class="map-container">
-                        <div class="map-scroll-wrapper">
                             <img src="/img/map.png" alt="Мапа Emergency Hamburg" class="eh-map-img">
-                        </div>
-                        <div class="map-marker" style="top: 51%; left: 82%;">
-                            <i class="fas fa-gavel"></i>
-                            <div class="marker-tooltip tooltip-left">В'язниця</div>
-                        </div>
-                        <div class="map-marker" style="top: 61%; left: 15%;">
-                            <i class="fas fa-tractor"></i>
-                            <div class="marker-tooltip">Фермерський магазин</div>
-                        </div>
-                        <div class="map-marker" style="top: 60%; left: 58%;">
-                            <i class="fas fa-gas-pump"></i>
-                            <div class="marker-tooltip">Заправка Ares</div>
-                        </div>
-                        <div class="map-marker" style="top: 35%; left: 23%;">
-                            <i class="fas fa-gas-pump"></i>
-                            <div class="marker-tooltip">Заправка Osso</div>
-                        </div>
-                        <div class="map-marker" style="top: 80%; left: 96%;">
-                            <i class="fas fa-gas-pump"></i>
-                            <div class="marker-tooltip tooltip-left">Заправка Gas n' Go</div>
-                        </div>
-                        <div class="map-marker" style="top: 55%; left: 45%;">
-                            <i class="fas fa-tools"></i>
-                            <div class="marker-tooltip">Магазин інструментів</div>
-                        </div>
-                        <div class="map-marker" style="top: 15%; left: 57%;">
-                            <i class="fas fa-truck"></i>
-                            <div class="marker-tooltip">Далекобійники</div>
-                        </div>
-                        <div class="map-marker" style="top: 24%; left: 61.5%;">
-                            <i class="fas fa-ship"></i>
-                            <div class="marker-tooltip">Порт</div>
-                        </div>
-                        <div class="map-marker" style="top: 75%; left: 49%;">
-                            <i class="fas fa-car"></i>
-                            <div class="marker-tooltip">Автосалон</div>
-                        </div>
-                        <div class="map-marker" style="top: 84%; left: 14%;">
-                            <i class="fas fa-bus"></i>
-                            <div class="marker-tooltip">Автобусний парк</div>
-                        </div>
-                        <div class="map-marker" style="top: 76%; left: 36%;">
-                            <i class="fas fa-wrench"></i>
-                            <div class="marker-tooltip">Тюнінг-ательє</div>
-                        </div>
-                        <div class="map-marker" style="top: 68%; left: 85%;">
-                            <i class="fas fa-university"></i>
-                            <div class="marker-tooltip tooltip-left">Банк</div>
-                        </div>
-                        <div class="map-marker" style="top: 48%; left: 92%;">
-                            <i class="fas fa-gem"></i>
-                            <div class="marker-tooltip tooltip-left">Ювелірний магазин</div>
-                        </div>
-                        <div class="map-marker" style="top: 86%; left: 80%;">
-                            <i class="fas fa-shield-alt"></i>
-                            <div class="marker-tooltip tooltip-left">Поліцейський відділок</div>
-                        </div>
-                        <div class="map-marker" style="top: 77%; left: 87%;">
-                            <i class="fas fa-parking"></i>
-                            <div class="marker-tooltip tooltip-left">Паркінг</div>
-                        </div>
-                        <div class="map-marker" style="top: 85%; left: 84%;">
-                            <i class="fas fa-glass-martini"></i>
-                            <div class="marker-tooltip tooltip-left">Erwin's Club</div>
-                        </div>
-                        <div class="map-marker" style="top: 60%; left: 95%;">
-                            <i class="fas fa-fire-extinguisher"></i>
-                            <div class="marker-tooltip tooltip-left">Пожежна частина</div>
-                        </div>
-                        <div class="map-marker" style="top: 38%; left: 52.5%;">
-                            <i class="fas fa-hospital"></i>
-                            <div class="marker-tooltip">Лікарня</div>
-                        </div>
-                        <div class="map-marker" style="top: 20%; left: 11%;">
-                            <i class="fas fa-tshirt"></i>
-                            <div class="marker-tooltip">Магазин одягу</div>
-                        </div>
-                        <div class="map-marker" style="top: 41%; left: 43%;">
-                            <i class="fas fa-truck-pickup"></i>
-                            <div class="marker-tooltip">HARS Гараж</div>
-                        </div>
                         <div class="map-marker" style="top: 83%; left: 80%;">
                             <i class="fas fa-balance-scale"></i>
                             <div class="marker-tooltip tooltip-left">Суд</div>
@@ -2183,10 +2112,6 @@
                         <div class="map-marker" style="top: 42%; left: 82%;">
                             <i class="fas fa-user-shield"></i>
                             <div class="marker-tooltip tooltip-left">Офіс СБС</div>
-                        </div>
-                        <div class="map-marker" style="top: 70%; left: 77%;">
-                            <i class="fas fa-newspaper"></i>
-                            <div class="marker-tooltip">Now News</div>
                         </div>
                         <div class="map-marker" style="top: 69%; left: 89.5%;">
                             <i class="fas fa-landmark"></i>
@@ -2283,6 +2208,19 @@
     </div>
     <div class="footer"><br><br> &copy; <b>2026 UKRAINE RP. Всі права захищені.</b><br><small>Зв'язок:
             ukrainerpeh@gmail.com</small></div>
+    <div id="updateInfoBtn"
+        onclick="document.getElementById('updatesModal').style.display='block'; document.getElementById('modalBackdrop').style.display='block'">
+        i</div>
+    <div id="updatesModal" class="modal" style="display: none; z-index: 2001;">
+        <h2
+            style="color: white; margin-top: 0; margin-bottom: 20px; font-family: Montserrat, sans-serif; padding-right: 30px;">
+            Останні оновлення</h2>
+        <div style="color: #ddd; line-height: 1.6; font-family: Montserrat, sans-serif;">
+            <p><b>19.08:</b>Зміна 6 пункту, Зміна дизайну сайту, Зміна фону сайту.</p>
+        </div>
+        <span class="close"
+            onclick="document.getElementById('updatesModal').style.display='none'; document.getElementById('modalBackdrop').style.display='none'">&times;</span>
+    </div>
     <div id="viewCounter">...</div>
     <script src="script.js?v=8" defer></script>
     <script src="players.js?v=2" defer></script>
