@@ -124,6 +124,12 @@ const players = {
             "username": "jofer_hob",
             "telegram": "6840451973",
             "role": "Працівник СБС | Керівник ЦСО-А"
+        },
+        {
+            "username": "sasha_me68",
+            "role": "Працівник СБС",
+            "telegram": "@KatanaPurple",
+            "avatar": "https://i.postimg.cc/PfMLC4jS/IMG-20260819-194137-678.jpg"
         }
     ],
     "ДБР": [
