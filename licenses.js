@@ -8,7 +8,6 @@ window.licenses = {
     "artemMelnichenko2013": {"username":"artemMelnichenko2013","status":"Дійсна","expiry":"30.08.26","telegram":"@hosters_full"},
 
     // B
-    "BMW_5098591": {"status":"Дійсна","expiry":"02.08.2026","telegram":"6042898465"},
     "Bohdan1031": {"username":"Bohdan1031","status":"Дійсна","expiry":"30.08.2026","telegram":"@zefirpvp"},
 
     // D
