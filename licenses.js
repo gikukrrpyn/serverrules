@@ -21,7 +21,7 @@ window.licenses = {
     "jofer_hob": {"username":"jofer_hob","status":"дійсна","expiry":"14.09,2026","telegram":"@m1nistr_ezz"},
 
     // M
-    "Maksimka20131411": {"status":"Дійсна","expiry":"17.08.2026","telegram":"8556942531"},
+    "Maksimka20131411": {"status":"Дійсна","expiry":"17.08.2026","telegram":"8556942531","username":"Maksimka20131411"},
     "mativiti_aaa": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/Matvei_Lego0_0"},
 
     // P
