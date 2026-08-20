@@ -36,7 +36,7 @@ window.licenses = {
     "Val1n0tm": {"status":"Дійсна","expiry":"24.08.2026","telegram":"t.me/g0gocat"},
 
     // Y
-    "Yffgjjifh": {"status":"Дійсна","expiry":"02.08.2026","telegram":"5367053785","username":"Yffgjjifh","suspended":"Неактив"},
+    "Yffgjjifh": {"status":"Дійсна","expiry":"02.08.2026","telegram":"5367053785","username":"Yffgjjifh","suspended":"Неактивність"},
     "YTNEON_2": {"username":"YTNEON_2","status":"дійсна","expiry":"15.09,2026","telegram":"@userh1pek"},
   },
   "business": [
