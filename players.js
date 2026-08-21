@@ -169,6 +169,11 @@ const players = {
             "role": "Працівник ДБР",
             "telegram": "8556942531",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-470C20EA4789EB3AAA1BDC2A4598F152-Png/150/150/AvatarHeadshot/Png/noFilter"
+        },
+        {
+            "username": "Yffgjjifh",
+            "role": "Директор ДБР",
+            "telegram": "5367053785"
         }
     ],
     "Суд": [
