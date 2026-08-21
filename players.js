@@ -135,6 +135,11 @@ const players = {
     ],
     "ДБР": [
         {
+            "username": "Yffgjjifh",
+            "role": "Директор ДБР",
+            "telegram": "5367053785"
+        },
+        {
             "username": "SIGMA2019827",
             "role": "Працівник ДБР",
             "telegram": "https://t.me/shu4777",
@@ -163,11 +168,6 @@ const players = {
             "role": "Працівник ДБР",
             "telegram": "6025730893",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4FA28D11AAE715A8EA725148B80535BA-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
-            "username": "Yffgjjifh",
-            "role": "Директор ДБР",
-            "telegram": "5367053785"
         },
         {
             "username": "Maksimka20131411",
