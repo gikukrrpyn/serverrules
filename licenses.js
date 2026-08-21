@@ -109,7 +109,7 @@ window.licenses = {
     "Slammed310": {"role":"Старший сержант ДБР","status":"109602","telegram":"6026275163"},
 
     // Y
-    "Yffgjjifh": {"role":"Майор ДБР","status":"709536","telegram":"5367053785"},
+    "Yffgjjifh": {"role":"Директор ДБР","status":"709536","telegram":"5367053785","username":"Yffgjjifh"},
 
     // Z
     "Zaj_Zuga3": {"role":"Капрал ДБР","status":"105602","telegram":"6025730893"},
