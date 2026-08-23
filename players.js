@@ -129,7 +129,7 @@ const players = {
             "username": "sasha_me68",
             "role": "Працівник СБС",
             "telegram": "@KatanaPurple",
-            "avatar": "https://i.postimg.cc/PfMLC4jS/IMG-20260819-194137-678.jpg"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-4B905B104F13CA21CBE595CB694DBAB5-Png/150/150/AvatarHeadshot/Png/noFilter"
         }
     ],
     "ДБР": [
