@@ -108,7 +108,7 @@ const players = {
             "username": "Bohdan1031",
             "role": "Працівник СБС | Керівник ЦРС",
             "telegram": "@zefirpvp",
-            "avatar": "https://i.postimg.cc/6qG4hb5h/Screenshot-2026-07-30-10-20-46-270-com-roblox-client-edit.jpg"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-B2F70ED77E65AADE277244A5D336D1DC-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "eldor830",
