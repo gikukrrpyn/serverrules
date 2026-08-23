@@ -102,7 +102,7 @@ const players = {
             "username": "DariySmertnk",
             "role": "Заступник Директора СБС",
             "telegram": "t.me/dariysmertnk",
-            "avatar": "https://i.postimg.cc/9fRgJJvX/Screenshot-2026-08-09-10-59-18-246-com-roblox-client-edit.jpg"
+            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-A7DD1261E43F9172BA9573C922E0C5F9-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
             "username": "Bohdan1031",
