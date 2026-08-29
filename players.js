@@ -158,6 +158,11 @@ const players = {
             "username": "DoggyGames_TV24",
             "role": "Мл. Лейтенант",
             "telegram": "@Doggy_Arrrr"
+        },
+        {
+            "username": "agency_roblox4",
+            "role": "Капітан",
+            "telegram": "@feqohe"
         }
     ],
     "Суд": [
