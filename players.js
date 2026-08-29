@@ -139,14 +139,14 @@ const players = {
     ],
     "ДБР": [
         {
-            "username": "Yffgjjifh",
-            "role": "Директор ДБР",
-            "telegram": "5367053785"
-        },
-        {
             "username": "ROSTIKTHS",
             "role": "Мл. Лейтенант",
             "telegram": "@Mister_Pumasik"
+        },
+        {
+            "username": "Yffgjjifh",
+            "role": "Директор ДБР",
+            "telegram": "5367053785"
         },
         {
             "username": "Po_po171",
