@@ -134,7 +134,7 @@ const players = {
         {
             "username": "Mykhailo_Zaya1",
             "telegram": "@void_21m",
-            "role": "Працівник"
+            "role": "Працівник СБС"
         }
     ],
     "ДБР": [
