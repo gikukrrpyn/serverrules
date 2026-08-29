@@ -140,7 +140,7 @@ const players = {
     "ДБР": [
         {
             "username": "ROSTIKTHS",
-            "role": "Мл. Лейтенант",
+            "role": "Заступник ДБР",
             "telegram": "@Mister_Pumasik"
         },
         {
