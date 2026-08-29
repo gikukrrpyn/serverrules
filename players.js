@@ -163,6 +163,11 @@ const players = {
             "username": "agency_roblox4",
             "role": "Капітан",
             "telegram": "@feqohe"
+        },
+        {
+            "username": "AloshaWolf_1",
+            "role": "Капрал",
+            "telegram": "@didinsylt"
         }
     ],
     "Суд": [
