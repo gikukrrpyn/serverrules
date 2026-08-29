@@ -173,6 +173,11 @@ const players = {
             "username": "Gmmmf1224",
             "role": "Капрал",
             "telegram": "@Myra1274"
+        },
+        {
+            "username": "lesyadovben1985",
+            "role": "Сержант",
+            "telegram": "@PamPushO"
         }
     ],
     "Суд": [
