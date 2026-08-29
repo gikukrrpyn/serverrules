@@ -148,12 +148,6 @@ const players = {
             "role": "Працівник ДБР",
             "telegram": "https://t.me/Fola1d",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8C09D9D92857D9B0AA45F0DF8A7ECDA1-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
-            "username": "Maksimka20131411",
-            "role": "Працівник ДБР",
-            "telegram": "8556942531",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-470C20EA4789EB3AAA1BDC2A4598F152-Png/150/150/AvatarHeadshot/Png/noFilter"
         }
     ],
     "Суд": [
