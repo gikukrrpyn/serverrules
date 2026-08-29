@@ -153,6 +153,11 @@ const players = {
             "username": "ROSTIKTHS",
             "role": "Мл. Лейтенант",
             "telegram": "@Mister_Pumasik"
+        },
+        {
+            "username": "DoggyGames_TV24",
+            "role": "Мл. Лейтенант",
+            "telegram": "@Doggy_Arrrr"
         }
     ],
     "Суд": [
