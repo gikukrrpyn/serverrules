@@ -144,15 +144,15 @@ const players = {
             "telegram": "5367053785"
         },
         {
+            "username": "ROSTIKTHS",
+            "role": "Мл. Лейтенант",
+            "telegram": "@Mister_Pumasik"
+        },
+        {
             "username": "Po_po171",
             "role": "Працівник ДБР",
             "telegram": "https://t.me/Fola1d",
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8C09D9D92857D9B0AA45F0DF8A7ECDA1-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
-            "username": "ROSTIKTHS",
-            "role": "Мл. Лейтенант",
-            "telegram": "@Mister_Pumasik"
         },
         {
             "username": "DoggyGames_TV24",
