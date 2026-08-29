@@ -150,12 +150,6 @@ const players = {
             "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8C09D9D92857D9B0AA45F0DF8A7ECDA1-Png/150/150/AvatarHeadshot/Png/noFilter"
         },
         {
-            "username": "CAXAPOK_QUWI",
-            "role": "Працівник ДБР",
-            "telegram": "1172225259",
-            "avatar": "https://tr.rbxcdn.com/30DAY-AvatarHeadshot-8E06E8DD33270B15FC96AFA1211EF345-Png/150/150/AvatarHeadshot/Png/noFilter"
-        },
-        {
             "username": "Maksimka20131411",
             "role": "Працівник ДБР",
             "telegram": "8556942531",
