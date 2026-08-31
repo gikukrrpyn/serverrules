@@ -180,7 +180,7 @@ const players = {
             "telegram": "@PamPushO"
         },
         {
-            "username": "Taetohuyna",
+            "username": "KILLER_00803",
             "role": "Курсант ДБР",
             "telegram": "@Ivannoneivan2015"
         }
